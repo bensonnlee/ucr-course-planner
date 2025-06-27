@@ -33,7 +33,7 @@
     "subjectCourse": "GBST001",
     "faculty": [
       {
-        "bannerId": "66614",
+        "bannerId": "58647",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24033",
@@ -43,7 +43,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66615",
+        "bannerId": "58655",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24033",
@@ -92,7 +92,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881511,
@@ -128,7 +129,7 @@
     "subjectCourse": "GBST001",
     "faculty": [
       {
-        "bannerId": "66614",
+        "bannerId": "58647",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24035",
@@ -189,7 +190,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881514,
@@ -225,7 +227,7 @@
     "subjectCourse": "GBST001",
     "faculty": [
       {
-        "bannerId": "66614",
+        "bannerId": "58647",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24038",
@@ -286,7 +288,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881515,
@@ -322,7 +325,7 @@
     "subjectCourse": "GBST001",
     "faculty": [
       {
-        "bannerId": "66614",
+        "bannerId": "58647",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24039",
@@ -383,7 +386,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885689,
@@ -419,7 +423,7 @@
     "subjectCourse": "GBST003",
     "faculty": [
       {
-        "bannerId": "66641",
+        "bannerId": "59343",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34084",
@@ -468,7 +472,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884247,
@@ -504,7 +509,7 @@
     "subjectCourse": "GBST110",
     "faculty": [
       {
-        "bannerId": "66638",
+        "bannerId": "59264",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "30996",
@@ -553,7 +558,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:GBST110(\n Course or Test: Global Studies 001 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Global Studies 002 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 890710,
@@ -589,7 +595,7 @@
     "subjectCourse": "GBST115",
     "faculty": [
       {
-        "bannerId": "66641",
+        "bannerId": "59343",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38253",
@@ -638,7 +644,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:GBST115(\n Course or Test: Global Studies 001 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 878199,
@@ -674,7 +681,7 @@
     "subjectCourse": "GBST190",
     "faculty": [
       {
-        "bannerId": "64946",
+        "bannerId": "56690",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15270",
@@ -723,7 +730,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878201,
@@ -759,7 +767,7 @@
     "subjectCourse": "GBST198I",
     "faculty": [
       {
-        "bannerId": "64946",
+        "bannerId": "56690",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15274",
@@ -808,7 +816,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885264,
@@ -844,7 +853,7 @@
     "subjectCourse": "GBST302",
     "faculty": [
       {
-        "bannerId": "66522",
+        "bannerId": "59318",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33298",
@@ -893,7 +902,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882168,
@@ -929,7 +939,7 @@
     "subjectCourse": "GBST302",
     "faculty": [
       {
-        "bannerId": "64946",
+        "bannerId": "56690",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25334",
@@ -978,7 +988,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883806,
@@ -1014,7 +1025,7 @@
     "subjectCourse": "GBST302",
     "faculty": [
       {
-        "bannerId": "66633",
+        "bannerId": "59139",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29574",
@@ -1063,6 +1074,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   }
 ]

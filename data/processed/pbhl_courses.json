@@ -33,7 +33,7 @@
     "subjectCourse": "PBHL200",
     "faculty": [
       {
-        "bannerId": "67472",
+        "bannerId": "60428",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37946",
@@ -82,7 +82,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889621,
@@ -118,7 +119,7 @@
     "subjectCourse": "PBHL201",
     "faculty": [
       {
-        "bannerId": "67473",
+        "bannerId": "60429",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37947",
@@ -167,7 +168,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889622,
@@ -203,7 +205,7 @@
     "subjectCourse": "PBHL202A",
     "faculty": [
       {
-        "bannerId": "67461",
+        "bannerId": "60430",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37948",
@@ -252,6 +254,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   }
 ]

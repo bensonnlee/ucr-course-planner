@@ -33,7 +33,7 @@
     "subjectCourse": "BIEN001",
     "faculty": [
       {
-        "bannerId": "65108",
+        "bannerId": "57201",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10727",
@@ -82,7 +82,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876104,
@@ -118,7 +119,7 @@
     "subjectCourse": "BIEN010",
     "faculty": [
       {
-        "bannerId": "65109",
+        "bannerId": "57205",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10728",
@@ -128,7 +129,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65110",
+        "bannerId": "57207",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10728",
@@ -138,7 +139,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65111",
+        "bannerId": "57211",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10728",
@@ -187,7 +188,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880687,
@@ -223,7 +225,7 @@
     "subjectCourse": "BIEN010",
     "faculty": [
       {
-        "bannerId": "65109",
+        "bannerId": "57205",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20483",
@@ -233,7 +235,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65110",
+        "bannerId": "57207",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20483",
@@ -282,7 +284,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882623,
@@ -318,7 +321,7 @@
     "subjectCourse": "BIEN010",
     "faculty": [
       {
-        "bannerId": "65126",
+        "bannerId": "57334",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26893",
@@ -328,7 +331,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65109",
+        "bannerId": "57205",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26893",
@@ -338,7 +341,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65110",
+        "bannerId": "57207",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26893",
@@ -387,7 +390,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881620,
@@ -423,7 +427,7 @@
     "subjectCourse": "BIEN101",
     "faculty": [
       {
-        "bannerId": "65125",
+        "bannerId": "57330",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24357",
@@ -433,7 +437,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65192",
+        "bannerId": "58989",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24357",
@@ -443,7 +447,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65193",
+        "bannerId": "58994",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24357",
@@ -492,7 +496,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN101(\n Course or Test: Biology 005A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Chemistry 008A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 08LA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 08HA \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 08HLA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 12A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 12HA \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 046 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 881621,
@@ -528,7 +533,7 @@
     "subjectCourse": "BIEN101",
     "faculty": [
       {
-        "bannerId": "65192",
+        "bannerId": "58989",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24358",
@@ -538,7 +543,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65193",
+        "bannerId": "58994",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24358",
@@ -587,7 +592,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN101)\nand\n(\n Course or Test: Biology 005A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Chemistry 008A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 08LA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 08HA \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 08HLA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 12A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 12HA \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 046 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 881622,
@@ -623,7 +629,7 @@
     "subjectCourse": "BIEN101",
     "faculty": [
       {
-        "bannerId": "65192",
+        "bannerId": "58989",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24359",
@@ -633,7 +639,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65193",
+        "bannerId": "58994",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24359",
@@ -682,7 +688,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN101)\nand\n(\n Course or Test: Biology 005A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Chemistry 008A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 08LA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 08HA \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 08HLA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 12A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 12HA \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mathematics 046 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 876105,
@@ -718,7 +725,7 @@
     "subjectCourse": "BIEN110",
     "faculty": [
       {
-        "bannerId": "65101",
+        "bannerId": "56978",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10732",
@@ -728,7 +735,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65112",
+        "bannerId": "57219",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10732",
@@ -777,7 +784,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN110(\n Course or Test: Chemistry 001C \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 01HC \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Computer Science 010A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 010A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Physics 040B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Physics 040HB \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 876106,
@@ -813,7 +821,7 @@
     "subjectCourse": "BIEN110",
     "faculty": [
       {
-        "bannerId": "65101",
+        "bannerId": "56978",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10733",
@@ -823,7 +831,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65112",
+        "bannerId": "57219",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10733",
@@ -872,7 +880,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN110)\nand\n(\n Course or Test: Chemistry 001C \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Chemistry 01HC \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Computer Science 010A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mathematics 010A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Physics 040B \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Physics 040HB \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 876107,
@@ -908,7 +917,7 @@
     "subjectCourse": "BIEN110",
     "faculty": [
       {
-        "bannerId": "65101",
+        "bannerId": "56978",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10734",
@@ -918,7 +927,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65112",
+        "bannerId": "57219",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10734",
@@ -967,7 +976,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN110(\n Course or Test: Chemistry 001C \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 01HC \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Computer Science 010A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mathematics 010A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Physics 040B \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Physics 040HB \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 885898,
@@ -1003,7 +1013,7 @@
     "subjectCourse": "BIEN111",
     "faculty": [
       {
-        "bannerId": "65113",
+        "bannerId": "57240",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34543",
@@ -1013,7 +1023,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65228",
+        "bannerId": "59699",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34543",
@@ -1023,7 +1033,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65229",
+        "bannerId": "59703",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34543",
@@ -1072,7 +1082,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN111(\n Course or Test: Mathematics 009C \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HC \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 885899,
@@ -1108,7 +1119,7 @@
     "subjectCourse": "BIEN111",
     "faculty": [
       {
-        "bannerId": "65228",
+        "bannerId": "59699",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34544",
@@ -1118,7 +1129,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65229",
+        "bannerId": "59703",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34544",
@@ -1167,7 +1178,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN111(\n Course or Test: Mathematics 009C \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 09HC \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 887170,
@@ -1203,7 +1215,7 @@
     "subjectCourse": "BIEN111",
     "faculty": [
       {
-        "bannerId": "65228",
+        "bannerId": "59699",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36191",
@@ -1213,7 +1225,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65229",
+        "bannerId": "59703",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36191",
@@ -1262,7 +1274,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN111(\n Course or Test: Mathematics 009C \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HC \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 888886,
@@ -1298,7 +1311,7 @@
     "subjectCourse": "BIEN115",
     "faculty": [
       {
-        "bannerId": "65108",
+        "bannerId": "57201",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37421",
@@ -1347,7 +1360,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN115)\nand\n(\n Course or Test: Bioengineering 110 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 888887,
@@ -1383,7 +1397,7 @@
     "subjectCourse": "BIEN115",
     "faculty": [
       {
-        "bannerId": "65108",
+        "bannerId": "57201",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37422",
@@ -1432,7 +1446,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN115)\nand\n(\n Course or Test: Bioengineering 110 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 876108,
@@ -1468,7 +1483,7 @@
     "subjectCourse": "BIEN135",
     "faculty": [
       {
-        "bannerId": "65113",
+        "bannerId": "57240",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10735",
@@ -1478,7 +1493,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65114",
+        "bannerId": "57243",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10735",
@@ -1488,7 +1503,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65115",
+        "bannerId": "57247",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10735",
@@ -1537,7 +1552,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN135(\n Course or Test: Bioengineering 101 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mathematics 010B \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mathematics 046 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Physics 040C \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Physics 040HC \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 876109,
@@ -1573,7 +1589,7 @@
     "subjectCourse": "BIEN135",
     "faculty": [
       {
-        "bannerId": "65114",
+        "bannerId": "57243",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10736",
@@ -1583,7 +1599,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65115",
+        "bannerId": "57247",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10736",
@@ -1632,7 +1648,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN135(\n Course or Test: Bioengineering 101 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 010B \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mathematics 046 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Physics 040C \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Physics 040HC \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 876110,
@@ -1668,7 +1685,7 @@
     "subjectCourse": "BIEN135",
     "faculty": [
       {
-        "bannerId": "65114",
+        "bannerId": "57243",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10737",
@@ -1678,7 +1695,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65115",
+        "bannerId": "57247",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10737",
@@ -1727,7 +1744,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN135(\n Course or Test: Bioengineering 101 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mathematics 010B \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 046 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Physics 040C \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Physics 040HC \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884791,
@@ -1763,7 +1781,7 @@
     "subjectCourse": "BIEN155",
     "faculty": [
       {
-        "bannerId": "65113",
+        "bannerId": "57240",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32290",
@@ -1773,7 +1791,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65125",
+        "bannerId": "57330",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32290",
@@ -1783,7 +1801,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65219",
+        "bannerId": "59576",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32290",
@@ -1793,7 +1811,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65220",
+        "bannerId": "59578",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32290",
@@ -1803,7 +1821,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65221",
+        "bannerId": "59581",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32290",
@@ -1852,7 +1870,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN155(\n Course or Test: Bioengineering 175A \n Minimum Grade of C-\n May be taken concurrently.)\nand\n(\n Course or Test: Bioengineering 101 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Bioengineering 125 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884792,
@@ -1888,7 +1907,7 @@
     "subjectCourse": "BIEN155",
     "faculty": [
       {
-        "bannerId": "65125",
+        "bannerId": "57330",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32291",
@@ -1898,7 +1917,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65219",
+        "bannerId": "59576",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32291",
@@ -1908,7 +1927,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65220",
+        "bannerId": "59578",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32291",
@@ -1918,7 +1937,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65221",
+        "bannerId": "59581",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32291",
@@ -1967,7 +1986,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN155)\nand\n(\n Course or Test: Bioengineering 175A \n Minimum Grade of C-\n May be taken concurrently.and\n Course or Test: Bioengineering 101 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Bioengineering 125 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884793,
@@ -2003,7 +2023,7 @@
     "subjectCourse": "BIEN155",
     "faculty": [
       {
-        "bannerId": "65125",
+        "bannerId": "57330",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32293",
@@ -2013,7 +2033,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65219",
+        "bannerId": "59576",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32293",
@@ -2023,7 +2043,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65220",
+        "bannerId": "59578",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32293",
@@ -2033,7 +2053,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65221",
+        "bannerId": "59581",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32293",
@@ -2082,7 +2102,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN155)\nand\n(\n Course or Test: Bioengineering 175A \n Minimum Grade of C-\n May be taken concurrently.)\nand\n(\n Course or Test: Bioengineering 101 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Bioengineering 125 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884794,
@@ -2118,7 +2139,7 @@
     "subjectCourse": "BIEN155",
     "faculty": [
       {
-        "bannerId": "65125",
+        "bannerId": "57330",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32294",
@@ -2128,7 +2149,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65219",
+        "bannerId": "59576",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32294",
@@ -2138,7 +2159,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65220",
+        "bannerId": "59578",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32294",
@@ -2148,7 +2169,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65221",
+        "bannerId": "59581",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32294",
@@ -2197,7 +2218,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN155)\nand\n(\n Course or Test: Bioengineering 175A \n Minimum Grade of C-\n May be taken concurrently.and\n Course or Test: Bioengineering 101 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Bioengineering 125 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884789,
@@ -2233,7 +2255,7 @@
     "subjectCourse": "BIEN155",
     "faculty": [
       {
-        "bannerId": "65125",
+        "bannerId": "57330",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32288",
@@ -2282,7 +2304,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN155(\n Course or Test: Bioengineering 175A \n Minimum Grade of C-\n May be taken concurrently.and\n Course or Test: Bioengineering 101 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Bioengineering 125 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884790,
@@ -2318,7 +2341,7 @@
     "subjectCourse": "BIEN155",
     "faculty": [
       {
-        "bannerId": "65113",
+        "bannerId": "57240",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32289",
@@ -2328,7 +2351,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65125",
+        "bannerId": "57330",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32289",
@@ -2377,7 +2400,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN155(\n Course or Test: Bioengineering 175A \n Minimum Grade of C-\n May be taken concurrently.)\nand\n(\n Course or Test: Bioengineering 101 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Bioengineering 125 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 887172,
@@ -2413,7 +2437,7 @@
     "subjectCourse": "BIEN168",
     "faculty": [
       {
-        "bannerId": "65215",
+        "bannerId": "59502",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36193",
@@ -2423,7 +2447,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65233",
+        "bannerId": "59766",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36193",
@@ -2472,7 +2496,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN168(\n Course or Test: Biology 005A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Biology 05LA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Computer Science 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Computer Science 010A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 010B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Electrical Engineering 020A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 045 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 046 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 887174,
@@ -2508,7 +2533,7 @@
     "subjectCourse": "BIEN168",
     "faculty": [
       {
-        "bannerId": "65233",
+        "bannerId": "59766",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36195",
@@ -2557,7 +2582,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN168)\nand\n(\n Course or Test: Biology 005A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Biology 05LA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Computer Science 009A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Computer Science 010A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 010B \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Electrical Engineering 020A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 045 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 046 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 876112,
@@ -2593,7 +2619,7 @@
     "subjectCourse": "BIEN175A",
     "faculty": [
       {
-        "bannerId": "65116",
+        "bannerId": "57263",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10748",
@@ -2603,7 +2629,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65108",
+        "bannerId": "57201",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10748",
@@ -2613,7 +2639,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65117",
+        "bannerId": "57273",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10748",
@@ -2662,7 +2688,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN175A)\nand\n(\n Course or Test: Bioengineering 010 \n Minimum Grade of C-\n May not be taken concurrently.)\nand\n(\n Course or Test: Bioengineering 130L \n Minimum Grade of C-\n May not be taken concurrently.and\n Course or Test: Bioengineering 155 \n Minimum Grade of C-\n May be taken concurrently."
   },
   {
     "id": 880601,
@@ -2698,7 +2725,7 @@
     "subjectCourse": "BIEN175A",
     "faculty": [
       {
-        "bannerId": "65108",
+        "bannerId": "57201",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19979",
@@ -2708,7 +2735,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65179",
+        "bannerId": "58388",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19979",
@@ -2718,7 +2745,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65117",
+        "bannerId": "57273",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19979",
@@ -2767,7 +2794,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN175A(\n Course or Test: Bioengineering 010 \n Minimum Grade of C-\n May not be taken concurrently.)\nand\n(\n Course or Test: Bioengineering 130L \n Minimum Grade of C-\n May not be taken concurrently.and\n Course or Test: Bioengineering 155 \n Minimum Grade of C-\n May be taken concurrently.)"
   },
   {
     "id": 887175,
@@ -2803,7 +2831,7 @@
     "subjectCourse": "BIEN175A",
     "faculty": [
       {
-        "bannerId": "65108",
+        "bannerId": "57201",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36197",
@@ -2813,7 +2841,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65179",
+        "bannerId": "58388",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36197",
@@ -2823,7 +2851,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65117",
+        "bannerId": "57273",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36197",
@@ -2872,7 +2900,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN175A)\nand\n(\n Course or Test: Bioengineering 010 \n Minimum Grade of C-\n May not be taken concurrently.and\n Course or Test: Bioengineering 130L \n Minimum Grade of C-\n May not be taken concurrently.and\n Course or Test: Bioengineering 155 \n Minimum Grade of C-\n May be taken concurrently."
   },
   {
     "id": 887176,
@@ -2908,7 +2937,7 @@
     "subjectCourse": "BIEN175A",
     "faculty": [
       {
-        "bannerId": "65108",
+        "bannerId": "57201",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36198",
@@ -2918,7 +2947,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65179",
+        "bannerId": "58388",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36198",
@@ -2928,7 +2957,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65117",
+        "bannerId": "57273",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36198",
@@ -2977,7 +3006,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN175A)\nand\n(\n Course or Test: Bioengineering 010 \n Minimum Grade of C-\n May not be taken concurrently.and\n Course or Test: Bioengineering 130L \n Minimum Grade of C-\n May not be taken concurrently.and\n Course or Test: Bioengineering 155 \n Minimum Grade of C-\n May be taken concurrently."
   },
   {
     "id": 883659,
@@ -3013,7 +3043,7 @@
     "subjectCourse": "BIEN175A",
     "faculty": [
       {
-        "bannerId": "65108",
+        "bannerId": "57201",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29398",
@@ -3023,7 +3053,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65179",
+        "bannerId": "58388",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29398",
@@ -3033,7 +3063,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65117",
+        "bannerId": "57273",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29398",
@@ -3082,7 +3112,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN175A)\nand\n(\n Course or Test: Bioengineering 010 \n Minimum Grade of C-\n May not be taken concurrently.)\nand\n(\n Course or Test: Bioengineering 130L \n Minimum Grade of C-\n May not be taken concurrently.and\n Course or Test: Bioengineering 155 \n Minimum Grade of C-\n May be taken concurrently."
   },
   {
     "id": 887177,
@@ -3118,7 +3149,7 @@
     "subjectCourse": "BIEN175A",
     "faculty": [
       {
-        "bannerId": "65113",
+        "bannerId": "57240",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36199",
@@ -3128,7 +3159,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65108",
+        "bannerId": "57201",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36199",
@@ -3138,7 +3169,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65179",
+        "bannerId": "58388",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36199",
@@ -3148,7 +3179,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65117",
+        "bannerId": "57273",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36199",
@@ -3197,7 +3228,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN175A(\n Course or Test: Bioengineering 010 \n Minimum Grade of C-\n May not be taken concurrently.)\nand\n(\n Course or Test: Bioengineering 130L \n Minimum Grade of C-\n May not be taken concurrently.and\n Course or Test: Bioengineering 155 \n Minimum Grade of C-\n May be taken concurrently.)"
   },
   {
     "id": 884347,
@@ -3233,7 +3265,7 @@
     "subjectCourse": "BIEN190",
     "faculty": [
       {
-        "bannerId": "64982",
+        "bannerId": "56913",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31276",
@@ -3282,7 +3314,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882338,
@@ -3318,7 +3351,7 @@
     "subjectCourse": "BIEN190",
     "faculty": [
       {
-        "bannerId": "65205",
+        "bannerId": "59288",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25584",
@@ -3328,7 +3361,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65206",
+        "bannerId": "59291",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25584",
@@ -3377,7 +3410,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883950,
@@ -3413,7 +3447,7 @@
     "subjectCourse": "BIEN190",
     "faculty": [
       {
-        "bannerId": "65116",
+        "bannerId": "57263",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29759",
@@ -3462,7 +3496,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882862,
@@ -3498,7 +3533,7 @@
     "subjectCourse": "BIEN190",
     "faculty": [
       {
-        "bannerId": "65101",
+        "bannerId": "56978",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27321",
@@ -3547,7 +3582,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887746,
@@ -3583,7 +3619,7 @@
     "subjectCourse": "BIEN190",
     "faculty": [
       {
-        "bannerId": "65197",
+        "bannerId": "59073",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36877",
@@ -3632,7 +3668,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883451,
@@ -3668,7 +3705,7 @@
     "subjectCourse": "BIEN190",
     "faculty": [
       {
-        "bannerId": "65210",
+        "bannerId": "59426",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29113",
@@ -3717,7 +3754,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887985,
@@ -3753,7 +3791,7 @@
     "subjectCourse": "BIEN190",
     "faculty": [
       {
-        "bannerId": "65125",
+        "bannerId": "57330",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37126",
@@ -3802,7 +3840,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881179,
@@ -3838,7 +3877,7 @@
     "subjectCourse": "BIEN190",
     "faculty": [
       {
-        "bannerId": "65126",
+        "bannerId": "57334",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22938",
@@ -3887,7 +3926,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 906160,
@@ -3923,7 +3963,7 @@
     "subjectCourse": "BIEN190",
     "faculty": [
       {
-        "bannerId": "65239",
+        "bannerId": "59842",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38932",
@@ -3972,7 +4012,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905856,
@@ -4008,7 +4049,7 @@
     "subjectCourse": "BIEN190",
     "faculty": [
       {
-        "bannerId": "65195",
+        "bannerId": "59035",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38896",
@@ -4057,7 +4098,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885382,
@@ -4093,7 +4135,7 @@
     "subjectCourse": "BIEN190",
     "faculty": [
       {
-        "bannerId": "65119",
+        "bannerId": "57287",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33445",
@@ -4142,7 +4184,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882911,
@@ -4178,7 +4221,7 @@
     "subjectCourse": "BIEN190",
     "faculty": [
       {
-        "bannerId": "65202",
+        "bannerId": "59152",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27380",
@@ -4227,7 +4270,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884622,
@@ -4263,7 +4307,7 @@
     "subjectCourse": "BIEN197",
     "faculty": [
       {
-        "bannerId": "65205",
+        "bannerId": "59288",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31639",
@@ -4312,7 +4356,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886366,
@@ -4348,7 +4393,7 @@
     "subjectCourse": "BIEN197",
     "faculty": [
       {
-        "bannerId": "65116",
+        "bannerId": "57263",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35271",
@@ -4397,7 +4442,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905954,
@@ -4433,7 +4479,7 @@
     "subjectCourse": "BIEN197",
     "faculty": [
       {
-        "bannerId": "65197",
+        "bannerId": "59073",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38913",
@@ -4482,7 +4528,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881874,
@@ -4518,7 +4565,7 @@
     "subjectCourse": "BIEN197",
     "faculty": [
       {
-        "bannerId": "65195",
+        "bannerId": "59035",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24854",
@@ -4567,7 +4614,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887952,
@@ -4603,7 +4651,7 @@
     "subjectCourse": "BIEN197",
     "faculty": [
       {
-        "bannerId": "65202",
+        "bannerId": "59152",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37093",
@@ -4652,7 +4700,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883499,
@@ -4688,7 +4737,7 @@
     "subjectCourse": "BIEN201",
     "faculty": [
       {
-        "bannerId": "65212",
+        "bannerId": "59439",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29193",
@@ -4737,7 +4786,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN201(\n Course or Test: Mathematics 146A \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 885175,
@@ -4773,7 +4823,7 @@
     "subjectCourse": "BIEN201",
     "faculty": [
       {
-        "bannerId": "65198",
+        "bannerId": "59078",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33160",
@@ -4783,7 +4833,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65223",
+        "bannerId": "59620",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33160",
@@ -4793,7 +4843,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65212",
+        "bannerId": "59439",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33160",
@@ -4842,7 +4892,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:BIEN201(\n Course or Test: Mathematics 146A \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 885176,
@@ -4878,7 +4929,7 @@
     "subjectCourse": "BIEN201",
     "faculty": [
       {
-        "bannerId": "65223",
+        "bannerId": "59620",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33161",
@@ -4927,7 +4978,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:BIEN201(\n Course or Test: Mathematics 146A \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 883500,
@@ -4963,7 +5015,7 @@
     "subjectCourse": "BIEN201",
     "faculty": [
       {
-        "bannerId": "65212",
+        "bannerId": "59439",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29194",
@@ -5012,7 +5064,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN201(\n Course or Test: Mathematics 146A \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 881964,
@@ -5048,7 +5101,7 @@
     "subjectCourse": "BIEN223",
     "faculty": [
       {
-        "bannerId": "65197",
+        "bannerId": "59073",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25022",
@@ -5097,7 +5150,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881982,
@@ -5133,7 +5187,7 @@
     "subjectCourse": "BIEN223",
     "faculty": [
       {
-        "bannerId": "65198",
+        "bannerId": "59078",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25076",
@@ -5143,7 +5197,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65110",
+        "bannerId": "57207",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25076",
@@ -5153,7 +5207,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65197",
+        "bannerId": "59073",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25076",
@@ -5202,7 +5256,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 876113,
@@ -5238,7 +5293,7 @@
     "subjectCourse": "BIEN224",
     "faculty": [
       {
-        "bannerId": "65118",
+        "bannerId": "57278",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10753",
@@ -5287,7 +5342,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880603,
@@ -5323,7 +5379,7 @@
     "subjectCourse": "BIEN224",
     "faculty": [
       {
-        "bannerId": "65118",
+        "bannerId": "57278",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19983",
@@ -5372,7 +5428,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880602,
@@ -5408,7 +5465,7 @@
     "subjectCourse": "BIEN224",
     "faculty": [
       {
-        "bannerId": "65118",
+        "bannerId": "57278",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19982",
@@ -5457,7 +5514,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881981,
@@ -5493,7 +5551,7 @@
     "subjectCourse": "BIEN234",
     "faculty": [
       {
-        "bannerId": "65116",
+        "bannerId": "57263",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25075",
@@ -5542,7 +5600,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BIEN234(\n Course or Test: Bioengineering 110 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Bioengineering 140A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Biology 005A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Biology 005B \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 880797,
@@ -5578,7 +5637,7 @@
     "subjectCourse": "BIEN260",
     "faculty": [
       {
-        "bannerId": "64982",
+        "bannerId": "56913",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "21989",
@@ -5627,7 +5686,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887897,
@@ -5663,7 +5723,7 @@
     "subjectCourse": "BIEN260",
     "faculty": [
       {
-        "bannerId": "65197",
+        "bannerId": "59073",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37037",
@@ -5712,7 +5772,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905475,
@@ -5748,7 +5809,7 @@
     "subjectCourse": "BIEN260",
     "faculty": [
       {
-        "bannerId": "65192",
+        "bannerId": "58989",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38783",
@@ -5797,7 +5858,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880798,
@@ -5833,7 +5895,7 @@
     "subjectCourse": "BIEN261",
     "faculty": [
       {
-        "bannerId": "65124",
+        "bannerId": "57322",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "21996",
@@ -5882,7 +5944,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880799,
@@ -5918,7 +5981,7 @@
     "subjectCourse": "BIEN262",
     "faculty": [
       {
-        "bannerId": "65125",
+        "bannerId": "57330",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "21999",
@@ -5967,7 +6030,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 906073,
@@ -6003,7 +6067,7 @@
     "subjectCourse": "BIEN263",
     "faculty": [
       {
-        "bannerId": "65114",
+        "bannerId": "57243",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38927",
@@ -6052,7 +6116,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880800,
@@ -6088,7 +6153,7 @@
     "subjectCourse": "BIEN265",
     "faculty": [
       {
-        "bannerId": "65121",
+        "bannerId": "57312",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22003",
@@ -6137,7 +6202,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880801,
@@ -6173,7 +6239,7 @@
     "subjectCourse": "BIEN269",
     "faculty": [
       {
-        "bannerId": "65101",
+        "bannerId": "56978",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22010",
@@ -6222,7 +6288,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881208,
@@ -6258,7 +6325,7 @@
     "subjectCourse": "BIEN272",
     "faculty": [
       {
-        "bannerId": "65119",
+        "bannerId": "57287",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23034",
@@ -6307,7 +6374,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882821,
@@ -6343,7 +6411,7 @@
     "subjectCourse": "BIEN272",
     "faculty": [
       {
-        "bannerId": "65202",
+        "bannerId": "59152",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27272",
@@ -6392,7 +6460,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876115,
@@ -6428,7 +6497,7 @@
     "subjectCourse": "BIEN272",
     "faculty": [
       {
-        "bannerId": "65119",
+        "bannerId": "57287",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10763",
@@ -6477,7 +6546,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882820,
@@ -6513,7 +6583,7 @@
     "subjectCourse": "BIEN272",
     "faculty": [
       {
-        "bannerId": "65202",
+        "bannerId": "59152",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27271",
@@ -6562,7 +6632,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880802,
@@ -6598,7 +6669,7 @@
     "subjectCourse": "BIEN273",
     "faculty": [
       {
-        "bannerId": "65116",
+        "bannerId": "57263",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22014",
@@ -6647,7 +6718,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876116,
@@ -6683,7 +6755,7 @@
     "subjectCourse": "BIEN286",
     "faculty": [
       {
-        "bannerId": "65101",
+        "bannerId": "56978",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10766",
@@ -6732,7 +6804,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884514,
@@ -6768,7 +6841,7 @@
     "subjectCourse": "BIEN297",
     "faculty": [
       {
-        "bannerId": "65218",
+        "bannerId": "59543",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31508",
@@ -6817,7 +6890,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876119,
@@ -6853,7 +6927,7 @@
     "subjectCourse": "BIEN297",
     "faculty": [
       {
-        "bannerId": "64982",
+        "bannerId": "56913",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10783",
@@ -6902,7 +6976,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883666,
@@ -6938,7 +7013,7 @@
     "subjectCourse": "BIEN297",
     "faculty": [
       {
-        "bannerId": "65213",
+        "bannerId": "59468",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29410",
@@ -6987,7 +7062,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 903590,
@@ -7023,7 +7099,7 @@
     "subjectCourse": "BIEN297",
     "faculty": [
       {
-        "bannerId": "65229",
+        "bannerId": "59703",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38519",
@@ -7072,7 +7148,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876118,
@@ -7108,7 +7185,7 @@
     "subjectCourse": "BIEN297",
     "faculty": [
       {
-        "bannerId": "65120",
+        "bannerId": "57303",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10782",
@@ -7157,7 +7234,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885253,
@@ -7193,7 +7271,7 @@
     "subjectCourse": "BIEN297",
     "faculty": [
       {
-        "bannerId": "65205",
+        "bannerId": "59288",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33284",
@@ -7242,7 +7320,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883661,
@@ -7278,7 +7357,7 @@
     "subjectCourse": "BIEN297",
     "faculty": [
       {
-        "bannerId": "65114",
+        "bannerId": "57243",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29402",
@@ -7327,7 +7406,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876120,
@@ -7363,7 +7443,7 @@
     "subjectCourse": "BIEN297",
     "faculty": [
       {
-        "bannerId": "65116",
+        "bannerId": "57263",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10786",
@@ -7412,7 +7492,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883930,
@@ -7448,7 +7529,7 @@
     "subjectCourse": "BIEN297",
     "faculty": [
       {
-        "bannerId": "65215",
+        "bannerId": "59502",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29736",
@@ -7497,7 +7578,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905616,
@@ -7533,7 +7615,7 @@
     "subjectCourse": "BIEN297",
     "faculty": [
       {
-        "bannerId": "65212",
+        "bannerId": "59439",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38837",
@@ -7582,7 +7664,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876121,
@@ -7618,7 +7701,7 @@
     "subjectCourse": "BIEN297",
     "faculty": [
       {
-        "bannerId": "65121",
+        "bannerId": "57312",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10787",
@@ -7667,7 +7750,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876122,
@@ -7703,7 +7787,7 @@
     "subjectCourse": "BIEN297",
     "faculty": [
       {
-        "bannerId": "65101",
+        "bannerId": "56978",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10788",
@@ -7752,7 +7836,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876123,
@@ -7788,7 +7873,7 @@
     "subjectCourse": "BIEN297",
     "faculty": [
       {
-        "bannerId": "65122",
+        "bannerId": "57316",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10790",
@@ -7837,7 +7922,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886298,
@@ -7873,7 +7959,7 @@
     "subjectCourse": "BIEN297",
     "faculty": [
       {
-        "bannerId": "65197",
+        "bannerId": "59073",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35197",
@@ -7922,7 +8008,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876124,
@@ -7958,7 +8045,7 @@
     "subjectCourse": "BIEN297",
     "faculty": [
       {
-        "bannerId": "65123",
+        "bannerId": "57319",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10792",
@@ -8007,7 +8094,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882190,
@@ -8043,7 +8131,7 @@
     "subjectCourse": "BIEN297",
     "faculty": [
       {
-        "bannerId": "65192",
+        "bannerId": "58989",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25362",
@@ -8092,7 +8180,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881040,
@@ -8128,7 +8217,7 @@
     "subjectCourse": "BIEN297",
     "faculty": [
       {
-        "bannerId": "65183",
+        "bannerId": "58713",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22715",
@@ -8177,7 +8266,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876125,
@@ -8213,7 +8303,7 @@
     "subjectCourse": "BIEN297",
     "faculty": [
       {
-        "bannerId": "65124",
+        "bannerId": "57322",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10793",
@@ -8262,7 +8352,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876126,
@@ -8298,7 +8389,7 @@
     "subjectCourse": "BIEN297",
     "faculty": [
       {
-        "bannerId": "65125",
+        "bannerId": "57330",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10794",
@@ -8347,7 +8438,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884532,
@@ -8383,7 +8475,7 @@
     "subjectCourse": "BIEN297",
     "faculty": [
       {
-        "bannerId": "65107",
+        "bannerId": "57182",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31530",
@@ -8432,7 +8524,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876127,
@@ -8468,7 +8561,7 @@
     "subjectCourse": "BIEN297",
     "faculty": [
       {
-        "bannerId": "65126",
+        "bannerId": "57334",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10798",
@@ -8517,7 +8610,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905353,
@@ -8553,7 +8647,7 @@
     "subjectCourse": "BIEN297",
     "faculty": [
       {
-        "bannerId": "65239",
+        "bannerId": "59842",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38734",
@@ -8602,7 +8696,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881888,
@@ -8638,7 +8733,7 @@
     "subjectCourse": "BIEN297",
     "faculty": [
       {
-        "bannerId": "65195",
+        "bannerId": "59035",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24877",
@@ -8687,7 +8782,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876117,
@@ -8723,7 +8819,7 @@
     "subjectCourse": "BIEN297",
     "faculty": [
       {
-        "bannerId": "65119",
+        "bannerId": "57287",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10779",
@@ -8772,7 +8868,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882188,
@@ -8808,7 +8905,7 @@
     "subjectCourse": "BIEN297",
     "faculty": [
       {
-        "bannerId": "65202",
+        "bannerId": "59152",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25359",
@@ -8857,7 +8954,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883900,
@@ -8893,7 +8991,7 @@
     "subjectCourse": "BIEN298I",
     "faculty": [
       {
-        "bannerId": "65121",
+        "bannerId": "57312",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29688",
@@ -8942,7 +9040,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876129,
@@ -8978,7 +9077,7 @@
     "subjectCourse": "BIEN299",
     "faculty": [
       {
-        "bannerId": "65127",
+        "bannerId": "57342",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10801",
@@ -9027,7 +9126,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876130,
@@ -9063,7 +9163,7 @@
     "subjectCourse": "BIEN299",
     "faculty": [
       {
-        "bannerId": "64982",
+        "bannerId": "56913",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10802",
@@ -9112,7 +9212,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883667,
@@ -9148,7 +9249,7 @@
     "subjectCourse": "BIEN299",
     "faculty": [
       {
-        "bannerId": "65213",
+        "bannerId": "59468",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29411",
@@ -9197,7 +9298,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 903591,
@@ -9233,7 +9335,7 @@
     "subjectCourse": "BIEN299",
     "faculty": [
       {
-        "bannerId": "65229",
+        "bannerId": "59703",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38520",
@@ -9282,7 +9384,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876131,
@@ -9318,7 +9421,7 @@
     "subjectCourse": "BIEN299",
     "faculty": [
       {
-        "bannerId": "65120",
+        "bannerId": "57303",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10803",
@@ -9367,7 +9470,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886234,
@@ -9403,7 +9507,7 @@
     "subjectCourse": "BIEN299",
     "faculty": [
       {
-        "bannerId": "65205",
+        "bannerId": "59288",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35119",
@@ -9452,7 +9556,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883662,
@@ -9488,7 +9593,7 @@
     "subjectCourse": "BIEN299",
     "faculty": [
       {
-        "bannerId": "65114",
+        "bannerId": "57243",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29403",
@@ -9537,7 +9642,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876132,
@@ -9573,7 +9679,7 @@
     "subjectCourse": "BIEN299",
     "faculty": [
       {
-        "bannerId": "65116",
+        "bannerId": "57263",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10806",
@@ -9622,7 +9728,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883931,
@@ -9658,7 +9765,7 @@
     "subjectCourse": "BIEN299",
     "faculty": [
       {
-        "bannerId": "65215",
+        "bannerId": "59502",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29737",
@@ -9707,7 +9814,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905617,
@@ -9743,7 +9851,7 @@
     "subjectCourse": "BIEN299",
     "faculty": [
       {
-        "bannerId": "65212",
+        "bannerId": "59439",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38838",
@@ -9792,7 +9900,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876133,
@@ -9828,7 +9937,7 @@
     "subjectCourse": "BIEN299",
     "faculty": [
       {
-        "bannerId": "65121",
+        "bannerId": "57312",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10807",
@@ -9877,7 +9986,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882889,
@@ -9913,7 +10023,7 @@
     "subjectCourse": "BIEN299",
     "faculty": [
       {
-        "bannerId": "65208",
+        "bannerId": "59358",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27354",
@@ -9962,7 +10072,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876134,
@@ -9998,7 +10109,7 @@
     "subjectCourse": "BIEN299",
     "faculty": [
       {
-        "bannerId": "65101",
+        "bannerId": "56978",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10809",
@@ -10047,7 +10158,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876135,
@@ -10083,7 +10195,7 @@
     "subjectCourse": "BIEN299",
     "faculty": [
       {
-        "bannerId": "65122",
+        "bannerId": "57316",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10811",
@@ -10132,7 +10244,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886297,
@@ -10168,7 +10281,7 @@
     "subjectCourse": "BIEN299",
     "faculty": [
       {
-        "bannerId": "65197",
+        "bannerId": "59073",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35196",
@@ -10217,7 +10330,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876136,
@@ -10253,7 +10367,7 @@
     "subjectCourse": "BIEN299",
     "faculty": [
       {
-        "bannerId": "65123",
+        "bannerId": "57319",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10812",
@@ -10302,7 +10416,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882191,
@@ -10338,7 +10453,7 @@
     "subjectCourse": "BIEN299",
     "faculty": [
       {
-        "bannerId": "65192",
+        "bannerId": "58989",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25363",
@@ -10387,7 +10502,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881041,
@@ -10423,7 +10539,7 @@
     "subjectCourse": "BIEN299",
     "faculty": [
       {
-        "bannerId": "65183",
+        "bannerId": "58713",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22716",
@@ -10472,7 +10588,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876137,
@@ -10508,7 +10625,7 @@
     "subjectCourse": "BIEN299",
     "faculty": [
       {
-        "bannerId": "65124",
+        "bannerId": "57322",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10813",
@@ -10557,7 +10674,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876138,
@@ -10593,7 +10711,7 @@
     "subjectCourse": "BIEN299",
     "faculty": [
       {
-        "bannerId": "65128",
+        "bannerId": "57382",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10814",
@@ -10642,7 +10760,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876139,
@@ -10678,7 +10797,7 @@
     "subjectCourse": "BIEN299",
     "faculty": [
       {
-        "bannerId": "65125",
+        "bannerId": "57330",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10815",
@@ -10727,7 +10846,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884571,
@@ -10763,7 +10883,7 @@
     "subjectCourse": "BIEN299",
     "faculty": [
       {
-        "bannerId": "65107",
+        "bannerId": "57182",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31582",
@@ -10812,7 +10932,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876140,
@@ -10848,7 +10969,7 @@
     "subjectCourse": "BIEN299",
     "faculty": [
       {
-        "bannerId": "65126",
+        "bannerId": "57334",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10819",
@@ -10897,7 +11018,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882177,
@@ -10933,7 +11055,7 @@
     "subjectCourse": "BIEN299",
     "faculty": [
       {
-        "bannerId": "65201",
+        "bannerId": "59149",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25344",
@@ -10982,7 +11104,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905352,
@@ -11018,7 +11141,7 @@
     "subjectCourse": "BIEN299",
     "faculty": [
       {
-        "bannerId": "65239",
+        "bannerId": "59842",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38733",
@@ -11067,7 +11190,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881889,
@@ -11103,7 +11227,7 @@
     "subjectCourse": "BIEN299",
     "faculty": [
       {
-        "bannerId": "65195",
+        "bannerId": "59035",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24878",
@@ -11152,7 +11276,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876128,
@@ -11188,7 +11313,7 @@
     "subjectCourse": "BIEN299",
     "faculty": [
       {
-        "bannerId": "65119",
+        "bannerId": "57287",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10799",
@@ -11237,7 +11362,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882189,
@@ -11273,7 +11399,7 @@
     "subjectCourse": "BIEN299",
     "faculty": [
       {
-        "bannerId": "65202",
+        "bannerId": "59152",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25360",
@@ -11322,7 +11448,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884489,
@@ -11358,7 +11485,7 @@
     "subjectCourse": "BIEN299",
     "faculty": [
       {
-        "bannerId": "65218",
+        "bannerId": "59543",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31478",
@@ -11407,7 +11534,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881049,
@@ -11443,7 +11571,7 @@
     "subjectCourse": "BIEN302",
     "faculty": [
       {
-        "bannerId": "65121",
+        "bannerId": "57312",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22729",
@@ -11492,7 +11620,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876141,
@@ -11528,7 +11657,7 @@
     "subjectCourse": "BIEN401",
     "faculty": [
       {
-        "bannerId": "65121",
+        "bannerId": "57312",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "10822",
@@ -11577,7 +11706,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880604,
@@ -11613,7 +11743,7 @@
     "subjectCourse": "BIEN401",
     "faculty": [
       {
-        "bannerId": "65121",
+        "bannerId": "57312",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19984",
@@ -11662,6 +11792,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   }
 ]

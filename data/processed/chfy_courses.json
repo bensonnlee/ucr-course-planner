@@ -33,7 +33,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36670",
@@ -43,7 +43,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36670",
@@ -104,7 +104,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887575,
@@ -140,7 +141,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36682",
@@ -150,7 +151,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36682",
@@ -211,7 +212,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887584,
@@ -247,7 +249,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36691",
@@ -257,7 +259,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36691",
@@ -318,7 +320,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887596,
@@ -354,7 +357,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36703",
@@ -364,7 +367,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36703",
@@ -425,7 +428,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887606,
@@ -461,7 +465,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36713",
@@ -471,7 +475,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36713",
@@ -532,7 +536,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887565,
@@ -568,7 +573,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36672",
@@ -578,7 +583,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36672",
@@ -639,7 +644,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887576,
@@ -675,7 +681,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36683",
@@ -685,7 +691,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36683",
@@ -746,7 +752,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887586,
@@ -782,7 +789,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36693",
@@ -792,7 +799,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36693",
@@ -853,7 +860,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887616,
@@ -889,7 +897,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36724",
@@ -899,7 +907,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36724",
@@ -960,7 +968,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887607,
@@ -996,7 +1005,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36714",
@@ -1006,7 +1015,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36714",
@@ -1067,7 +1076,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887567,
@@ -1103,7 +1113,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36674",
@@ -1113,7 +1123,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36674",
@@ -1174,7 +1184,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887577,
@@ -1210,7 +1221,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36684",
@@ -1220,7 +1231,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36684",
@@ -1281,7 +1292,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887588,
@@ -1317,7 +1329,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36695",
@@ -1327,7 +1339,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36695",
@@ -1388,7 +1400,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887598,
@@ -1424,7 +1437,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36705",
@@ -1434,7 +1447,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36705",
@@ -1495,7 +1508,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887609,
@@ -1531,7 +1545,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36716",
@@ -1541,7 +1555,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36716",
@@ -1602,7 +1616,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887569,
@@ -1638,7 +1653,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36676",
@@ -1648,7 +1663,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36676",
@@ -1709,7 +1724,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887578,
@@ -1745,7 +1761,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36685",
@@ -1755,7 +1771,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36685",
@@ -1816,7 +1832,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887589,
@@ -1852,7 +1869,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36696",
@@ -1862,7 +1879,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36696",
@@ -1923,7 +1940,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887599,
@@ -1959,7 +1977,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36706",
@@ -1969,7 +1987,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36706",
@@ -2030,7 +2048,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887610,
@@ -2066,7 +2085,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36717",
@@ -2076,7 +2095,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36717",
@@ -2137,7 +2156,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887570,
@@ -2173,7 +2193,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36677",
@@ -2183,7 +2203,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36677",
@@ -2244,7 +2264,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887617,
@@ -2280,7 +2301,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36725",
@@ -2290,7 +2311,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36725",
@@ -2351,7 +2372,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887591,
@@ -2387,7 +2409,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36698",
@@ -2397,7 +2419,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36698",
@@ -2458,7 +2480,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887600,
@@ -2494,7 +2517,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36707",
@@ -2504,7 +2527,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36707",
@@ -2565,7 +2588,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887611,
@@ -2601,7 +2625,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36719",
@@ -2611,7 +2635,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36719",
@@ -2672,7 +2696,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887572,
@@ -2708,7 +2733,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36679",
@@ -2718,7 +2743,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36679",
@@ -2779,7 +2804,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887579,
@@ -2815,7 +2841,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36686",
@@ -2825,7 +2851,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36686",
@@ -2886,7 +2912,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887592,
@@ -2922,7 +2949,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36699",
@@ -2932,7 +2959,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36699",
@@ -2993,7 +3020,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887602,
@@ -3029,7 +3057,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36709",
@@ -3039,7 +3067,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36709",
@@ -3100,7 +3128,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887613,
@@ -3136,7 +3165,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36721",
@@ -3146,7 +3175,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36721",
@@ -3207,7 +3236,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887573,
@@ -3243,7 +3273,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36680",
@@ -3253,7 +3283,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36680",
@@ -3314,7 +3344,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887618,
@@ -3350,7 +3381,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36726",
@@ -3360,7 +3391,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36726",
@@ -3421,7 +3452,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887594,
@@ -3457,7 +3489,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36701",
@@ -3467,7 +3499,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36701",
@@ -3528,7 +3560,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887603,
@@ -3564,7 +3597,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36710",
@@ -3574,7 +3607,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36710",
@@ -3635,7 +3668,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887619,
@@ -3671,7 +3705,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36727",
@@ -3681,7 +3715,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36727",
@@ -3742,7 +3776,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887574,
@@ -3778,7 +3813,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36681",
@@ -3788,7 +3823,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36681",
@@ -3849,7 +3884,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887582,
@@ -3885,7 +3921,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36689",
@@ -3895,7 +3931,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36689",
@@ -3956,7 +3992,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887595,
@@ -3992,7 +4029,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36702",
@@ -4002,7 +4039,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36702",
@@ -4063,7 +4100,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887604,
@@ -4099,7 +4137,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36711",
@@ -4109,7 +4147,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36711",
@@ -4170,7 +4208,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887615,
@@ -4206,7 +4245,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36723",
@@ -4216,7 +4255,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36723",
@@ -4277,7 +4316,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887566,
@@ -4313,7 +4353,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36673",
@@ -4323,7 +4363,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36673",
@@ -4384,7 +4424,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887620,
@@ -4420,7 +4461,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36728",
@@ -4430,7 +4471,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36728",
@@ -4491,7 +4532,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887585,
@@ -4527,7 +4569,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36692",
@@ -4537,7 +4579,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36692",
@@ -4598,7 +4640,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887597,
@@ -4634,7 +4677,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36704",
@@ -4644,7 +4687,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36704",
@@ -4705,7 +4748,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887608,
@@ -4741,7 +4785,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36715",
@@ -4751,7 +4795,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36715",
@@ -4812,7 +4856,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887568,
@@ -4848,7 +4893,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36675",
@@ -4858,7 +4903,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36675",
@@ -4919,7 +4964,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887621,
@@ -4955,7 +5001,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36729",
@@ -4965,7 +5011,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36729",
@@ -5026,7 +5072,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887564,
@@ -5062,7 +5109,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36671",
@@ -5072,7 +5119,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36671",
@@ -5133,7 +5180,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887601,
@@ -5169,7 +5217,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36708",
@@ -5179,7 +5227,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36708",
@@ -5240,7 +5288,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887612,
@@ -5276,7 +5325,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36720",
@@ -5286,7 +5335,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36720",
@@ -5347,7 +5396,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887571,
@@ -5383,7 +5433,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36678",
@@ -5393,7 +5443,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36678",
@@ -5454,7 +5504,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887580,
@@ -5490,7 +5541,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36687",
@@ -5500,7 +5551,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36687",
@@ -5561,7 +5612,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887593,
@@ -5597,7 +5649,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36700",
@@ -5607,7 +5659,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36700",
@@ -5668,7 +5720,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887605,
@@ -5704,7 +5757,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36712",
@@ -5714,7 +5767,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36712",
@@ -5775,7 +5828,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887590,
@@ -5811,7 +5865,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36697",
@@ -5821,7 +5875,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36697",
@@ -5882,7 +5936,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887583,
@@ -5918,7 +5973,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36690",
@@ -5928,7 +5983,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36690",
@@ -5989,7 +6044,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887587,
@@ -6025,7 +6081,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36694",
@@ -6035,7 +6091,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36694",
@@ -6096,7 +6152,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887622,
@@ -6132,7 +6189,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36730",
@@ -6142,7 +6199,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36730",
@@ -6203,7 +6260,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887623,
@@ -6239,7 +6297,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36731",
@@ -6249,7 +6307,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36731",
@@ -6310,7 +6368,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887614,
@@ -6346,7 +6405,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36722",
@@ -6356,7 +6415,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36722",
@@ -6417,7 +6476,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887581,
@@ -6453,7 +6513,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36688",
@@ -6463,7 +6523,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36688",
@@ -6524,7 +6584,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887624,
@@ -6560,7 +6621,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36732",
@@ -6570,7 +6631,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36732",
@@ -6631,7 +6692,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887625,
@@ -6667,7 +6729,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36733",
@@ -6677,7 +6739,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36733",
@@ -6738,7 +6800,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887626,
@@ -6774,7 +6837,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36734",
@@ -6784,7 +6847,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36734",
@@ -6845,7 +6908,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887627,
@@ -6881,7 +6945,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36735",
@@ -6891,7 +6955,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36735",
@@ -6952,7 +7016,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887628,
@@ -6988,7 +7053,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36736",
@@ -6998,7 +7063,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36736",
@@ -7059,7 +7124,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887629,
@@ -7095,7 +7161,7 @@
     "subjectCourse": "CHFY007",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "59171",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36737",
@@ -7105,7 +7171,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "59175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36737",
@@ -7166,6 +7232,7 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   }
 ]

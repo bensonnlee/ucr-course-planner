@@ -33,7 +33,7 @@
     "subjectCourse": "LATN001",
     "faculty": [
       {
-        "bannerId": "65717",
+        "bannerId": "56616",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16290",
@@ -116,7 +116,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889200,
@@ -152,7 +153,7 @@
     "subjectCourse": "LATN101N",
     "faculty": [
       {
-        "bannerId": "65717",
+        "bannerId": "56616",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37681",
@@ -201,6 +202,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:LATN101N(\n Course or Test: Latin 003 \n Minimum Grade of D-\n May not be taken concurrently.)"
   }
 ]

@@ -33,7 +33,7 @@
     "subjectCourse": "NEM190",
     "faculty": [
       {
-        "bannerId": "65182",
+        "bannerId": "56818",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17467",
@@ -82,7 +82,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879265,
@@ -118,7 +119,7 @@
     "subjectCourse": "NEM190",
     "faculty": [
       {
-        "bannerId": "66973",
+        "bannerId": "56822",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17468",
@@ -167,7 +168,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879266,
@@ -203,7 +205,7 @@
     "subjectCourse": "NEM190",
     "faculty": [
       {
-        "bannerId": "66974",
+        "bannerId": "56826",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17470",
@@ -252,7 +254,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879267,
@@ -288,7 +291,7 @@
     "subjectCourse": "NEM190",
     "faculty": [
       {
-        "bannerId": "65102",
+        "bannerId": "56827",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17471",
@@ -337,7 +340,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885141,
@@ -373,7 +377,7 @@
     "subjectCourse": "NEM190",
     "faculty": [
       {
-        "bannerId": "65305",
+        "bannerId": "57751",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33114",
@@ -422,7 +426,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879268,
@@ -458,7 +463,7 @@
     "subjectCourse": "NEM197",
     "faculty": [
       {
-        "bannerId": "65182",
+        "bannerId": "56818",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17476",
@@ -507,7 +512,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879269,
@@ -543,7 +549,7 @@
     "subjectCourse": "NEM197",
     "faculty": [
       {
-        "bannerId": "66973",
+        "bannerId": "56822",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17477",
@@ -592,7 +598,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879270,
@@ -628,7 +635,7 @@
     "subjectCourse": "NEM197",
     "faculty": [
       {
-        "bannerId": "66974",
+        "bannerId": "56826",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17479",
@@ -677,7 +684,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880999,
@@ -713,7 +721,7 @@
     "subjectCourse": "NEM197",
     "faculty": [
       {
-        "bannerId": "65102",
+        "bannerId": "56827",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22627",
@@ -762,7 +770,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885142,
@@ -798,7 +807,7 @@
     "subjectCourse": "NEM197",
     "faculty": [
       {
-        "bannerId": "65305",
+        "bannerId": "57751",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33115",
@@ -847,7 +856,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879271,
@@ -883,7 +893,7 @@
     "subjectCourse": "NEM199",
     "faculty": [
       {
-        "bannerId": "65182",
+        "bannerId": "56818",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17484",
@@ -932,7 +942,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879272,
@@ -968,7 +979,7 @@
     "subjectCourse": "NEM199",
     "faculty": [
       {
-        "bannerId": "66973",
+        "bannerId": "56822",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17485",
@@ -1017,7 +1028,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879273,
@@ -1053,7 +1065,7 @@
     "subjectCourse": "NEM199",
     "faculty": [
       {
-        "bannerId": "66974",
+        "bannerId": "56826",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17487",
@@ -1102,7 +1114,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879274,
@@ -1138,7 +1151,7 @@
     "subjectCourse": "NEM290",
     "faculty": [
       {
-        "bannerId": "65182",
+        "bannerId": "56818",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17493",
@@ -1187,7 +1200,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879275,
@@ -1223,7 +1237,7 @@
     "subjectCourse": "NEM290",
     "faculty": [
       {
-        "bannerId": "66973",
+        "bannerId": "56822",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17494",
@@ -1272,7 +1286,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879276,
@@ -1308,7 +1323,7 @@
     "subjectCourse": "NEM290",
     "faculty": [
       {
-        "bannerId": "66974",
+        "bannerId": "56826",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17496",
@@ -1357,7 +1372,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885143,
@@ -1393,7 +1409,7 @@
     "subjectCourse": "NEM290",
     "faculty": [
       {
-        "bannerId": "65305",
+        "bannerId": "57751",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33116",
@@ -1442,7 +1458,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882363,
@@ -1478,7 +1495,7 @@
     "subjectCourse": "NEM290",
     "faculty": [
       {
-        "bannerId": "66983",
+        "bannerId": "57344",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25634",
@@ -1527,7 +1544,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879277,
@@ -1563,7 +1581,7 @@
     "subjectCourse": "NEM297",
     "faculty": [
       {
-        "bannerId": "65182",
+        "bannerId": "56818",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17501",
@@ -1612,7 +1630,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879278,
@@ -1648,7 +1667,7 @@
     "subjectCourse": "NEM297",
     "faculty": [
       {
-        "bannerId": "66973",
+        "bannerId": "56822",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17502",
@@ -1697,7 +1716,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879279,
@@ -1733,7 +1753,7 @@
     "subjectCourse": "NEM297",
     "faculty": [
       {
-        "bannerId": "66974",
+        "bannerId": "56826",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17504",
@@ -1782,7 +1802,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885144,
@@ -1818,7 +1839,7 @@
     "subjectCourse": "NEM297",
     "faculty": [
       {
-        "bannerId": "65305",
+        "bannerId": "57751",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33117",
@@ -1867,7 +1888,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882364,
@@ -1903,7 +1925,7 @@
     "subjectCourse": "NEM297",
     "faculty": [
       {
-        "bannerId": "66983",
+        "bannerId": "57344",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25635",
@@ -1952,6 +1974,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   }
 ]

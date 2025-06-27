@@ -33,7 +33,7 @@
     "subjectCourse": "SOC001",
     "faculty": [
       {
-        "bannerId": "67376",
+        "bannerId": "60220",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19389",
@@ -43,7 +43,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67377",
+        "bannerId": "60221",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19389",
@@ -53,7 +53,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67378",
+        "bannerId": "60223",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19389",
@@ -63,7 +63,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67379",
+        "bannerId": "60224",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19389",
@@ -73,7 +73,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67380",
+        "bannerId": "60225",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19389",
@@ -83,7 +83,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67381",
+        "bannerId": "60226",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19389",
@@ -93,7 +93,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67382",
+        "bannerId": "60228",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19389",
@@ -103,7 +103,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67383",
+        "bannerId": "60230",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19389",
@@ -152,7 +152,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880393,
@@ -188,7 +189,7 @@
     "subjectCourse": "SOC001",
     "faculty": [
       {
-        "bannerId": "67383",
+        "bannerId": "60230",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19390",
@@ -249,7 +250,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880394,
@@ -285,7 +287,7 @@
     "subjectCourse": "SOC001",
     "faculty": [
       {
-        "bannerId": "67383",
+        "bannerId": "60230",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19391",
@@ -346,7 +348,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880395,
@@ -382,7 +385,7 @@
     "subjectCourse": "SOC001",
     "faculty": [
       {
-        "bannerId": "67383",
+        "bannerId": "60230",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19392",
@@ -443,7 +446,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880396,
@@ -479,7 +483,7 @@
     "subjectCourse": "SOC001",
     "faculty": [
       {
-        "bannerId": "67380",
+        "bannerId": "60225",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19393",
@@ -540,7 +544,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880397,
@@ -576,7 +581,7 @@
     "subjectCourse": "SOC001",
     "faculty": [
       {
-        "bannerId": "67380",
+        "bannerId": "60225",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19394",
@@ -637,7 +642,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880398,
@@ -673,7 +679,7 @@
     "subjectCourse": "SOC001",
     "faculty": [
       {
-        "bannerId": "67380",
+        "bannerId": "60225",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19395",
@@ -734,7 +740,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880399,
@@ -770,7 +777,7 @@
     "subjectCourse": "SOC001",
     "faculty": [
       {
-        "bannerId": "67377",
+        "bannerId": "60221",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19396",
@@ -831,7 +838,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880400,
@@ -867,7 +875,7 @@
     "subjectCourse": "SOC001",
     "faculty": [
       {
-        "bannerId": "67377",
+        "bannerId": "60221",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19397",
@@ -928,7 +936,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880401,
@@ -964,7 +973,7 @@
     "subjectCourse": "SOC001",
     "faculty": [
       {
-        "bannerId": "67377",
+        "bannerId": "60221",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19398",
@@ -1025,7 +1034,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880402,
@@ -1061,7 +1071,7 @@
     "subjectCourse": "SOC001",
     "faculty": [
       {
-        "bannerId": "67381",
+        "bannerId": "60226",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19399",
@@ -1110,7 +1120,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880403,
@@ -1146,7 +1157,7 @@
     "subjectCourse": "SOC001",
     "faculty": [
       {
-        "bannerId": "67381",
+        "bannerId": "60226",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19400",
@@ -1195,7 +1206,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880404,
@@ -1231,7 +1243,7 @@
     "subjectCourse": "SOC001",
     "faculty": [
       {
-        "bannerId": "67381",
+        "bannerId": "60226",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19401",
@@ -1280,7 +1292,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880405,
@@ -1316,7 +1329,7 @@
     "subjectCourse": "SOC001",
     "faculty": [
       {
-        "bannerId": "67379",
+        "bannerId": "60224",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19402",
@@ -1365,7 +1378,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880406,
@@ -1401,7 +1415,7 @@
     "subjectCourse": "SOC001",
     "faculty": [
       {
-        "bannerId": "67379",
+        "bannerId": "60224",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19403",
@@ -1450,7 +1464,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880407,
@@ -1486,7 +1501,7 @@
     "subjectCourse": "SOC001",
     "faculty": [
       {
-        "bannerId": "67379",
+        "bannerId": "60224",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19404",
@@ -1535,7 +1550,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880408,
@@ -1571,7 +1587,7 @@
     "subjectCourse": "SOC001",
     "faculty": [
       {
-        "bannerId": "67382",
+        "bannerId": "60228",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19405",
@@ -1620,7 +1636,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880409,
@@ -1656,7 +1673,7 @@
     "subjectCourse": "SOC001",
     "faculty": [
       {
-        "bannerId": "67382",
+        "bannerId": "60228",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19406",
@@ -1705,7 +1722,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880410,
@@ -1741,7 +1759,7 @@
     "subjectCourse": "SOC001",
     "faculty": [
       {
-        "bannerId": "67382",
+        "bannerId": "60228",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19407",
@@ -1802,7 +1820,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880411,
@@ -1838,7 +1857,7 @@
     "subjectCourse": "SOC001",
     "faculty": [
       {
-        "bannerId": "67378",
+        "bannerId": "60223",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19408",
@@ -1899,7 +1918,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880412,
@@ -1935,7 +1955,7 @@
     "subjectCourse": "SOC001",
     "faculty": [
       {
-        "bannerId": "67378",
+        "bannerId": "60223",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19409",
@@ -1996,7 +2016,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880413,
@@ -2032,7 +2053,7 @@
     "subjectCourse": "SOC001",
     "faculty": [
       {
-        "bannerId": "67378",
+        "bannerId": "60223",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19410",
@@ -2081,7 +2102,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880414,
@@ -2117,7 +2139,7 @@
     "subjectCourse": "SOC003",
     "faculty": [
       {
-        "bannerId": "67384",
+        "bannerId": "60239",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19425",
@@ -2127,7 +2149,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67385",
+        "bannerId": "60240",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19425",
@@ -2137,7 +2159,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67386",
+        "bannerId": "60241",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19425",
@@ -2147,7 +2169,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67387",
+        "bannerId": "60242",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19425",
@@ -2196,7 +2218,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC003(\n Course or Test: Sociology 001 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001H \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 880415,
@@ -2232,7 +2255,7 @@
     "subjectCourse": "SOC003",
     "faculty": [
       {
-        "bannerId": "67386",
+        "bannerId": "60241",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19426",
@@ -2293,7 +2316,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC003(\n Course or Test: Sociology 001 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001H \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 880416,
@@ -2329,7 +2353,7 @@
     "subjectCourse": "SOC003",
     "faculty": [
       {
-        "bannerId": "67386",
+        "bannerId": "60241",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19427",
@@ -2378,7 +2402,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC003(\n Course or Test: Sociology 001 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001H \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 880417,
@@ -2414,7 +2439,7 @@
     "subjectCourse": "SOC003",
     "faculty": [
       {
-        "bannerId": "67386",
+        "bannerId": "60241",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19428",
@@ -2475,7 +2500,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC003(\n Course or Test: Sociology 001 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001H \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 880418,
@@ -2511,7 +2537,7 @@
     "subjectCourse": "SOC003",
     "faculty": [
       {
-        "bannerId": "67384",
+        "bannerId": "60239",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19429",
@@ -2572,7 +2598,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:SOC003(\n Course or Test: Sociology 001 \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Sociology 001H \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 880419,
@@ -2608,7 +2635,7 @@
     "subjectCourse": "SOC003",
     "faculty": [
       {
-        "bannerId": "67384",
+        "bannerId": "60239",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19430",
@@ -2669,7 +2696,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:SOC003(\n Course or Test: Sociology 001 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001H \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 880420,
@@ -2705,7 +2733,7 @@
     "subjectCourse": "SOC003",
     "faculty": [
       {
-        "bannerId": "67384",
+        "bannerId": "60239",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19431",
@@ -2754,7 +2782,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:SOC003)\nand\n(\n Course or Test: Sociology 001 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001H \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 885953,
@@ -2790,7 +2819,7 @@
     "subjectCourse": "SOC003",
     "faculty": [
       {
-        "bannerId": "67387",
+        "bannerId": "60242",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34685",
@@ -2839,7 +2868,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC003)\nand\n(\n Course or Test: Sociology 001 \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Sociology 001H \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 885954,
@@ -2875,7 +2905,7 @@
     "subjectCourse": "SOC003",
     "faculty": [
       {
-        "bannerId": "67387",
+        "bannerId": "60242",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34686",
@@ -2936,7 +2966,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC003)\nand\n(\n Course or Test: Sociology 001 \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Sociology 001H \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 885955,
@@ -2972,7 +3003,7 @@
     "subjectCourse": "SOC003",
     "faculty": [
       {
-        "bannerId": "67387",
+        "bannerId": "60242",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34687",
@@ -3021,7 +3052,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC003(\n Course or Test: Sociology 001 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001H \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 880421,
@@ -3057,7 +3089,7 @@
     "subjectCourse": "SOC004",
     "faculty": [
       {
-        "bannerId": "67388",
+        "bannerId": "60247",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19432",
@@ -3067,7 +3099,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67389",
+        "bannerId": "60248",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19432",
@@ -3077,7 +3109,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67390",
+        "bannerId": "60250",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19432",
@@ -3126,7 +3158,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC004(\n Course or Test: Sociology 001 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001H \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 880422,
@@ -3162,7 +3195,7 @@
     "subjectCourse": "SOC004",
     "faculty": [
       {
-        "bannerId": "67390",
+        "bannerId": "60250",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19433",
@@ -3211,7 +3244,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC004(\n Course or Test: Sociology 001 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001H \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 880423,
@@ -3247,7 +3281,7 @@
     "subjectCourse": "SOC004",
     "faculty": [
       {
-        "bannerId": "67390",
+        "bannerId": "60250",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19434",
@@ -3296,7 +3330,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC004(\n Course or Test: Sociology 001 \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Sociology 001H \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 880424,
@@ -3332,7 +3367,7 @@
     "subjectCourse": "SOC004",
     "faculty": [
       {
-        "bannerId": "67390",
+        "bannerId": "60250",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19435",
@@ -3393,7 +3428,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC004)\nand\n(\n Course or Test: Sociology 001 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001H \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 880425,
@@ -3429,7 +3465,7 @@
     "subjectCourse": "SOC004",
     "faculty": [
       {
-        "bannerId": "67388",
+        "bannerId": "60247",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19436",
@@ -3478,7 +3514,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC004)\nand\n(\n Course or Test: Sociology 001 \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Sociology 001H \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 880426,
@@ -3514,7 +3551,7 @@
     "subjectCourse": "SOC004",
     "faculty": [
       {
-        "bannerId": "67388",
+        "bannerId": "60247",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19437",
@@ -3563,7 +3600,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC004(\n Course or Test: Sociology 001 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001H \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 880427,
@@ -3599,7 +3637,7 @@
     "subjectCourse": "SOC004",
     "faculty": [
       {
-        "bannerId": "67388",
+        "bannerId": "60247",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19438",
@@ -3660,7 +3698,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC004(\n Course or Test: Sociology 001 \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Sociology 001H \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 880428,
@@ -3696,7 +3735,7 @@
     "subjectCourse": "SOC005",
     "faculty": [
       {
-        "bannerId": "67391",
+        "bannerId": "60254",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19439",
@@ -3706,7 +3745,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67392",
+        "bannerId": "60256",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19439",
@@ -3755,7 +3794,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:SOC005(\n Course or Test: Sociology 004 \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 880429,
@@ -3791,7 +3831,7 @@
     "subjectCourse": "SOC005",
     "faculty": [
       {
-        "bannerId": "67391",
+        "bannerId": "60254",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19440",
@@ -3840,7 +3880,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:SOC005)\nand\n(\n Course or Test: Sociology 004 \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 880430,
@@ -3876,7 +3917,7 @@
     "subjectCourse": "SOC005",
     "faculty": [
       {
-        "bannerId": "67391",
+        "bannerId": "60254",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19441",
@@ -3925,7 +3966,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:SOC005(\n Course or Test: Sociology 004 \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 880431,
@@ -3961,7 +4003,7 @@
     "subjectCourse": "SOC005",
     "faculty": [
       {
-        "bannerId": "67391",
+        "bannerId": "60254",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19445",
@@ -4010,7 +4052,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:SOC005(\n Course or Test: Sociology 004 \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 884157,
@@ -4046,7 +4089,7 @@
     "subjectCourse": "SOC028",
     "faculty": [
       {
-        "bannerId": "66542",
+        "bannerId": "60346",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "30584",
@@ -4056,7 +4099,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67423",
+        "bannerId": "60347",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "30584",
@@ -4105,7 +4148,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 884260,
@@ -4141,7 +4185,7 @@
     "subjectCourse": "SOC028",
     "faculty": [
       {
-        "bannerId": "67423",
+        "bannerId": "60347",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31030",
@@ -4190,7 +4234,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884261,
@@ -4226,7 +4271,7 @@
     "subjectCourse": "SOC028",
     "faculty": [
       {
-        "bannerId": "67423",
+        "bannerId": "60347",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31031",
@@ -4287,7 +4332,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884262,
@@ -4323,7 +4369,7 @@
     "subjectCourse": "SOC028",
     "faculty": [
       {
-        "bannerId": "67423",
+        "bannerId": "60347",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31032",
@@ -4384,7 +4430,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884161,
@@ -4420,7 +4467,7 @@
     "subjectCourse": "SOC122",
     "faculty": [
       {
-        "bannerId": "67424",
+        "bannerId": "60348",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "30593",
@@ -4430,7 +4477,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67425",
+        "bannerId": "60349",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "30593",
@@ -4479,7 +4526,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC122)\nand\n(\n Course or Test: Sociology 003 \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 889353,
@@ -4515,7 +4563,7 @@
     "subjectCourse": "SOC127",
     "faculty": [
       {
-        "bannerId": "67413",
+        "bannerId": "60307",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37794",
@@ -4525,7 +4573,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67454",
+        "bannerId": "60421",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37794",
@@ -4574,7 +4622,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC127)\nand\n(\n Course or Test: Sociology 001 \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Sociology 001H \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 890557,
@@ -4610,7 +4659,7 @@
     "subjectCourse": "SOC127",
     "faculty": [
       {
-        "bannerId": "67454",
+        "bannerId": "60421",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38154",
@@ -4659,7 +4708,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC127(\n Course or Test: Sociology 001 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001H \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 890558,
@@ -4695,7 +4745,7 @@
     "subjectCourse": "SOC127",
     "faculty": [
       {
-        "bannerId": "67454",
+        "bannerId": "60421",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38155",
@@ -4744,7 +4794,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC127)\nand\n(\n Course or Test: Sociology 001 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001H \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 890559,
@@ -4780,7 +4831,7 @@
     "subjectCourse": "SOC127",
     "faculty": [
       {
-        "bannerId": "67454",
+        "bannerId": "60421",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38156",
@@ -4829,7 +4880,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC127(\n Course or Test: Sociology 001 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001H \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 890827,
@@ -4865,7 +4917,7 @@
     "subjectCourse": "SOC129",
     "faculty": [
       {
-        "bannerId": "67465",
+        "bannerId": "60438",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38314",
@@ -4875,7 +4927,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67385",
+        "bannerId": "60240",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38314",
@@ -4924,7 +4976,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC129(\n Course or Test: Sociology 005 \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 903134,
@@ -4960,7 +5013,7 @@
     "subjectCourse": "SOC129",
     "faculty": [
       {
-        "bannerId": "67465",
+        "bannerId": "60438",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38344",
@@ -5009,7 +5062,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC129(\n Course or Test: Sociology 005 \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 903135,
@@ -5045,7 +5099,7 @@
     "subjectCourse": "SOC129",
     "faculty": [
       {
-        "bannerId": "67465",
+        "bannerId": "60438",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38345",
@@ -5094,7 +5148,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC129(\n Course or Test: Sociology 005 \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 903136,
@@ -5130,7 +5185,7 @@
     "subjectCourse": "SOC129",
     "faculty": [
       {
-        "bannerId": "67465",
+        "bannerId": "60438",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38346",
@@ -5179,7 +5234,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC129(\n Course or Test: Sociology 005 \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 884836,
@@ -5215,7 +5271,7 @@
     "subjectCourse": "SOC130",
     "faculty": [
       {
-        "bannerId": "67426",
+        "bannerId": "60356",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32427",
@@ -5225,7 +5281,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67427",
+        "bannerId": "60357",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32427",
@@ -5235,7 +5291,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67428",
+        "bannerId": "60358",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32427",
@@ -5284,7 +5340,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC130)\nand\n(\n Course or Test: Sociology 005 \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 884837,
@@ -5320,7 +5377,7 @@
     "subjectCourse": "SOC130",
     "faculty": [
       {
-        "bannerId": "67427",
+        "bannerId": "60357",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32428",
@@ -5369,7 +5426,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC130(\n Course or Test: Sociology 005 \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 884838,
@@ -5405,7 +5463,7 @@
     "subjectCourse": "SOC130",
     "faculty": [
       {
-        "bannerId": "67427",
+        "bannerId": "60357",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32429",
@@ -5454,7 +5512,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC130)\nand\n(\n Course or Test: Sociology 005 \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 884839,
@@ -5490,7 +5549,7 @@
     "subjectCourse": "SOC130",
     "faculty": [
       {
-        "bannerId": "67427",
+        "bannerId": "60357",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32430",
@@ -5539,7 +5598,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC130)\nand\n(\n Course or Test: Sociology 005 \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 884840,
@@ -5575,7 +5635,7 @@
     "subjectCourse": "SOC130",
     "faculty": [
       {
-        "bannerId": "67428",
+        "bannerId": "60358",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32431",
@@ -5624,7 +5684,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC130)\nand\n(\n Course or Test: Sociology 005 \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 884841,
@@ -5660,7 +5721,7 @@
     "subjectCourse": "SOC130",
     "faculty": [
       {
-        "bannerId": "67428",
+        "bannerId": "60358",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32432",
@@ -5709,7 +5770,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC130(\n Course or Test: Sociology 005 \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 884842,
@@ -5745,7 +5807,7 @@
     "subjectCourse": "SOC130",
     "faculty": [
       {
-        "bannerId": "67428",
+        "bannerId": "60358",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32433",
@@ -5794,7 +5856,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC130(\n Course or Test: Sociology 005 \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 885786,
@@ -5830,7 +5893,7 @@
     "subjectCourse": "SOC133",
     "faculty": [
       {
-        "bannerId": "67424",
+        "bannerId": "60348",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34356",
@@ -5879,7 +5942,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC133(\n Course or Test: Sociology 005 \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 887147,
@@ -5915,7 +5979,7 @@
     "subjectCourse": "SOC134",
     "faculty": [
       {
-        "bannerId": "66542",
+        "bannerId": "60346",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36165",
@@ -5964,7 +6028,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:SOC134)\nand\n(\n Course or Test: Sociology 001 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001H \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 889354,
@@ -6000,7 +6065,7 @@
     "subjectCourse": "SOC140",
     "faculty": [
       {
-        "bannerId": "66542",
+        "bannerId": "60346",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37795",
@@ -6010,7 +6075,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67455",
+        "bannerId": "60422",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37795",
@@ -6059,7 +6124,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:SOC140)\nand\n(\n Course or Test: Gender and Sexuality Studies 001 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Gender and Sexuality Studies 001H \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Gender and Sexuality Studies 001S \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Sociology 001 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Sociology 001H \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 890560,
@@ -6095,7 +6161,7 @@
     "subjectCourse": "SOC140",
     "faculty": [
       {
-        "bannerId": "67455",
+        "bannerId": "60422",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38157",
@@ -6144,7 +6210,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC140)\nand\n(\n Course or Test: Gender and Sexuality Studies 001 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Gender and Sexuality Studies 001H \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Gender and Sexuality Studies 001S \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Sociology 001 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Sociology 001H \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 890563,
@@ -6180,7 +6247,7 @@
     "subjectCourse": "SOC140",
     "faculty": [
       {
-        "bannerId": "67455",
+        "bannerId": "60422",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38160",
@@ -6229,7 +6296,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC140(\n Course or Test: Gender and Sexuality Studies 001 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Gender and Sexuality Studies 001H \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Gender and Sexuality Studies 001S \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Sociology 001 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Sociology 001H \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 890565,
@@ -6265,7 +6333,7 @@
     "subjectCourse": "SOC140",
     "faculty": [
       {
-        "bannerId": "67455",
+        "bannerId": "60422",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38162",
@@ -6314,7 +6382,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC140(\n Course or Test: Gender and Sexuality Studies 001 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Gender and Sexuality Studies 001H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Gender and Sexuality Studies 001S \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001H \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 889355,
@@ -6350,7 +6419,7 @@
     "subjectCourse": "SOC151",
     "faculty": [
       {
-        "bannerId": "67424",
+        "bannerId": "60348",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37796",
@@ -6360,7 +6429,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67456",
+        "bannerId": "60423",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37796",
@@ -6409,7 +6478,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 890567,
@@ -6445,7 +6515,7 @@
     "subjectCourse": "SOC151",
     "faculty": [
       {
-        "bannerId": "67456",
+        "bannerId": "60423",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38164",
@@ -6506,7 +6576,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 890568,
@@ -6542,7 +6613,7 @@
     "subjectCourse": "SOC151",
     "faculty": [
       {
-        "bannerId": "67456",
+        "bannerId": "60423",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38165",
@@ -6603,7 +6674,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 890569,
@@ -6639,7 +6711,7 @@
     "subjectCourse": "SOC151",
     "faculty": [
       {
-        "bannerId": "67456",
+        "bannerId": "60423",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38166",
@@ -6700,7 +6772,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889356,
@@ -6736,7 +6809,7 @@
     "subjectCourse": "SOC161",
     "faculty": [
       {
-        "bannerId": "67457",
+        "bannerId": "60424",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37797",
@@ -6785,7 +6858,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC161(\n Course or Test: Sociology 001 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001H \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 889357,
@@ -6821,7 +6895,7 @@
     "subjectCourse": "SOC162",
     "faculty": [
       {
-        "bannerId": "67457",
+        "bannerId": "60424",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37798",
@@ -6882,7 +6956,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC162)\nand\n(\n Course or Test: Sociology 001 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001H \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 889358,
@@ -6918,7 +6993,7 @@
     "subjectCourse": "SOC169",
     "faculty": [
       {
-        "bannerId": "67376",
+        "bannerId": "60220",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37799",
@@ -6928,7 +7003,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67458",
+        "bannerId": "60425",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37799",
@@ -6938,7 +7013,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67459",
+        "bannerId": "60426",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37799",
@@ -6987,7 +7062,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC169)\nand\n(\n Course or Test: Sociology 003 \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 890570,
@@ -7023,7 +7099,7 @@
     "subjectCourse": "SOC169",
     "faculty": [
       {
-        "bannerId": "67459",
+        "bannerId": "60426",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38167",
@@ -7072,7 +7148,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC169(\n Course or Test: Sociology 003 \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 890571,
@@ -7108,7 +7185,7 @@
     "subjectCourse": "SOC169",
     "faculty": [
       {
-        "bannerId": "67459",
+        "bannerId": "60426",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38168",
@@ -7157,7 +7234,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC169(\n Course or Test: Sociology 003 \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 890572,
@@ -7193,7 +7271,7 @@
     "subjectCourse": "SOC169",
     "faculty": [
       {
-        "bannerId": "67459",
+        "bannerId": "60426",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38169",
@@ -7242,7 +7320,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC169(\n Course or Test: Sociology 003 \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 890573,
@@ -7278,7 +7357,7 @@
     "subjectCourse": "SOC169",
     "faculty": [
       {
-        "bannerId": "67458",
+        "bannerId": "60425",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38170",
@@ -7327,7 +7406,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC169)\nand\n(\n Course or Test: Sociology 003 \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 890574,
@@ -7363,7 +7443,7 @@
     "subjectCourse": "SOC169",
     "faculty": [
       {
-        "bannerId": "67458",
+        "bannerId": "60425",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38171",
@@ -7412,7 +7492,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC169)\nand\n(\n Course or Test: Sociology 003 \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 890575,
@@ -7448,7 +7529,7 @@
     "subjectCourse": "SOC169",
     "faculty": [
       {
-        "bannerId": "67458",
+        "bannerId": "60425",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38172",
@@ -7497,7 +7578,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC169(\n Course or Test: Sociology 003 \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 887151,
@@ -7533,7 +7615,7 @@
     "subjectCourse": "SOC173",
     "faculty": [
       {
-        "bannerId": "67393",
+        "bannerId": "60259",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36169",
@@ -7543,7 +7625,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67447",
+        "bannerId": "60396",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36169",
@@ -7592,7 +7674,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC173)\nand\n(\n Course or Test: Sociology 003 \n Minimum Grade of C-\n May not be taken concurrently.and\n Course or Test: Sociology 005 \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 887355,
@@ -7628,7 +7711,7 @@
     "subjectCourse": "SOC173",
     "faculty": [
       {
-        "bannerId": "67447",
+        "bannerId": "60396",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36417",
@@ -7677,7 +7760,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC173(\n Course or Test: Sociology 003 \n Minimum Grade of C-\n May not be taken concurrently.and\n Course or Test: Sociology 005 \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 887356,
@@ -7713,7 +7797,7 @@
     "subjectCourse": "SOC173",
     "faculty": [
       {
-        "bannerId": "67447",
+        "bannerId": "60396",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36418",
@@ -7762,7 +7846,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC173(\n Course or Test: Sociology 003 \n Minimum Grade of C-\n May not be taken concurrently.and\n Course or Test: Sociology 005 \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 887357,
@@ -7798,7 +7883,7 @@
     "subjectCourse": "SOC173",
     "faculty": [
       {
-        "bannerId": "67447",
+        "bannerId": "60396",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36419",
@@ -7847,7 +7932,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC173(\n Course or Test: Sociology 003 \n Minimum Grade of C-\n May not be taken concurrently.and\n Course or Test: Sociology 005 \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 887156,
@@ -7883,7 +7969,7 @@
     "subjectCourse": "SOC177E",
     "faculty": [
       {
-        "bannerId": "67393",
+        "bannerId": "60259",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36174",
@@ -7932,7 +8018,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC177E(\n Course or Test: Sociology 001 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Sociology 001H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Sociology 030 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 889359,
@@ -7968,7 +8055,7 @@
     "subjectCourse": "SOC182",
     "faculty": [
       {
-        "bannerId": "67376",
+        "bannerId": "60220",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37800",
@@ -7978,7 +8065,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67460",
+        "bannerId": "60427",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37800",
@@ -8027,7 +8114,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 890576,
@@ -8063,7 +8151,7 @@
     "subjectCourse": "SOC182",
     "faculty": [
       {
-        "bannerId": "67460",
+        "bannerId": "60427",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38173",
@@ -8124,7 +8212,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 890577,
@@ -8160,7 +8249,7 @@
     "subjectCourse": "SOC182",
     "faculty": [
       {
-        "bannerId": "67460",
+        "bannerId": "60427",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38174",
@@ -8221,7 +8310,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 890578,
@@ -8257,7 +8347,7 @@
     "subjectCourse": "SOC182",
     "faculty": [
       {
-        "bannerId": "67460",
+        "bannerId": "60427",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38175",
@@ -8318,7 +8408,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887157,
@@ -8354,7 +8445,7 @@
     "subjectCourse": "SOC183H",
     "faculty": [
       {
-        "bannerId": "67392",
+        "bannerId": "60256",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36175",
@@ -8415,7 +8506,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 880433,
@@ -8451,7 +8543,7 @@
     "subjectCourse": "SOC190",
     "faculty": [
       {
-        "bannerId": "67394",
+        "bannerId": "60260",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19504",
@@ -8500,7 +8592,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880434,
@@ -8536,7 +8629,7 @@
     "subjectCourse": "SOC190",
     "faculty": [
       {
-        "bannerId": "67395",
+        "bannerId": "60261",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19508",
@@ -8585,7 +8678,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880435,
@@ -8621,7 +8715,7 @@
     "subjectCourse": "SOC190",
     "faculty": [
       {
-        "bannerId": "67396",
+        "bannerId": "60263",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19513",
@@ -8670,7 +8764,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880436,
@@ -8706,7 +8801,7 @@
     "subjectCourse": "SOC190",
     "faculty": [
       {
-        "bannerId": "67397",
+        "bannerId": "60265",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19514",
@@ -8755,7 +8850,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882122,
@@ -8791,7 +8887,7 @@
     "subjectCourse": "SOC190",
     "faculty": [
       {
-        "bannerId": "67400",
+        "bannerId": "60271",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25278",
@@ -8840,7 +8936,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880432,
@@ -8876,7 +8973,7 @@
     "subjectCourse": "SOC190",
     "faculty": [
       {
-        "bannerId": "67393",
+        "bannerId": "60259",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19502",
@@ -8925,7 +9022,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880442,
@@ -8961,7 +9059,7 @@
     "subjectCourse": "SOC197",
     "faculty": [
       {
-        "bannerId": "67394",
+        "bannerId": "60260",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19543",
@@ -9010,7 +9108,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880443,
@@ -9046,7 +9145,7 @@
     "subjectCourse": "SOC197",
     "faculty": [
       {
-        "bannerId": "67395",
+        "bannerId": "60261",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19546",
@@ -9095,7 +9194,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880444,
@@ -9131,7 +9231,7 @@
     "subjectCourse": "SOC197",
     "faculty": [
       {
-        "bannerId": "67398",
+        "bannerId": "60266",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19549",
@@ -9180,7 +9280,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880445,
@@ -9216,7 +9317,7 @@
     "subjectCourse": "SOC197",
     "faculty": [
       {
-        "bannerId": "67396",
+        "bannerId": "60263",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19551",
@@ -9265,7 +9366,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880446,
@@ -9301,7 +9403,7 @@
     "subjectCourse": "SOC197",
     "faculty": [
       {
-        "bannerId": "67397",
+        "bannerId": "60265",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19552",
@@ -9350,7 +9452,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880441,
@@ -9386,7 +9489,7 @@
     "subjectCourse": "SOC197",
     "faculty": [
       {
-        "bannerId": "67393",
+        "bannerId": "60259",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19540",
@@ -9435,7 +9538,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 903867,
@@ -9471,7 +9575,7 @@
     "subjectCourse": "SOC198I",
     "faculty": [
       {
-        "bannerId": "67398",
+        "bannerId": "60266",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38572",
@@ -9520,7 +9624,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC198I(\n Course or Test: Sociology 004 \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 884643,
@@ -9556,7 +9661,7 @@
     "subjectCourse": "SOC198I",
     "faculty": [
       {
-        "bannerId": "66615",
+        "bannerId": "60355",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31669",
@@ -9605,7 +9710,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC198I)\nand\n(\n Course or Test: Sociology 004 \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 918087,
@@ -9641,7 +9747,7 @@
     "subjectCourse": "SOC198I",
     "faculty": [
       {
-        "bannerId": "67400",
+        "bannerId": "60271",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38935",
@@ -9690,7 +9796,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SOC198I(\n Course or Test: Sociology 004 \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 880449,
@@ -9726,7 +9833,7 @@
     "subjectCourse": "SOC290",
     "faculty": [
       {
-        "bannerId": "67394",
+        "bannerId": "60260",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19570",
@@ -9775,7 +9882,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880450,
@@ -9811,7 +9919,7 @@
     "subjectCourse": "SOC290",
     "faculty": [
       {
-        "bannerId": "67395",
+        "bannerId": "60261",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19574",
@@ -9860,7 +9968,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880451,
@@ -9896,7 +10005,7 @@
     "subjectCourse": "SOC290",
     "faculty": [
       {
-        "bannerId": "67399",
+        "bannerId": "60267",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19577",
@@ -9945,7 +10054,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880452,
@@ -9981,7 +10091,7 @@
     "subjectCourse": "SOC290",
     "faculty": [
       {
-        "bannerId": "67396",
+        "bannerId": "60263",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19579",
@@ -10030,7 +10140,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880453,
@@ -10066,7 +10177,7 @@
     "subjectCourse": "SOC290",
     "faculty": [
       {
-        "bannerId": "67397",
+        "bannerId": "60265",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19580",
@@ -10115,7 +10226,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880454,
@@ -10151,7 +10263,7 @@
     "subjectCourse": "SOC290",
     "faculty": [
       {
-        "bannerId": "66663",
+        "bannerId": "60269",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19581",
@@ -10200,7 +10312,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880455,
@@ -10236,7 +10349,7 @@
     "subjectCourse": "SOC290",
     "faculty": [
       {
-        "bannerId": "66521",
+        "bannerId": "60270",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19584",
@@ -10285,7 +10398,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881108,
@@ -10321,7 +10435,7 @@
     "subjectCourse": "SOC290",
     "faculty": [
       {
-        "bannerId": "67400",
+        "bannerId": "60271",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22823",
@@ -10370,7 +10484,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880448,
@@ -10406,7 +10521,7 @@
     "subjectCourse": "SOC290",
     "faculty": [
       {
-        "bannerId": "67393",
+        "bannerId": "60259",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19569",
@@ -10455,7 +10570,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880458,
@@ -10491,7 +10607,7 @@
     "subjectCourse": "SOC291",
     "faculty": [
       {
-        "bannerId": "67394",
+        "bannerId": "60260",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19592",
@@ -10540,7 +10656,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880459,
@@ -10576,7 +10693,7 @@
     "subjectCourse": "SOC291",
     "faculty": [
       {
-        "bannerId": "67395",
+        "bannerId": "60261",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19596",
@@ -10625,7 +10742,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880460,
@@ -10661,7 +10779,7 @@
     "subjectCourse": "SOC291",
     "faculty": [
       {
-        "bannerId": "67398",
+        "bannerId": "60266",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19599",
@@ -10710,7 +10828,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880461,
@@ -10746,7 +10865,7 @@
     "subjectCourse": "SOC291",
     "faculty": [
       {
-        "bannerId": "67399",
+        "bannerId": "60267",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19600",
@@ -10795,7 +10914,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880462,
@@ -10831,7 +10951,7 @@
     "subjectCourse": "SOC291",
     "faculty": [
       {
-        "bannerId": "67401",
+        "bannerId": "60274",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19601",
@@ -10880,7 +11000,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880463,
@@ -10916,7 +11037,7 @@
     "subjectCourse": "SOC291",
     "faculty": [
       {
-        "bannerId": "67396",
+        "bannerId": "60263",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19603",
@@ -10965,7 +11086,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880464,
@@ -11001,7 +11123,7 @@
     "subjectCourse": "SOC291",
     "faculty": [
       {
-        "bannerId": "67397",
+        "bannerId": "60265",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19604",
@@ -11050,7 +11172,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880465,
@@ -11086,7 +11209,7 @@
     "subjectCourse": "SOC291",
     "faculty": [
       {
-        "bannerId": "66663",
+        "bannerId": "60269",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19605",
@@ -11135,7 +11258,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883898,
@@ -11171,7 +11295,7 @@
     "subjectCourse": "SOC291",
     "faculty": [
       {
-        "bannerId": "67392",
+        "bannerId": "60256",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29683",
@@ -11220,7 +11344,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884618,
@@ -11256,7 +11381,7 @@
     "subjectCourse": "SOC291",
     "faculty": [
       {
-        "bannerId": "66615",
+        "bannerId": "60355",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31635",
@@ -11305,7 +11430,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882659,
@@ -11341,7 +11467,7 @@
     "subjectCourse": "SOC291",
     "faculty": [
       {
-        "bannerId": "67416",
+        "bannerId": "60334",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26961",
@@ -11390,7 +11516,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886081,
@@ -11426,7 +11553,7 @@
     "subjectCourse": "SOC291",
     "faculty": [
       {
-        "bannerId": "67389",
+        "bannerId": "60248",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34887",
@@ -11475,7 +11602,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882896,
@@ -11511,7 +11639,7 @@
     "subjectCourse": "SOC291",
     "faculty": [
       {
-        "bannerId": "67413",
+        "bannerId": "60307",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27362",
@@ -11560,7 +11688,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880456,
@@ -11596,7 +11725,7 @@
     "subjectCourse": "SOC291",
     "faculty": [
       {
-        "bannerId": "67400",
+        "bannerId": "60271",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19587",
@@ -11645,7 +11774,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880457,
@@ -11681,7 +11811,7 @@
     "subjectCourse": "SOC291",
     "faculty": [
       {
-        "bannerId": "67393",
+        "bannerId": "60259",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19588",
@@ -11730,7 +11860,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880468,
@@ -11766,7 +11897,7 @@
     "subjectCourse": "SOC297",
     "faculty": [
       {
-        "bannerId": "67394",
+        "bannerId": "60260",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19617",
@@ -11815,7 +11946,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880469,
@@ -11851,7 +11983,7 @@
     "subjectCourse": "SOC297",
     "faculty": [
       {
-        "bannerId": "67395",
+        "bannerId": "60261",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19621",
@@ -11900,7 +12032,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880470,
@@ -11936,7 +12069,7 @@
     "subjectCourse": "SOC297",
     "faculty": [
       {
-        "bannerId": "67398",
+        "bannerId": "60266",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19624",
@@ -11985,7 +12118,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880471,
@@ -12021,7 +12155,7 @@
     "subjectCourse": "SOC297",
     "faculty": [
       {
-        "bannerId": "67399",
+        "bannerId": "60267",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19625",
@@ -12070,7 +12204,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880472,
@@ -12106,7 +12241,7 @@
     "subjectCourse": "SOC297",
     "faculty": [
       {
-        "bannerId": "67401",
+        "bannerId": "60274",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19626",
@@ -12155,7 +12290,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880473,
@@ -12191,7 +12327,7 @@
     "subjectCourse": "SOC297",
     "faculty": [
       {
-        "bannerId": "67396",
+        "bannerId": "60263",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19628",
@@ -12240,7 +12376,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880474,
@@ -12276,7 +12413,7 @@
     "subjectCourse": "SOC297",
     "faculty": [
       {
-        "bannerId": "67397",
+        "bannerId": "60265",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19629",
@@ -12325,7 +12462,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880475,
@@ -12361,7 +12499,7 @@
     "subjectCourse": "SOC297",
     "faculty": [
       {
-        "bannerId": "66663",
+        "bannerId": "60269",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19630",
@@ -12410,7 +12548,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883450,
@@ -12446,7 +12585,7 @@
     "subjectCourse": "SOC297",
     "faculty": [
       {
-        "bannerId": "67392",
+        "bannerId": "60256",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29112",
@@ -12495,7 +12634,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882660,
@@ -12531,7 +12671,7 @@
     "subjectCourse": "SOC297",
     "faculty": [
       {
-        "bannerId": "67416",
+        "bannerId": "60334",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26962",
@@ -12580,7 +12720,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882242,
@@ -12616,7 +12757,7 @@
     "subjectCourse": "SOC297",
     "faculty": [
       {
-        "bannerId": "67413",
+        "bannerId": "60307",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25444",
@@ -12665,7 +12806,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880466,
@@ -12701,7 +12843,7 @@
     "subjectCourse": "SOC297",
     "faculty": [
       {
-        "bannerId": "67400",
+        "bannerId": "60271",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19612",
@@ -12750,7 +12892,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882792,
@@ -12786,7 +12929,7 @@
     "subjectCourse": "SOC297",
     "faculty": [
       {
-        "bannerId": "66528",
+        "bannerId": "60277",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27231",
@@ -12835,7 +12978,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880467,
@@ -12871,7 +13015,7 @@
     "subjectCourse": "SOC297",
     "faculty": [
       {
-        "bannerId": "67393",
+        "bannerId": "60259",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19613",
@@ -12920,7 +13064,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882158,
@@ -12956,7 +13101,7 @@
     "subjectCourse": "SOC297",
     "faculty": [
       {
-        "bannerId": "67393",
+        "bannerId": "60259",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25323",
@@ -13005,7 +13150,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880479,
@@ -13041,7 +13187,7 @@
     "subjectCourse": "SOC299",
     "faculty": [
       {
-        "bannerId": "67394",
+        "bannerId": "60260",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19638",
@@ -13090,7 +13236,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880480,
@@ -13126,7 +13273,7 @@
     "subjectCourse": "SOC299",
     "faculty": [
       {
-        "bannerId": "67395",
+        "bannerId": "60261",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19643",
@@ -13175,7 +13322,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880481,
@@ -13211,7 +13359,7 @@
     "subjectCourse": "SOC299",
     "faculty": [
       {
-        "bannerId": "67398",
+        "bannerId": "60266",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19646",
@@ -13260,7 +13408,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880482,
@@ -13296,7 +13445,7 @@
     "subjectCourse": "SOC299",
     "faculty": [
       {
-        "bannerId": "67399",
+        "bannerId": "60267",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19647",
@@ -13345,7 +13494,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880483,
@@ -13381,7 +13531,7 @@
     "subjectCourse": "SOC299",
     "faculty": [
       {
-        "bannerId": "67401",
+        "bannerId": "60274",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19648",
@@ -13430,7 +13580,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885261,
@@ -13466,7 +13617,7 @@
     "subjectCourse": "SOC299",
     "faculty": [
       {
-        "bannerId": "67432",
+        "bannerId": "60369",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33293",
@@ -13515,7 +13666,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880484,
@@ -13551,7 +13703,7 @@
     "subjectCourse": "SOC299",
     "faculty": [
       {
-        "bannerId": "67396",
+        "bannerId": "60263",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19650",
@@ -13600,7 +13752,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880485,
@@ -13636,7 +13789,7 @@
     "subjectCourse": "SOC299",
     "faculty": [
       {
-        "bannerId": "67397",
+        "bannerId": "60265",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19651",
@@ -13685,7 +13838,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880486,
@@ -13721,7 +13875,7 @@
     "subjectCourse": "SOC299",
     "faculty": [
       {
-        "bannerId": "66663",
+        "bannerId": "60269",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19652",
@@ -13770,7 +13924,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885252,
@@ -13806,7 +13961,7 @@
     "subjectCourse": "SOC299",
     "faculty": [
       {
-        "bannerId": "67392",
+        "bannerId": "60256",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33283",
@@ -13855,7 +14010,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886245,
@@ -13891,7 +14047,7 @@
     "subjectCourse": "SOC299",
     "faculty": [
       {
-        "bannerId": "67438",
+        "bannerId": "60382",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35131",
@@ -13940,7 +14096,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885287,
@@ -13976,7 +14133,7 @@
     "subjectCourse": "SOC299",
     "faculty": [
       {
-        "bannerId": "66615",
+        "bannerId": "60355",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33324",
@@ -14025,7 +14182,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886199,
@@ -14061,7 +14219,7 @@
     "subjectCourse": "SOC299",
     "faculty": [
       {
-        "bannerId": "66926",
+        "bannerId": "60380",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35078",
@@ -14110,7 +14268,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880476,
@@ -14146,7 +14305,7 @@
     "subjectCourse": "SOC299",
     "faculty": [
       {
-        "bannerId": "67400",
+        "bannerId": "60271",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19635",
@@ -14195,7 +14354,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880478,
@@ -14231,7 +14391,7 @@
     "subjectCourse": "SOC299",
     "faculty": [
       {
-        "bannerId": "66528",
+        "bannerId": "60277",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19637",
@@ -14280,7 +14440,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880477,
@@ -14316,7 +14477,7 @@
     "subjectCourse": "SOC299",
     "faculty": [
       {
-        "bannerId": "67393",
+        "bannerId": "60259",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19636",
@@ -14365,7 +14526,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880487,
@@ -14439,6 +14601,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   }
 ]

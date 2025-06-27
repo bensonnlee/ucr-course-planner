@@ -33,7 +33,7 @@
     "subjectCourse": "ENSC001",
     "faculty": [
       {
-        "bannerId": "66416",
+        "bannerId": "56333",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14605",
@@ -43,7 +43,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66417",
+        "bannerId": "56334",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14605",
@@ -53,7 +53,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66418",
+        "bannerId": "56335",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14605",
@@ -63,7 +63,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66419",
+        "bannerId": "56336",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14605",
@@ -73,7 +73,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66420",
+        "bannerId": "56337",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14605",
@@ -83,7 +83,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66421",
+        "bannerId": "56338",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14605",
@@ -132,7 +132,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877869,
@@ -168,7 +169,7 @@
     "subjectCourse": "ENSC001",
     "faculty": [
       {
-        "bannerId": "66421",
+        "bannerId": "56338",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14606",
@@ -217,7 +218,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877870,
@@ -253,7 +255,7 @@
     "subjectCourse": "ENSC001",
     "faculty": [
       {
-        "bannerId": "66421",
+        "bannerId": "56338",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14607",
@@ -302,7 +304,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877871,
@@ -338,7 +341,7 @@
     "subjectCourse": "ENSC001",
     "faculty": [
       {
-        "bannerId": "66417",
+        "bannerId": "56334",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14608",
@@ -387,7 +390,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877872,
@@ -423,7 +427,7 @@
     "subjectCourse": "ENSC001",
     "faculty": [
       {
-        "bannerId": "66417",
+        "bannerId": "56334",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14609",
@@ -472,7 +476,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877873,
@@ -508,7 +513,7 @@
     "subjectCourse": "ENSC001",
     "faculty": [
       {
-        "bannerId": "66418",
+        "bannerId": "56335",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14610",
@@ -557,7 +562,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877874,
@@ -593,7 +599,7 @@
     "subjectCourse": "ENSC001",
     "faculty": [
       {
-        "bannerId": "66418",
+        "bannerId": "56335",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14611",
@@ -642,7 +648,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877875,
@@ -678,7 +685,7 @@
     "subjectCourse": "ENSC001",
     "faculty": [
       {
-        "bannerId": "66420",
+        "bannerId": "56337",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14612",
@@ -727,7 +734,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885521,
@@ -763,7 +771,7 @@
     "subjectCourse": "ENSC001",
     "faculty": [
       {
-        "bannerId": "66420",
+        "bannerId": "56337",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33592",
@@ -812,7 +820,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885523,
@@ -848,7 +857,7 @@
     "subjectCourse": "ENSC001",
     "faculty": [
       {
-        "bannerId": "66419",
+        "bannerId": "56336",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33596",
@@ -897,7 +906,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885524,
@@ -933,7 +943,7 @@
     "subjectCourse": "ENSC001",
     "faculty": [
       {
-        "bannerId": "66419",
+        "bannerId": "56336",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33597",
@@ -982,7 +992,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886499,
@@ -1018,7 +1029,7 @@
     "subjectCourse": "ENSC003",
     "faculty": [
       {
-        "bannerId": "66455",
+        "bannerId": "57329",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35416",
@@ -1028,7 +1039,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66464",
+        "bannerId": "57947",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35416",
@@ -1038,7 +1049,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66465",
+        "bannerId": "57954",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35416",
@@ -1087,7 +1098,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886500,
@@ -1123,7 +1135,7 @@
     "subjectCourse": "ENSC003",
     "faculty": [
       {
-        "bannerId": "66455",
+        "bannerId": "57329",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35417",
@@ -1133,7 +1145,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66464",
+        "bannerId": "57947",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35417",
@@ -1182,7 +1194,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886501,
@@ -1218,7 +1231,7 @@
     "subjectCourse": "ENSC003",
     "faculty": [
       {
-        "bannerId": "66455",
+        "bannerId": "57329",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35418",
@@ -1228,7 +1241,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66464",
+        "bannerId": "57947",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35418",
@@ -1277,7 +1290,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886502,
@@ -1313,7 +1327,7 @@
     "subjectCourse": "ENSC003",
     "faculty": [
       {
-        "bannerId": "66455",
+        "bannerId": "57329",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35419",
@@ -1323,7 +1337,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66465",
+        "bannerId": "57954",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35419",
@@ -1372,7 +1386,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886503,
@@ -1408,7 +1423,7 @@
     "subjectCourse": "ENSC003",
     "faculty": [
       {
-        "bannerId": "66455",
+        "bannerId": "57329",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35420",
@@ -1418,7 +1433,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66466",
+        "bannerId": "57989",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35420",
@@ -1467,7 +1482,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888757,
@@ -1503,7 +1519,7 @@
     "subjectCourse": "ENSC003",
     "faculty": [
       {
-        "bannerId": "66455",
+        "bannerId": "57329",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37328",
@@ -1513,7 +1529,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66466",
+        "bannerId": "57989",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37328",
@@ -1562,7 +1578,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877881,
@@ -1598,7 +1615,7 @@
     "subjectCourse": "ENSC100",
     "faculty": [
       {
-        "bannerId": "66422",
+        "bannerId": "56339",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14619",
@@ -1647,7 +1664,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENSC100(\n Course or Test: Chemistry 001C \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 01LC \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 01HC \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 01HLC \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Environmental Sciences 001 \n Minimum Grade of D-\n May be taken concurrently.)\nor\n(\n Course or Test: Environmental Sciences 002 \n Minimum Grade of D-\n May be taken concurrently.)\nor\n(\n Course or Test: Chemical and Environmental Eng 010 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 877882,
@@ -1683,7 +1701,7 @@
     "subjectCourse": "ENSC100",
     "faculty": [
       {
-        "bannerId": "66423",
+        "bannerId": "56340",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14620",
@@ -1732,7 +1750,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENSC100)\nand\n(\n Course or Test: Chemistry 001C \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 01LC \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 01HC \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 01HLC \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Environmental Sciences 001 \n Minimum Grade of D-\n May be taken concurrently.or\n Course or Test: Environmental Sciences 002 \n Minimum Grade of D-\n May be taken concurrently.or\n Course or Test: Chemical and Environmental Eng 010 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 877883,
@@ -1768,7 +1787,7 @@
     "subjectCourse": "ENSC100",
     "faculty": [
       {
-        "bannerId": "66424",
+        "bannerId": "56341",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14621",
@@ -1817,7 +1836,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENSC100)\nand\n(\n Course or Test: Chemistry 001C \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 01LC \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 01HC \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 01HLC \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Environmental Sciences 001 \n Minimum Grade of D-\n May be taken concurrently.or\n Course or Test: Environmental Sciences 002 \n Minimum Grade of D-\n May be taken concurrently.or\n Course or Test: Chemical and Environmental Eng 010 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 877884,
@@ -1853,7 +1873,7 @@
     "subjectCourse": "ENSC100",
     "faculty": [
       {
-        "bannerId": "66424",
+        "bannerId": "56341",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14622",
@@ -1902,7 +1922,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENSC100(\n Course or Test: Chemistry 001C \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 01LC \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Chemistry 01HC \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 01HLC \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Environmental Sciences 001 \n Minimum Grade of D-\n May be taken concurrently.or\n Course or Test: Environmental Sciences 002 \n Minimum Grade of D-\n May be taken concurrently.or\n Course or Test: Chemical and Environmental Eng 010 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 877885,
@@ -1938,7 +1959,7 @@
     "subjectCourse": "ENSC100",
     "faculty": [
       {
-        "bannerId": "66423",
+        "bannerId": "56340",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14623",
@@ -1987,7 +2008,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENSC100(\n Course or Test: Chemistry 001C \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 01LC \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 01HC \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 01HLC \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Environmental Sciences 001 \n Minimum Grade of D-\n May be taken concurrently.)\nor\n(\n Course or Test: Environmental Sciences 002 \n Minimum Grade of D-\n May be taken concurrently.)\nor\n(\n Course or Test: Chemical and Environmental Eng 010 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884656,
@@ -2023,7 +2045,7 @@
     "subjectCourse": "ENSC100",
     "faculty": [
       {
-        "bannerId": "66457",
+        "bannerId": "57552",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31698",
@@ -2072,7 +2094,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENSC100(\n Course or Test: Chemistry 001C \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 01LC \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 01HC \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 01HLC \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Environmental Sciences 001 \n Minimum Grade of D-\n May be taken concurrently.)\nor\n(\n Course or Test: Environmental Sciences 002 \n Minimum Grade of D-\n May be taken concurrently.)\nor\n(\n Course or Test: Chemical and Environmental Eng 010 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884892,
@@ -2108,7 +2131,7 @@
     "subjectCourse": "ENSC133",
     "faculty": [
       {
-        "bannerId": "65564",
+        "bannerId": "57225",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32611",
@@ -2118,7 +2141,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66458",
+        "bannerId": "57563",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32611",
@@ -2167,7 +2190,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENSC133)\nand\n(\n Course or Test: Biology 005A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Biology 05LA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Biology 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Biology 005B \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Biology 005C \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884893,
@@ -2203,7 +2227,7 @@
     "subjectCourse": "ENSC133",
     "faculty": [
       {
-        "bannerId": "66458",
+        "bannerId": "57563",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32612",
@@ -2252,7 +2276,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENSC133(\n Course or Test: Biology 005A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Biology 05LA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Biology 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Biology 005B \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Biology 005C \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884894,
@@ -2288,7 +2313,7 @@
     "subjectCourse": "ENSC133",
     "faculty": [
       {
-        "bannerId": "66458",
+        "bannerId": "57563",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32613",
@@ -2337,7 +2362,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENSC133)\nand\n(\n Course or Test: Biology 005A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Biology 05LA \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Biology 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Biology 005B \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Biology 005C \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884895,
@@ -2373,7 +2399,7 @@
     "subjectCourse": "ENSC133",
     "faculty": [
       {
-        "bannerId": "66458",
+        "bannerId": "57563",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32614",
@@ -2422,7 +2448,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENSC133(\n Course or Test: Biology 005A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Biology 05LA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Biology 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Biology 005B \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Biology 005C \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884896,
@@ -2458,7 +2485,7 @@
     "subjectCourse": "ENSC133",
     "faculty": [
       {
-        "bannerId": "66458",
+        "bannerId": "57563",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32616",
@@ -2507,7 +2534,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENSC133(\n Course or Test: Biology 005A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Biology 05LA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Biology 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Biology 005B \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Biology 005C \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 881255,
@@ -2543,7 +2571,7 @@
     "subjectCourse": "ENSC135",
     "faculty": [
       {
-        "bannerId": "65588",
+        "bannerId": "56345",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23228",
@@ -2592,7 +2620,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENSC135)\nand\n(\n Course or Test: Chemistry 008A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 08LA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 08HA \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 08HLA \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Chemistry 12HA \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Chemistry 12A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 008B \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 08LB \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 08HB \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 08HLB \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 12B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 12HB \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 881256,
@@ -2628,7 +2657,7 @@
     "subjectCourse": "ENSC135",
     "faculty": [
       {
-        "bannerId": "65588",
+        "bannerId": "56345",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23229",
@@ -2638,7 +2667,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65666",
+        "bannerId": "56695",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23229",
@@ -2687,7 +2716,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENSC135(\n Course or Test: Chemistry 008A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 08LA \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Chemistry 08HA \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 08HLA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 12HA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 12A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Chemistry 008B \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 08LB \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Chemistry 08HB \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 08HLB \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Chemistry 12B \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Chemistry 12HB \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 881265,
@@ -2723,7 +2753,7 @@
     "subjectCourse": "ENSC136",
     "faculty": [
       {
-        "bannerId": "65667",
+        "bannerId": "56713",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23257",
@@ -2772,7 +2802,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENSC136(\n Course or Test: Chemistry 005 \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Environmental Sciences 101 \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 881266,
@@ -2808,7 +2839,7 @@
     "subjectCourse": "ENSC136",
     "faculty": [
       {
-        "bannerId": "65667",
+        "bannerId": "56713",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23263",
@@ -2857,7 +2888,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENSC136)\nand\n(\n Course or Test: Chemistry 005 \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Environmental Sciences 101 \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 882370,
@@ -2893,7 +2925,7 @@
     "subjectCourse": "ENSC140",
     "faculty": [
       {
-        "bannerId": "66448",
+        "bannerId": "56908",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25873",
@@ -2942,7 +2974,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENSC140(\n Course or Test: Environmental Sciences 101 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 882371,
@@ -2978,7 +3011,7 @@
     "subjectCourse": "ENSC140",
     "faculty": [
       {
-        "bannerId": "66448",
+        "bannerId": "56908",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25874",
@@ -3027,7 +3060,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENSC140)\nand\n(\n Course or Test: Environmental Sciences 101 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 886495,
@@ -3063,7 +3097,7 @@
     "subjectCourse": "ENSC163",
     "faculty": [
       {
-        "bannerId": "66452",
+        "bannerId": "57220",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35411",
@@ -3112,7 +3146,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENSC163(\n Course or Test: Environmental Sciences 100 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Environmental Sciences 101 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Environmental Sciences 110 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 007B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HB \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 886496,
@@ -3148,7 +3183,7 @@
     "subjectCourse": "ENSC163",
     "faculty": [
       {
-        "bannerId": "66452",
+        "bannerId": "57220",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35412",
@@ -3197,7 +3232,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENSC163)\nand\n(\n Course or Test: Environmental Sciences 100 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Environmental Sciences 101 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Environmental Sciences 110 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mathematics 007B \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 009B \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 09HB \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 903989,
@@ -3233,7 +3269,7 @@
     "subjectCourse": "ENSC190",
     "faculty": [
       {
-        "bannerId": "66447",
+        "bannerId": "56814",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38585",
@@ -3244,40 +3280,6 @@
       }
     ],
     "meetingsFaculty": [
-      {
-        "category": "01",
-        "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
-        "courseReferenceNumber": "38585",
-        "faculty": [],
-        "meetingTime": {
-          "beginTime": "0930",
-          "building": "GEOL",
-          "buildingDescription": "Geology",
-          "campus": "C",
-          "campusDescription": "Riverside",
-          "category": "01",
-          "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
-          "courseReferenceNumber": "38585",
-          "creditHourSession": 1.0,
-          "endDate": "12/06/2024",
-          "endTime": "1050",
-          "friday": false,
-          "hoursWeek": 2.66,
-          "meetingScheduleType": "TUT",
-          "meetingType": "TUT",
-          "meetingTypeDescription": "Tutorial",
-          "monday": false,
-          "room": "2218",
-          "saturday": false,
-          "startDate": "09/26/2024",
-          "sunday": false,
-          "term": "202440",
-          "thursday": true,
-          "tuesday": true,
-          "wednesday": false
-        },
-        "term": "202440"
-      },
       {
         "category": "02",
         "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
@@ -3311,12 +3313,47 @@
           "wednesday": true
         },
         "term": "202440"
+      },
+      {
+        "category": "01",
+        "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
+        "courseReferenceNumber": "38585",
+        "faculty": [],
+        "meetingTime": {
+          "beginTime": "0930",
+          "building": "GEOL",
+          "buildingDescription": "Geology",
+          "campus": "C",
+          "campusDescription": "Riverside",
+          "category": "01",
+          "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
+          "courseReferenceNumber": "38585",
+          "creditHourSession": 1.0,
+          "endDate": "12/06/2024",
+          "endTime": "1050",
+          "friday": false,
+          "hoursWeek": 2.66,
+          "meetingScheduleType": "TUT",
+          "meetingType": "TUT",
+          "meetingTypeDescription": "Tutorial",
+          "monday": false,
+          "room": "2218",
+          "saturday": false,
+          "startDate": "09/26/2024",
+          "sunday": false,
+          "term": "202440",
+          "thursday": true,
+          "tuesday": true,
+          "wednesday": false
+        },
+        "term": "202440"
       }
     ],
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877886,
@@ -3352,7 +3389,7 @@
     "subjectCourse": "ENSC191",
     "faculty": [
       {
-        "bannerId": "66425",
+        "bannerId": "56342",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14640",
@@ -3401,7 +3438,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883518,
@@ -3437,7 +3475,7 @@
     "subjectCourse": "ENSC197",
     "faculty": [
       {
-        "bannerId": "66453",
+        "bannerId": "57272",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29232",
@@ -3486,7 +3524,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884015,
@@ -3522,7 +3561,7 @@
     "subjectCourse": "ENSC197",
     "faculty": [
       {
-        "bannerId": "66422",
+        "bannerId": "56339",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29840",
@@ -3571,7 +3610,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885116,
@@ -3607,7 +3647,7 @@
     "subjectCourse": "ENSC197",
     "faculty": [
       {
-        "bannerId": "66427",
+        "bannerId": "56344",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33082",
@@ -3656,7 +3696,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885095,
@@ -3692,7 +3733,7 @@
     "subjectCourse": "ENSC197",
     "faculty": [
       {
-        "bannerId": "66451",
+        "bannerId": "57178",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33038",
@@ -3741,7 +3782,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885227,
@@ -3777,7 +3819,7 @@
     "subjectCourse": "ENSC197",
     "faculty": [
       {
-        "bannerId": "66441",
+        "bannerId": "56675",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33231",
@@ -3826,7 +3868,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883953,
@@ -3862,7 +3905,7 @@
     "subjectCourse": "ENSC197",
     "faculty": [
       {
-        "bannerId": "66447",
+        "bannerId": "56814",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29763",
@@ -3911,7 +3954,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883893,
@@ -3947,7 +3991,7 @@
     "subjectCourse": "ENSC197",
     "faculty": [
       {
-        "bannerId": "66454",
+        "bannerId": "57300",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29678",
@@ -3996,7 +4040,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884034,
@@ -4032,7 +4077,7 @@
     "subjectCourse": "ENSC197",
     "faculty": [
       {
-        "bannerId": "66452",
+        "bannerId": "57220",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29870",
@@ -4081,7 +4126,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885284,
@@ -4117,7 +4163,7 @@
     "subjectCourse": "ENSC197",
     "faculty": [
       {
-        "bannerId": "65667",
+        "bannerId": "56713",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33321",
@@ -4166,7 +4212,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883452,
@@ -4202,7 +4249,7 @@
     "subjectCourse": "ENSC197",
     "faculty": [
       {
-        "bannerId": "66416",
+        "bannerId": "56333",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29114",
@@ -4251,7 +4298,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883053,
@@ -4287,7 +4335,7 @@
     "subjectCourse": "ENSC198I",
     "faculty": [
       {
-        "bannerId": "66447",
+        "bannerId": "56814",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27571",
@@ -4336,7 +4384,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 918505,
@@ -4372,7 +4421,7 @@
     "subjectCourse": "ENSC198I",
     "faculty": [
       {
-        "bannerId": "66455",
+        "bannerId": "57329",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38937",
@@ -4421,7 +4470,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888766,
@@ -4457,7 +4507,7 @@
     "subjectCourse": "ENSC232",
     "faculty": [
       {
-        "bannerId": "66454",
+        "bannerId": "57300",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37336",
@@ -4506,7 +4556,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888767,
@@ -4542,7 +4593,7 @@
     "subjectCourse": "ENSC232",
     "faculty": [
       {
-        "bannerId": "66454",
+        "bannerId": "57300",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37337",
@@ -4591,7 +4642,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877889,
@@ -4627,7 +4679,7 @@
     "subjectCourse": "ENSC290",
     "faculty": [
       {
-        "bannerId": "66426",
+        "bannerId": "56343",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14679",
@@ -4676,7 +4728,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 903990,
@@ -4712,7 +4765,7 @@
     "subjectCourse": "ENSC290",
     "faculty": [
       {
-        "bannerId": "66447",
+        "bannerId": "56814",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38586",
@@ -4723,40 +4776,6 @@
       }
     ],
     "meetingsFaculty": [
-      {
-        "category": "01",
-        "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
-        "courseReferenceNumber": "38586",
-        "faculty": [],
-        "meetingTime": {
-          "beginTime": "0930",
-          "building": "GEOL",
-          "buildingDescription": "Geology",
-          "campus": "C",
-          "campusDescription": "Riverside",
-          "category": "01",
-          "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
-          "courseReferenceNumber": "38586",
-          "creditHourSession": 1.0,
-          "endDate": "12/06/2024",
-          "endTime": "1050",
-          "friday": false,
-          "hoursWeek": 2.66,
-          "meetingScheduleType": "CON",
-          "meetingType": "CON",
-          "meetingTypeDescription": "Consultation",
-          "monday": false,
-          "room": "2218",
-          "saturday": false,
-          "startDate": "09/26/2024",
-          "sunday": false,
-          "term": "202440",
-          "thursday": true,
-          "tuesday": true,
-          "wednesday": false
-        },
-        "term": "202440"
-      },
       {
         "category": "02",
         "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
@@ -4790,12 +4809,47 @@
           "wednesday": true
         },
         "term": "202440"
+      },
+      {
+        "category": "01",
+        "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
+        "courseReferenceNumber": "38586",
+        "faculty": [],
+        "meetingTime": {
+          "beginTime": "0930",
+          "building": "GEOL",
+          "buildingDescription": "Geology",
+          "campus": "C",
+          "campusDescription": "Riverside",
+          "category": "01",
+          "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
+          "courseReferenceNumber": "38586",
+          "creditHourSession": 1.0,
+          "endDate": "12/06/2024",
+          "endTime": "1050",
+          "friday": false,
+          "hoursWeek": 2.66,
+          "meetingScheduleType": "CON",
+          "meetingType": "CON",
+          "meetingTypeDescription": "Consultation",
+          "monday": false,
+          "room": "2218",
+          "saturday": false,
+          "startDate": "09/26/2024",
+          "sunday": false,
+          "term": "202440",
+          "thursday": true,
+          "tuesday": true,
+          "wednesday": false
+        },
+        "term": "202440"
       }
     ],
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883895,
@@ -4831,7 +4885,7 @@
     "subjectCourse": "ENSC290",
     "faculty": [
       {
-        "bannerId": "66454",
+        "bannerId": "57300",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29680",
@@ -4880,7 +4934,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882866,
@@ -4916,7 +4971,7 @@
     "subjectCourse": "ENSC290",
     "faculty": [
       {
-        "bannerId": "66416",
+        "bannerId": "56333",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27325",
@@ -4965,7 +5020,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884478,
@@ -5001,7 +5057,7 @@
     "subjectCourse": "ENSC292",
     "faculty": [
       {
-        "bannerId": "65588",
+        "bannerId": "56345",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31458",
@@ -5050,7 +5106,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882940,
@@ -5086,7 +5143,7 @@
     "subjectCourse": "ENSC292",
     "faculty": [
       {
-        "bannerId": "66447",
+        "bannerId": "56814",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27414",
@@ -5135,7 +5192,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882932,
@@ -5171,7 +5229,7 @@
     "subjectCourse": "ENSC292",
     "faculty": [
       {
-        "bannerId": "66452",
+        "bannerId": "57220",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27402",
@@ -5220,7 +5278,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884462,
@@ -5256,7 +5315,7 @@
     "subjectCourse": "ENSC297",
     "faculty": [
       {
-        "bannerId": "66453",
+        "bannerId": "57272",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31440",
@@ -5305,7 +5364,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885269,
@@ -5341,7 +5401,7 @@
     "subjectCourse": "ENSC297",
     "faculty": [
       {
-        "bannerId": "66422",
+        "bannerId": "56339",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33303",
@@ -5390,7 +5450,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877891,
@@ -5426,7 +5487,7 @@
     "subjectCourse": "ENSC297",
     "faculty": [
       {
-        "bannerId": "66426",
+        "bannerId": "56343",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14696",
@@ -5475,7 +5536,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884444,
@@ -5511,7 +5573,7 @@
     "subjectCourse": "ENSC297",
     "faculty": [
       {
-        "bannerId": "65705",
+        "bannerId": "56878",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31419",
@@ -5560,7 +5622,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883927,
@@ -5596,7 +5659,7 @@
     "subjectCourse": "ENSC297",
     "faculty": [
       {
-        "bannerId": "65292",
+        "bannerId": "57277",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29732",
@@ -5645,7 +5708,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877892,
@@ -5681,7 +5745,7 @@
     "subjectCourse": "ENSC297",
     "faculty": [
       {
-        "bannerId": "66427",
+        "bannerId": "56344",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14699",
@@ -5730,7 +5794,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882781,
@@ -5766,7 +5831,7 @@
     "subjectCourse": "ENSC297",
     "faculty": [
       {
-        "bannerId": "66451",
+        "bannerId": "57178",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27208",
@@ -5815,7 +5880,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883158,
@@ -5851,7 +5917,7 @@
     "subjectCourse": "ENSC297",
     "faculty": [
       {
-        "bannerId": "66429",
+        "bannerId": "56386",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27995",
@@ -5900,7 +5966,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882905,
@@ -5936,7 +6003,7 @@
     "subjectCourse": "ENSC297",
     "faculty": [
       {
-        "bannerId": "65588",
+        "bannerId": "56345",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27372",
@@ -5985,7 +6052,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882924,
@@ -6021,7 +6089,7 @@
     "subjectCourse": "ENSC297",
     "faculty": [
       {
-        "bannerId": "66441",
+        "bannerId": "56675",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27393",
@@ -6070,7 +6138,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884461,
@@ -6106,7 +6175,7 @@
     "subjectCourse": "ENSC297",
     "faculty": [
       {
-        "bannerId": "66447",
+        "bannerId": "56814",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31439",
@@ -6155,7 +6224,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 903907,
@@ -6191,7 +6261,7 @@
     "subjectCourse": "ENSC297",
     "faculty": [
       {
-        "bannerId": "66448",
+        "bannerId": "56908",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38575",
@@ -6240,7 +6310,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883897,
@@ -6276,7 +6347,7 @@
     "subjectCourse": "ENSC297",
     "faculty": [
       {
-        "bannerId": "66454",
+        "bannerId": "57300",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29682",
@@ -6325,7 +6396,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883046,
@@ -6361,7 +6433,7 @@
     "subjectCourse": "ENSC297",
     "faculty": [
       {
-        "bannerId": "66452",
+        "bannerId": "57220",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27556",
@@ -6410,7 +6482,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883880,
@@ -6446,7 +6519,7 @@
     "subjectCourse": "ENSC297",
     "faculty": [
       {
-        "bannerId": "65667",
+        "bannerId": "56713",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29662",
@@ -6495,7 +6568,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883960,
@@ -6531,7 +6605,7 @@
     "subjectCourse": "ENSC297",
     "faculty": [
       {
-        "bannerId": "66455",
+        "bannerId": "57329",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29773",
@@ -6580,7 +6654,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882867,
@@ -6616,7 +6691,7 @@
     "subjectCourse": "ENSC297",
     "faculty": [
       {
-        "bannerId": "66416",
+        "bannerId": "56333",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27326",
@@ -6665,7 +6740,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877890,
@@ -6701,7 +6777,7 @@
     "subjectCourse": "ENSC297",
     "faculty": [
       {
-        "bannerId": "66425",
+        "bannerId": "56342",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14681",
@@ -6750,7 +6826,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883854,
@@ -6786,7 +6863,7 @@
     "subjectCourse": "ENSC299",
     "faculty": [
       {
-        "bannerId": "66453",
+        "bannerId": "57272",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29636",
@@ -6835,7 +6912,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880883,
@@ -6871,7 +6949,7 @@
     "subjectCourse": "ENSC299",
     "faculty": [
       {
-        "bannerId": "66422",
+        "bannerId": "56339",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22256",
@@ -6920,7 +6998,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877895,
@@ -6956,7 +7035,7 @@
     "subjectCourse": "ENSC299",
     "faculty": [
       {
-        "bannerId": "66426",
+        "bannerId": "56343",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14718",
@@ -7005,7 +7084,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884445,
@@ -7041,7 +7121,7 @@
     "subjectCourse": "ENSC299",
     "faculty": [
       {
-        "bannerId": "65705",
+        "bannerId": "56878",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31420",
@@ -7090,7 +7170,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883652,
@@ -7126,7 +7207,7 @@
     "subjectCourse": "ENSC299",
     "faculty": [
       {
-        "bannerId": "65292",
+        "bannerId": "57277",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29383",
@@ -7175,7 +7256,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877896,
@@ -7211,7 +7293,7 @@
     "subjectCourse": "ENSC299",
     "faculty": [
       {
-        "bannerId": "66427",
+        "bannerId": "56344",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14723",
@@ -7260,7 +7342,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885389,
@@ -7296,7 +7379,7 @@
     "subjectCourse": "ENSC299",
     "faculty": [
       {
-        "bannerId": "66015",
+        "bannerId": "57756",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33454",
@@ -7345,7 +7428,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877897,
@@ -7381,7 +7465,7 @@
     "subjectCourse": "ENSC299",
     "faculty": [
       {
-        "bannerId": "66428",
+        "bannerId": "56346",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14726",
@@ -7430,7 +7514,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882797,
@@ -7466,7 +7551,7 @@
     "subjectCourse": "ENSC299",
     "faculty": [
       {
-        "bannerId": "66451",
+        "bannerId": "57178",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27239",
@@ -7515,7 +7600,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883159,
@@ -7551,7 +7637,7 @@
     "subjectCourse": "ENSC299",
     "faculty": [
       {
-        "bannerId": "66429",
+        "bannerId": "56386",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27996",
@@ -7600,7 +7686,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877893,
@@ -7636,7 +7723,7 @@
     "subjectCourse": "ENSC299",
     "faculty": [
       {
-        "bannerId": "65588",
+        "bannerId": "56345",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14704",
@@ -7685,7 +7772,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881008,
@@ -7721,7 +7809,7 @@
     "subjectCourse": "ENSC299",
     "faculty": [
       {
-        "bannerId": "66441",
+        "bannerId": "56675",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22666",
@@ -7770,7 +7858,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882143,
@@ -7806,7 +7895,7 @@
     "subjectCourse": "ENSC299",
     "faculty": [
       {
-        "bannerId": "66447",
+        "bannerId": "56814",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25306",
@@ -7855,7 +7944,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 903908,
@@ -7891,7 +7981,7 @@
     "subjectCourse": "ENSC299",
     "faculty": [
       {
-        "bannerId": "66448",
+        "bannerId": "56908",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38576",
@@ -7940,7 +8030,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883894,
@@ -7976,7 +8067,7 @@
     "subjectCourse": "ENSC299",
     "faculty": [
       {
-        "bannerId": "66454",
+        "bannerId": "57300",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29679",
@@ -8025,7 +8116,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883056,
@@ -8061,7 +8153,7 @@
     "subjectCourse": "ENSC299",
     "faculty": [
       {
-        "bannerId": "66452",
+        "bannerId": "57220",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27580",
@@ -8110,7 +8202,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883881,
@@ -8146,7 +8239,7 @@
     "subjectCourse": "ENSC299",
     "faculty": [
       {
-        "bannerId": "65667",
+        "bannerId": "56713",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29663",
@@ -8195,7 +8288,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883961,
@@ -8231,7 +8325,7 @@
     "subjectCourse": "ENSC299",
     "faculty": [
       {
-        "bannerId": "66455",
+        "bannerId": "57329",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29774",
@@ -8280,7 +8374,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882868,
@@ -8316,7 +8411,7 @@
     "subjectCourse": "ENSC299",
     "faculty": [
       {
-        "bannerId": "66416",
+        "bannerId": "56333",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27327",
@@ -8365,7 +8460,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877894,
@@ -8401,7 +8497,7 @@
     "subjectCourse": "ENSC299",
     "faculty": [
       {
-        "bannerId": "66425",
+        "bannerId": "56342",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14705",
@@ -8450,7 +8546,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882350,
@@ -8486,7 +8583,7 @@
     "subjectCourse": "ENSC302",
     "faculty": [
       {
-        "bannerId": "66422",
+        "bannerId": "56339",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25604",
@@ -8535,7 +8632,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877898,
@@ -8571,7 +8669,7 @@
     "subjectCourse": "ENSC302",
     "faculty": [
       {
-        "bannerId": "66426",
+        "bannerId": "56343",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14738",
@@ -8620,7 +8718,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877899,
@@ -8656,7 +8755,7 @@
     "subjectCourse": "ENSC302",
     "faculty": [
       {
-        "bannerId": "66427",
+        "bannerId": "56344",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14739",
@@ -8705,7 +8804,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877900,
@@ -8741,7 +8841,7 @@
     "subjectCourse": "ENSC302",
     "faculty": [
       {
-        "bannerId": "66428",
+        "bannerId": "56346",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14741",
@@ -8790,7 +8890,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886497,
@@ -8826,7 +8927,7 @@
     "subjectCourse": "ENSC401",
     "faculty": [
       {
-        "bannerId": "66427",
+        "bannerId": "56344",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35414",
@@ -8875,7 +8976,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886498,
@@ -8911,7 +9013,7 @@
     "subjectCourse": "ENSC401",
     "faculty": [
       {
-        "bannerId": "66427",
+        "bannerId": "56344",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35415",
@@ -8960,6 +9062,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   }
 ]

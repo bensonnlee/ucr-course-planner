@@ -33,7 +33,7 @@
     "subjectCourse": "FREN001",
     "faculty": [
       {
-        "bannerId": "66488",
+        "bannerId": "57458",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25908",
@@ -82,7 +82,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:FREN001Language: French Prereq 600 to 601\n May not be taken concurrently.)"
   },
   {
     "id": 878191,
@@ -118,7 +119,7 @@
     "subjectCourse": "FREN001",
     "faculty": [
       {
-        "bannerId": "65943",
+        "bannerId": "57442",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15239",
@@ -128,7 +129,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66487",
+        "bannerId": "57449",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15239",
@@ -177,7 +178,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:FREN001Language: French Prereq 600 to 601\n May not be taken concurrently.)"
   },
   {
     "id": 878192,
@@ -213,7 +215,7 @@
     "subjectCourse": "FREN002",
     "faculty": [
       {
-        "bannerId": "65943",
+        "bannerId": "57442",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15240",
@@ -262,7 +264,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:FREN002(\n Course or Test: French 001 \n Minimum Grade of C-\n May not be taken concurrently.Language: French Prereq 602 to 603\n May not be taken concurrently.)"
   },
   {
     "id": 889284,
@@ -298,7 +301,7 @@
     "subjectCourse": "FREN003",
     "faculty": [
       {
-        "bannerId": "66488",
+        "bannerId": "57458",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37732",
@@ -347,7 +350,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:FREN003(\n Course or Test: French 002 \n Minimum Grade of C-\n May not be taken concurrently.Language: French Prereq 604 to 605\n May not be taken concurrently."
   },
   {
     "id": 882874,
@@ -383,7 +387,7 @@
     "subjectCourse": "FREN003",
     "faculty": [
       {
-        "bannerId": "65943",
+        "bannerId": "57442",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27333",
@@ -432,7 +436,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:FREN003)\nand\n(\n Course or Test: French 002 \n Minimum Grade of C-\n May not be taken concurrently.Language: French Prereq 604 to 605\n May not be taken concurrently."
   },
   {
     "id": 878193,
@@ -468,7 +473,7 @@
     "subjectCourse": "FREN004",
     "faculty": [
       {
-        "bannerId": "66488",
+        "bannerId": "57458",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15243",
@@ -517,7 +522,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:FREN004(\n Course or Test: French 003 \n Minimum Grade of C-\n May not be taken concurrently.Language: French Prereq 606 to 607\n May not be taken concurrently."
   },
   {
     "id": 878194,
@@ -553,7 +559,7 @@
     "subjectCourse": "FREN015A",
     "faculty": [
       {
-        "bannerId": "66489",
+        "bannerId": "57465",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15245",
@@ -602,7 +608,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:FREN015A)\nand\n(\n Course or Test: French 004 \n Minimum Grade of C\n May not be taken concurrently.Language: French Prereq 608 to 609\n May not be taken concurrently."
   },
   {
     "id": 878195,
@@ -638,7 +645,7 @@
     "subjectCourse": "FREN101A",
     "faculty": [
       {
-        "bannerId": "66489",
+        "bannerId": "57465",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15247",
@@ -687,7 +694,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:FREN101A(\n Course or Test: French 015B \n Minimum Grade of C\n May not be taken concurrently.)"
   },
   {
     "id": 889187,
@@ -723,7 +731,7 @@
     "subjectCourse": "FREN112",
     "faculty": [
       {
-        "bannerId": "65662",
+        "bannerId": "57483",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37668",
@@ -772,7 +780,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:FREN112(\n Course or Test: French 101A \n Minimum Grade of C\n May not be taken concurrently.)"
   },
   {
     "id": 878196,
@@ -808,7 +817,7 @@
     "subjectCourse": "FREN190",
     "faculty": [
       {
-        "bannerId": "65661",
+        "bannerId": "57477",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15251",
@@ -857,7 +866,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878197,
@@ -893,7 +903,7 @@
     "subjectCourse": "FREN190",
     "faculty": [
       {
-        "bannerId": "65662",
+        "bannerId": "57483",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15252",
@@ -942,7 +952,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878198,
@@ -978,7 +989,7 @@
     "subjectCourse": "FREN290",
     "faculty": [
       {
-        "bannerId": "65661",
+        "bannerId": "57477",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15256",
@@ -1027,6 +1038,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   }
 ]

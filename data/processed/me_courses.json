@@ -33,7 +33,7 @@
     "subjectCourse": "ME009",
     "faculty": [
       {
-        "bannerId": "66910",
+        "bannerId": "57461",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26381",
@@ -82,7 +82,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882495,
@@ -118,7 +119,7 @@
     "subjectCourse": "ME009",
     "faculty": [
       {
-        "bannerId": "66910",
+        "bannerId": "57461",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26385",
@@ -179,7 +180,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882493,
@@ -215,7 +217,7 @@
     "subjectCourse": "ME009",
     "faculty": [
       {
-        "bannerId": "66910",
+        "bannerId": "57461",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26383",
@@ -276,7 +278,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882494,
@@ -312,7 +315,7 @@
     "subjectCourse": "ME009",
     "faculty": [
       {
-        "bannerId": "66910",
+        "bannerId": "57461",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26384",
@@ -373,7 +376,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884744,
@@ -409,7 +413,7 @@
     "subjectCourse": "ME018A",
     "faculty": [
       {
-        "bannerId": "65113",
+        "bannerId": "57206",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32145",
@@ -419,7 +423,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66216",
+        "bannerId": "57500",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32145",
@@ -468,7 +472,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME018A(\n Course or Test: Mathematics 009A \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HA \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 884745,
@@ -504,7 +509,7 @@
     "subjectCourse": "ME018A",
     "faculty": [
       {
-        "bannerId": "66927",
+        "bannerId": "58746",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32146",
@@ -514,7 +519,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66216",
+        "bannerId": "57500",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32146",
@@ -575,7 +580,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME018A)\nand\n(\n Course or Test: Mathematics 009A \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HA \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 884845,
@@ -611,7 +617,7 @@
     "subjectCourse": "ME018A",
     "faculty": [
       {
-        "bannerId": "66927",
+        "bannerId": "58746",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32472",
@@ -621,7 +627,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66216",
+        "bannerId": "57500",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32472",
@@ -682,7 +688,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME018A(\n Course or Test: Mathematics 009A \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Mathematics 09HA \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 889736,
@@ -718,7 +725,7 @@
     "subjectCourse": "ME018B",
     "faculty": [
       {
-        "bannerId": "66911",
+        "bannerId": "57469",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37961",
@@ -767,7 +774,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME018B)\nand\n(\n Course or Test: Mechanical Engineering 018A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Physics 040A \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Physics 041A \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 889737,
@@ -803,7 +811,7 @@
     "subjectCourse": "ME018B",
     "faculty": [
       {
-        "bannerId": "66941",
+        "bannerId": "59505",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37962",
@@ -864,7 +872,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME018B)\nand\n(\n Course or Test: Mechanical Engineering 018A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Physics 040A \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Physics 041A \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 889738,
@@ -900,7 +909,7 @@
     "subjectCourse": "ME018B",
     "faculty": [
       {
-        "bannerId": "66933",
+        "bannerId": "59111",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37963",
@@ -961,7 +970,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME018B(\n Course or Test: Mechanical Engineering 018A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Physics 040A \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Physics 041A \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 878985,
@@ -997,7 +1007,7 @@
     "subjectCourse": "ME100A",
     "faculty": [
       {
-        "bannerId": "66761",
+        "bannerId": "57194",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16957",
@@ -1046,7 +1056,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME100A(\n Course or Test: Mathematics 010A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mechanical Engineering 018B \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Mechanical Engineering 018 \n Minimum Grade of C-\n May not be taken concurrently.and\n Course or Test: Physics 040B \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Physics 040HB \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 878986,
@@ -1082,23 +1093,23 @@
     "subjectCourse": "ME100A",
     "faculty": [
       {
-        "bannerId": "66901",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "16958",
-        "displayName": "Soundararaj, Shri Hari",
-        "emailAddress": "shrihari.soundararaj@email.ucr.edu",
-        "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "66761",
+        "bannerId": "57194",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16958",
         "displayName": "Coh, Sinisa",
         "emailAddress": "sinisa.coh@ucr.edu",
         "primaryIndicator": true,
+        "term": "202440"
+      },
+      {
+        "bannerId": "57198",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "16958",
+        "displayName": "Soundararaj, Shri Hari",
+        "emailAddress": "shrihari.soundararaj@email.ucr.edu",
+        "primaryIndicator": false,
         "term": "202440"
       }
     ],
@@ -1153,7 +1164,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME100A(\n Course or Test: Mathematics 010A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 018B \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mechanical Engineering 018 \n Minimum Grade of C-\n May not be taken concurrently.)\nand\n(\n Course or Test: Physics 040B \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Physics 040HB \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 878987,
@@ -1189,23 +1201,23 @@
     "subjectCourse": "ME100A",
     "faculty": [
       {
-        "bannerId": "66901",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "16959",
-        "displayName": "Soundararaj, Shri Hari",
-        "emailAddress": "shrihari.soundararaj@email.ucr.edu",
-        "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "66761",
+        "bannerId": "57194",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16959",
         "displayName": "Coh, Sinisa",
         "emailAddress": "sinisa.coh@ucr.edu",
         "primaryIndicator": true,
+        "term": "202440"
+      },
+      {
+        "bannerId": "57198",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "16959",
+        "displayName": "Soundararaj, Shri Hari",
+        "emailAddress": "shrihari.soundararaj@email.ucr.edu",
+        "primaryIndicator": false,
         "term": "202440"
       }
     ],
@@ -1260,7 +1272,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME100A(\n Course or Test: Mathematics 010A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 018B \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mechanical Engineering 018 \n Minimum Grade of C-\n May not be taken concurrently.)\nand\n(\n Course or Test: Physics 040B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Physics 040HB \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 882487,
@@ -1296,7 +1309,7 @@
     "subjectCourse": "ME110",
     "faculty": [
       {
-        "bannerId": "66920",
+        "bannerId": "58133",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26363",
@@ -1345,7 +1358,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME110(\n Course or Test: Mathematics 046 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mechanical Engineering 010 \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 882488,
@@ -1381,7 +1395,7 @@
     "subjectCourse": "ME110",
     "faculty": [
       {
-        "bannerId": "66921",
+        "bannerId": "58141",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26364",
@@ -1391,7 +1405,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66920",
+        "bannerId": "58133",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26364",
@@ -1452,7 +1466,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME110)\nand\n(\n Course or Test: Mathematics 046 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mechanical Engineering 010 \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 882489,
@@ -1488,7 +1503,7 @@
     "subjectCourse": "ME110",
     "faculty": [
       {
-        "bannerId": "66921",
+        "bannerId": "58141",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26365",
@@ -1498,7 +1513,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66920",
+        "bannerId": "58133",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26365",
@@ -1547,7 +1562,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME110(\n Course or Test: Mathematics 046 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mechanical Engineering 010 \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 878988,
@@ -1583,7 +1599,7 @@
     "subjectCourse": "ME114",
     "faculty": [
       {
-        "bannerId": "65113",
+        "bannerId": "57206",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16963",
@@ -1593,7 +1609,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66336",
+        "bannerId": "57232",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16963",
@@ -1642,7 +1658,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME114)\nand\n(\n Course or Test: Chemistry 001B \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Physics 040C \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Physics 040HC \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 878989,
@@ -1678,7 +1695,7 @@
     "subjectCourse": "ME114",
     "faculty": [
       {
-        "bannerId": "66336",
+        "bannerId": "57232",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16964",
@@ -1688,7 +1705,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66902",
+        "bannerId": "57320",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16964",
@@ -1749,7 +1766,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME114)\nand\n(\n Course or Test: Chemistry 001B \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Physics 040C \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Physics 040HC \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 878990,
@@ -1785,7 +1803,7 @@
     "subjectCourse": "ME114",
     "faculty": [
       {
-        "bannerId": "66336",
+        "bannerId": "57232",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16965",
@@ -1795,7 +1813,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66902",
+        "bannerId": "57320",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16965",
@@ -1856,7 +1874,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME114(\n Course or Test: Chemistry 001B \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Physics 040C \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Physics 040HC \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 883161,
@@ -1892,7 +1911,7 @@
     "subjectCourse": "ME120",
     "faculty": [
       {
-        "bannerId": "65113",
+        "bannerId": "57206",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28021",
@@ -1902,7 +1921,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65598",
+        "bannerId": "58322",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28021",
@@ -1951,7 +1970,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME120)\nand\n(\n Course or Test: Electrical Engineering 005 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Electrical Engineering 030A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Electrical Engineering 030LA \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Computer Science 010B \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mathematics 031 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mechanical Engineering 018B \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 883162,
@@ -1987,7 +2007,7 @@
     "subjectCourse": "ME120",
     "faculty": [
       {
-        "bannerId": "65598",
+        "bannerId": "58322",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28022",
@@ -1997,7 +2017,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66909",
+        "bannerId": "57455",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28022",
@@ -2007,7 +2027,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66924",
+        "bannerId": "58336",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28022",
@@ -2068,7 +2088,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME120(\n Course or Test: Electrical Engineering 005 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Electrical Engineering 030A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Electrical Engineering 030LA \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Computer Science 010B \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mathematics 031 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mechanical Engineering 018B \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 883163,
@@ -2104,7 +2125,7 @@
     "subjectCourse": "ME120",
     "faculty": [
       {
-        "bannerId": "65598",
+        "bannerId": "58322",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28023",
@@ -2114,7 +2135,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66909",
+        "bannerId": "57455",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28023",
@@ -2124,7 +2145,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66924",
+        "bannerId": "58336",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28023",
@@ -2185,7 +2206,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME120(\n Course or Test: Electrical Engineering 005 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Electrical Engineering 030A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Electrical Engineering 030LA \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Computer Science 010B \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mathematics 031 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mechanical Engineering 018B \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 889288,
@@ -2221,7 +2243,7 @@
     "subjectCourse": "ME130",
     "faculty": [
       {
-        "bannerId": "66929",
+        "bannerId": "58779",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37733",
@@ -2270,7 +2292,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME130)\nand\n(\n Course or Test: Mechanical Engineering 009 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mechanical Engineering 103 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 889289,
@@ -2306,7 +2329,7 @@
     "subjectCourse": "ME130",
     "faculty": [
       {
-        "bannerId": "66929",
+        "bannerId": "58779",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37734",
@@ -2355,7 +2378,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME130)\nand\n(\n Course or Test: Mechanical Engineering 009 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 103 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 889290,
@@ -2391,7 +2415,7 @@
     "subjectCourse": "ME133",
     "faculty": [
       {
-        "bannerId": "66930",
+        "bannerId": "58942",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37735",
@@ -2440,7 +2464,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME133(\n Course or Test: Electrical Engineering 005 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Electrical Engineering 030A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Electrical Engineering 030LA \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 889291,
@@ -2476,7 +2501,7 @@
     "subjectCourse": "ME133",
     "faculty": [
       {
-        "bannerId": "66930",
+        "bannerId": "58942",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37736",
@@ -2525,7 +2550,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME133(\n Course or Test: Electrical Engineering 005 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Electrical Engineering 030A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Electrical Engineering 030LA \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 878991,
@@ -2561,7 +2587,7 @@
     "subjectCourse": "ME135",
     "faculty": [
       {
-        "bannerId": "66903",
+        "bannerId": "57357",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16973",
@@ -2571,7 +2597,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66318",
+        "bannerId": "57363",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16973",
@@ -2581,7 +2607,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66904",
+        "bannerId": "57368",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16973",
@@ -2630,7 +2656,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME135(\n Course or Test: Mechanical Engineering 100A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 113 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 116A \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 878992,
@@ -2666,7 +2693,7 @@
     "subjectCourse": "ME135",
     "faculty": [
       {
-        "bannerId": "66903",
+        "bannerId": "57357",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16974",
@@ -2676,7 +2703,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66904",
+        "bannerId": "57368",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16974",
@@ -2725,7 +2752,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME135(\n Course or Test: Mechanical Engineering 100A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 113 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 116A \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884844,
@@ -2761,7 +2789,7 @@
     "subjectCourse": "ME135",
     "faculty": [
       {
-        "bannerId": "66903",
+        "bannerId": "57357",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32471",
@@ -2771,7 +2799,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66904",
+        "bannerId": "57368",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32471",
@@ -2820,7 +2848,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME135)\nand\n(\n Course or Test: Mechanical Engineering 100A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 113 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 116A \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 885921,
@@ -2856,7 +2885,7 @@
     "subjectCourse": "ME136",
     "faculty": [
       {
-        "bannerId": "66912",
+        "bannerId": "57535",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34596",
@@ -2905,7 +2934,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME136(\n Course or Test: Mechanical Engineering 100A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 113 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 116A \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 885922,
@@ -2941,7 +2971,7 @@
     "subjectCourse": "ME136",
     "faculty": [
       {
-        "bannerId": "66912",
+        "bannerId": "57535",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34597",
@@ -2951,7 +2981,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66933",
+        "bannerId": "59111",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34597",
@@ -3000,7 +3030,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME136(\n Course or Test: Mechanical Engineering 100A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mechanical Engineering 113 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mechanical Engineering 116A \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 878993,
@@ -3036,7 +3067,7 @@
     "subjectCourse": "ME156",
     "faculty": [
       {
-        "bannerId": "65128",
+        "bannerId": "57383",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16976",
@@ -3085,7 +3116,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME156)\nand\n(\n Course or Test: Mechanical Engineering 110 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 114 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 878994,
@@ -3121,7 +3153,7 @@
     "subjectCourse": "ME156",
     "faculty": [
       {
-        "bannerId": "65128",
+        "bannerId": "57383",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16977",
@@ -3131,7 +3163,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66905",
+        "bannerId": "57393",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16977",
@@ -3180,7 +3212,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME156)\nand\n(\n Course or Test: Mechanical Engineering 110 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 114 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884846,
@@ -3216,7 +3249,7 @@
     "subjectCourse": "ME156",
     "faculty": [
       {
-        "bannerId": "65128",
+        "bannerId": "57383",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32473",
@@ -3226,7 +3259,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66905",
+        "bannerId": "57393",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32473",
@@ -3275,7 +3308,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME156(\n Course or Test: Mechanical Engineering 110 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 114 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 878996,
@@ -3311,7 +3345,7 @@
     "subjectCourse": "ME170B",
     "faculty": [
       {
-        "bannerId": "66906",
+        "bannerId": "57398",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16980",
@@ -3321,7 +3355,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66907",
+        "bannerId": "57404",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16980",
@@ -3331,7 +3365,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66908",
+        "bannerId": "57411",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16980",
@@ -3380,7 +3414,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME170B(\n Course or Test: Mechanical Engineering 103 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mechanical Engineering 110 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mechanical Engineering 113 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mechanical Engineering 116A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mechanical Engineering 170A \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 878997,
@@ -3416,7 +3451,7 @@
     "subjectCourse": "ME170B",
     "faculty": [
       {
-        "bannerId": "66906",
+        "bannerId": "57398",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16981",
@@ -3426,7 +3461,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66907",
+        "bannerId": "57404",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16981",
@@ -3436,7 +3471,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66908",
+        "bannerId": "57411",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16981",
@@ -3485,7 +3520,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME170B(\n Course or Test: Mechanical Engineering 103 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 110 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 113 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 116A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mechanical Engineering 170A \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884853,
@@ -3521,7 +3557,7 @@
     "subjectCourse": "ME170B",
     "faculty": [
       {
-        "bannerId": "66906",
+        "bannerId": "57398",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32493",
@@ -3531,7 +3567,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66907",
+        "bannerId": "57404",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32493",
@@ -3541,7 +3577,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66908",
+        "bannerId": "57411",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32493",
@@ -3590,7 +3626,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME170B(\n Course or Test: Mechanical Engineering 103 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 110 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 113 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 116A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 170A \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 878998,
@@ -3626,7 +3663,7 @@
     "subjectCourse": "ME170B",
     "faculty": [
       {
-        "bannerId": "66908",
+        "bannerId": "57411",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16984",
@@ -3675,7 +3712,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME170B(\n Course or Test: Mechanical Engineering 103 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 110 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 113 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 116A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 170A \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 878999,
@@ -3711,23 +3749,23 @@
     "subjectCourse": "ME175A",
     "faculty": [
       {
-        "bannerId": "66909",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "16985",
-        "displayName": "Thueson, Eric",
-        "emailAddress": "eric.thueson@email.ucr.edu",
-        "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "65796",
+        "bannerId": "57450",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16985",
         "displayName": "Stahovich, Thomas",
         "emailAddress": "thomas.stahovich@ucr.edu",
         "primaryIndicator": true,
+        "term": "202440"
+      },
+      {
+        "bannerId": "57455",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "16985",
+        "displayName": "Thueson, Eric",
+        "emailAddress": "eric.thueson@email.ucr.edu",
+        "primaryIndicator": false,
         "term": "202440"
       }
     ],
@@ -3770,7 +3808,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME175A(\n Course or Test: Mechanical Engineering 009 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 879000,
@@ -3806,7 +3845,7 @@
     "subjectCourse": "ME175B",
     "faculty": [
       {
-        "bannerId": "66910",
+        "bannerId": "57461",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16986",
@@ -3816,7 +3855,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66911",
+        "bannerId": "57469",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16986",
@@ -3865,7 +3904,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME175B(\n Course or Test: Mechanical Engineering 175A \n Minimum Grade of D-\n May be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 113 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 116A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 170A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 174 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 879001,
@@ -3901,7 +3941,7 @@
     "subjectCourse": "ME175B",
     "faculty": [
       {
-        "bannerId": "66910",
+        "bannerId": "57461",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16987",
@@ -3950,7 +3990,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME175B)\nand\n(\n Course or Test: Mechanical Engineering 175A \n Minimum Grade of D-\n May be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 113 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 116A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 170A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 174 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 879002,
@@ -3986,7 +4027,7 @@
     "subjectCourse": "ME175B",
     "faculty": [
       {
-        "bannerId": "66910",
+        "bannerId": "57461",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16988",
@@ -4035,7 +4076,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME175B(\n Course or Test: Mechanical Engineering 175A \n Minimum Grade of D-\n May be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 113 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 116A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 170A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 174 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 881752,
@@ -4071,7 +4113,7 @@
     "subjectCourse": "ME175B",
     "faculty": [
       {
-        "bannerId": "66911",
+        "bannerId": "57469",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24601",
@@ -4120,7 +4162,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME175B)\nand\n(\n Course or Test: Mechanical Engineering 175A \n Minimum Grade of D-\n May be taken concurrently.and\n Course or Test: Mechanical Engineering 113 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mechanical Engineering 116A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mechanical Engineering 170A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mechanical Engineering 174 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 881774,
@@ -4156,7 +4199,7 @@
     "subjectCourse": "ME175B",
     "faculty": [
       {
-        "bannerId": "66911",
+        "bannerId": "57469",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24653",
@@ -4205,7 +4248,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME175B(\n Course or Test: Mechanical Engineering 175A \n Minimum Grade of D-\n May be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 113 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 116A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 170A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 174 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884746,
@@ -4241,7 +4285,7 @@
     "subjectCourse": "ME176",
     "faculty": [
       {
-        "bannerId": "66318",
+        "bannerId": "57363",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32160",
@@ -4290,7 +4334,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME176(\n Course or Test: Mechanical Engineering 103 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 110 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 113 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 116A \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884747,
@@ -4326,7 +4371,7 @@
     "subjectCourse": "ME176",
     "faculty": [
       {
-        "bannerId": "66928",
+        "bannerId": "58772",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32170",
@@ -4375,7 +4420,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME176)\nand\n(\n Course or Test: Mechanical Engineering 103 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 110 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 113 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 116A \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 881126,
@@ -4411,7 +4457,7 @@
     "subjectCourse": "ME190",
     "faculty": [
       {
-        "bannerId": "66915",
+        "bannerId": "57729",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22851",
@@ -4460,7 +4506,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882859,
@@ -4496,7 +4543,7 @@
     "subjectCourse": "ME190",
     "faculty": [
       {
-        "bannerId": "66913",
+        "bannerId": "57562",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27315",
@@ -4545,7 +4592,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882978,
@@ -4581,7 +4629,7 @@
     "subjectCourse": "ME190",
     "faculty": [
       {
-        "bannerId": "66217",
+        "bannerId": "57859",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27462",
@@ -4630,7 +4678,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879003,
@@ -4666,7 +4715,7 @@
     "subjectCourse": "ME190",
     "faculty": [
       {
-        "bannerId": "65128",
+        "bannerId": "57383",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16990",
@@ -4715,7 +4764,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887964,
@@ -4751,7 +4801,7 @@
     "subjectCourse": "ME197",
     "faculty": [
       {
-        "bannerId": "66241",
+        "bannerId": "58567",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37105",
@@ -4800,7 +4850,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885365,
@@ -4836,7 +4887,7 @@
     "subjectCourse": "ME197",
     "faculty": [
       {
-        "bannerId": "66187",
+        "bannerId": "57551",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33420",
@@ -4885,7 +4936,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905696,
@@ -4921,7 +4973,7 @@
     "subjectCourse": "ME197",
     "faculty": [
       {
-        "bannerId": "66216",
+        "bannerId": "57500",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38856",
@@ -4970,7 +5022,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881103,
@@ -5006,7 +5059,7 @@
     "subjectCourse": "ME197",
     "faculty": [
       {
-        "bannerId": "66685",
+        "bannerId": "57557",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22816",
@@ -5055,7 +5108,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881161,
@@ -5091,7 +5145,7 @@
     "subjectCourse": "ME197",
     "faculty": [
       {
-        "bannerId": "66915",
+        "bannerId": "57729",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22909",
@@ -5140,7 +5194,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881113,
@@ -5176,7 +5231,7 @@
     "subjectCourse": "ME197",
     "faculty": [
       {
-        "bannerId": "65566",
+        "bannerId": "57738",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22830",
@@ -5225,7 +5280,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879004,
@@ -5261,7 +5317,7 @@
     "subjectCourse": "ME197",
     "faculty": [
       {
-        "bannerId": "65128",
+        "bannerId": "57383",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16992",
@@ -5310,7 +5366,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881050,
@@ -5346,7 +5403,7 @@
     "subjectCourse": "ME197",
     "faculty": [
       {
-        "bannerId": "66183",
+        "bannerId": "57966",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22730",
@@ -5395,7 +5452,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882944,
@@ -5431,7 +5489,7 @@
     "subjectCourse": "ME197",
     "faculty": [
       {
-        "bannerId": "66318",
+        "bannerId": "57363",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27419",
@@ -5480,7 +5538,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887961,
@@ -5516,7 +5575,7 @@
     "subjectCourse": "ME197",
     "faculty": [
       {
-        "bannerId": "66336",
+        "bannerId": "57232",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37102",
@@ -5565,7 +5624,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882347,
@@ -5601,7 +5661,7 @@
     "subjectCourse": "ME197",
     "faculty": [
       {
-        "bannerId": "65581",
+        "bannerId": "57506",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25598",
@@ -5650,7 +5710,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882882,
@@ -5686,7 +5747,7 @@
     "subjectCourse": "ME197",
     "faculty": [
       {
-        "bannerId": "66327",
+        "bannerId": "57686",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27345",
@@ -5735,7 +5796,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883026,
@@ -5771,7 +5833,7 @@
     "subjectCourse": "ME197",
     "faculty": [
       {
-        "bannerId": "66917",
+        "bannerId": "57959",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27528",
@@ -5820,7 +5882,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883463,
@@ -5856,7 +5919,7 @@
     "subjectCourse": "ME197",
     "faculty": [
       {
-        "bannerId": "66916",
+        "bannerId": "57788",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29133",
@@ -5905,7 +5968,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905837,
@@ -5941,7 +6005,7 @@
     "subjectCourse": "ME197",
     "faculty": [
       {
-        "bannerId": "66930",
+        "bannerId": "58942",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38892",
@@ -5990,7 +6054,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905653,
@@ -6026,7 +6091,7 @@
     "subjectCourse": "ME197",
     "faculty": [
       {
-        "bannerId": "65796",
+        "bannerId": "57450",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38847",
@@ -6075,7 +6140,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884820,
@@ -6111,7 +6177,7 @@
     "subjectCourse": "ME200",
     "faculty": [
       {
-        "bannerId": "66929",
+        "bannerId": "58779",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32382",
@@ -6160,7 +6226,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889293,
@@ -6196,7 +6263,7 @@
     "subjectCourse": "ME210",
     "faculty": [
       {
-        "bannerId": "66318",
+        "bannerId": "57363",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37738",
@@ -6245,7 +6312,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 903247,
@@ -6281,7 +6349,7 @@
     "subjectCourse": "ME210",
     "faculty": [
       {
-        "bannerId": "66318",
+        "bannerId": "57363",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38413",
@@ -6291,7 +6359,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65198",
+        "bannerId": "59544",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38413",
@@ -6301,7 +6369,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66928",
+        "bannerId": "58772",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38413",
@@ -6350,7 +6418,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 903248,
@@ -6386,7 +6455,7 @@
     "subjectCourse": "ME210",
     "faculty": [
       {
-        "bannerId": "66318",
+        "bannerId": "57363",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38414",
@@ -6396,7 +6465,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66928",
+        "bannerId": "58772",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38414",
@@ -6445,7 +6514,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 889294,
@@ -6481,7 +6551,7 @@
     "subjectCourse": "ME210",
     "faculty": [
       {
-        "bannerId": "66318",
+        "bannerId": "57363",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37739",
@@ -6530,7 +6600,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 903208,
@@ -6566,7 +6637,7 @@
     "subjectCourse": "ME220",
     "faculty": [
       {
-        "bannerId": "66241",
+        "bannerId": "58567",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38394",
@@ -6615,7 +6686,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME220(\n Course or Test: Mechanical Engineering 120 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mechanical Engineering 121 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 903209,
@@ -6651,7 +6723,7 @@
     "subjectCourse": "ME220",
     "faculty": [
       {
-        "bannerId": "66241",
+        "bannerId": "58567",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38395",
@@ -6700,7 +6772,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME220(\n Course or Test: Mechanical Engineering 120 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 121 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 887477,
@@ -6736,7 +6809,7 @@
     "subjectCourse": "ME223",
     "faculty": [
       {
-        "bannerId": "66217",
+        "bannerId": "57859",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36580",
@@ -6785,7 +6858,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886128,
@@ -6821,7 +6895,7 @@
     "subjectCourse": "ME224",
     "faculty": [
       {
-        "bannerId": "65598",
+        "bannerId": "58322",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34958",
@@ -6870,7 +6944,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886129,
@@ -6906,7 +6981,7 @@
     "subjectCourse": "ME224",
     "faculty": [
       {
-        "bannerId": "66934",
+        "bannerId": "59119",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34959",
@@ -6916,7 +6991,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65598",
+        "bannerId": "58322",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34959",
@@ -6965,7 +7040,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885854,
@@ -7001,7 +7077,7 @@
     "subjectCourse": "ME240A",
     "faculty": [
       {
-        "bannerId": "66916",
+        "bannerId": "57788",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34449",
@@ -7050,7 +7126,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879005,
@@ -7086,7 +7163,7 @@
     "subjectCourse": "ME250",
     "faculty": [
       {
-        "bannerId": "66216",
+        "bannerId": "57500",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17001",
@@ -7135,7 +7212,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 903827,
@@ -7171,7 +7249,7 @@
     "subjectCourse": "ME255",
     "faculty": [
       {
-        "bannerId": "66903",
+        "bannerId": "57357",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38563",
@@ -7220,7 +7298,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME255(\n Course or Test: Mechanical Engineering 100A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemical Engineering 100 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 113 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemical Engineering 114 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 116A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemical Engineering 116 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 885855,
@@ -7256,7 +7335,7 @@
     "subjectCourse": "ME261",
     "faculty": [
       {
-        "bannerId": "66315",
+        "bannerId": "57527",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34450",
@@ -7305,7 +7384,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 903219,
@@ -7341,7 +7421,7 @@
     "subjectCourse": "ME266",
     "faculty": [
       {
-        "bannerId": "65581",
+        "bannerId": "57506",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38405",
@@ -7390,7 +7470,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889295,
@@ -7426,7 +7507,7 @@
     "subjectCourse": "ME270",
     "faculty": [
       {
-        "bannerId": "66187",
+        "bannerId": "57551",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37740",
@@ -7475,7 +7556,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ME270(\n Course or Test: Mechanical Engineering 110 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mechanical Engineering 114 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 879008,
@@ -7511,7 +7593,7 @@
     "subjectCourse": "ME290",
     "faculty": [
       {
-        "bannerId": "66215",
+        "bannerId": "57522",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17005",
@@ -7560,7 +7642,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879009,
@@ -7596,7 +7679,7 @@
     "subjectCourse": "ME290",
     "faculty": [
       {
-        "bannerId": "66315",
+        "bannerId": "57527",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17006",
@@ -7645,7 +7728,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884639,
@@ -7681,7 +7765,7 @@
     "subjectCourse": "ME290",
     "faculty": [
       {
-        "bannerId": "66241",
+        "bannerId": "58567",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31664",
@@ -7730,7 +7814,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879010,
@@ -7766,7 +7851,7 @@
     "subjectCourse": "ME290",
     "faculty": [
       {
-        "bannerId": "66912",
+        "bannerId": "57535",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17007",
@@ -7815,7 +7900,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879011,
@@ -7851,7 +7937,7 @@
     "subjectCourse": "ME290",
     "faculty": [
       {
-        "bannerId": "66903",
+        "bannerId": "57357",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17008",
@@ -7900,7 +7986,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879012,
@@ -7974,7 +8061,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 903509,
@@ -8010,7 +8098,7 @@
     "subjectCourse": "ME290",
     "faculty": [
       {
-        "bannerId": "66922",
+        "bannerId": "58251",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38509",
@@ -8059,7 +8147,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879013,
@@ -8133,7 +8222,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879014,
@@ -8169,7 +8259,7 @@
     "subjectCourse": "ME290",
     "faculty": [
       {
-        "bannerId": "66177",
+        "bannerId": "57545",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17011",
@@ -8218,7 +8308,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879015,
@@ -8254,7 +8345,7 @@
     "subjectCourse": "ME290",
     "faculty": [
       {
-        "bannerId": "66187",
+        "bannerId": "57551",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17012",
@@ -8303,7 +8394,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879016,
@@ -8339,7 +8431,7 @@
     "subjectCourse": "ME290",
     "faculty": [
       {
-        "bannerId": "66685",
+        "bannerId": "57557",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17013",
@@ -8388,7 +8480,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879017,
@@ -8424,7 +8517,7 @@
     "subjectCourse": "ME290",
     "faculty": [
       {
-        "bannerId": "66913",
+        "bannerId": "57562",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17014",
@@ -8473,7 +8566,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879018,
@@ -8509,7 +8603,7 @@
     "subjectCourse": "ME290",
     "faculty": [
       {
-        "bannerId": "65123",
+        "bannerId": "57569",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17015",
@@ -8558,7 +8652,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879019,
@@ -8594,7 +8689,7 @@
     "subjectCourse": "ME290",
     "faculty": [
       {
-        "bannerId": "66675",
+        "bannerId": "57575",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17016",
@@ -8643,7 +8738,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879020,
@@ -8679,7 +8775,7 @@
     "subjectCourse": "ME290",
     "faculty": [
       {
-        "bannerId": "66676",
+        "bannerId": "57653",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17017",
@@ -8728,7 +8824,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879021,
@@ -8802,7 +8899,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879022,
@@ -8838,7 +8936,7 @@
     "subjectCourse": "ME290",
     "faculty": [
       {
-        "bannerId": "65128",
+        "bannerId": "57383",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17019",
@@ -8887,7 +8985,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879023,
@@ -8923,7 +9022,7 @@
     "subjectCourse": "ME290",
     "faculty": [
       {
-        "bannerId": "66914",
+        "bannerId": "57663",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17020",
@@ -8972,7 +9071,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879024,
@@ -9008,7 +9108,7 @@
     "subjectCourse": "ME290",
     "faculty": [
       {
-        "bannerId": "66677",
+        "bannerId": "57669",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17021",
@@ -9057,7 +9157,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879025,
@@ -9093,7 +9194,7 @@
     "subjectCourse": "ME290",
     "faculty": [
       {
-        "bannerId": "66318",
+        "bannerId": "57363",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17022",
@@ -9142,7 +9243,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882965,
@@ -9178,7 +9280,7 @@
     "subjectCourse": "ME290",
     "faculty": [
       {
-        "bannerId": "66199",
+        "bannerId": "58094",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27446",
@@ -9227,7 +9329,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879006,
@@ -9263,7 +9366,7 @@
     "subjectCourse": "ME290",
     "faculty": [
       {
-        "bannerId": "65581",
+        "bannerId": "57506",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17003",
@@ -9312,7 +9415,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879007,
@@ -9348,7 +9452,7 @@
     "subjectCourse": "ME290",
     "faculty": [
       {
-        "bannerId": "65796",
+        "bannerId": "57450",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17004",
@@ -9397,7 +9501,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884524,
@@ -9433,7 +9538,7 @@
     "subjectCourse": "ME290",
     "faculty": [
       {
-        "bannerId": "66762",
+        "bannerId": "57970",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31521",
@@ -9482,7 +9587,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879029,
@@ -9518,7 +9624,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "66215",
+        "bannerId": "57522",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17026",
@@ -9567,7 +9673,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879030,
@@ -9603,7 +9710,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "66315",
+        "bannerId": "57527",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17027",
@@ -9652,7 +9759,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887891,
@@ -9688,7 +9796,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "66920",
+        "bannerId": "58133",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37031",
@@ -9737,7 +9845,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905614,
@@ -9773,7 +9882,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "66929",
+        "bannerId": "58779",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38835",
@@ -9822,7 +9931,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887912,
@@ -9858,7 +9968,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "66319",
+        "bannerId": "57884",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37052",
@@ -9907,7 +10017,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883920,
@@ -9943,7 +10054,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "66241",
+        "bannerId": "58567",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29724",
@@ -9992,7 +10103,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879031,
@@ -10028,7 +10140,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "66912",
+        "bannerId": "57535",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17028",
@@ -10077,7 +10189,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879032,
@@ -10113,7 +10226,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "66903",
+        "bannerId": "57357",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17029",
@@ -10162,7 +10275,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879033,
@@ -10236,7 +10350,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882930,
@@ -10272,7 +10387,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "66922",
+        "bannerId": "58251",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27399",
@@ -10321,7 +10436,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879034,
@@ -10395,7 +10511,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881007,
@@ -10431,7 +10548,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "65561",
+        "bannerId": "57813",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22653",
@@ -10480,7 +10597,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879035,
@@ -10516,7 +10634,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "66187",
+        "bannerId": "57551",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17032",
@@ -10565,7 +10683,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884585,
@@ -10601,7 +10720,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "66216",
+        "bannerId": "57500",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31598",
@@ -10650,7 +10769,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879036,
@@ -10686,7 +10806,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "66685",
+        "bannerId": "57557",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17033",
@@ -10735,7 +10855,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879037,
@@ -10771,7 +10892,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "65208",
+        "bannerId": "57724",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17034",
@@ -10820,7 +10941,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879038,
@@ -10856,7 +10978,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "66915",
+        "bannerId": "57729",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17035",
@@ -10905,7 +11027,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886214,
@@ -10941,7 +11064,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "65598",
+        "bannerId": "58322",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35096",
@@ -10990,7 +11113,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879039,
@@ -11026,7 +11150,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "66913",
+        "bannerId": "57562",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17036",
@@ -11075,7 +11199,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879040,
@@ -11111,7 +11236,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "65566",
+        "bannerId": "57738",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17037",
@@ -11160,7 +11285,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879041,
@@ -11196,7 +11322,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "65123",
+        "bannerId": "57569",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17038",
@@ -11245,7 +11371,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879042,
@@ -11281,7 +11408,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "66675",
+        "bannerId": "57575",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17039",
@@ -11330,7 +11457,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881038,
@@ -11366,7 +11494,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "66217",
+        "bannerId": "57859",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22707",
@@ -11415,7 +11543,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879043,
@@ -11451,7 +11580,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "66676",
+        "bannerId": "57653",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17040",
@@ -11500,7 +11629,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879044,
@@ -11574,7 +11704,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879045,
@@ -11610,7 +11741,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "65128",
+        "bannerId": "57383",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17042",
@@ -11659,7 +11790,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879046,
@@ -11695,7 +11827,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "66914",
+        "bannerId": "57663",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17043",
@@ -11744,7 +11876,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879047,
@@ -11780,7 +11913,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "66677",
+        "bannerId": "57669",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17044",
@@ -11829,7 +11962,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879048,
@@ -11865,7 +11999,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "66318",
+        "bannerId": "57363",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17045",
@@ -11914,7 +12048,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882183,
@@ -11950,7 +12085,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "66199",
+        "bannerId": "58094",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25352",
@@ -11999,7 +12134,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905694,
@@ -12035,7 +12171,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "66908",
+        "bannerId": "57411",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38854",
@@ -12084,7 +12220,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879026,
@@ -12120,7 +12257,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "65581",
+        "bannerId": "57506",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17023",
@@ -12169,7 +12306,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879027,
@@ -12205,7 +12343,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "66327",
+        "bannerId": "57686",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17024",
@@ -12254,7 +12392,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881013,
@@ -12290,7 +12429,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "66917",
+        "bannerId": "57959",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22676",
@@ -12339,7 +12478,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885278,
@@ -12375,7 +12515,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "66717",
+        "bannerId": "58965",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33314",
@@ -12424,7 +12564,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883987,
@@ -12460,7 +12601,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "66916",
+        "bannerId": "57788",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29803",
@@ -12509,7 +12650,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879028,
@@ -12545,7 +12687,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "65796",
+        "bannerId": "57450",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17025",
@@ -12594,7 +12736,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881178,
@@ -12630,7 +12773,7 @@
     "subjectCourse": "ME297",
     "faculty": [
       {
-        "bannerId": "66762",
+        "bannerId": "57970",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22936",
@@ -12679,7 +12822,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887970,
@@ -12715,7 +12859,7 @@
     "subjectCourse": "ME298I",
     "faculty": [
       {
-        "bannerId": "66916",
+        "bannerId": "57788",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37111",
@@ -12764,7 +12908,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879049,
@@ -12800,7 +12945,7 @@
     "subjectCourse": "ME298I",
     "faculty": [
       {
-        "bannerId": "66215",
+        "bannerId": "57522",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17046",
@@ -12849,7 +12994,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879050,
@@ -12885,7 +13031,7 @@
     "subjectCourse": "ME298I",
     "faculty": [
       {
-        "bannerId": "66187",
+        "bannerId": "57551",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17047",
@@ -12934,7 +13080,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884518,
@@ -12970,7 +13117,7 @@
     "subjectCourse": "ME298I",
     "faculty": [
       {
-        "bannerId": "66685",
+        "bannerId": "57557",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31515",
@@ -13019,7 +13166,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887680,
@@ -13055,7 +13203,7 @@
     "subjectCourse": "ME298I",
     "faculty": [
       {
-        "bannerId": "66913",
+        "bannerId": "57562",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36789",
@@ -13104,7 +13252,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885220,
@@ -13140,7 +13289,7 @@
     "subjectCourse": "ME298I",
     "faculty": [
       {
-        "bannerId": "65123",
+        "bannerId": "57569",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33223",
@@ -13189,7 +13338,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905272,
@@ -13225,7 +13375,7 @@
     "subjectCourse": "ME298I",
     "faculty": [
       {
-        "bannerId": "66217",
+        "bannerId": "57859",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38716",
@@ -13274,7 +13424,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879051,
@@ -13310,7 +13461,7 @@
     "subjectCourse": "ME298I",
     "faculty": [
       {
-        "bannerId": "66677",
+        "bannerId": "57669",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17048",
@@ -13359,7 +13510,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905873,
@@ -13395,7 +13547,7 @@
     "subjectCourse": "ME298I",
     "faculty": [
       {
-        "bannerId": "66319",
+        "bannerId": "57884",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38900",
@@ -13444,7 +13596,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885235,
@@ -13480,7 +13633,7 @@
     "subjectCourse": "ME298I",
     "faculty": [
       {
-        "bannerId": "66327",
+        "bannerId": "57686",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33241",
@@ -13529,7 +13682,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879055,
@@ -13565,7 +13719,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66916",
+        "bannerId": "57788",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17052",
@@ -13614,7 +13768,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879056,
@@ -13650,7 +13805,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66914",
+        "bannerId": "57663",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17053",
@@ -13699,7 +13854,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879057,
@@ -13735,7 +13891,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66215",
+        "bannerId": "57522",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17054",
@@ -13784,7 +13940,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879058,
@@ -13820,7 +13977,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66315",
+        "bannerId": "57527",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17055",
@@ -13869,7 +14026,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885225,
@@ -13905,7 +14063,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66241",
+        "bannerId": "58567",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33229",
@@ -13954,7 +14112,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879059,
@@ -13990,7 +14149,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66912",
+        "bannerId": "57535",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17056",
@@ -14039,7 +14198,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879060,
@@ -14075,7 +14235,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66903",
+        "bannerId": "57357",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17057",
@@ -14124,7 +14284,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879061,
@@ -14198,7 +14359,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879062,
@@ -14234,7 +14396,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66175",
+        "bannerId": "57807",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17059",
@@ -14283,7 +14445,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883882,
@@ -14319,7 +14482,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66922",
+        "bannerId": "58251",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29664",
@@ -14368,7 +14531,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879063,
@@ -14442,7 +14606,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879064,
@@ -14478,7 +14643,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "65561",
+        "bannerId": "57813",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17061",
@@ -14527,7 +14692,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879065,
@@ -14563,7 +14729,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66187",
+        "bannerId": "57551",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17062",
@@ -14612,7 +14778,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883886,
@@ -14648,7 +14815,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66216",
+        "bannerId": "57500",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29668",
@@ -14697,7 +14864,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879066,
@@ -14733,7 +14901,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66685",
+        "bannerId": "57557",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17063",
@@ -14782,7 +14950,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886203,
@@ -14818,7 +14987,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66935",
+        "bannerId": "59137",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35084",
@@ -14867,7 +15036,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879067,
@@ -14903,7 +15073,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "65208",
+        "bannerId": "57724",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17064",
@@ -14952,7 +15122,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879068,
@@ -14988,7 +15159,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "65101",
+        "bannerId": "57838",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17065",
@@ -15037,7 +15208,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879069,
@@ -15073,7 +15245,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66915",
+        "bannerId": "57729",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17066",
@@ -15122,7 +15294,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886215,
@@ -15158,7 +15331,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "65598",
+        "bannerId": "58322",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35097",
@@ -15207,7 +15380,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879070,
@@ -15243,7 +15417,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66913",
+        "bannerId": "57562",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17067",
@@ -15292,7 +15466,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879071,
@@ -15328,7 +15503,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "65566",
+        "bannerId": "57738",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17068",
@@ -15377,7 +15552,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879072,
@@ -15413,7 +15589,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "65123",
+        "bannerId": "57569",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17069",
@@ -15462,7 +15638,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881076,
@@ -15498,7 +15675,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66675",
+        "bannerId": "57575",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22775",
@@ -15547,7 +15724,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879073,
@@ -15583,7 +15761,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66217",
+        "bannerId": "57859",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17070",
@@ -15632,7 +15810,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879074,
@@ -15668,7 +15847,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66676",
+        "bannerId": "57653",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17071",
@@ -15717,7 +15896,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879075,
@@ -15791,7 +15971,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879076,
@@ -15827,7 +16008,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "65128",
+        "bannerId": "57383",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17073",
@@ -15876,7 +16057,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879077,
@@ -15912,7 +16094,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66914",
+        "bannerId": "57663",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17074",
@@ -15961,7 +16143,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879078,
@@ -15997,7 +16180,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66677",
+        "bannerId": "57669",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17075",
@@ -16046,7 +16229,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879079,
@@ -16082,7 +16266,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66318",
+        "bannerId": "57363",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17076",
@@ -16131,7 +16315,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882185,
@@ -16167,7 +16352,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66199",
+        "bannerId": "58094",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25354",
@@ -16216,7 +16401,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881006,
@@ -16252,7 +16438,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66336",
+        "bannerId": "57232",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22652",
@@ -16301,7 +16487,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882931,
@@ -16337,7 +16524,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66319",
+        "bannerId": "57884",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27400",
@@ -16386,7 +16573,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905978,
@@ -16422,7 +16610,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66908",
+        "bannerId": "57411",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38919",
@@ -16471,7 +16659,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905792,
@@ -16507,7 +16696,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66920",
+        "bannerId": "58133",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38881",
@@ -16556,7 +16745,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879052,
@@ -16592,7 +16782,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "65581",
+        "bannerId": "57506",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17049",
@@ -16641,7 +16831,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879053,
@@ -16677,7 +16868,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66327",
+        "bannerId": "57686",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17050",
@@ -16726,7 +16917,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882170,
@@ -16762,7 +16954,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66917",
+        "bannerId": "57959",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25336",
@@ -16811,7 +17003,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885288,
@@ -16847,7 +17040,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66717",
+        "bannerId": "58965",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33325",
@@ -16896,7 +17089,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884517,
@@ -16932,7 +17126,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66916",
+        "bannerId": "57788",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31513",
@@ -16981,7 +17175,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885206,
@@ -17017,7 +17212,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66930",
+        "bannerId": "58942",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33205",
@@ -17066,7 +17261,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879054,
@@ -17102,7 +17298,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "65796",
+        "bannerId": "57450",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17051",
@@ -17151,7 +17347,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881075,
@@ -17187,7 +17384,7 @@
     "subjectCourse": "ME299",
     "faculty": [
       {
-        "bannerId": "66762",
+        "bannerId": "57970",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22774",
@@ -17236,7 +17433,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879080,
@@ -17272,7 +17470,7 @@
     "subjectCourse": "ME302",
     "faculty": [
       {
-        "bannerId": "66319",
+        "bannerId": "57884",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17077",
@@ -17321,6 +17519,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   }
 ]

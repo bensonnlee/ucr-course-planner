@@ -33,27 +33,7 @@
     "subjectCourse": "ECON002",
     "faculty": [
       {
-        "bannerId": "65975",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "20451",
-        "displayName": "Montoya, Michael",
-        "emailAddress": "michael.montoya001@email.ucr.edu",
-        "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "65979",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "20451",
-        "displayName": "Yu, Yangxi",
-        "emailAddress": "yangxi.yu@email.ucr.edu",
-        "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "65980",
+        "bannerId": "58894",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20451",
@@ -63,7 +43,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65985",
+        "bannerId": "58927",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20451",
@@ -73,7 +53,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65983",
+        "bannerId": "58852",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20451",
@@ -83,7 +63,27 @@
         "term": "202440"
       },
       {
-        "bannerId": "65977",
+        "bannerId": "58863",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "20451",
+        "displayName": "Montoya, Michael",
+        "emailAddress": "michael.montoya001@email.ucr.edu",
+        "primaryIndicator": false,
+        "term": "202440"
+      },
+      {
+        "bannerId": "58906",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "20451",
+        "displayName": "Yu, Yangxi",
+        "emailAddress": "yangxi.yu@email.ucr.edu",
+        "primaryIndicator": false,
+        "term": "202440"
+      },
+      {
+        "bannerId": "58882",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20451",
@@ -93,7 +93,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65976",
+        "bannerId": "58878",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20451",
@@ -103,7 +103,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65978",
+        "bannerId": "58888",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20451",
@@ -113,7 +113,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65984",
+        "bannerId": "58914",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20451",
@@ -123,7 +123,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66050",
+        "bannerId": "59340",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20451",
@@ -172,7 +172,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877453,
@@ -208,23 +209,23 @@
     "subjectCourse": "ECON002",
     "faculty": [
       {
-        "bannerId": "65975",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "13446",
-        "displayName": "Montoya, Michael",
-        "emailAddress": "michael.montoya001@email.ucr.edu",
-        "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "65983",
+        "bannerId": "58852",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13446",
         "displayName": "Xu, Lusha",
         "emailAddress": "lxu099@ucr.edu",
         "primaryIndicator": true,
+        "term": "202440"
+      },
+      {
+        "bannerId": "58863",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "13446",
+        "displayName": "Montoya, Michael",
+        "emailAddress": "michael.montoya001@email.ucr.edu",
+        "primaryIndicator": false,
         "term": "202440"
       }
     ],
@@ -279,7 +280,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877454,
@@ -315,23 +317,23 @@
     "subjectCourse": "ECON002",
     "faculty": [
       {
-        "bannerId": "65975",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "13447",
-        "displayName": "Montoya, Michael",
-        "emailAddress": "michael.montoya001@email.ucr.edu",
-        "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "65983",
+        "bannerId": "58852",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13447",
         "displayName": "Xu, Lusha",
         "emailAddress": "lxu099@ucr.edu",
         "primaryIndicator": true,
+        "term": "202440"
+      },
+      {
+        "bannerId": "58863",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "13447",
+        "displayName": "Montoya, Michael",
+        "emailAddress": "michael.montoya001@email.ucr.edu",
+        "primaryIndicator": false,
         "term": "202440"
       }
     ],
@@ -386,7 +388,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877455,
@@ -422,7 +425,7 @@
     "subjectCourse": "ECON002",
     "faculty": [
       {
-        "bannerId": "65976",
+        "bannerId": "58878",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13448",
@@ -471,7 +474,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877456,
@@ -507,7 +511,7 @@
     "subjectCourse": "ECON002",
     "faculty": [
       {
-        "bannerId": "65977",
+        "bannerId": "58882",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13449",
@@ -568,7 +572,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884082,
@@ -604,7 +609,7 @@
     "subjectCourse": "ECON002",
     "faculty": [
       {
-        "bannerId": "65978",
+        "bannerId": "58888",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "30181",
@@ -665,7 +670,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877457,
@@ -701,7 +707,7 @@
     "subjectCourse": "ECON002",
     "faculty": [
       {
-        "bannerId": "65978",
+        "bannerId": "58888",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13451",
@@ -762,7 +768,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877458,
@@ -798,7 +805,7 @@
     "subjectCourse": "ECON002",
     "faculty": [
       {
-        "bannerId": "65980",
+        "bannerId": "58894",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13452",
@@ -859,7 +866,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877459,
@@ -895,7 +903,7 @@
     "subjectCourse": "ECON002",
     "faculty": [
       {
-        "bannerId": "65978",
+        "bannerId": "58888",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13453",
@@ -956,7 +964,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884083,
@@ -992,7 +1001,7 @@
     "subjectCourse": "ECON002",
     "faculty": [
       {
-        "bannerId": "65980",
+        "bannerId": "58894",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "30182",
@@ -1041,7 +1050,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877460,
@@ -1077,7 +1087,7 @@
     "subjectCourse": "ECON002",
     "faculty": [
       {
-        "bannerId": "65977",
+        "bannerId": "58882",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13455",
@@ -1138,7 +1148,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877461,
@@ -1174,7 +1185,7 @@
     "subjectCourse": "ECON002",
     "faculty": [
       {
-        "bannerId": "65979",
+        "bannerId": "58906",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13456",
@@ -1223,7 +1234,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877462,
@@ -1259,7 +1271,7 @@
     "subjectCourse": "ECON002",
     "faculty": [
       {
-        "bannerId": "65980",
+        "bannerId": "58894",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13457",
@@ -1320,7 +1332,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877463,
@@ -1356,7 +1369,7 @@
     "subjectCourse": "ECON002",
     "faculty": [
       {
-        "bannerId": "65984",
+        "bannerId": "58914",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13458",
@@ -1405,7 +1418,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877464,
@@ -1441,7 +1455,7 @@
     "subjectCourse": "ECON002",
     "faculty": [
       {
-        "bannerId": "65977",
+        "bannerId": "58882",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13459",
@@ -1490,7 +1504,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877465,
@@ -1526,7 +1541,7 @@
     "subjectCourse": "ECON002",
     "faculty": [
       {
-        "bannerId": "65985",
+        "bannerId": "58927",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13460",
@@ -1536,7 +1551,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65976",
+        "bannerId": "58878",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13460",
@@ -1597,7 +1612,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877466,
@@ -1633,7 +1649,7 @@
     "subjectCourse": "ECON002",
     "faculty": [
       {
-        "bannerId": "65985",
+        "bannerId": "58927",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13461",
@@ -1643,7 +1659,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65976",
+        "bannerId": "58878",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13461",
@@ -1692,7 +1708,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877467,
@@ -1728,7 +1745,7 @@
     "subjectCourse": "ECON002",
     "faculty": [
       {
-        "bannerId": "65984",
+        "bannerId": "58914",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13462",
@@ -1777,7 +1794,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877468,
@@ -1813,7 +1831,7 @@
     "subjectCourse": "ECON002",
     "faculty": [
       {
-        "bannerId": "65984",
+        "bannerId": "58914",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13463",
@@ -1874,7 +1892,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881221,
@@ -1910,7 +1929,7 @@
     "subjectCourse": "ECON002",
     "faculty": [
       {
-        "bannerId": "65979",
+        "bannerId": "58906",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23104",
@@ -1971,7 +1990,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881222,
@@ -2007,7 +2027,7 @@
     "subjectCourse": "ECON002",
     "faculty": [
       {
-        "bannerId": "65985",
+        "bannerId": "58927",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23106",
@@ -2017,7 +2037,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65976",
+        "bannerId": "58878",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23106",
@@ -2078,7 +2098,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883502,
@@ -2114,7 +2135,7 @@
     "subjectCourse": "ECON002",
     "faculty": [
       {
-        "bannerId": "65979",
+        "bannerId": "58906",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29202",
@@ -2175,7 +2196,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880674,
@@ -2211,7 +2233,7 @@
     "subjectCourse": "ECON003",
     "faculty": [
       {
-        "bannerId": "65986",
+        "bannerId": "58957",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20452",
@@ -2221,7 +2243,17 @@
         "term": "202440"
       },
       {
-        "bannerId": "65991",
+        "bannerId": "59013",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "20452",
+        "displayName": "Velovici, Silviu",
+        "emailAddress": "silviu.velovici@ucr.edu",
+        "primaryIndicator": true,
+        "term": "202440"
+      },
+      {
+        "bannerId": "59009",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20452",
@@ -2231,7 +2263,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65988",
+        "bannerId": "58967",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20452",
@@ -2241,7 +2273,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65989",
+        "bannerId": "58971",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20452",
@@ -2251,7 +2283,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66029",
+        "bannerId": "59362",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20452",
@@ -2261,7 +2293,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65987",
+        "bannerId": "58982",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20452",
@@ -2271,23 +2303,13 @@
         "term": "202440"
       },
       {
-        "bannerId": "65990",
+        "bannerId": "58977",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20452",
         "displayName": "Hu, Tingyu",
         "emailAddress": "tingyu.hu@email.ucr.edu",
         "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "65447",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "20452",
-        "displayName": "Velovici, Silviu",
-        "emailAddress": "silviu.velovici@ucr.edu",
-        "primaryIndicator": true,
         "term": "202440"
       }
     ],
@@ -2330,7 +2352,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905552,
@@ -2366,7 +2389,7 @@
     "subjectCourse": "ECON003",
     "faculty": [
       {
-        "bannerId": "66112",
+        "bannerId": "60027",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38807",
@@ -2376,7 +2399,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66118",
+        "bannerId": "60036",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38807",
@@ -2386,7 +2409,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66149",
+        "bannerId": "60109",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38807",
@@ -2435,7 +2458,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877469,
@@ -2471,7 +2495,7 @@
     "subjectCourse": "ECON003",
     "faculty": [
       {
-        "bannerId": "65986",
+        "bannerId": "58957",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13468",
@@ -2532,7 +2556,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877470,
@@ -2568,7 +2593,7 @@
     "subjectCourse": "ECON003",
     "faculty": [
       {
-        "bannerId": "65986",
+        "bannerId": "58957",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13469",
@@ -2629,7 +2654,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877471,
@@ -2665,7 +2691,7 @@
     "subjectCourse": "ECON003",
     "faculty": [
       {
-        "bannerId": "65988",
+        "bannerId": "58967",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13470",
@@ -2714,7 +2740,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877472,
@@ -2750,7 +2777,7 @@
     "subjectCourse": "ECON003",
     "faculty": [
       {
-        "bannerId": "65989",
+        "bannerId": "58971",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13471",
@@ -2811,7 +2838,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877473,
@@ -2847,7 +2875,7 @@
     "subjectCourse": "ECON003",
     "faculty": [
       {
-        "bannerId": "65990",
+        "bannerId": "58977",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13472",
@@ -2908,7 +2936,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877474,
@@ -2944,7 +2973,7 @@
     "subjectCourse": "ECON003",
     "faculty": [
       {
-        "bannerId": "65987",
+        "bannerId": "58982",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13473",
@@ -2993,7 +3022,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877475,
@@ -3029,7 +3059,7 @@
     "subjectCourse": "ECON003",
     "faculty": [
       {
-        "bannerId": "65987",
+        "bannerId": "58982",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13474",
@@ -3090,7 +3120,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877476,
@@ -3126,7 +3157,7 @@
     "subjectCourse": "ECON003",
     "faculty": [
       {
-        "bannerId": "65990",
+        "bannerId": "58977",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13475",
@@ -3187,7 +3218,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883503,
@@ -3223,7 +3255,7 @@
     "subjectCourse": "ECON003",
     "faculty": [
       {
-        "bannerId": "65988",
+        "bannerId": "58967",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29205",
@@ -3284,7 +3316,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877477,
@@ -3320,7 +3353,7 @@
     "subjectCourse": "ECON003",
     "faculty": [
       {
-        "bannerId": "65989",
+        "bannerId": "58971",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13477",
@@ -3381,7 +3414,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883504,
@@ -3417,7 +3451,7 @@
     "subjectCourse": "ECON003",
     "faculty": [
       {
-        "bannerId": "65991",
+        "bannerId": "59009",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29206",
@@ -3478,7 +3512,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877478,
@@ -3514,7 +3549,7 @@
     "subjectCourse": "ECON003",
     "faculty": [
       {
-        "bannerId": "65987",
+        "bannerId": "58982",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13479",
@@ -3575,7 +3610,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877479,
@@ -3611,7 +3647,7 @@
     "subjectCourse": "ECON003",
     "faculty": [
       {
-        "bannerId": "65988",
+        "bannerId": "58967",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13480",
@@ -3672,7 +3708,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877480,
@@ -3708,7 +3745,7 @@
     "subjectCourse": "ECON003",
     "faculty": [
       {
-        "bannerId": "65989",
+        "bannerId": "58971",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13481",
@@ -3769,7 +3806,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877481,
@@ -3805,7 +3843,7 @@
     "subjectCourse": "ECON003",
     "faculty": [
       {
-        "bannerId": "65991",
+        "bannerId": "59009",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13482",
@@ -3854,7 +3892,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881223,
@@ -3890,7 +3929,7 @@
     "subjectCourse": "ECON003",
     "faculty": [
       {
-        "bannerId": "65991",
+        "bannerId": "59009",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23107",
@@ -3939,7 +3978,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881224,
@@ -3975,7 +4015,7 @@
     "subjectCourse": "ECON003",
     "faculty": [
       {
-        "bannerId": "65990",
+        "bannerId": "58977",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23108",
@@ -4024,7 +4064,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883505,
@@ -4060,7 +4101,7 @@
     "subjectCourse": "ECON003",
     "faculty": [
       {
-        "bannerId": "65986",
+        "bannerId": "58957",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29207",
@@ -4121,7 +4162,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881225,
@@ -4157,7 +4199,7 @@
     "subjectCourse": "ECON003",
     "faculty": [
       {
-        "bannerId": "66029",
+        "bannerId": "59362",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23110",
@@ -4218,7 +4260,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881226,
@@ -4254,7 +4297,7 @@
     "subjectCourse": "ECON003",
     "faculty": [
       {
-        "bannerId": "66029",
+        "bannerId": "59362",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23111",
@@ -4303,7 +4346,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881227,
@@ -4339,7 +4383,7 @@
     "subjectCourse": "ECON003",
     "faculty": [
       {
-        "bannerId": "66029",
+        "bannerId": "59362",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23112",
@@ -4388,7 +4432,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905618,
@@ -4424,7 +4469,7 @@
     "subjectCourse": "ECON003",
     "faculty": [
       {
-        "bannerId": "66118",
+        "bannerId": "60036",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38839",
@@ -4473,7 +4518,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905554,
@@ -4509,7 +4555,7 @@
     "subjectCourse": "ECON003",
     "faculty": [
       {
-        "bannerId": "66118",
+        "bannerId": "60036",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38809",
@@ -4558,7 +4604,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905557,
@@ -4594,7 +4641,7 @@
     "subjectCourse": "ECON003",
     "faculty": [
       {
-        "bannerId": "66118",
+        "bannerId": "60036",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38812",
@@ -4643,7 +4690,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905559,
@@ -4679,7 +4727,7 @@
     "subjectCourse": "ECON003",
     "faculty": [
       {
-        "bannerId": "66112",
+        "bannerId": "60027",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38814",
@@ -4728,7 +4776,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905562,
@@ -4764,7 +4813,7 @@
     "subjectCourse": "ECON003",
     "faculty": [
       {
-        "bannerId": "66112",
+        "bannerId": "60027",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38817",
@@ -4813,7 +4862,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905563,
@@ -4849,7 +4899,7 @@
     "subjectCourse": "ECON003",
     "faculty": [
       {
-        "bannerId": "66112",
+        "bannerId": "60027",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38818",
@@ -4898,7 +4948,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881228,
@@ -4934,7 +4985,7 @@
     "subjectCourse": "ECON101",
     "faculty": [
       {
-        "bannerId": "66034",
+        "bannerId": "59455",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23113",
@@ -4944,7 +4995,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66035",
+        "bannerId": "59459",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23113",
@@ -4954,7 +5005,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66036",
+        "bannerId": "59487",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23113",
@@ -4964,7 +5015,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66037",
+        "bannerId": "59499",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23113",
@@ -4974,7 +5025,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66038",
+        "bannerId": "59504",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23113",
@@ -4984,7 +5035,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66039",
+        "bannerId": "59507",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23113",
@@ -4994,7 +5045,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66040",
+        "bannerId": "59511",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23113",
@@ -5043,7 +5094,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON101(\n Course or Test: Mathematics 005B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 881229,
@@ -5079,7 +5131,7 @@
     "subjectCourse": "ECON101",
     "faculty": [
       {
-        "bannerId": "66034",
+        "bannerId": "59455",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23114",
@@ -5140,7 +5192,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON101(\n Course or Test: Mathematics 005B \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 881230,
@@ -5176,7 +5229,7 @@
     "subjectCourse": "ECON101",
     "faculty": [
       {
-        "bannerId": "66034",
+        "bannerId": "59455",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23115",
@@ -5225,7 +5278,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON101(\n Course or Test: Mathematics 005B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 881231,
@@ -5261,7 +5315,7 @@
     "subjectCourse": "ECON101",
     "faculty": [
       {
-        "bannerId": "66034",
+        "bannerId": "59455",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23116",
@@ -5322,7 +5376,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON101)\nand\n(\n Course or Test: Mathematics 005B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 881232,
@@ -5358,7 +5413,7 @@
     "subjectCourse": "ECON101",
     "faculty": [
       {
-        "bannerId": "66039",
+        "bannerId": "59507",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23117",
@@ -5407,7 +5462,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON101)\nand\n(\n Course or Test: Mathematics 005B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 889110,
@@ -5443,7 +5499,7 @@
     "subjectCourse": "ECON101",
     "faculty": [
       {
-        "bannerId": "66039",
+        "bannerId": "59507",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37593",
@@ -5504,7 +5560,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON101)\nand\n(\n Course or Test: Mathematics 005B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 881233,
@@ -5540,7 +5597,7 @@
     "subjectCourse": "ECON101",
     "faculty": [
       {
-        "bannerId": "66039",
+        "bannerId": "59507",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23119",
@@ -5589,7 +5646,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON101(\n Course or Test: Mathematics 005B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 883511,
@@ -5625,7 +5683,7 @@
     "subjectCourse": "ECON101",
     "faculty": [
       {
-        "bannerId": "66036",
+        "bannerId": "59487",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29220",
@@ -5674,7 +5732,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON101(\n Course or Test: Mathematics 005B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884137,
@@ -5710,7 +5769,7 @@
     "subjectCourse": "ECON101",
     "faculty": [
       {
-        "bannerId": "66036",
+        "bannerId": "59487",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "30471",
@@ -5771,7 +5830,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON101)\nand\n(\n Course or Test: Mathematics 005B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884138,
@@ -5807,7 +5867,7 @@
     "subjectCourse": "ECON101",
     "faculty": [
       {
-        "bannerId": "66036",
+        "bannerId": "59487",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "30472",
@@ -5856,7 +5916,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON101(\n Course or Test: Mathematics 005B \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 881234,
@@ -5892,7 +5953,7 @@
     "subjectCourse": "ECON101",
     "faculty": [
       {
-        "bannerId": "66035",
+        "bannerId": "59459",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23120",
@@ -5941,7 +6002,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON101)\nand\n(\n Course or Test: Mathematics 005B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 881235,
@@ -5977,7 +6039,7 @@
     "subjectCourse": "ECON101",
     "faculty": [
       {
-        "bannerId": "66038",
+        "bannerId": "59504",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23121",
@@ -6026,7 +6088,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON101(\n Course or Test: Mathematics 005B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 881236,
@@ -6062,7 +6125,7 @@
     "subjectCourse": "ECON101",
     "faculty": [
       {
-        "bannerId": "66038",
+        "bannerId": "59504",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23122",
@@ -6111,7 +6174,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON101(\n Course or Test: Mathematics 005B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 881237,
@@ -6147,7 +6211,7 @@
     "subjectCourse": "ECON101",
     "faculty": [
       {
-        "bannerId": "66038",
+        "bannerId": "59504",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23123",
@@ -6196,7 +6260,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON101(\n Course or Test: Mathematics 005B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 889139,
@@ -6232,7 +6297,7 @@
     "subjectCourse": "ECON101",
     "faculty": [
       {
-        "bannerId": "66035",
+        "bannerId": "59459",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37621",
@@ -6281,7 +6346,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON101)\nand\n(\n Course or Test: Mathematics 005B \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 881238,
@@ -6317,7 +6383,7 @@
     "subjectCourse": "ECON101",
     "faculty": [
       {
-        "bannerId": "66035",
+        "bannerId": "59459",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23125",
@@ -6366,7 +6432,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON101)\nand\n(\n Course or Test: Mathematics 005B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 883512,
@@ -6402,7 +6469,7 @@
     "subjectCourse": "ECON101",
     "faculty": [
       {
-        "bannerId": "66037",
+        "bannerId": "59499",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29221",
@@ -6451,7 +6518,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON101)\nand\n(\n Course or Test: Mathematics 005B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 883513,
@@ -6487,7 +6555,7 @@
     "subjectCourse": "ECON101",
     "faculty": [
       {
-        "bannerId": "66037",
+        "bannerId": "59499",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29222",
@@ -6536,7 +6604,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON101)\nand\n(\n Course or Test: Mathematics 005B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884330,
@@ -6572,7 +6641,7 @@
     "subjectCourse": "ECON101",
     "faculty": [
       {
-        "bannerId": "66037",
+        "bannerId": "59499",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31241",
@@ -6621,7 +6690,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON101(\n Course or Test: Mathematics 005B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884668,
@@ -6657,7 +6727,17 @@
     "subjectCourse": "ECON102",
     "faculty": [
       {
-        "bannerId": "66082",
+        "bannerId": "59912",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "31795",
+        "displayName": "McLaren, Craig",
+        "emailAddress": "bernhard.mclaren@email.ucr.edu",
+        "primaryIndicator": true,
+        "term": "202440"
+      },
+      {
+        "bannerId": "59914",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31795",
@@ -6667,7 +6747,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66083",
+        "bannerId": "59916",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31795",
@@ -6677,23 +6757,13 @@
         "term": "202440"
       },
       {
-        "bannerId": "66084",
+        "bannerId": "59918",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31795",
         "displayName": "Chandra, Ujaan",
         "emailAddress": "ujaan.chandra@email.ucr.edu",
         "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "66092",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "31795",
-        "displayName": "McLaren, Craig",
-        "emailAddress": "bernhard.mclaren@email.ucr.edu",
-        "primaryIndicator": true,
         "term": "202440"
       }
     ],
@@ -6736,7 +6806,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON102)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884888,
@@ -6772,7 +6843,7 @@
     "subjectCourse": "ECON102",
     "faculty": [
       {
-        "bannerId": "66084",
+        "bannerId": "59918",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32605",
@@ -6821,7 +6892,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON102)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884889,
@@ -6857,7 +6929,7 @@
     "subjectCourse": "ECON102",
     "faculty": [
       {
-        "bannerId": "66082",
+        "bannerId": "59914",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32606",
@@ -6906,7 +6978,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON102)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884890,
@@ -6942,7 +7015,7 @@
     "subjectCourse": "ECON102",
     "faculty": [
       {
-        "bannerId": "66083",
+        "bannerId": "59916",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32607",
@@ -6991,7 +7064,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON102)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884891,
@@ -7027,7 +7101,7 @@
     "subjectCourse": "ECON102",
     "faculty": [
       {
-        "bannerId": "66083",
+        "bannerId": "59916",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32608",
@@ -7076,7 +7150,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON102(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884897,
@@ -7112,7 +7187,7 @@
     "subjectCourse": "ECON102",
     "faculty": [
       {
-        "bannerId": "66082",
+        "bannerId": "59914",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32635",
@@ -7161,7 +7236,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON102(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884898,
@@ -7197,7 +7273,7 @@
     "subjectCourse": "ECON102",
     "faculty": [
       {
-        "bannerId": "66082",
+        "bannerId": "59914",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32636",
@@ -7246,7 +7322,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON102)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884899,
@@ -7282,7 +7359,7 @@
     "subjectCourse": "ECON102",
     "faculty": [
       {
-        "bannerId": "66084",
+        "bannerId": "59918",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32637",
@@ -7331,7 +7408,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON102)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884900,
@@ -7367,7 +7445,7 @@
     "subjectCourse": "ECON102",
     "faculty": [
       {
-        "bannerId": "66083",
+        "bannerId": "59916",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32638",
@@ -7416,7 +7494,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON102)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884901,
@@ -7452,7 +7531,7 @@
     "subjectCourse": "ECON102",
     "faculty": [
       {
-        "bannerId": "66084",
+        "bannerId": "59918",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32639",
@@ -7501,7 +7580,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON102(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 877482,
@@ -7537,7 +7617,7 @@
     "subjectCourse": "ECON104A",
     "faculty": [
       {
-        "bannerId": "65447",
+        "bannerId": "59013",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13521",
@@ -7547,7 +7627,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65992",
+        "bannerId": "59017",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13521",
@@ -7557,7 +7637,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65993",
+        "bannerId": "59020",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13521",
@@ -7567,7 +7647,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65994",
+        "bannerId": "59024",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13521",
@@ -7616,7 +7696,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON104A(\n Course or Test: Economics 003 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of C-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 877483,
@@ -7652,7 +7733,7 @@
     "subjectCourse": "ECON104A",
     "faculty": [
       {
-        "bannerId": "65993",
+        "bannerId": "59020",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13522",
@@ -7701,7 +7782,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON104A)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n Minimum Grade of C-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 889112,
@@ -7737,7 +7819,7 @@
     "subjectCourse": "ECON104A",
     "faculty": [
       {
-        "bannerId": "65993",
+        "bannerId": "59020",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37594",
@@ -7798,7 +7880,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON104A)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of C-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 877484,
@@ -7834,7 +7917,7 @@
     "subjectCourse": "ECON104A",
     "faculty": [
       {
-        "bannerId": "65992",
+        "bannerId": "59017",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13524",
@@ -7883,7 +7966,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON104A(\n Course or Test: Economics 003 \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n Minimum Grade of C-\n May not be taken concurrently.and\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 877485,
@@ -7919,7 +8003,7 @@
     "subjectCourse": "ECON104A",
     "faculty": [
       {
-        "bannerId": "65992",
+        "bannerId": "59017",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13525",
@@ -7968,7 +8052,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON104A(\n Course or Test: Economics 003 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of C-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 877486,
@@ -8004,7 +8089,7 @@
     "subjectCourse": "ECON104A",
     "faculty": [
       {
-        "bannerId": "65993",
+        "bannerId": "59020",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13526",
@@ -8053,7 +8138,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON104A(\n Course or Test: Economics 003 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of C-\n May not be taken concurrently.and\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 877487,
@@ -8089,7 +8175,7 @@
     "subjectCourse": "ECON104A",
     "faculty": [
       {
-        "bannerId": "65992",
+        "bannerId": "59017",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13527",
@@ -8150,7 +8236,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON104A)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n Minimum Grade of C-\n May not be taken concurrently.and\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 883395,
@@ -8186,7 +8273,7 @@
     "subjectCourse": "ECON104A",
     "faculty": [
       {
-        "bannerId": "65994",
+        "bannerId": "59024",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28970",
@@ -8235,7 +8322,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON104A(\n Course or Test: Economics 003 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of C-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 883396,
@@ -8271,7 +8359,7 @@
     "subjectCourse": "ECON104A",
     "faculty": [
       {
-        "bannerId": "65994",
+        "bannerId": "59024",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28971",
@@ -8320,7 +8408,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON104A)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n Minimum Grade of C-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 883397,
@@ -8356,7 +8445,7 @@
     "subjectCourse": "ECON104A",
     "faculty": [
       {
-        "bannerId": "65994",
+        "bannerId": "59024",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28972",
@@ -8417,7 +8506,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON104A)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of C-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 877488,
@@ -8453,7 +8543,7 @@
     "subjectCourse": "ECON105A",
     "faculty": [
       {
-        "bannerId": "65995",
+        "bannerId": "59044",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13528",
@@ -8463,7 +8553,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65996",
+        "bannerId": "59049",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13528",
@@ -8473,7 +8563,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65997",
+        "bannerId": "59054",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13528",
@@ -8483,7 +8573,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65975",
+        "bannerId": "58863",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13528",
@@ -8532,7 +8622,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON105A(\n Course or Test: Economics 002 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 877489,
@@ -8568,7 +8659,7 @@
     "subjectCourse": "ECON105A",
     "faculty": [
       {
-        "bannerId": "65997",
+        "bannerId": "59054",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13529",
@@ -8629,7 +8720,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON105A(\n Course or Test: Economics 002 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 877490,
@@ -8665,7 +8757,7 @@
     "subjectCourse": "ECON105A",
     "faculty": [
       {
-        "bannerId": "65975",
+        "bannerId": "58863",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13530",
@@ -8714,7 +8806,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON105A)\nand\n(\n Course or Test: Economics 002 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 877491,
@@ -8750,7 +8843,7 @@
     "subjectCourse": "ECON105A",
     "faculty": [
       {
-        "bannerId": "65975",
+        "bannerId": "58863",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13531",
@@ -8811,7 +8904,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON105A(\n Course or Test: Economics 002 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 877492,
@@ -8847,7 +8941,7 @@
     "subjectCourse": "ECON105A",
     "faculty": [
       {
-        "bannerId": "65975",
+        "bannerId": "58863",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13532",
@@ -8896,7 +8990,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON105A(\n Course or Test: Economics 002 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 886652,
@@ -8932,7 +9027,7 @@
     "subjectCourse": "ECON105A",
     "faculty": [
       {
-        "bannerId": "65997",
+        "bannerId": "59054",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35582",
@@ -8981,7 +9076,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON105A)\nand\n(\n Course or Test: Economics 002 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 884902,
@@ -9017,7 +9113,7 @@
     "subjectCourse": "ECON105A",
     "faculty": [
       {
-        "bannerId": "65997",
+        "bannerId": "59054",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32643",
@@ -9066,7 +9162,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON105A(\n Course or Test: Economics 002 \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Economics 002H \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 883398,
@@ -9102,7 +9199,7 @@
     "subjectCourse": "ECON105A",
     "faculty": [
       {
-        "bannerId": "65996",
+        "bannerId": "59049",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28973",
@@ -9151,7 +9248,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON105A(\n Course or Test: Economics 002 \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Economics 002H \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 883399,
@@ -9187,7 +9285,7 @@
     "subjectCourse": "ECON105A",
     "faculty": [
       {
-        "bannerId": "65996",
+        "bannerId": "59049",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28974",
@@ -9236,7 +9334,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON105A(\n Course or Test: Economics 002 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 883400,
@@ -9272,7 +9371,7 @@
     "subjectCourse": "ECON105A",
     "faculty": [
       {
-        "bannerId": "65996",
+        "bannerId": "59049",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28975",
@@ -9333,7 +9432,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON105A)\nand\n(\n Course or Test: Economics 002 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 889108,
@@ -9369,7 +9469,7 @@
     "subjectCourse": "ECON106",
     "faculty": [
       {
-        "bannerId": "66131",
+        "bannerId": "60081",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37591",
@@ -9379,7 +9479,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66040",
+        "bannerId": "59511",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37591",
@@ -9428,7 +9528,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON106(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 889140,
@@ -9464,7 +9565,7 @@
     "subjectCourse": "ECON106",
     "faculty": [
       {
-        "bannerId": "66131",
+        "bannerId": "60081",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37622",
@@ -9513,7 +9614,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON106)\nand\n(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 889141,
@@ -9549,7 +9651,7 @@
     "subjectCourse": "ECON106",
     "faculty": [
       {
-        "bannerId": "66131",
+        "bannerId": "60081",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37623",
@@ -9598,7 +9700,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON106(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 889142,
@@ -9634,7 +9737,7 @@
     "subjectCourse": "ECON106",
     "faculty": [
       {
-        "bannerId": "66131",
+        "bannerId": "60081",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37624",
@@ -9683,7 +9786,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON106(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 877493,
@@ -9719,7 +9823,17 @@
     "subjectCourse": "ECON107",
     "faculty": [
       {
-        "bannerId": "65998",
+        "bannerId": "59081",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "13535",
+        "displayName": "Eren, Ozkan",
+        "emailAddress": "ozkan.eren@ucr.edu",
+        "primaryIndicator": true,
+        "term": "202440"
+      },
+      {
+        "bannerId": "59088",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13535",
@@ -9729,7 +9843,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65999",
+        "bannerId": "59092",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13535",
@@ -9739,7 +9853,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66000",
+        "bannerId": "59096",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13535",
@@ -9749,23 +9863,13 @@
         "term": "202440"
       },
       {
-        "bannerId": "66001",
+        "bannerId": "59098",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13535",
         "displayName": "Bansal, Radhika",
         "emailAddress": "radhika.bansal@email.ucr.edu",
         "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "66004",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "13535",
-        "displayName": "Eren, Ozkan",
-        "emailAddress": "ozkan.eren@ucr.edu",
-        "primaryIndicator": true,
         "term": "202440"
       }
     ],
@@ -9808,7 +9912,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON107(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 880754,
@@ -9844,7 +9949,7 @@
     "subjectCourse": "ECON107",
     "faculty": [
       {
-        "bannerId": "65998",
+        "bannerId": "59088",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "21161",
@@ -9893,7 +9998,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON107)\nand\n(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 881239,
@@ -9929,7 +10035,7 @@
     "subjectCourse": "ECON107",
     "faculty": [
       {
-        "bannerId": "66000",
+        "bannerId": "59096",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23133",
@@ -9978,7 +10084,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON107)\nand\n(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 002 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 002H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884151,
@@ -10014,7 +10121,7 @@
     "subjectCourse": "ECON107",
     "faculty": [
       {
-        "bannerId": "65998",
+        "bannerId": "59088",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "30541",
@@ -10063,7 +10170,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON107)\nand\n(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 883062,
@@ -10099,7 +10207,7 @@
     "subjectCourse": "ECON107",
     "faculty": [
       {
-        "bannerId": "66001",
+        "bannerId": "59098",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27651",
@@ -10148,7 +10256,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON107(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 886656,
@@ -10184,7 +10293,7 @@
     "subjectCourse": "ECON107",
     "faculty": [
       {
-        "bannerId": "66001",
+        "bannerId": "59098",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35586",
@@ -10233,7 +10342,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON107)\nand\n(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 886658,
@@ -10269,7 +10379,7 @@
     "subjectCourse": "ECON107",
     "faculty": [
       {
-        "bannerId": "66001",
+        "bannerId": "59098",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35588",
@@ -10318,7 +10428,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON107)\nand\n(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 880752,
@@ -10354,7 +10465,7 @@
     "subjectCourse": "ECON107",
     "faculty": [
       {
-        "bannerId": "66000",
+        "bannerId": "59096",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "21146",
@@ -10403,7 +10514,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON107(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 880753,
@@ -10439,7 +10551,7 @@
     "subjectCourse": "ECON107",
     "faculty": [
       {
-        "bannerId": "66000",
+        "bannerId": "59096",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "21147",
@@ -10488,7 +10600,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON107(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 002 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 002H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884136,
@@ -10524,7 +10637,7 @@
     "subjectCourse": "ECON107",
     "faculty": [
       {
-        "bannerId": "65999",
+        "bannerId": "59092",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "30469",
@@ -10573,7 +10686,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON107)\nand\n(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 002 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 002H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884421,
@@ -10609,7 +10723,7 @@
     "subjectCourse": "ECON107",
     "faculty": [
       {
-        "bannerId": "65999",
+        "bannerId": "59092",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31389",
@@ -10658,7 +10772,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON107)\nand\n(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 002 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 002H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884422,
@@ -10694,7 +10809,7 @@
     "subjectCourse": "ECON107",
     "faculty": [
       {
-        "bannerId": "65998",
+        "bannerId": "59088",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31390",
@@ -10743,7 +10858,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON107(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 002 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 002H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 887394,
@@ -10779,7 +10895,7 @@
     "subjectCourse": "ECON107",
     "faculty": [
       {
-        "bannerId": "65999",
+        "bannerId": "59092",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36477",
@@ -10828,7 +10944,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON107)\nand\n(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 889062,
@@ -10864,7 +10981,7 @@
     "subjectCourse": "ECON119",
     "faculty": [
       {
-        "bannerId": "66129",
+        "bannerId": "60074",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37557",
@@ -10874,7 +10991,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66130",
+        "bannerId": "60075",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37557",
@@ -10923,7 +11040,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON119(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 889064,
@@ -10959,7 +11077,7 @@
     "subjectCourse": "ECON125",
     "faculty": [
       {
-        "bannerId": "66092",
+        "bannerId": "59912",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37559",
@@ -11020,7 +11138,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON125(\n Course or Test: Economics 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 889065,
@@ -11056,7 +11175,7 @@
     "subjectCourse": "ECON130",
     "faculty": [
       {
-        "bannerId": "66129",
+        "bannerId": "60074",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37560",
@@ -11066,7 +11185,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66153",
+        "bannerId": "60077",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37560",
@@ -11115,7 +11234,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON130)\nand\n(\n Course or Test: Economics 103 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 105A \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 885211,
@@ -11151,7 +11271,7 @@
     "subjectCourse": "ECON134",
     "faculty": [
       {
-        "bannerId": "65483",
+        "bannerId": "59956",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33211",
@@ -11161,7 +11281,17 @@
         "term": "202440"
       },
       {
-        "bannerId": "65484",
+        "bannerId": "59958",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "33211",
+        "displayName": "Chung, Y.",
+        "emailAddress": "peter.chung@ucr.edu",
+        "primaryIndicator": true,
+        "term": "202440"
+      },
+      {
+        "bannerId": "59960",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33211",
@@ -11171,7 +11301,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65485",
+        "bannerId": "59962",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33211",
@@ -11181,23 +11311,13 @@
         "term": "202440"
       },
       {
-        "bannerId": "65486",
+        "bannerId": "59964",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33211",
         "displayName": "Park, Kay",
         "emailAddress": "kay.park@email.ucr.edu",
         "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "65500",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "33211",
-        "displayName": "Chung, Y.",
-        "emailAddress": "peter.chung@ucr.edu",
-        "primaryIndicator": true,
         "term": "202440"
       }
     ],
@@ -11240,7 +11360,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:ECON134(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 885212,
@@ -11276,7 +11397,7 @@
     "subjectCourse": "ECON134",
     "faculty": [
       {
-        "bannerId": "65486",
+        "bannerId": "59964",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33212",
@@ -11325,7 +11446,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:ECON134(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 885213,
@@ -11361,7 +11483,7 @@
     "subjectCourse": "ECON134",
     "faculty": [
       {
-        "bannerId": "65486",
+        "bannerId": "59964",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33213",
@@ -11410,7 +11532,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:ECON134(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 885214,
@@ -11446,7 +11569,7 @@
     "subjectCourse": "ECON134",
     "faculty": [
       {
-        "bannerId": "65484",
+        "bannerId": "59960",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33214",
@@ -11495,7 +11618,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:ECON134(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 885215,
@@ -11531,7 +11655,7 @@
     "subjectCourse": "ECON134",
     "faculty": [
       {
-        "bannerId": "65484",
+        "bannerId": "59960",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33215",
@@ -11580,7 +11704,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:ECON134(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 885216,
@@ -11616,7 +11741,7 @@
     "subjectCourse": "ECON134",
     "faculty": [
       {
-        "bannerId": "65485",
+        "bannerId": "59962",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33216",
@@ -11665,7 +11790,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:ECON134(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 885217,
@@ -11701,7 +11827,7 @@
     "subjectCourse": "ECON134",
     "faculty": [
       {
-        "bannerId": "65483",
+        "bannerId": "59956",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33217",
@@ -11750,7 +11876,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:ECON134)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 905392,
@@ -11786,7 +11913,7 @@
     "subjectCourse": "ECON134",
     "faculty": [
       {
-        "bannerId": "65485",
+        "bannerId": "59962",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38745",
@@ -11835,7 +11962,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:ECON134(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 905394,
@@ -11871,7 +11999,7 @@
     "subjectCourse": "ECON134",
     "faculty": [
       {
-        "bannerId": "65483",
+        "bannerId": "59956",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38747",
@@ -11920,7 +12048,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:ECON134)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 881642,
@@ -11956,7 +12085,7 @@
     "subjectCourse": "ECON135",
     "faculty": [
       {
-        "bannerId": "65447",
+        "bannerId": "59013",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24410",
@@ -11966,7 +12095,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66046",
+        "bannerId": "59591",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24410",
@@ -11976,7 +12105,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66047",
+        "bannerId": "59594",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24410",
@@ -11986,7 +12115,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66048",
+        "bannerId": "59595",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24410",
@@ -12035,7 +12164,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON135)\nand\n(\n Course or Test: Economics 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n May not be taken concurrently."
   },
   {
     "id": 881643,
@@ -12071,7 +12201,7 @@
     "subjectCourse": "ECON135",
     "faculty": [
       {
-        "bannerId": "66047",
+        "bannerId": "59594",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24411",
@@ -12120,7 +12250,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON135(\n Course or Test: Economics 002 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 002H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n May not be taken concurrently."
   },
   {
     "id": 881644,
@@ -12156,7 +12287,7 @@
     "subjectCourse": "ECON135",
     "faculty": [
       {
-        "bannerId": "66046",
+        "bannerId": "59591",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24412",
@@ -12217,7 +12348,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON135(\n Course or Test: Economics 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n May not be taken concurrently.)"
   },
   {
     "id": 881645,
@@ -12253,7 +12385,7 @@
     "subjectCourse": "ECON135",
     "faculty": [
       {
-        "bannerId": "66047",
+        "bannerId": "59594",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24413",
@@ -12302,7 +12434,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON135)\nand\n(\n Course or Test: Economics 002 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 002H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n May not be taken concurrently."
   },
   {
     "id": 881646,
@@ -12338,7 +12471,7 @@
     "subjectCourse": "ECON135",
     "faculty": [
       {
-        "bannerId": "66046",
+        "bannerId": "59591",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24414",
@@ -12387,7 +12520,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON135)\nand\n(\n Course or Test: Economics 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n May not be taken concurrently."
   },
   {
     "id": 881647,
@@ -12423,7 +12557,7 @@
     "subjectCourse": "ECON135",
     "faculty": [
       {
-        "bannerId": "66047",
+        "bannerId": "59594",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24415",
@@ -12472,7 +12606,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON135(\n Course or Test: Economics 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n May not be taken concurrently.)"
   },
   {
     "id": 881648,
@@ -12508,7 +12643,7 @@
     "subjectCourse": "ECON135",
     "faculty": [
       {
-        "bannerId": "66046",
+        "bannerId": "59591",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24416",
@@ -12557,7 +12692,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON135(\n Course or Test: Economics 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n May not be taken concurrently.)"
   },
   {
     "id": 881649,
@@ -12593,7 +12729,7 @@
     "subjectCourse": "ECON135",
     "faculty": [
       {
-        "bannerId": "66048",
+        "bannerId": "59595",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24417",
@@ -12642,7 +12778,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON135(\n Course or Test: Economics 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n May not be taken concurrently.)"
   },
   {
     "id": 881650,
@@ -12678,7 +12815,7 @@
     "subjectCourse": "ECON135",
     "faculty": [
       {
-        "bannerId": "66048",
+        "bannerId": "59595",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24418",
@@ -12727,7 +12864,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON135(\n Course or Test: Economics 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n May not be taken concurrently.)"
   },
   {
     "id": 881651,
@@ -12763,7 +12901,7 @@
     "subjectCourse": "ECON135",
     "faculty": [
       {
-        "bannerId": "66048",
+        "bannerId": "59595",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24419",
@@ -12824,7 +12962,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON135)\nand\n(\n Course or Test: Economics 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n May not be taken concurrently."
   },
   {
     "id": 886610,
@@ -12860,7 +12999,7 @@
     "subjectCourse": "ECON137",
     "faculty": [
       {
-        "bannerId": "65995",
+        "bannerId": "59044",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35540",
@@ -12870,7 +13009,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66118",
+        "bannerId": "60036",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35540",
@@ -12919,7 +13058,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON137(\n Course or Test: Economics 103 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 105A \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 889066,
@@ -12955,7 +13095,7 @@
     "subjectCourse": "ECON151",
     "faculty": [
       {
-        "bannerId": "66004",
+        "bannerId": "59081",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37561",
@@ -13004,7 +13144,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON151)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of C-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 101 \n Minimum Grade of C-\n May not be taken concurrently.)"
   },
   {
     "id": 885937,
@@ -13040,7 +13181,7 @@
     "subjectCourse": "ECON153",
     "faculty": [
       {
-        "bannerId": "65492",
+        "bannerId": "59631",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34643",
@@ -13050,7 +13191,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66112",
+        "bannerId": "60027",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34643",
@@ -13099,7 +13240,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON153)\nand\n(\n Course or Test: Economics 102 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 104A \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 889072,
@@ -13135,7 +13277,7 @@
     "subjectCourse": "ECON164",
     "faculty": [
       {
-        "bannerId": "66072",
+        "bannerId": "59880",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37567",
@@ -13184,7 +13326,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON164(\n Course or Test: Economics 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 104B \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 885628,
@@ -13220,7 +13363,7 @@
     "subjectCourse": "ECON171",
     "faculty": [
       {
-        "bannerId": "65502",
+        "bannerId": "59921",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33839",
@@ -13230,7 +13373,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66152",
+        "bannerId": "59979",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33839",
@@ -13279,7 +13422,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON171(\n Course or Test: Economics 103 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 105A \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884669,
@@ -13315,7 +13459,7 @@
     "subjectCourse": "ECON178",
     "faculty": [
       {
-        "bannerId": "65502",
+        "bannerId": "59921",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31802",
@@ -13325,7 +13469,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65487",
+        "bannerId": "59922",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31802",
@@ -13374,7 +13518,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON178(\n Course or Test: Economics 102 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 104A \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 886614,
@@ -13410,7 +13555,7 @@
     "subjectCourse": "ECON186",
     "faculty": [
       {
-        "bannerId": "66072",
+        "bannerId": "59880",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35544",
@@ -13471,7 +13616,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON186(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884281,
@@ -13507,7 +13653,7 @@
     "subjectCourse": "ECON200A",
     "faculty": [
       {
-        "bannerId": "66011",
+        "bannerId": "59144",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31158",
@@ -13517,7 +13663,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66078",
+        "bannerId": "59895",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31158",
@@ -13566,7 +13712,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON200A(\n Course or Test: Economics 104B \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884282,
@@ -13602,7 +13749,7 @@
     "subjectCourse": "ECON200A",
     "faculty": [
       {
-        "bannerId": "66078",
+        "bannerId": "59895",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31159",
@@ -13651,7 +13798,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON200A)\nand\n(\n Course or Test: Economics 104B \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 885629,
@@ -13687,7 +13835,7 @@
     "subjectCourse": "ECON201A",
     "faculty": [
       {
-        "bannerId": "66005",
+        "bannerId": "59099",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33842",
@@ -13697,7 +13845,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66096",
+        "bannerId": "59983",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33842",
@@ -13746,7 +13894,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON201A)\nand\n(\n Course or Test: Economics 105B \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 200A \n Minimum Grade of D-\n May be taken concurrently."
   },
   {
     "id": 885686,
@@ -13782,7 +13931,7 @@
     "subjectCourse": "ECON201A",
     "faculty": [
       {
-        "bannerId": "66096",
+        "bannerId": "59983",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34080",
@@ -13831,7 +13980,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON201A(\n Course or Test: Economics 105B \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 200A \n Minimum Grade of D-\n May be taken concurrently."
   },
   {
     "id": 885630,
@@ -13867,7 +14017,7 @@
     "subjectCourse": "ECON205A",
     "faculty": [
       {
-        "bannerId": "66002",
+        "bannerId": "59105",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33843",
@@ -13877,7 +14027,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66097",
+        "bannerId": "59986",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33843",
@@ -13926,7 +14076,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON205A(\n Course or Test: Economics 104A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 105A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 009B \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 011 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 885687,
@@ -13962,7 +14113,7 @@
     "subjectCourse": "ECON205A",
     "faculty": [
       {
-        "bannerId": "66097",
+        "bannerId": "59986",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34081",
@@ -14011,7 +14162,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ECON205A(\n Course or Test: Economics 104A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 105A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 009B \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 011 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 889074,
@@ -14047,7 +14199,7 @@
     "subjectCourse": "ECON241",
     "faculty": [
       {
-        "bannerId": "65492",
+        "bannerId": "59631",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37569",
@@ -14096,7 +14248,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887406,
@@ -14132,7 +14285,7 @@
     "subjectCourse": "ECON260",
     "faculty": [
       {
-        "bannerId": "66012",
+        "bannerId": "59146",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36503",
@@ -14181,7 +14334,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877498,
@@ -14217,7 +14371,7 @@
     "subjectCourse": "ECON282E",
     "faculty": [
       {
-        "bannerId": "66005",
+        "bannerId": "59099",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13573",
@@ -14266,7 +14420,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884670,
@@ -14302,7 +14457,7 @@
     "subjectCourse": "ECON283E",
     "faculty": [
       {
-        "bannerId": "66011",
+        "bannerId": "59144",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31804",
@@ -14351,7 +14506,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889075,
@@ -14387,7 +14543,7 @@
     "subjectCourse": "ECON285E",
     "faculty": [
       {
-        "bannerId": "66002",
+        "bannerId": "59105",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37570",
@@ -14436,7 +14592,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877499,
@@ -14472,7 +14629,7 @@
     "subjectCourse": "ECON289A",
     "faculty": [
       {
-        "bannerId": "66005",
+        "bannerId": "59099",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13575",
@@ -14521,7 +14678,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877500,
@@ -14557,7 +14715,7 @@
     "subjectCourse": "ECON289A",
     "faculty": [
       {
-        "bannerId": "66002",
+        "bannerId": "59105",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13576",
@@ -14606,7 +14764,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877501,
@@ -14642,7 +14801,7 @@
     "subjectCourse": "ECON289A",
     "faculty": [
       {
-        "bannerId": "66003",
+        "bannerId": "59108",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13577",
@@ -14691,7 +14850,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884406,
@@ -14727,7 +14887,7 @@
     "subjectCourse": "ECON289A",
     "faculty": [
       {
-        "bannerId": "66072",
+        "bannerId": "59880",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31369",
@@ -14737,7 +14897,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66079",
+        "bannerId": "59899",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31369",
@@ -14786,7 +14946,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877502,
@@ -14822,7 +14983,7 @@
     "subjectCourse": "ECON289B",
     "faculty": [
       {
-        "bannerId": "66005",
+        "bannerId": "59099",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13578",
@@ -14871,7 +15032,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877503,
@@ -14907,7 +15069,7 @@
     "subjectCourse": "ECON289B",
     "faculty": [
       {
-        "bannerId": "66002",
+        "bannerId": "59105",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13579",
@@ -14956,7 +15118,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877504,
@@ -14992,7 +15155,7 @@
     "subjectCourse": "ECON289B",
     "faculty": [
       {
-        "bannerId": "66003",
+        "bannerId": "59108",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13580",
@@ -15041,7 +15204,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884407,
@@ -15077,7 +15241,7 @@
     "subjectCourse": "ECON289B",
     "faculty": [
       {
-        "bannerId": "66072",
+        "bannerId": "59880",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31370",
@@ -15087,7 +15251,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66079",
+        "bannerId": "59899",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31370",
@@ -15136,7 +15300,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877505,
@@ -15172,7 +15337,7 @@
     "subjectCourse": "ECON290",
     "faculty": [
       {
-        "bannerId": "66006",
+        "bannerId": "59121",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13583",
@@ -15221,7 +15386,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877506,
@@ -15257,7 +15423,7 @@
     "subjectCourse": "ECON290",
     "faculty": [
       {
-        "bannerId": "66007",
+        "bannerId": "59124",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13587",
@@ -15306,7 +15472,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877507,
@@ -15342,7 +15509,7 @@
     "subjectCourse": "ECON290",
     "faculty": [
       {
-        "bannerId": "66008",
+        "bannerId": "59128",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13588",
@@ -15391,7 +15558,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877508,
@@ -15427,7 +15595,7 @@
     "subjectCourse": "ECON290",
     "faculty": [
       {
-        "bannerId": "66005",
+        "bannerId": "59099",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13590",
@@ -15476,7 +15644,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877509,
@@ -15512,7 +15681,7 @@
     "subjectCourse": "ECON290",
     "faculty": [
       {
-        "bannerId": "66009",
+        "bannerId": "59134",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13591",
@@ -15561,7 +15730,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877510,
@@ -15597,7 +15767,7 @@
     "subjectCourse": "ECON290",
     "faculty": [
       {
-        "bannerId": "66010",
+        "bannerId": "59138",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13592",
@@ -15646,7 +15816,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877511,
@@ -15682,7 +15853,7 @@
     "subjectCourse": "ECON291",
     "faculty": [
       {
-        "bannerId": "66006",
+        "bannerId": "59121",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13596",
@@ -15731,7 +15902,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884552,
@@ -15767,7 +15939,7 @@
     "subjectCourse": "ECON291",
     "faculty": [
       {
-        "bannerId": "66080",
+        "bannerId": "59904",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31554",
@@ -15816,7 +15988,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884497,
@@ -15852,7 +16025,7 @@
     "subjectCourse": "ECON291",
     "faculty": [
       {
-        "bannerId": "66003",
+        "bannerId": "59108",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31490",
@@ -15901,7 +16074,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883776,
@@ -15937,7 +16111,7 @@
     "subjectCourse": "ECON291",
     "faculty": [
       {
-        "bannerId": "66002",
+        "bannerId": "59105",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29544",
@@ -15986,7 +16160,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884495,
@@ -16022,7 +16197,7 @@
     "subjectCourse": "ECON291",
     "faculty": [
       {
-        "bannerId": "65995",
+        "bannerId": "59044",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31488",
@@ -16071,7 +16246,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877512,
@@ -16107,7 +16283,7 @@
     "subjectCourse": "ECON291",
     "faculty": [
       {
-        "bannerId": "66007",
+        "bannerId": "59124",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13600",
@@ -16156,7 +16332,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877513,
@@ -16192,7 +16369,7 @@
     "subjectCourse": "ECON291",
     "faculty": [
       {
-        "bannerId": "66011",
+        "bannerId": "59144",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13602",
@@ -16241,7 +16418,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877514,
@@ -16277,7 +16455,7 @@
     "subjectCourse": "ECON291",
     "faculty": [
       {
-        "bannerId": "66008",
+        "bannerId": "59128",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13603",
@@ -16326,7 +16504,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884607,
@@ -16362,7 +16541,7 @@
     "subjectCourse": "ECON291",
     "faculty": [
       {
-        "bannerId": "66004",
+        "bannerId": "59081",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31623",
@@ -16411,7 +16590,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877515,
@@ -16447,7 +16627,7 @@
     "subjectCourse": "ECON291",
     "faculty": [
       {
-        "bannerId": "66012",
+        "bannerId": "59146",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13604",
@@ -16496,7 +16676,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877516,
@@ -16532,7 +16713,7 @@
     "subjectCourse": "ECON291",
     "faculty": [
       {
-        "bannerId": "66005",
+        "bannerId": "59099",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13606",
@@ -16581,7 +16762,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877517,
@@ -16617,7 +16799,7 @@
     "subjectCourse": "ECON291",
     "faculty": [
       {
-        "bannerId": "66009",
+        "bannerId": "59134",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13607",
@@ -16666,7 +16848,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877518,
@@ -16702,7 +16885,7 @@
     "subjectCourse": "ECON291",
     "faculty": [
       {
-        "bannerId": "66013",
+        "bannerId": "59156",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13608",
@@ -16751,7 +16934,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877519,
@@ -16787,7 +16971,7 @@
     "subjectCourse": "ECON291",
     "faculty": [
       {
-        "bannerId": "66010",
+        "bannerId": "59138",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13609",
@@ -16836,7 +17020,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882961,
@@ -16872,7 +17057,7 @@
     "subjectCourse": "ECON291",
     "faculty": [
       {
-        "bannerId": "65492",
+        "bannerId": "59631",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27441",
@@ -16921,7 +17106,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882996,
@@ -16957,7 +17143,7 @@
     "subjectCourse": "ECON291",
     "faculty": [
       {
-        "bannerId": "66014",
+        "bannerId": "59189",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27484",
@@ -17006,7 +17192,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885292,
@@ -17042,7 +17229,7 @@
     "subjectCourse": "ECON291",
     "faculty": [
       {
-        "bannerId": "66072",
+        "bannerId": "59880",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33329",
@@ -17091,7 +17278,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885236,
@@ -17127,7 +17315,7 @@
     "subjectCourse": "ECON291",
     "faculty": [
       {
-        "bannerId": "66151",
+        "bannerId": "59971",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33249",
@@ -17176,7 +17364,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884583,
@@ -17212,7 +17401,7 @@
     "subjectCourse": "ECON292",
     "faculty": [
       {
-        "bannerId": "66004",
+        "bannerId": "59081",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31595",
@@ -17261,7 +17450,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877520,
@@ -17297,7 +17487,7 @@
     "subjectCourse": "ECON297",
     "faculty": [
       {
-        "bannerId": "66006",
+        "bannerId": "59121",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13614",
@@ -17346,7 +17536,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877521,
@@ -17382,7 +17573,7 @@
     "subjectCourse": "ECON297",
     "faculty": [
       {
-        "bannerId": "65995",
+        "bannerId": "59044",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13621",
@@ -17431,7 +17622,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877522,
@@ -17467,7 +17659,7 @@
     "subjectCourse": "ECON297",
     "faculty": [
       {
-        "bannerId": "66007",
+        "bannerId": "59124",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13622",
@@ -17516,7 +17708,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877523,
@@ -17552,7 +17745,7 @@
     "subjectCourse": "ECON297",
     "faculty": [
       {
-        "bannerId": "66008",
+        "bannerId": "59128",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13623",
@@ -17601,7 +17794,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884564,
@@ -17637,7 +17831,7 @@
     "subjectCourse": "ECON297",
     "faculty": [
       {
-        "bannerId": "66004",
+        "bannerId": "59081",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31574",
@@ -17686,7 +17880,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877524,
@@ -17722,7 +17917,7 @@
     "subjectCourse": "ECON297",
     "faculty": [
       {
-        "bannerId": "66012",
+        "bannerId": "59146",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13625",
@@ -17771,7 +17966,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877525,
@@ -17807,7 +18003,7 @@
     "subjectCourse": "ECON297",
     "faculty": [
       {
-        "bannerId": "66005",
+        "bannerId": "59099",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13627",
@@ -17856,7 +18052,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877526,
@@ -17892,7 +18089,7 @@
     "subjectCourse": "ECON297",
     "faculty": [
       {
-        "bannerId": "66009",
+        "bannerId": "59134",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13628",
@@ -17941,7 +18138,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881017,
@@ -17977,7 +18175,7 @@
     "subjectCourse": "ECON297",
     "faculty": [
       {
-        "bannerId": "66016",
+        "bannerId": "59225",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22681",
@@ -18026,7 +18224,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877527,
@@ -18062,7 +18261,7 @@
     "subjectCourse": "ECON297",
     "faculty": [
       {
-        "bannerId": "66010",
+        "bannerId": "59138",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13629",
@@ -18111,7 +18310,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877530,
@@ -18147,7 +18347,7 @@
     "subjectCourse": "ECON299",
     "faculty": [
       {
-        "bannerId": "66010",
+        "bannerId": "59138",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13634",
@@ -18196,7 +18396,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885271,
@@ -18232,7 +18433,7 @@
     "subjectCourse": "ECON299",
     "faculty": [
       {
-        "bannerId": "66080",
+        "bannerId": "59904",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33306",
@@ -18281,7 +18482,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885251,
@@ -18317,7 +18519,7 @@
     "subjectCourse": "ECON299",
     "faculty": [
       {
-        "bannerId": "66003",
+        "bannerId": "59108",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33282",
@@ -18366,7 +18568,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885245,
@@ -18402,7 +18605,7 @@
     "subjectCourse": "ECON299",
     "faculty": [
       {
-        "bannerId": "66002",
+        "bannerId": "59105",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33276",
@@ -18451,7 +18654,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877531,
@@ -18487,7 +18691,7 @@
     "subjectCourse": "ECON299",
     "faculty": [
       {
-        "bannerId": "65995",
+        "bannerId": "59044",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13640",
@@ -18536,7 +18740,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877532,
@@ -18572,7 +18777,7 @@
     "subjectCourse": "ECON299",
     "faculty": [
       {
-        "bannerId": "66007",
+        "bannerId": "59124",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13641",
@@ -18621,7 +18826,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885283,
@@ -18657,7 +18863,7 @@
     "subjectCourse": "ECON299",
     "faculty": [
       {
-        "bannerId": "66011",
+        "bannerId": "59144",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33320",
@@ -18706,7 +18912,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877533,
@@ -18742,7 +18949,7 @@
     "subjectCourse": "ECON299",
     "faculty": [
       {
-        "bannerId": "66008",
+        "bannerId": "59128",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13642",
@@ -18791,7 +18998,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877534,
@@ -18827,7 +19035,7 @@
     "subjectCourse": "ECON299",
     "faculty": [
       {
-        "bannerId": "66015",
+        "bannerId": "59209",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13643",
@@ -18876,7 +19084,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877529,
@@ -18912,7 +19121,7 @@
     "subjectCourse": "ECON299",
     "faculty": [
       {
-        "bannerId": "66004",
+        "bannerId": "59081",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13633",
@@ -18961,7 +19170,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877535,
@@ -18997,7 +19207,7 @@
     "subjectCourse": "ECON299",
     "faculty": [
       {
-        "bannerId": "66012",
+        "bannerId": "59146",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13644",
@@ -19046,7 +19256,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877536,
@@ -19082,7 +19293,7 @@
     "subjectCourse": "ECON299",
     "faculty": [
       {
-        "bannerId": "66005",
+        "bannerId": "59099",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13646",
@@ -19131,7 +19342,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877537,
@@ -19167,7 +19379,7 @@
     "subjectCourse": "ECON299",
     "faculty": [
       {
-        "bannerId": "66009",
+        "bannerId": "59134",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13647",
@@ -19216,7 +19428,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877538,
@@ -19252,7 +19465,7 @@
     "subjectCourse": "ECON299",
     "faculty": [
       {
-        "bannerId": "66016",
+        "bannerId": "59225",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13648",
@@ -19301,7 +19514,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877539,
@@ -19337,7 +19551,7 @@
     "subjectCourse": "ECON299",
     "faculty": [
       {
-        "bannerId": "66013",
+        "bannerId": "59156",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13649",
@@ -19386,7 +19600,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877540,
@@ -19422,7 +19637,7 @@
     "subjectCourse": "ECON299",
     "faculty": [
       {
-        "bannerId": "66010",
+        "bannerId": "59138",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13650",
@@ -19471,7 +19686,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882093,
@@ -19507,7 +19723,7 @@
     "subjectCourse": "ECON299",
     "faculty": [
       {
-        "bannerId": "65492",
+        "bannerId": "59631",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25244",
@@ -19556,7 +19772,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877528,
@@ -19592,7 +19809,7 @@
     "subjectCourse": "ECON299",
     "faculty": [
       {
-        "bannerId": "66014",
+        "bannerId": "59189",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13630",
@@ -19641,7 +19858,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883775,
@@ -19677,7 +19895,7 @@
     "subjectCourse": "ECON299",
     "faculty": [
       {
-        "bannerId": "66072",
+        "bannerId": "59880",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29543",
@@ -19726,7 +19944,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877541,
@@ -19762,7 +19981,7 @@
     "subjectCourse": "ECON302",
     "faculty": [
       {
-        "bannerId": "64964",
+        "bannerId": "59237",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13651",
@@ -19811,7 +20030,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877542,
@@ -19847,7 +20067,7 @@
     "subjectCourse": "ECON302",
     "faculty": [
       {
-        "bannerId": "66006",
+        "bannerId": "59121",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13652",
@@ -19896,7 +20116,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877543,
@@ -19932,7 +20153,7 @@
     "subjectCourse": "ECON302",
     "faculty": [
       {
-        "bannerId": "66017",
+        "bannerId": "59241",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13653",
@@ -19981,7 +20202,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877544,
@@ -20017,7 +20239,7 @@
     "subjectCourse": "ECON302",
     "faculty": [
       {
-        "bannerId": "66018",
+        "bannerId": "59242",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13654",
@@ -20066,7 +20288,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877545,
@@ -20102,7 +20325,7 @@
     "subjectCourse": "ECON302",
     "faculty": [
       {
-        "bannerId": "66019",
+        "bannerId": "59248",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13655",
@@ -20151,7 +20374,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877546,
@@ -20187,7 +20411,7 @@
     "subjectCourse": "ECON302",
     "faculty": [
       {
-        "bannerId": "66020",
+        "bannerId": "59252",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13656",
@@ -20236,7 +20460,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877547,
@@ -20272,7 +20497,7 @@
     "subjectCourse": "ECON302",
     "faculty": [
       {
-        "bannerId": "66021",
+        "bannerId": "59254",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13657",
@@ -20321,7 +20546,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877548,
@@ -20357,7 +20583,7 @@
     "subjectCourse": "ECON302",
     "faculty": [
       {
-        "bannerId": "66022",
+        "bannerId": "59262",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13658",
@@ -20406,7 +20632,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877549,
@@ -20442,7 +20669,7 @@
     "subjectCourse": "ECON302",
     "faculty": [
       {
-        "bannerId": "66023",
+        "bannerId": "59267",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13659",
@@ -20491,7 +20718,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877550,
@@ -20527,7 +20755,7 @@
     "subjectCourse": "ECON302",
     "faculty": [
       {
-        "bannerId": "66024",
+        "bannerId": "59275",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13660",
@@ -20576,7 +20804,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877551,
@@ -20612,7 +20841,7 @@
     "subjectCourse": "ECON302",
     "faculty": [
       {
-        "bannerId": "66008",
+        "bannerId": "59128",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13661",
@@ -20661,7 +20890,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877552,
@@ -20697,7 +20927,7 @@
     "subjectCourse": "ECON302",
     "faculty": [
       {
-        "bannerId": "66012",
+        "bannerId": "59146",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13662",
@@ -20746,7 +20976,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877553,
@@ -20782,7 +21013,7 @@
     "subjectCourse": "ECON302",
     "faculty": [
       {
-        "bannerId": "66005",
+        "bannerId": "59099",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13663",
@@ -20831,7 +21062,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877554,
@@ -20867,7 +21099,7 @@
     "subjectCourse": "ECON302",
     "faculty": [
       {
-        "bannerId": "66010",
+        "bannerId": "59138",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "13664",
@@ -20916,6 +21148,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   }
 ]

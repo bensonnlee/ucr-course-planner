@@ -33,7 +33,7 @@
     "subjectCourse": "TFDP010",
     "faculty": [
       {
-        "bannerId": "67500",
+        "bannerId": "60203",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19870",
@@ -82,7 +82,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880559,
@@ -118,7 +119,7 @@
     "subjectCourse": "TFDP010",
     "faculty": [
       {
-        "bannerId": "66032",
+        "bannerId": "60205",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19871",
@@ -128,7 +129,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67501",
+        "bannerId": "60206",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19871",
@@ -177,7 +178,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880560,
@@ -251,7 +253,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880561,
@@ -325,7 +328,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880562,
@@ -399,7 +403,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880563,
@@ -435,7 +440,7 @@
     "subjectCourse": "TFDP010",
     "faculty": [
       {
-        "bannerId": "66032",
+        "bannerId": "60205",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19875",
@@ -445,7 +450,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67501",
+        "bannerId": "60206",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19875",
@@ -494,7 +499,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880564,
@@ -530,7 +536,7 @@
     "subjectCourse": "TFDP010",
     "faculty": [
       {
-        "bannerId": "66032",
+        "bannerId": "60205",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19876",
@@ -540,7 +546,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67501",
+        "bannerId": "60206",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19876",
@@ -589,7 +595,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880565,
@@ -625,7 +632,7 @@
     "subjectCourse": "TFDP010",
     "faculty": [
       {
-        "bannerId": "66032",
+        "bannerId": "60205",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19877",
@@ -635,7 +642,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67501",
+        "bannerId": "60206",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19877",
@@ -684,7 +691,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885943,
@@ -720,7 +728,7 @@
     "subjectCourse": "TFDP020",
     "faculty": [
       {
-        "bannerId": "67559",
+        "bannerId": "60364",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34653",
@@ -769,7 +777,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885944,
@@ -805,7 +814,7 @@
     "subjectCourse": "TFDP020",
     "faculty": [
       {
-        "bannerId": "67559",
+        "bannerId": "60364",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34654",
@@ -866,7 +875,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880765,
@@ -902,7 +912,7 @@
     "subjectCourse": "TFDP050S",
     "faculty": [
       {
-        "bannerId": "67521",
+        "bannerId": "60253",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "21252",
@@ -951,7 +961,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 880766,
@@ -1037,7 +1048,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880767,
@@ -1123,7 +1135,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880768,
@@ -1209,7 +1222,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880769,
@@ -1295,7 +1309,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880770,
@@ -1381,7 +1396,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880771,
@@ -1455,7 +1471,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880772,
@@ -1491,7 +1508,7 @@
     "subjectCourse": "TFDP066",
     "faculty": [
       {
-        "bannerId": "66032",
+        "bannerId": "60205",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "21301",
@@ -1501,7 +1518,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67522",
+        "bannerId": "60255",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "21301",
@@ -1550,7 +1567,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880773,
@@ -1586,7 +1604,7 @@
     "subjectCourse": "TFDP066",
     "faculty": [
       {
-        "bannerId": "66032",
+        "bannerId": "60205",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "21305",
@@ -1596,7 +1614,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67522",
+        "bannerId": "60255",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "21305",
@@ -1657,7 +1675,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882431,
@@ -1693,7 +1712,7 @@
     "subjectCourse": "TFDP066",
     "faculty": [
       {
-        "bannerId": "66032",
+        "bannerId": "60205",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26186",
@@ -1703,7 +1722,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67522",
+        "bannerId": "60255",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26186",
@@ -1752,7 +1771,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882432,
@@ -1788,7 +1808,7 @@
     "subjectCourse": "TFDP066",
     "faculty": [
       {
-        "bannerId": "66032",
+        "bannerId": "60205",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26187",
@@ -1798,7 +1818,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67522",
+        "bannerId": "60255",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26187",
@@ -1847,7 +1867,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882433,
@@ -1883,7 +1904,7 @@
     "subjectCourse": "TFDP066",
     "faculty": [
       {
-        "bannerId": "66032",
+        "bannerId": "60205",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26188",
@@ -1893,7 +1914,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67522",
+        "bannerId": "60255",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26188",
@@ -1942,7 +1963,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880566,
@@ -1978,7 +2000,7 @@
     "subjectCourse": "TFDP099",
     "faculty": [
       {
-        "bannerId": "66128",
+        "bannerId": "60210",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19880",
@@ -2039,7 +2061,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889336,
@@ -2075,7 +2098,7 @@
     "subjectCourse": "TFDP101",
     "faculty": [
       {
-        "bannerId": "67565",
+        "bannerId": "60389",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37776",
@@ -2124,7 +2147,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:TFDP101(\n Course or Test: Theater, Film & Digital Prod 020 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 890349,
@@ -2160,7 +2184,7 @@
     "subjectCourse": "TFDP101",
     "faculty": [
       {
-        "bannerId": "67565",
+        "bannerId": "60389",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38039",
@@ -2209,7 +2233,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:TFDP101(\n Course or Test: Theater, Film & Digital Prod 020 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 887290,
@@ -2245,7 +2270,7 @@
     "subjectCourse": "TFDP109",
     "faculty": [
       {
-        "bannerId": "66121",
+        "bannerId": "60376",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36346",
@@ -2294,7 +2319,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:TFDP109(\n Course or Test: Theater, Film & Digital Prod 099 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Media and Cultural Studies 001 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 887291,
@@ -2330,7 +2356,7 @@
     "subjectCourse": "TFDP109",
     "faculty": [
       {
-        "bannerId": "66121",
+        "bannerId": "60376",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36347",
@@ -2379,7 +2405,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:TFDP109(\n Course or Test: Theater, Film & Digital Prod 099 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Media and Cultural Studies 001 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 890610,
@@ -2415,7 +2442,7 @@
     "subjectCourse": "TFDP110A",
     "faculty": [
       {
-        "bannerId": "66148",
+        "bannerId": "60399",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38199",
@@ -2464,7 +2491,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:TFDP110A(\n Course or Test: Theater, Film & Digital Prod 109 \n Minimum Grade of D\n May not be taken concurrently.)"
   },
   {
     "id": 890611,
@@ -2500,7 +2528,7 @@
     "subjectCourse": "TFDP110A",
     "faculty": [
       {
-        "bannerId": "66148",
+        "bannerId": "60399",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38200",
@@ -2549,7 +2577,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:TFDP110A(\n Course or Test: Theater, Film & Digital Prod 109 \n Minimum Grade of D\n May not be taken concurrently.)"
   },
   {
     "id": 890604,
@@ -2585,7 +2614,7 @@
     "subjectCourse": "TFDP110B",
     "faculty": [
       {
-        "bannerId": "67500",
+        "bannerId": "60203",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38194",
@@ -2634,7 +2663,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:TFDP110B(\n Course or Test: Theater, Film & Digital Prod 110A \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 890605,
@@ -2670,7 +2700,7 @@
     "subjectCourse": "TFDP110B",
     "faculty": [
       {
-        "bannerId": "67500",
+        "bannerId": "60203",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38195",
@@ -2719,7 +2749,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:TFDP110B(\n Course or Test: Theater, Film & Digital Prod 110A \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 890608,
@@ -2755,7 +2786,7 @@
     "subjectCourse": "TFDP111C",
     "faculty": [
       {
-        "bannerId": "66032",
+        "bannerId": "60205",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38196",
@@ -2804,7 +2835,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:TFDP111C)\nand\n(\n Course or Test: Theater, Film & Digital Prod 110B \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 890609,
@@ -2840,7 +2872,7 @@
     "subjectCourse": "TFDP111C",
     "faculty": [
       {
-        "bannerId": "66032",
+        "bannerId": "60205",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38197",
@@ -2889,7 +2921,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:TFDP111C(\n Course or Test: Theater, Film & Digital Prod 110B \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 890350,
@@ -2925,7 +2958,7 @@
     "subjectCourse": "TFDP117",
     "faculty": [
       {
-        "bannerId": "67566",
+        "bannerId": "60390",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38040",
@@ -2974,7 +3007,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:TFDP117)\nand\n(\n Course or Test: Theater, Film & Digital Prod 144 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 890351,
@@ -3010,7 +3044,7 @@
     "subjectCourse": "TFDP117",
     "faculty": [
       {
-        "bannerId": "67566",
+        "bannerId": "60390",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38041",
@@ -3059,7 +3093,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:TFDP117(\n Course or Test: Theater, Film & Digital Prod 144 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 890603,
@@ -3095,7 +3130,7 @@
     "subjectCourse": "TFDP122",
     "faculty": [
       {
-        "bannerId": "67568",
+        "bannerId": "60398",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38193",
@@ -3156,7 +3191,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 890612,
@@ -3192,7 +3228,7 @@
     "subjectCourse": "TFDP124B",
     "faculty": [
       {
-        "bannerId": "67570",
+        "bannerId": "60400",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38201",
@@ -3241,7 +3277,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 890613,
@@ -3277,7 +3314,7 @@
     "subjectCourse": "TFDP124B",
     "faculty": [
       {
-        "bannerId": "67570",
+        "bannerId": "60400",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38202",
@@ -3326,7 +3363,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 890354,
@@ -3362,7 +3400,7 @@
     "subjectCourse": "TFDP125G",
     "faculty": [
       {
-        "bannerId": "65714",
+        "bannerId": "60391",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38044",
@@ -3411,7 +3449,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 890352,
@@ -3447,7 +3486,7 @@
     "subjectCourse": "TFDP144",
     "faculty": [
       {
-        "bannerId": "67566",
+        "bannerId": "60390",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38042",
@@ -3496,7 +3535,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:TFDP144(\n Course or Test: Theater, Film & Digital Prod 155 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 890353,
@@ -3532,7 +3572,7 @@
     "subjectCourse": "TFDP144",
     "faculty": [
       {
-        "bannerId": "67566",
+        "bannerId": "60390",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38043",
@@ -3581,7 +3621,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:TFDP144(\n Course or Test: Theater, Film & Digital Prod 155 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 885939,
@@ -3617,7 +3658,7 @@
     "subjectCourse": "TFDP153A",
     "faculty": [
       {
-        "bannerId": "66124",
+        "bannerId": "60362",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34647",
@@ -3627,7 +3668,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67522",
+        "bannerId": "60255",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34647",
@@ -3676,7 +3717,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:TFDP153A(\n Course or Test: Theater, Film & Digital Prod 020 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 885940,
@@ -3712,7 +3754,7 @@
     "subjectCourse": "TFDP153A",
     "faculty": [
       {
-        "bannerId": "66124",
+        "bannerId": "60362",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34648",
@@ -3722,7 +3764,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67522",
+        "bannerId": "60255",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34648",
@@ -3771,7 +3813,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:TFDP153A(\n Course or Test: Theater, Film & Digital Prod 020 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 885941,
@@ -3845,7 +3888,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:TFDP153A(\n Course or Test: Theater, Film & Digital Prod 020 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 885942,
@@ -3919,7 +3963,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:TFDP153A)\nand\n(\n Course or Test: Theater, Film & Digital Prod 020 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 881220,
@@ -3955,7 +4000,7 @@
     "subjectCourse": "TFDP155",
     "faculty": [
       {
-        "bannerId": "66122",
+        "bannerId": "60268",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23098",
@@ -4004,7 +4049,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:TFDP155(\n Course or Test: Creative Writing 066 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Media and Cultural Studies 066 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Theater, Film & Digital Prod 066 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Theater, Film & Digital Prod 020 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 885945,
@@ -4040,7 +4086,7 @@
     "subjectCourse": "TFDP155",
     "faculty": [
       {
-        "bannerId": "67560",
+        "bannerId": "60366",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34658",
@@ -4089,7 +4135,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:TFDP155(\n Course or Test: Creative Writing 066 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Media and Cultural Studies 066 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Theater, Film & Digital Prod 066 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Theater, Film & Digital Prod 020 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 882429,
@@ -4125,7 +4172,7 @@
     "subjectCourse": "TFDP155",
     "faculty": [
       {
-        "bannerId": "66122",
+        "bannerId": "60268",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26146",
@@ -4174,7 +4221,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:TFDP155(\n Course or Test: Creative Writing 066 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Media and Cultural Studies 066 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Theater, Film & Digital Prod 066 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Theater, Film & Digital Prod 020 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 885946,
@@ -4210,7 +4258,7 @@
     "subjectCourse": "TFDP155",
     "faculty": [
       {
-        "bannerId": "67560",
+        "bannerId": "60366",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34659",
@@ -4259,7 +4307,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:TFDP155)\nand\n(\n Course or Test: Creative Writing 066 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Media and Cultural Studies 066 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Theater, Film & Digital Prod 066 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Theater, Film & Digital Prod 020 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 883348,
@@ -4295,7 +4344,7 @@
     "subjectCourse": "TFDP156A",
     "faculty": [
       {
-        "bannerId": "67527",
+        "bannerId": "60282",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28689",
@@ -4344,7 +4393,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:TFDP156A)\nand\n(\n Course or Test: Theater, Film & Digital Prod 153A \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Theater, Film & Digital Prod 155 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 883354,
@@ -4380,7 +4430,7 @@
     "subjectCourse": "TFDP156A",
     "faculty": [
       {
-        "bannerId": "67527",
+        "bannerId": "60282",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28734",
@@ -4429,7 +4479,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:TFDP156A)\nand\n(\n Course or Test: Theater, Film & Digital Prod 153A \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Theater, Film & Digital Prod 155 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 883365,
@@ -4465,7 +4516,7 @@
     "subjectCourse": "TFDP157",
     "faculty": [
       {
-        "bannerId": "66122",
+        "bannerId": "60268",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28745",
@@ -4514,7 +4565,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:TFDP157)\nand\n(\n Course or Test: Theater, Film & Digital Prod 153A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Theater, Film & Digital Prod 154 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Theater, Film & Digital Prod 155 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 883366,
@@ -4550,7 +4602,7 @@
     "subjectCourse": "TFDP157",
     "faculty": [
       {
-        "bannerId": "66122",
+        "bannerId": "60268",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28746",
@@ -4599,7 +4651,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:TFDP157(\n Course or Test: Theater, Film & Digital Prod 153A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Theater, Film & Digital Prod 154 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Theater, Film & Digital Prod 155 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 880568,
@@ -4635,7 +4688,7 @@
     "subjectCourse": "TFDP164A",
     "faculty": [
       {
-        "bannerId": "65947",
+        "bannerId": "60211",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19892",
@@ -4684,7 +4737,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880668,
@@ -4720,7 +4774,7 @@
     "subjectCourse": "TFDP164A",
     "faculty": [
       {
-        "bannerId": "65947",
+        "bannerId": "60211",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20386",
@@ -4769,7 +4823,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880780,
@@ -4805,7 +4860,7 @@
     "subjectCourse": "TFDP166A",
     "faculty": [
       {
-        "bannerId": "65957",
+        "bannerId": "60257",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "21524",
@@ -4854,7 +4909,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:TFDP166A(\n Course or Test: Creative Writing 066 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Media and Cultural Studies 066 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Theater, Film & Digital Prod 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Theater, Film & Digital Prod 066 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 890711,
@@ -4890,7 +4946,7 @@
     "subjectCourse": "TFDP180F",
     "faculty": [
       {
-        "bannerId": "67569",
+        "bannerId": "60402",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38254",
@@ -4939,7 +4995,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 903275,
@@ -4975,7 +5032,7 @@
     "subjectCourse": "TFDP190",
     "faculty": [
       {
-        "bannerId": "66123",
+        "bannerId": "60405",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38423",
@@ -5024,7 +5081,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884196,
@@ -5060,7 +5118,7 @@
     "subjectCourse": "TFDP191T",
     "faculty": [
       {
-        "bannerId": "67528",
+        "bannerId": "60284",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "30799",
@@ -5109,7 +5167,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884642,
@@ -5145,7 +5204,7 @@
     "subjectCourse": "TFDP198I",
     "faculty": [
       {
-        "bannerId": "67527",
+        "bannerId": "60282",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31668",
@@ -5194,6 +5253,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   }
 ]

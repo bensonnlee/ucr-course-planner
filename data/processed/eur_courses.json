@@ -33,7 +33,7 @@
     "subjectCourse": "EUR042",
     "faculty": [
       {
-        "bannerId": "66541",
+        "bannerId": "59409",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37676",
@@ -82,7 +82,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889185,
@@ -118,7 +119,7 @@
     "subjectCourse": "EUR111C",
     "faculty": [
       {
-        "bannerId": "66540",
+        "bannerId": "59399",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37666",
@@ -167,7 +168,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889186,
@@ -203,7 +205,7 @@
     "subjectCourse": "EUR111C",
     "faculty": [
       {
-        "bannerId": "66540",
+        "bannerId": "59399",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37667",
@@ -252,6 +254,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   }
 ]

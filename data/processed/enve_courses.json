@@ -33,7 +33,7 @@
     "subjectCourse": "ENVE120",
     "faculty": [
       {
-        "bannerId": "65113",
+        "bannerId": "56502",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15059",
@@ -43,7 +43,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65528",
+        "bannerId": "56392",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15059",
@@ -92,7 +92,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENVE120)\nand\n(\n Course or Test: Chemical Engineering 120 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Environmental Engineering 142 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 880618,
@@ -128,7 +129,7 @@
     "subjectCourse": "ENVE120",
     "faculty": [
       {
-        "bannerId": "65528",
+        "bannerId": "56392",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20132",
@@ -177,7 +178,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENVE120)\nand\n(\n Course or Test: Chemical Engineering 120 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Environmental Engineering 142 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 885799,
@@ -213,7 +215,7 @@
     "subjectCourse": "ENVE138",
     "faculty": [
       {
-        "bannerId": "65584",
+        "bannerId": "57779",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34369",
@@ -262,7 +264,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENVE138(\n Course or Test: Chemical Engineering 114 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Environmental Engineering 133 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 878116,
@@ -298,7 +301,7 @@
     "subjectCourse": "ENVE160B",
     "faculty": [
       {
-        "bannerId": "65527",
+        "bannerId": "56511",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15061",
@@ -347,7 +350,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENVE160B(\n Course or Test: Environmental Engineering 133 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884923,
@@ -383,7 +387,7 @@
     "subjectCourse": "ENVE160B",
     "faculty": [
       {
-        "bannerId": "65527",
+        "bannerId": "56511",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32706",
@@ -432,7 +436,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENVE160B)\nand\n(\n Course or Test: Environmental Engineering 133 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 878117,
@@ -468,7 +473,7 @@
     "subjectCourse": "ENVE171",
     "faculty": [
       {
-        "bannerId": "65529",
+        "bannerId": "56514",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15062",
@@ -517,7 +522,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENVE171(\n Course or Test: Chemistry 001C \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 009C \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Physics 040B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Physics 040HB \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 880619,
@@ -553,7 +559,7 @@
     "subjectCourse": "ENVE171",
     "faculty": [
       {
-        "bannerId": "65529",
+        "bannerId": "56514",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20134",
@@ -614,7 +620,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENVE171)\nand\n(\n Course or Test: Chemistry 001C \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 009C \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Physics 040B \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Physics 040HB \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 881112,
@@ -650,7 +657,7 @@
     "subjectCourse": "ENVE190",
     "faculty": [
       {
-        "bannerId": "65533",
+        "bannerId": "56684",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22829",
@@ -699,6 +706,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   }
 ]

@@ -33,7 +33,7 @@
     "subjectCourse": "JPN001",
     "faculty": [
       {
-        "bannerId": "66658",
+        "bannerId": "56589",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16262",
@@ -82,7 +82,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878681,
@@ -118,7 +119,7 @@
     "subjectCourse": "JPN001",
     "faculty": [
       {
-        "bannerId": "66658",
+        "bannerId": "56589",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16263",
@@ -167,7 +168,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878682,
@@ -203,7 +205,7 @@
     "subjectCourse": "JPN001",
     "faculty": [
       {
-        "bannerId": "66659",
+        "bannerId": "56593",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16264",
@@ -252,7 +254,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878683,
@@ -288,7 +291,7 @@
     "subjectCourse": "JPN001",
     "faculty": [
       {
-        "bannerId": "66659",
+        "bannerId": "56593",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16265",
@@ -337,7 +340,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882375,
@@ -373,7 +377,7 @@
     "subjectCourse": "JPN003",
     "faculty": [
       {
-        "bannerId": "66660",
+        "bannerId": "56598",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25922",
@@ -422,7 +426,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:JPN003(\n Course or Test: Japanese 002 \n Minimum Grade of C-\n May not be taken concurrently.Language: Japanese Prereq 604 to 605\n May not be taken concurrently.)"
   },
   {
     "id": 878684,
@@ -458,7 +463,7 @@
     "subjectCourse": "JPN004",
     "faculty": [
       {
-        "bannerId": "66659",
+        "bannerId": "56593",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16268",
@@ -507,7 +512,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:JPN004(\n Course or Test: Japanese 003 \n Minimum Grade of C-\n May not be taken concurrently.Language: Japanese Prereq 606 to 607\n May not be taken concurrently.)"
   },
   {
     "id": 878685,
@@ -543,7 +549,7 @@
     "subjectCourse": "JPN004",
     "faculty": [
       {
-        "bannerId": "66660",
+        "bannerId": "56598",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16269",
@@ -592,7 +598,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:JPN004)\nand\n(\n Course or Test: Japanese 003 \n Minimum Grade of C-\n May not be taken concurrently.Language: Japanese Prereq 606 to 607\n May not be taken concurrently."
   },
   {
     "id": 889196,
@@ -628,7 +635,7 @@
     "subjectCourse": "JPN022",
     "faculty": [
       {
-        "bannerId": "65068",
+        "bannerId": "58751",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37677",
@@ -638,7 +645,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65069",
+        "bannerId": "58760",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37677",
@@ -648,7 +655,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65070",
+        "bannerId": "58765",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37677",
@@ -697,7 +704,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889300,
@@ -733,7 +741,7 @@
     "subjectCourse": "JPN022",
     "faculty": [
       {
-        "bannerId": "65068",
+        "bannerId": "58751",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37743",
@@ -794,7 +802,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889303,
@@ -830,7 +839,7 @@
     "subjectCourse": "JPN022",
     "faculty": [
       {
-        "bannerId": "65068",
+        "bannerId": "58751",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37746",
@@ -879,7 +888,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889306,
@@ -915,7 +925,7 @@
     "subjectCourse": "JPN022",
     "faculty": [
       {
-        "bannerId": "65068",
+        "bannerId": "58751",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37749",
@@ -964,7 +974,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889309,
@@ -1000,7 +1011,7 @@
     "subjectCourse": "JPN022",
     "faculty": [
       {
-        "bannerId": "65069",
+        "bannerId": "58760",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37752",
@@ -1049,7 +1060,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889312,
@@ -1085,7 +1097,7 @@
     "subjectCourse": "JPN022",
     "faculty": [
       {
-        "bannerId": "65069",
+        "bannerId": "58760",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37755",
@@ -1134,7 +1146,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889315,
@@ -1170,7 +1183,7 @@
     "subjectCourse": "JPN022",
     "faculty": [
       {
-        "bannerId": "65069",
+        "bannerId": "58760",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37758",
@@ -1219,7 +1232,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878686,
@@ -1255,7 +1269,7 @@
     "subjectCourse": "JPN101A",
     "faculty": [
       {
-        "bannerId": "66658",
+        "bannerId": "56589",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16275",
@@ -1304,7 +1318,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:JPN101A)\nand\n(\n Course or Test: Japanese 006 \n Minimum Grade of C-\n May not be taken concurrently.Language: Japanese Prereq 612 to 613\n May not be taken concurrently.)"
   },
   {
     "id": 880621,
@@ -1340,7 +1355,7 @@
     "subjectCourse": "JPN101A",
     "faculty": [
       {
-        "bannerId": "66658",
+        "bannerId": "56589",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20161",
@@ -1389,7 +1404,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:JPN101A(\n Course or Test: Japanese 006 \n Minimum Grade of C-\n May not be taken concurrently.Language: Japanese Prereq 612 to 613\n May not be taken concurrently."
   },
   {
     "id": 889199,
@@ -1425,7 +1441,7 @@
     "subjectCourse": "JPN120",
     "faculty": [
       {
-        "bannerId": "65729",
+        "bannerId": "58775",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37680",
@@ -1486,6 +1502,7 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:JPN120(\n Course or Test: Comparative Literature 001 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Comparative Literature 002 \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Comparative Literature 017 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Japanese 022 \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Japanese 023 \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Japanese 034 \n Minimum Grade of C-\n May not be taken concurrently."
   }
 ]

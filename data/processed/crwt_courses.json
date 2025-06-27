@@ -33,7 +33,7 @@
     "subjectCourse": "CRWT040",
     "faculty": [
       {
-        "bannerId": "65911",
+        "bannerId": "59686",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36454",
@@ -94,7 +94,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 903462,
@@ -130,7 +131,7 @@
     "subjectCourse": "CRWT041",
     "faculty": [
       {
-        "bannerId": "65938",
+        "bannerId": "59817",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38503",
@@ -179,7 +180,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885735,
@@ -215,7 +217,7 @@
     "subjectCourse": "CRWT045",
     "faculty": [
       {
-        "bannerId": "65902",
+        "bannerId": "59597",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34201",
@@ -264,7 +266,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884773,
@@ -300,7 +303,7 @@
     "subjectCourse": "CRWT046S",
     "faculty": [
       {
-        "bannerId": "65864",
+        "bannerId": "59299",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32264",
@@ -310,7 +313,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65865",
+        "bannerId": "59302",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32264",
@@ -320,7 +323,17 @@
         "term": "202440"
       },
       {
-        "bannerId": "65866",
+        "bannerId": "59305",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "32264",
+        "displayName": "Kuo, Daniel",
+        "emailAddress": "daniel.kuo1@email.ucr.edu",
+        "primaryIndicator": false,
+        "term": "202440"
+      },
+      {
+        "bannerId": "59312",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32264",
@@ -330,22 +343,12 @@
         "term": "202440"
       },
       {
-        "bannerId": "65867",
+        "bannerId": "59313",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32264",
         "displayName": "Sharma, Ojaswi",
         "emailAddress": "ojaswi.sharma@email.ucr.edu",
-        "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "65870",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "32264",
-        "displayName": "Kuo, Daniel",
-        "emailAddress": "daniel.kuo1@email.ucr.edu",
         "primaryIndicator": false,
         "term": "202440"
       }
@@ -389,7 +392,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884775,
@@ -425,7 +429,7 @@
     "subjectCourse": "CRWT046S",
     "faculty": [
       {
-        "bannerId": "65864",
+        "bannerId": "59299",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32267",
@@ -435,7 +439,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65866",
+        "bannerId": "59312",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32267",
@@ -496,7 +500,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884776,
@@ -532,7 +537,7 @@
     "subjectCourse": "CRWT046S",
     "faculty": [
       {
-        "bannerId": "65864",
+        "bannerId": "59299",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32268",
@@ -542,7 +547,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65870",
+        "bannerId": "59305",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32268",
@@ -591,7 +596,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884777,
@@ -627,7 +633,7 @@
     "subjectCourse": "CRWT046S",
     "faculty": [
       {
-        "bannerId": "65864",
+        "bannerId": "59299",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32269",
@@ -637,7 +643,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65870",
+        "bannerId": "59305",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32269",
@@ -698,7 +704,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884778,
@@ -734,7 +741,7 @@
     "subjectCourse": "CRWT046S",
     "faculty": [
       {
-        "bannerId": "65864",
+        "bannerId": "59299",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32270",
@@ -744,7 +751,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65867",
+        "bannerId": "59313",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32270",
@@ -793,7 +800,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884779,
@@ -829,7 +837,7 @@
     "subjectCourse": "CRWT046S",
     "faculty": [
       {
-        "bannerId": "65864",
+        "bannerId": "59299",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32271",
@@ -839,7 +847,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65870",
+        "bannerId": "59305",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32271",
@@ -900,7 +908,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884780,
@@ -936,7 +945,7 @@
     "subjectCourse": "CRWT046S",
     "faculty": [
       {
-        "bannerId": "65864",
+        "bannerId": "59299",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32272",
@@ -946,7 +955,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65867",
+        "bannerId": "59313",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32272",
@@ -995,7 +1004,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884781,
@@ -1031,7 +1041,7 @@
     "subjectCourse": "CRWT046S",
     "faculty": [
       {
-        "bannerId": "65864",
+        "bannerId": "59299",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32273",
@@ -1041,7 +1051,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65867",
+        "bannerId": "59313",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32273",
@@ -1102,7 +1112,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884782,
@@ -1138,23 +1149,23 @@
     "subjectCourse": "CRWT046S",
     "faculty": [
       {
-        "bannerId": "65865",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "32274",
-        "displayName": "Sanchez, Brian",
-        "emailAddress": "brian.sanchez001@email.ucr.edu",
-        "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "65864",
+        "bannerId": "59299",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32274",
         "displayName": "Espinoza, Alex",
         "emailAddress": "alex.espinoza2@email.ucr.edu",
         "primaryIndicator": true,
+        "term": "202440"
+      },
+      {
+        "bannerId": "59302",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "32274",
+        "displayName": "Sanchez, Brian",
+        "emailAddress": "brian.sanchez001@email.ucr.edu",
+        "primaryIndicator": false,
         "term": "202440"
       }
     ],
@@ -1197,7 +1208,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884783,
@@ -1233,23 +1245,23 @@
     "subjectCourse": "CRWT046S",
     "faculty": [
       {
-        "bannerId": "65865",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "32275",
-        "displayName": "Sanchez, Brian",
-        "emailAddress": "brian.sanchez001@email.ucr.edu",
-        "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "65864",
+        "bannerId": "59299",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32275",
         "displayName": "Espinoza, Alex",
         "emailAddress": "alex.espinoza2@email.ucr.edu",
         "primaryIndicator": true,
+        "term": "202440"
+      },
+      {
+        "bannerId": "59302",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "32275",
+        "displayName": "Sanchez, Brian",
+        "emailAddress": "brian.sanchez001@email.ucr.edu",
+        "primaryIndicator": false,
         "term": "202440"
       }
     ],
@@ -1292,7 +1304,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884784,
@@ -1328,7 +1341,7 @@
     "subjectCourse": "CRWT046S",
     "faculty": [
       {
-        "bannerId": "65864",
+        "bannerId": "59299",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32276",
@@ -1338,7 +1351,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65865",
+        "bannerId": "59302",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32276",
@@ -1387,7 +1400,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884785,
@@ -1423,23 +1437,23 @@
     "subjectCourse": "CRWT046S",
     "faculty": [
       {
-        "bannerId": "65866",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "32277",
-        "displayName": "Maldonado, Lauren",
-        "emailAddress": "lauren.maldonado@email.ucr.edu",
-        "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "65864",
+        "bannerId": "59299",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32277",
         "displayName": "Espinoza, Alex",
         "emailAddress": "alex.espinoza2@email.ucr.edu",
         "primaryIndicator": true,
+        "term": "202440"
+      },
+      {
+        "bannerId": "59312",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "32277",
+        "displayName": "Maldonado, Lauren",
+        "emailAddress": "lauren.maldonado@email.ucr.edu",
+        "primaryIndicator": false,
         "term": "202440"
       }
     ],
@@ -1482,7 +1496,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884786,
@@ -1518,7 +1533,7 @@
     "subjectCourse": "CRWT046S",
     "faculty": [
       {
-        "bannerId": "65864",
+        "bannerId": "59299",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32278",
@@ -1528,7 +1543,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65866",
+        "bannerId": "59312",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32278",
@@ -1577,7 +1592,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877188,
@@ -1613,7 +1629,7 @@
     "subjectCourse": "CRWT056",
     "faculty": [
       {
-        "bannerId": "65759",
+        "bannerId": "57315",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12920",
@@ -1623,7 +1639,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65760",
+        "bannerId": "57318",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12920",
@@ -1633,7 +1649,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65761",
+        "bannerId": "57323",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12920",
@@ -1643,7 +1659,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65762",
+        "bannerId": "57343",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12920",
@@ -1653,7 +1669,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65763",
+        "bannerId": "57347",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12920",
@@ -1663,7 +1679,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65764",
+        "bannerId": "57349",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12920",
@@ -1673,7 +1689,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65765",
+        "bannerId": "57353",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12920",
@@ -1722,7 +1738,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877189,
@@ -1758,7 +1775,7 @@
     "subjectCourse": "CRWT056",
     "faculty": [
       {
-        "bannerId": "65760",
+        "bannerId": "57318",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12921",
@@ -1768,7 +1785,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65762",
+        "bannerId": "57343",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12921",
@@ -1817,7 +1834,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877190,
@@ -1853,7 +1871,7 @@
     "subjectCourse": "CRWT056",
     "faculty": [
       {
-        "bannerId": "65760",
+        "bannerId": "57318",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12922",
@@ -1863,7 +1881,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65762",
+        "bannerId": "57343",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12922",
@@ -1924,7 +1942,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877191,
@@ -1960,7 +1979,7 @@
     "subjectCourse": "CRWT056",
     "faculty": [
       {
-        "bannerId": "65760",
+        "bannerId": "57318",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12923",
@@ -1970,7 +1989,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65762",
+        "bannerId": "57343",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12923",
@@ -2031,7 +2050,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877192,
@@ -2067,7 +2087,7 @@
     "subjectCourse": "CRWT056",
     "faculty": [
       {
-        "bannerId": "65760",
+        "bannerId": "57318",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12924",
@@ -2077,7 +2097,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65763",
+        "bannerId": "57347",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12924",
@@ -2126,7 +2146,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877193,
@@ -2162,23 +2183,23 @@
     "subjectCourse": "CRWT056",
     "faculty": [
       {
-        "bannerId": "65763",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "12925",
-        "displayName": "Pereira, Artur",
-        "emailAddress": "artur.mullerpereira1@email.ucr.edu",
-        "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "65760",
+        "bannerId": "57318",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12925",
         "displayName": "Long, Goldberry",
         "emailAddress": "goldberry.long@email.ucr.edu",
         "primaryIndicator": true,
+        "term": "202440"
+      },
+      {
+        "bannerId": "57347",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "12925",
+        "displayName": "Pereira, Artur",
+        "emailAddress": "artur.mullerpereira1@email.ucr.edu",
+        "primaryIndicator": false,
         "term": "202440"
       }
     ],
@@ -2221,7 +2242,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877194,
@@ -2257,7 +2279,7 @@
     "subjectCourse": "CRWT056",
     "faculty": [
       {
-        "bannerId": "65760",
+        "bannerId": "57318",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12926",
@@ -2267,7 +2289,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65761",
+        "bannerId": "57323",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12926",
@@ -2316,7 +2338,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877195,
@@ -2352,7 +2375,7 @@
     "subjectCourse": "CRWT056",
     "faculty": [
       {
-        "bannerId": "65760",
+        "bannerId": "57318",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12927",
@@ -2362,7 +2385,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65765",
+        "bannerId": "57353",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12927",
@@ -2423,7 +2446,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877196,
@@ -2459,7 +2483,7 @@
     "subjectCourse": "CRWT056",
     "faculty": [
       {
-        "bannerId": "65760",
+        "bannerId": "57318",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12928",
@@ -2469,7 +2493,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65765",
+        "bannerId": "57353",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12928",
@@ -2518,7 +2542,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877197,
@@ -2554,7 +2579,7 @@
     "subjectCourse": "CRWT056",
     "faculty": [
       {
-        "bannerId": "65760",
+        "bannerId": "57318",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12929",
@@ -2564,7 +2589,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65765",
+        "bannerId": "57353",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12929",
@@ -2625,7 +2650,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877198,
@@ -2661,7 +2687,7 @@
     "subjectCourse": "CRWT056",
     "faculty": [
       {
-        "bannerId": "65760",
+        "bannerId": "57318",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12930",
@@ -2671,7 +2697,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65761",
+        "bannerId": "57323",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12930",
@@ -2720,7 +2746,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877199,
@@ -2756,7 +2783,7 @@
     "subjectCourse": "CRWT056",
     "faculty": [
       {
-        "bannerId": "65759",
+        "bannerId": "57315",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12931",
@@ -2766,7 +2793,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65760",
+        "bannerId": "57318",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12931",
@@ -2815,7 +2842,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877200,
@@ -2851,7 +2879,7 @@
     "subjectCourse": "CRWT056",
     "faculty": [
       {
-        "bannerId": "65760",
+        "bannerId": "57318",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12932",
@@ -2861,7 +2889,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65764",
+        "bannerId": "57349",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12932",
@@ -2922,7 +2950,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877201,
@@ -2958,7 +2987,7 @@
     "subjectCourse": "CRWT056",
     "faculty": [
       {
-        "bannerId": "65760",
+        "bannerId": "57318",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12933",
@@ -2968,7 +2997,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65764",
+        "bannerId": "57349",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12933",
@@ -3017,7 +3046,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877202,
@@ -3053,7 +3083,7 @@
     "subjectCourse": "CRWT056",
     "faculty": [
       {
-        "bannerId": "65760",
+        "bannerId": "57318",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12934",
@@ -3063,7 +3093,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65764",
+        "bannerId": "57349",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12934",
@@ -3112,7 +3142,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877203,
@@ -3148,7 +3179,7 @@
     "subjectCourse": "CRWT056",
     "faculty": [
       {
-        "bannerId": "65759",
+        "bannerId": "57315",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12935",
@@ -3158,7 +3189,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65760",
+        "bannerId": "57318",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12935",
@@ -3207,7 +3238,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886238,
@@ -3243,7 +3275,7 @@
     "subjectCourse": "CRWT056",
     "faculty": [
       {
-        "bannerId": "65760",
+        "bannerId": "57318",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35124",
@@ -3253,7 +3285,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65761",
+        "bannerId": "57323",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35124",
@@ -3302,7 +3334,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886239,
@@ -3338,7 +3371,7 @@
     "subjectCourse": "CRWT056",
     "faculty": [
       {
-        "bannerId": "65759",
+        "bannerId": "57315",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35125",
@@ -3348,7 +3381,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65760",
+        "bannerId": "57318",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35125",
@@ -3397,7 +3430,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886240,
@@ -3433,7 +3467,7 @@
     "subjectCourse": "CRWT056",
     "faculty": [
       {
-        "bannerId": "65760",
+        "bannerId": "57318",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35126",
@@ -3443,7 +3477,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65763",
+        "bannerId": "57347",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35126",
@@ -3492,7 +3526,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883407,
@@ -3528,7 +3563,7 @@
     "subjectCourse": "CRWT057A",
     "faculty": [
       {
-        "bannerId": "66074",
+        "bannerId": "59798",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28993",
@@ -3538,7 +3573,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66090",
+        "bannerId": "59800",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28993",
@@ -3599,7 +3634,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:CRWT057A(\n Course or Test: Creative Writing 056 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: English 001A \n Minimum Grade of C\n May not be taken concurrently.)"
   },
   {
     "id": 885148,
@@ -3635,7 +3671,7 @@
     "subjectCourse": "CRWT057A",
     "faculty": [
       {
-        "bannerId": "65864",
+        "bannerId": "58605",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33126",
@@ -3645,7 +3681,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66095",
+        "bannerId": "59954",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33126",
@@ -3694,7 +3730,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:CRWT057A(\n Course or Test: Creative Writing 056 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: English 001A \n Minimum Grade of C\n May not be taken concurrently.)"
   },
   {
     "id": 883408,
@@ -3730,7 +3767,7 @@
     "subjectCourse": "CRWT057B",
     "faculty": [
       {
-        "bannerId": "66069",
+        "bannerId": "59805",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28995",
@@ -3740,7 +3777,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66091",
+        "bannerId": "59806",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28995",
@@ -3789,7 +3826,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:CRWT057B(\n Course or Test: Creative Writing 056 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: English 001A \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 885910,
@@ -3825,7 +3863,7 @@
     "subjectCourse": "CRWT057B",
     "faculty": [
       {
-        "bannerId": "66107",
+        "bannerId": "60016",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34578",
@@ -3835,7 +3873,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66108",
+        "bannerId": "60018",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34578",
@@ -3896,7 +3934,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:CRWT057B(\n Course or Test: Creative Writing 056 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: English 001A \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 885911,
@@ -3932,7 +3971,7 @@
     "subjectCourse": "CRWT057C",
     "faculty": [
       {
-        "bannerId": "66109",
+        "bannerId": "60020",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34579",
@@ -3942,7 +3981,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66110",
+        "bannerId": "60022",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34579",
@@ -3991,7 +4030,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:CRWT057C(\n Course or Test: Creative Writing 056 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: English 001A \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 885912,
@@ -4027,7 +4067,7 @@
     "subjectCourse": "CRWT057C",
     "faculty": [
       {
-        "bannerId": "66057",
+        "bannerId": "59655",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34580",
@@ -4037,7 +4077,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66111",
+        "bannerId": "60024",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34580",
@@ -4086,7 +4126,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:CRWT057C(\n Course or Test: Creative Writing 056 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: English 001A \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 883349,
@@ -4122,7 +4163,7 @@
     "subjectCourse": "CRWT066",
     "faculty": [
       {
-        "bannerId": "66032",
+        "bannerId": "59400",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28690",
@@ -4171,7 +4212,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880784,
@@ -4207,7 +4249,7 @@
     "subjectCourse": "CRWT066",
     "faculty": [
       {
-        "bannerId": "66032",
+        "bannerId": "59400",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "21650",
@@ -4256,7 +4298,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882434,
@@ -4330,7 +4373,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882435,
@@ -4404,7 +4448,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882436,
@@ -4478,7 +4523,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885913,
@@ -4514,7 +4560,7 @@
     "subjectCourse": "CRWT076",
     "faculty": [
       {
-        "bannerId": "65902",
+        "bannerId": "58473",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34582",
@@ -4563,7 +4609,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885914,
@@ -4599,7 +4646,7 @@
     "subjectCourse": "CRWT076",
     "faculty": [
       {
-        "bannerId": "65902",
+        "bannerId": "58473",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34583",
@@ -4648,7 +4695,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887273,
@@ -4684,7 +4732,7 @@
     "subjectCourse": "CRWT130",
     "faculty": [
       {
-        "bannerId": "65946",
+        "bannerId": "58492",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36323",
@@ -4733,7 +4781,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:CRWT130(Rule: PICK2: Pick 2 of 3 Classes  for a total of 2 conditions Creative Writing 057A  Minimum Grade of D-\n May not be taken concurrently. )Creative Writing 057B  Minimum Grade of D-\n May not be taken concurrently. Creative Writing 057C  Minimum Grade of D-\n May not be taken concurrently. )Creative Writing 057SA  Minimum Grade of D-\n May not be taken concurrently. End of Rule PICK2"
   },
   {
     "id": 890316,
@@ -4769,7 +4818,7 @@
     "subjectCourse": "CRWT146",
     "faculty": [
       {
-        "bannerId": "65864",
+        "bannerId": "58605",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38027",
@@ -4818,7 +4867,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:CRWT146)\nand\n(\n Course or Test: Creative Writing 056 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 877204,
@@ -4854,7 +4904,7 @@
     "subjectCourse": "CRWT150",
     "faculty": [
       {
-        "bannerId": "65902",
+        "bannerId": "58473",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12949",
@@ -4903,7 +4953,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:CRWT150(Rule: PICK2: Pick 2 of 3  for a total of 2 conditions Creative Writing 057A  Minimum Grade of D-\n May not be taken concurrently. Creative Writing 057B  Minimum Grade of D-\n May not be taken concurrently. Creative Writing 057C  Minimum Grade of D-\n May not be taken concurrently. Creative Writing 057SA  Minimum Grade of D-\n May not be taken concurrently. End of Rule PICK2"
   },
   {
     "id": 887274,
@@ -4939,7 +4990,7 @@
     "subjectCourse": "CRWT150",
     "faculty": [
       {
-        "bannerId": "66028",
+        "bannerId": "59310",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36324",
@@ -4988,7 +5039,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:CRWT150(Rule: PICK2: Pick 2 of 3  for a total of 2 conditions Creative Writing 057A  Minimum Grade of D-\n May not be taken concurrently. Creative Writing 057B  Minimum Grade of D-\n May not be taken concurrently. Creative Writing 057C  Minimum Grade of D-\n May not be taken concurrently. Creative Writing 057SA  Minimum Grade of D-\n May not be taken concurrently. End of Rule PICK2"
   },
   {
     "id": 877205,
@@ -5024,7 +5076,7 @@
     "subjectCourse": "CRWT152",
     "faculty": [
       {
-        "bannerId": "65945",
+        "bannerId": "58480",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12950",
@@ -5073,7 +5125,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:CRWT152)\nand\n(Rule: PICK2: Pick 2 of 3 courses  for a total of 2 conditions Creative Writing 057A  Minimum Grade of D-\n May not be taken concurrently. Creative Writing 057B  Minimum Grade of D-\n May not be taken concurrently. Creative Writing 057C  Minimum Grade of D-\n May not be taken concurrently. Creative Writing 057SA  Minimum Grade of D-\n May not be taken concurrently. End of Rule PICK2"
   },
   {
     "id": 884081,
@@ -5109,7 +5162,7 @@
     "subjectCourse": "CRWT152",
     "faculty": [
       {
-        "bannerId": "65945",
+        "bannerId": "58480",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "30179",
@@ -5158,7 +5211,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:CRWT152(Rule: PICK2: Pick 2 of 3 courses  for a total of 2 conditions Creative Writing 057A  Minimum Grade of D-\n May not be taken concurrently. Creative Writing 057B  Minimum Grade of D-\n May not be taken concurrently. Creative Writing 057C  Minimum Grade of D-\n May not be taken concurrently. Creative Writing 057SA  Minimum Grade of D-\n May not be taken concurrently. End of Rule PICK2"
   },
   {
     "id": 877206,
@@ -5194,7 +5248,7 @@
     "subjectCourse": "CRWT162",
     "faculty": [
       {
-        "bannerId": "65946",
+        "bannerId": "58492",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12953",
@@ -5243,7 +5297,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:CRWT162)\nand\n(\n Course or Test: Creative Writing 056 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Creative Writing 152 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884774,
@@ -5279,7 +5334,7 @@
     "subjectCourse": "CRWT162",
     "faculty": [
       {
-        "bannerId": "65946",
+        "bannerId": "58492",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32265",
@@ -5328,7 +5383,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:CRWT162(\n Course or Test: Creative Writing 056 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Creative Writing 152 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 904394,
@@ -5364,7 +5420,7 @@
     "subjectCourse": "CRWT162",
     "faculty": [
       {
-        "bannerId": "65945",
+        "bannerId": "58480",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38622",
@@ -5413,7 +5469,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:CRWT162)\nand\n(\n Course or Test: Creative Writing 056 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Creative Writing 152 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 877207,
@@ -5449,7 +5506,7 @@
     "subjectCourse": "CRWT164A",
     "faculty": [
       {
-        "bannerId": "65947",
+        "bannerId": "58503",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12955",
@@ -5498,7 +5555,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:CRWT164A)\nand\n(\n Course or Test: Theater, Film & Digital Prod 100 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Creative Writing 056 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 880612,
@@ -5534,7 +5592,7 @@
     "subjectCourse": "CRWT164A",
     "faculty": [
       {
-        "bannerId": "65947",
+        "bannerId": "58503",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20053",
@@ -5583,7 +5641,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:CRWT164A(\n Course or Test: Theater, Film & Digital Prod 100 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Creative Writing 056 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 883328,
@@ -5619,7 +5678,7 @@
     "subjectCourse": "CRWT172",
     "faculty": [
       {
-        "bannerId": "66067",
+        "bannerId": "59728",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28651",
@@ -5668,7 +5727,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:CRWT172(\n Course or Test: Creative Writing 056 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Creative Writing 152 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Creative Writing 162 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 903465,
@@ -5704,7 +5764,7 @@
     "subjectCourse": "CRWT173",
     "faculty": [
       {
-        "bannerId": "65938",
+        "bannerId": "60106",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38506",
@@ -5753,7 +5813,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 904396,
@@ -5789,7 +5850,7 @@
     "subjectCourse": "CRWT176",
     "faculty": [
       {
-        "bannerId": "66069",
+        "bannerId": "59805",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38623",
@@ -5838,7 +5899,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 904397,
@@ -5874,7 +5936,7 @@
     "subjectCourse": "CRWT176",
     "faculty": [
       {
-        "bannerId": "66127",
+        "bannerId": "60069",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38624",
@@ -5923,7 +5985,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905455,
@@ -5959,7 +6022,7 @@
     "subjectCourse": "CRWT190",
     "faculty": [
       {
-        "bannerId": "66028",
+        "bannerId": "59310",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38768",
@@ -6008,7 +6071,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887801,
@@ -6044,7 +6108,7 @@
     "subjectCourse": "CRWT195",
     "faculty": [
       {
-        "bannerId": "66028",
+        "bannerId": "59310",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36938",
@@ -6093,6 +6157,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   }
 ]

@@ -33,7 +33,7 @@
     "subjectCourse": "SPN001",
     "faculty": [
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20616",
@@ -43,7 +43,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67508",
+        "bannerId": "60217",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20616",
@@ -92,7 +92,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:SPN001Language: Spanish Prereq 600 to 601\n May not be taken concurrently.)"
   },
   {
     "id": 880689,
@@ -128,7 +129,7 @@
     "subjectCourse": "SPN001",
     "faculty": [
       {
-        "bannerId": "67502",
+        "bannerId": "60219",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20619",
@@ -138,7 +139,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20619",
@@ -187,7 +188,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:SPN001Language: Spanish Prereq 600 to 601\n May not be taken concurrently.)"
   },
   {
     "id": 880690,
@@ -223,23 +225,23 @@
     "subjectCourse": "SPN001",
     "faculty": [
       {
-        "bannerId": "67479",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "20623",
-        "displayName": "Lemus, Linda",
-        "emailAddress": "linda.lemus@ucr.edu",
-        "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "67509",
+        "bannerId": "60222",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20623",
         "displayName": "Alfaro Porras, Arianna",
         "emailAddress": "arianna.alfaroporras@email.ucr.edu",
         "primaryIndicator": true,
+        "term": "202440"
+      },
+      {
+        "bannerId": "60143",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "20623",
+        "displayName": "Lemus, Linda",
+        "emailAddress": "linda.lemus@ucr.edu",
+        "primaryIndicator": false,
         "term": "202440"
       }
     ],
@@ -316,7 +318,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN001Language: Spanish Prereq 600 to 601\n May not be taken concurrently.)"
   },
   {
     "id": 880691,
@@ -352,7 +355,7 @@
     "subjectCourse": "SPN001",
     "faculty": [
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20626",
@@ -401,7 +404,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN001Language: Spanish Prereq 600 to 601\n May not be taken concurrently.)"
   },
   {
     "id": 880692,
@@ -437,7 +441,7 @@
     "subjectCourse": "SPN001",
     "faculty": [
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20630",
@@ -447,7 +451,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67503",
+        "bannerId": "60227",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20630",
@@ -496,7 +500,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN001Language: Spanish Prereq 600 to 601\n May not be taken concurrently.)"
   },
   {
     "id": 880693,
@@ -532,23 +537,23 @@
     "subjectCourse": "SPN001",
     "faculty": [
       {
-        "bannerId": "67479",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "20634",
-        "displayName": "Lemus, Linda",
-        "emailAddress": "linda.lemus@ucr.edu",
-        "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "67510",
+        "bannerId": "60229",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20634",
         "displayName": "Cardenas, Yolanda",
         "emailAddress": "yolanda.cardenas@email.ucr.edu",
         "primaryIndicator": true,
+        "term": "202440"
+      },
+      {
+        "bannerId": "60143",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "20634",
+        "displayName": "Lemus, Linda",
+        "emailAddress": "linda.lemus@ucr.edu",
+        "primaryIndicator": false,
         "term": "202440"
       }
     ],
@@ -591,7 +596,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN001Language: Spanish Prereq 600 to 601\n May not be taken concurrently.)"
   },
   {
     "id": 885696,
@@ -627,7 +633,7 @@
     "subjectCourse": "SPN001",
     "faculty": [
       {
-        "bannerId": "67510",
+        "bannerId": "60229",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34091",
@@ -637,7 +643,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34091",
@@ -686,7 +692,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN001Language: Spanish Prereq 600 to 601\n May not be taken concurrently.)"
   },
   {
     "id": 885698,
@@ -722,7 +729,7 @@
     "subjectCourse": "SPN001",
     "faculty": [
       {
-        "bannerId": "67510",
+        "bannerId": "60229",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34093",
@@ -732,7 +739,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34093",
@@ -781,7 +788,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN001Language: Spanish Prereq 600 to 601\n May not be taken concurrently.)"
   },
   {
     "id": 890531,
@@ -817,7 +825,7 @@
     "subjectCourse": "SPN001",
     "faculty": [
       {
-        "bannerId": "67567",
+        "bannerId": "60397",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38143",
@@ -827,7 +835,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38143",
@@ -876,7 +884,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:SPN001Language: Spanish Prereq 600 to 601\n May not be taken concurrently.)"
   },
   {
     "id": 880709,
@@ -912,23 +921,23 @@
     "subjectCourse": "SPN002",
     "faculty": [
       {
-        "bannerId": "67504",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "20729",
-        "displayName": "Aldana Mendoza, Maria",
-        "emailAddress": "maria.aldanamendoza@email.ucr.edu",
-        "primaryIndicator": true,
-        "term": "202440"
-      },
-      {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20729",
         "displayName": "Lemus, Linda",
         "emailAddress": "linda.lemus@ucr.edu",
         "primaryIndicator": false,
+        "term": "202440"
+      },
+      {
+        "bannerId": "60232",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "20729",
+        "displayName": "Aldana Mendoza, Maria",
+        "emailAddress": "maria.aldanamendoza@email.ucr.edu",
+        "primaryIndicator": true,
         "term": "202440"
       }
     ],
@@ -971,7 +980,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:SPN002)\nand\n(\n Course or Test: Spanish 001 \n Minimum Grade of C-\n May not be taken concurrently.Language: Spanish Prereq 602 to 603\n May not be taken concurrently."
   },
   {
     "id": 880710,
@@ -1007,7 +1017,7 @@
     "subjectCourse": "SPN002",
     "faculty": [
       {
-        "bannerId": "67505",
+        "bannerId": "60233",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20730",
@@ -1017,7 +1027,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20730",
@@ -1066,7 +1076,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:SPN002(\n Course or Test: Spanish 001 \n Minimum Grade of C-\n May not be taken concurrently.Language: Spanish Prereq 602 to 603\n May not be taken concurrently.)"
   },
   {
     "id": 880711,
@@ -1102,7 +1113,7 @@
     "subjectCourse": "SPN002",
     "faculty": [
       {
-        "bannerId": "67506",
+        "bannerId": "60234",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20731",
@@ -1112,7 +1123,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20731",
@@ -1195,7 +1206,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN002(\n Course or Test: Spanish 001 \n Minimum Grade of C-\n May not be taken concurrently.Language: Spanish Prereq 602 to 603\n May not be taken concurrently.)"
   },
   {
     "id": 880712,
@@ -1231,23 +1243,23 @@
     "subjectCourse": "SPN002",
     "faculty": [
       {
-        "bannerId": "67507",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "20732",
-        "displayName": "Cortez Gurrola, Alan",
-        "emailAddress": "alan.cortezgurrola@email.ucr.edu",
-        "primaryIndicator": true,
-        "term": "202440"
-      },
-      {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20732",
         "displayName": "Lemus, Linda",
         "emailAddress": "linda.lemus@ucr.edu",
         "primaryIndicator": false,
+        "term": "202440"
+      },
+      {
+        "bannerId": "60235",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "20732",
+        "displayName": "Cortez Gurrola, Alan",
+        "emailAddress": "alan.cortezgurrola@email.ucr.edu",
+        "primaryIndicator": true,
         "term": "202440"
       }
     ],
@@ -1290,7 +1302,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN002)\nand\n(\n Course or Test: Spanish 001 \n Minimum Grade of C-\n May not be taken concurrently.Language: Spanish Prereq 602 to 603\n May not be taken concurrently."
   },
   {
     "id": 880713,
@@ -1326,7 +1339,7 @@
     "subjectCourse": "SPN002",
     "faculty": [
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20733",
@@ -1336,7 +1349,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67511",
+        "bannerId": "60236",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20733",
@@ -1385,7 +1398,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN002)\nand\n(\n Course or Test: Spanish 001 \n Minimum Grade of C-\n May not be taken concurrently.Language: Spanish Prereq 602 to 603\n May not be taken concurrently.)"
   },
   {
     "id": 880714,
@@ -1421,7 +1435,7 @@
     "subjectCourse": "SPN002",
     "faculty": [
       {
-        "bannerId": "67512",
+        "bannerId": "60237",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20734",
@@ -1431,7 +1445,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20734",
@@ -1480,7 +1494,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN002(\n Course or Test: Spanish 001 \n Minimum Grade of C-\n May not be taken concurrently.Language: Spanish Prereq 602 to 603\n May not be taken concurrently."
   },
   {
     "id": 880715,
@@ -1516,7 +1531,7 @@
     "subjectCourse": "SPN002",
     "faculty": [
       {
-        "bannerId": "67512",
+        "bannerId": "60237",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20735",
@@ -1526,7 +1541,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20735",
@@ -1575,7 +1590,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN002)\nand\n(\n Course or Test: Spanish 001 \n Minimum Grade of C-\n May not be taken concurrently.Language: Spanish Prereq 602 to 603\n May not be taken concurrently."
   },
   {
     "id": 884278,
@@ -1611,7 +1627,7 @@
     "subjectCourse": "SPN002",
     "faculty": [
       {
-        "bannerId": "67512",
+        "bannerId": "60237",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31136",
@@ -1621,7 +1637,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31136",
@@ -1670,7 +1686,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN002)\nand\n(\n Course or Test: Spanish 001 \n Minimum Grade of C-\n May not be taken concurrently.Language: Spanish Prereq 602 to 603\n May not be taken concurrently."
   },
   {
     "id": 885699,
@@ -1706,7 +1723,7 @@
     "subjectCourse": "SPN002",
     "faculty": [
       {
-        "bannerId": "67557",
+        "bannerId": "60359",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34096",
@@ -1716,7 +1733,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34096",
@@ -1799,7 +1816,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN002(\n Course or Test: Spanish 001 \n Minimum Grade of C-\n May not be taken concurrently.Language: Spanish Prereq 602 to 603\n May not be taken concurrently."
   },
   {
     "id": 880716,
@@ -1835,7 +1853,7 @@
     "subjectCourse": "SPN003",
     "faculty": [
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20736",
@@ -1884,7 +1902,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:SPN003(\n Course or Test: Spanish 002 \n Minimum Grade of C-\n May not be taken concurrently.Language: Spanish Prereq 604 to 605\n May not be taken concurrently.)"
   },
   {
     "id": 880717,
@@ -1920,7 +1939,7 @@
     "subjectCourse": "SPN003",
     "faculty": [
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20737",
@@ -1969,7 +1988,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:SPN003(\n Course or Test: Spanish 002 \n Minimum Grade of C-\n May not be taken concurrently.Language: Spanish Prereq 604 to 605\n May not be taken concurrently.)"
   },
   {
     "id": 880718,
@@ -2005,7 +2025,7 @@
     "subjectCourse": "SPN003",
     "faculty": [
       {
-        "bannerId": "67513",
+        "bannerId": "60238",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20738",
@@ -2015,7 +2035,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20738",
@@ -2098,7 +2118,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN003(\n Course or Test: Spanish 002 \n Minimum Grade of C-\n May not be taken concurrently.Language: Spanish Prereq 604 to 605\n May not be taken concurrently.)"
   },
   {
     "id": 880719,
@@ -2134,7 +2155,7 @@
     "subjectCourse": "SPN003",
     "faculty": [
       {
-        "bannerId": "67513",
+        "bannerId": "60238",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20739",
@@ -2144,7 +2165,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20739",
@@ -2193,7 +2214,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN003(\n Course or Test: Spanish 002 \n Minimum Grade of C-\n May not be taken concurrently.Language: Spanish Prereq 604 to 605\n May not be taken concurrently.)"
   },
   {
     "id": 880720,
@@ -2229,23 +2251,23 @@
     "subjectCourse": "SPN003",
     "faculty": [
       {
-        "bannerId": "67479",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "20740",
-        "displayName": "Lemus, Linda",
-        "emailAddress": "linda.lemus@ucr.edu",
-        "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "67513",
+        "bannerId": "60238",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20740",
         "displayName": "Navarro, MARTIN",
         "emailAddress": "martin.navarro@email.ucr.edu",
         "primaryIndicator": true,
+        "term": "202440"
+      },
+      {
+        "bannerId": "60143",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "20740",
+        "displayName": "Lemus, Linda",
+        "emailAddress": "linda.lemus@ucr.edu",
+        "primaryIndicator": false,
         "term": "202440"
       }
     ],
@@ -2288,7 +2310,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN003(\n Course or Test: Spanish 002 \n Minimum Grade of C-\n May not be taken concurrently.Language: Spanish Prereq 604 to 605\n May not be taken concurrently.)"
   },
   {
     "id": 880721,
@@ -2324,7 +2347,7 @@
     "subjectCourse": "SPN003",
     "faculty": [
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20741",
@@ -2334,7 +2357,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67514",
+        "bannerId": "60243",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20741",
@@ -2383,7 +2406,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN003(\n Course or Test: Spanish 002 \n Minimum Grade of C-\n May not be taken concurrently.Language: Spanish Prereq 604 to 605\n May not be taken concurrently.)"
   },
   {
     "id": 880722,
@@ -2419,7 +2443,7 @@
     "subjectCourse": "SPN003",
     "faculty": [
       {
-        "bannerId": "67515",
+        "bannerId": "60244",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20742",
@@ -2429,7 +2453,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20742",
@@ -2478,7 +2502,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN003(\n Course or Test: Spanish 002 \n Minimum Grade of C-\n May not be taken concurrently.Language: Spanish Prereq 604 to 605\n May not be taken concurrently.)"
   },
   {
     "id": 884268,
@@ -2514,23 +2539,23 @@
     "subjectCourse": "SPN003",
     "faculty": [
       {
-        "bannerId": "67479",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "31060",
-        "displayName": "Lemus, Linda",
-        "emailAddress": "linda.lemus@ucr.edu",
-        "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "67546",
+        "bannerId": "60285",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31060",
         "displayName": "Agudelo, Nohemy del",
         "emailAddress": "nohemydel.agudelo@email.ucr.edu",
         "primaryIndicator": true,
+        "term": "202440"
+      },
+      {
+        "bannerId": "60143",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "31060",
+        "displayName": "Lemus, Linda",
+        "emailAddress": "linda.lemus@ucr.edu",
+        "primaryIndicator": false,
         "term": "202440"
       }
     ],
@@ -2573,7 +2598,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN003(\n Course or Test: Spanish 002 \n Minimum Grade of C-\n May not be taken concurrently.Language: Spanish Prereq 604 to 605\n May not be taken concurrently.)"
   },
   {
     "id": 884817,
@@ -2609,7 +2635,7 @@
     "subjectCourse": "SPN003",
     "faculty": [
       {
-        "bannerId": "67529",
+        "bannerId": "60286",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32364",
@@ -2619,7 +2645,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32364",
@@ -2702,7 +2728,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN003(\n Course or Test: Spanish 002 \n Minimum Grade of C-\n May not be taken concurrently.Language: Spanish Prereq 604 to 605\n May not be taken concurrently.)"
   },
   {
     "id": 880723,
@@ -2738,7 +2765,7 @@
     "subjectCourse": "SPN004",
     "faculty": [
       {
-        "bannerId": "67516",
+        "bannerId": "60245",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20743",
@@ -2748,7 +2775,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20743",
@@ -2809,7 +2836,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:SPN004)\nand\n(\n Course or Test: Spanish 003 \n Minimum Grade of C-\n May not be taken concurrently.Language: Spanish Prereq 606 to 607\n May not be taken concurrently."
   },
   {
     "id": 880724,
@@ -2845,7 +2873,7 @@
     "subjectCourse": "SPN004",
     "faculty": [
       {
-        "bannerId": "67517",
+        "bannerId": "60246",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20744",
@@ -2855,7 +2883,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20744",
@@ -2904,7 +2932,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:SPN004)\nand\n(\n Course or Test: Spanish 003 \n Minimum Grade of C-\n May not be taken concurrently.Language: Spanish Prereq 606 to 607\n May not be taken concurrently."
   },
   {
     "id": 880725,
@@ -2940,7 +2969,7 @@
     "subjectCourse": "SPN004",
     "faculty": [
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20745",
@@ -2950,7 +2979,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67518",
+        "bannerId": "60249",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20745",
@@ -2999,7 +3028,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:SPN004(\n Course or Test: Spanish 003 \n Minimum Grade of C-\n May not be taken concurrently.Language: Spanish Prereq 606 to 607\n May not be taken concurrently.)"
   },
   {
     "id": 880726,
@@ -3035,7 +3065,7 @@
     "subjectCourse": "SPN004",
     "faculty": [
       {
-        "bannerId": "67480",
+        "bannerId": "60144",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20746",
@@ -3045,7 +3075,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20746",
@@ -3094,7 +3124,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN004(\n Course or Test: Spanish 003 \n Minimum Grade of C-\n May not be taken concurrently.Language: Spanish Prereq 606 to 607\n May not be taken concurrently.)"
   },
   {
     "id": 880727,
@@ -3130,7 +3161,7 @@
     "subjectCourse": "SPN004",
     "faculty": [
       {
-        "bannerId": "67519",
+        "bannerId": "60251",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20747",
@@ -3140,7 +3171,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20747",
@@ -3189,7 +3220,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN004(\n Course or Test: Spanish 003 \n Minimum Grade of C-\n May not be taken concurrently.Language: Spanish Prereq 606 to 607\n May not be taken concurrently."
   },
   {
     "id": 884818,
@@ -3225,7 +3257,7 @@
     "subjectCourse": "SPN004",
     "faculty": [
       {
-        "bannerId": "67530",
+        "bannerId": "60287",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32365",
@@ -3235,7 +3267,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32365",
@@ -3284,7 +3316,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN004(\n Course or Test: Spanish 003 \n Minimum Grade of C-\n May not be taken concurrently.Language: Spanish Prereq 606 to 607\n May not be taken concurrently."
   },
   {
     "id": 886718,
@@ -3320,7 +3353,7 @@
     "subjectCourse": "SPN004",
     "faculty": [
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35672",
@@ -3330,7 +3363,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67562",
+        "bannerId": "60375",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35672",
@@ -3379,7 +3412,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN004(\n Course or Test: Spanish 003 \n Minimum Grade of C-\n May not be taken concurrently.Language: Spanish Prereq 606 to 607\n May not be taken concurrently.)"
   },
   {
     "id": 880730,
@@ -3415,7 +3449,7 @@
     "subjectCourse": "SPN005",
     "faculty": [
       {
-        "bannerId": "67520",
+        "bannerId": "60252",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20756",
@@ -3425,7 +3459,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20756",
@@ -3474,7 +3508,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN005)\nand\n(\n Course or Test: Spanish 004 \n Minimum Grade of D-\n May not be taken concurrently.Language: Spanish Prereq 608 to 609\n May not be taken concurrently."
   },
   {
     "id": 880488,
@@ -3510,7 +3545,7 @@
     "subjectCourse": "SPN101A",
     "faculty": [
       {
-        "bannerId": "67478",
+        "bannerId": "60142",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19660",
@@ -3520,7 +3555,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19660",
@@ -3581,7 +3616,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN101A(\n Course or Test: Spanish 006 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 888973,
@@ -3617,7 +3653,7 @@
     "subjectCourse": "SPN101B",
     "faculty": [
       {
-        "bannerId": "67478",
+        "bannerId": "60142",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37474",
@@ -3627,7 +3663,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37474",
@@ -3676,7 +3712,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN101B(\n Course or Test: Spanish 101A \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 888974,
@@ -3712,7 +3749,7 @@
     "subjectCourse": "SPN104",
     "faculty": [
       {
-        "bannerId": "66719",
+        "bannerId": "60283",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37475",
@@ -3761,7 +3798,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 890505,
@@ -3797,7 +3835,7 @@
     "subjectCourse": "SPN105",
     "faculty": [
       {
-        "bannerId": "66724",
+        "bannerId": "60395",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38135",
@@ -3846,7 +3884,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:SPN105(\n Course or Test: Linguistics 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Spanish 101A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Spanish 101B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Spanish 109A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Spanish 109B \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 880489,
@@ -3882,7 +3921,7 @@
     "subjectCourse": "SPN109A",
     "faculty": [
       {
-        "bannerId": "67480",
+        "bannerId": "60144",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19663",
@@ -3892,7 +3931,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19663",
@@ -3953,7 +3992,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN109ALanguage: Spanish Prereq 612 to 613\n May not be taken concurrently.)"
   },
   {
     "id": 880490,
@@ -3989,7 +4029,7 @@
     "subjectCourse": "SPN109A",
     "faculty": [
       {
-        "bannerId": "67480",
+        "bannerId": "60144",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19664",
@@ -3999,7 +4039,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19664",
@@ -4048,7 +4088,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN109ALanguage: Spanish Prereq 612 to 613\n May not be taken concurrently.)"
   },
   {
     "id": 880491,
@@ -4084,7 +4125,7 @@
     "subjectCourse": "SPN109B",
     "faculty": [
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19665",
@@ -4133,7 +4174,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN109B(\n Course or Test: Spanish 109A \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 880492,
@@ -4169,7 +4211,7 @@
     "subjectCourse": "SPN110",
     "faculty": [
       {
-        "bannerId": "65716",
+        "bannerId": "60147",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19666",
@@ -4218,7 +4260,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN110(\n Course or Test: Spanish 101A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Spanish 101B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Spanish 109A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Spanish 109B \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884819,
@@ -4254,7 +4297,7 @@
     "subjectCourse": "SPN130",
     "faculty": [
       {
-        "bannerId": "67531",
+        "bannerId": "60288",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32367",
@@ -4303,7 +4346,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:SPN130(\n Course or Test: Spanish 101A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Spanish 101B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Spanish 109A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Spanish 109B \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 888978,
@@ -4339,7 +4383,7 @@
     "subjectCourse": "SPN160E",
     "faculty": [
       {
-        "bannerId": "65923",
+        "bannerId": "60276",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37479",
@@ -4388,7 +4432,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN160E(\n Course or Test: Spanish 110 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 888504,
@@ -4424,7 +4469,7 @@
     "subjectCourse": "SPN175",
     "faculty": [
       {
-        "bannerId": "66893",
+        "bannerId": "60149",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37171",
@@ -4473,7 +4518,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888534,
@@ -4509,7 +4555,7 @@
     "subjectCourse": "SPN175",
     "faculty": [
       {
-        "bannerId": "66893",
+        "bannerId": "60149",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37189",
@@ -4558,7 +4604,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888979,
@@ -4594,7 +4641,7 @@
     "subjectCourse": "SPN180A",
     "faculty": [
       {
-        "bannerId": "67481",
+        "bannerId": "60151",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37480",
@@ -4643,7 +4690,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SPN180A(\n Course or Test: Spanish 110 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884091,
@@ -4679,7 +4727,7 @@
     "subjectCourse": "SPN193",
     "faculty": [
       {
-        "bannerId": "65923",
+        "bannerId": "60276",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "30274",
@@ -4728,7 +4776,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888980,
@@ -4764,7 +4813,7 @@
     "subjectCourse": "SPN203",
     "faculty": [
       {
-        "bannerId": "66719",
+        "bannerId": "60283",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37481",
@@ -4813,7 +4862,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882382,
@@ -4849,7 +4899,7 @@
     "subjectCourse": "SPN220",
     "faculty": [
       {
-        "bannerId": "65716",
+        "bannerId": "60147",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25962",
@@ -4898,7 +4948,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888981,
@@ -4934,7 +4985,7 @@
     "subjectCourse": "SPN272",
     "faculty": [
       {
-        "bannerId": "67483",
+        "bannerId": "60156",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37482",
@@ -4983,7 +5034,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888982,
@@ -5019,7 +5071,7 @@
     "subjectCourse": "SPN272",
     "faculty": [
       {
-        "bannerId": "67483",
+        "bannerId": "60156",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37483",
@@ -5068,7 +5120,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886359,
@@ -5104,7 +5157,7 @@
     "subjectCourse": "SPN290",
     "faculty": [
       {
-        "bannerId": "66704",
+        "bannerId": "60353",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35264",
@@ -5153,7 +5206,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883903,
@@ -5189,7 +5243,7 @@
     "subjectCourse": "SPN290",
     "faculty": [
       {
-        "bannerId": "66719",
+        "bannerId": "60283",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29692",
@@ -5238,7 +5292,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883986,
@@ -5274,7 +5329,7 @@
     "subjectCourse": "SPN290",
     "faculty": [
       {
-        "bannerId": "65923",
+        "bannerId": "60276",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29802",
@@ -5323,7 +5378,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883928,
@@ -5359,7 +5415,7 @@
     "subjectCourse": "SPN290",
     "faculty": [
       {
-        "bannerId": "65716",
+        "bannerId": "60147",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29733",
@@ -5408,7 +5464,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885208,
@@ -5444,7 +5501,7 @@
     "subjectCourse": "SPN290",
     "faculty": [
       {
-        "bannerId": "67556",
+        "bannerId": "60354",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33207",
@@ -5493,7 +5550,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882800,
@@ -5529,7 +5587,7 @@
     "subjectCourse": "SPN290",
     "faculty": [
       {
-        "bannerId": "65712",
+        "bannerId": "60275",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27247",
@@ -5578,7 +5636,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880498,
@@ -5614,7 +5673,7 @@
     "subjectCourse": "SPN290",
     "faculty": [
       {
-        "bannerId": "66893",
+        "bannerId": "60149",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19692",
@@ -5663,7 +5722,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884394,
@@ -5699,7 +5759,7 @@
     "subjectCourse": "SPN291",
     "faculty": [
       {
-        "bannerId": "66719",
+        "bannerId": "60283",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31351",
@@ -5748,7 +5808,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880504,
@@ -5784,7 +5845,7 @@
     "subjectCourse": "SPN291",
     "faculty": [
       {
-        "bannerId": "67482",
+        "bannerId": "60154",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19710",
@@ -5833,7 +5894,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887649,
@@ -5869,7 +5931,7 @@
     "subjectCourse": "SPN291",
     "faculty": [
       {
-        "bannerId": "65923",
+        "bannerId": "60276",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36758",
@@ -5918,7 +5980,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885332,
@@ -5954,7 +6017,7 @@
     "subjectCourse": "SPN291",
     "faculty": [
       {
-        "bannerId": "65716",
+        "bannerId": "60147",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33375",
@@ -6003,7 +6066,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885331,
@@ -6039,7 +6103,7 @@
     "subjectCourse": "SPN291",
     "faculty": [
       {
-        "bannerId": "67556",
+        "bannerId": "60354",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33374",
@@ -6088,7 +6152,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880505,
@@ -6124,7 +6189,7 @@
     "subjectCourse": "SPN291",
     "faculty": [
       {
-        "bannerId": "67483",
+        "bannerId": "60156",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19713",
@@ -6173,7 +6238,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880502,
@@ -6209,7 +6275,7 @@
     "subjectCourse": "SPN291",
     "faculty": [
       {
-        "bannerId": "67481",
+        "bannerId": "60151",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19704",
@@ -6258,7 +6324,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885169,
@@ -6294,7 +6361,7 @@
     "subjectCourse": "SPN291",
     "faculty": [
       {
-        "bannerId": "66704",
+        "bannerId": "60353",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33147",
@@ -6343,7 +6410,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883956,
@@ -6379,7 +6447,7 @@
     "subjectCourse": "SPN291",
     "faculty": [
       {
-        "bannerId": "65712",
+        "bannerId": "60275",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29766",
@@ -6428,7 +6496,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880503,
@@ -6464,7 +6533,7 @@
     "subjectCourse": "SPN291",
     "faculty": [
       {
-        "bannerId": "66893",
+        "bannerId": "60149",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19705",
@@ -6513,7 +6582,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882952,
@@ -6549,7 +6619,7 @@
     "subjectCourse": "SPN292",
     "faculty": [
       {
-        "bannerId": "65923",
+        "bannerId": "60276",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27429",
@@ -6598,7 +6668,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886434,
@@ -6634,7 +6705,7 @@
     "subjectCourse": "SPN292",
     "faculty": [
       {
-        "bannerId": "65716",
+        "bannerId": "60147",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35349",
@@ -6683,7 +6754,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885307,
@@ -6719,7 +6791,7 @@
     "subjectCourse": "SPN299",
     "faculty": [
       {
-        "bannerId": "66719",
+        "bannerId": "60283",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33349",
@@ -6768,7 +6840,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880509,
@@ -6804,7 +6877,7 @@
     "subjectCourse": "SPN299",
     "faculty": [
       {
-        "bannerId": "67484",
+        "bannerId": "60160",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19721",
@@ -6853,7 +6926,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880510,
@@ -6889,7 +6963,7 @@
     "subjectCourse": "SPN299",
     "faculty": [
       {
-        "bannerId": "67482",
+        "bannerId": "60154",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19722",
@@ -6938,7 +7012,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905472,
@@ -6974,7 +7049,7 @@
     "subjectCourse": "SPN299",
     "faculty": [
       {
-        "bannerId": "65923",
+        "bannerId": "60276",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38780",
@@ -7023,7 +7098,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885153,
@@ -7059,7 +7135,7 @@
     "subjectCourse": "SPN299",
     "faculty": [
       {
-        "bannerId": "65716",
+        "bannerId": "60147",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33131",
@@ -7108,7 +7184,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886154,
@@ -7144,7 +7221,7 @@
     "subjectCourse": "SPN299",
     "faculty": [
       {
-        "bannerId": "67556",
+        "bannerId": "60354",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35015",
@@ -7193,7 +7270,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880511,
@@ -7229,7 +7307,7 @@
     "subjectCourse": "SPN299",
     "faculty": [
       {
-        "bannerId": "67483",
+        "bannerId": "60156",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19725",
@@ -7278,7 +7356,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880507,
@@ -7314,7 +7393,7 @@
     "subjectCourse": "SPN299",
     "faculty": [
       {
-        "bannerId": "67481",
+        "bannerId": "60151",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19716",
@@ -7363,7 +7442,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885170,
@@ -7399,7 +7479,7 @@
     "subjectCourse": "SPN299",
     "faculty": [
       {
-        "bannerId": "66704",
+        "bannerId": "60353",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33148",
@@ -7448,7 +7528,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884491,
@@ -7484,7 +7565,7 @@
     "subjectCourse": "SPN299",
     "faculty": [
       {
-        "bannerId": "65712",
+        "bannerId": "60275",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31480",
@@ -7533,7 +7614,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880508,
@@ -7569,7 +7651,7 @@
     "subjectCourse": "SPN299",
     "faculty": [
       {
-        "bannerId": "66893",
+        "bannerId": "60149",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19717",
@@ -7618,7 +7700,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885700,
@@ -7654,7 +7737,7 @@
     "subjectCourse": "SPN302",
     "faculty": [
       {
-        "bannerId": "67479",
+        "bannerId": "60143",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34106",
@@ -7703,6 +7786,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   }
 ]

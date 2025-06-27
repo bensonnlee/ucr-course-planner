@@ -33,7 +33,7 @@
     "subjectCourse": "CHN001",
     "faculty": [
       {
-        "bannerId": "65653",
+        "bannerId": "58263",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34541",
@@ -82,7 +82,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:CHN001Language: Chinese Prereq 600 to 601\n May not be taken concurrently.)"
   },
   {
     "id": 876939,
@@ -118,7 +119,7 @@
     "subjectCourse": "CHN001",
     "faculty": [
       {
-        "bannerId": "65653",
+        "bannerId": "58263",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12441",
@@ -167,7 +168,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:CHN001Language: Chinese Prereq 600 to 601\n May not be taken concurrently.)"
   },
   {
     "id": 876940,
@@ -203,7 +205,7 @@
     "subjectCourse": "CHN003",
     "faculty": [
       {
-        "bannerId": "65654",
+        "bannerId": "58270",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12445",
@@ -252,7 +254,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:CHN003(\n Course or Test: Chinese 002 \n Minimum Grade of C-\n May not be taken concurrently.Language: Chinese Prereq 604 to 605\n May not be taken concurrently."
   },
   {
     "id": 876941,
@@ -288,7 +291,7 @@
     "subjectCourse": "CHN004",
     "faculty": [
       {
-        "bannerId": "65654",
+        "bannerId": "58270",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12446",
@@ -337,7 +340,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:CHN004(\n Course or Test: Chinese 003 \n Minimum Grade of C-\n May not be taken concurrently.Language: Chinese Prereq 606 to 607\n May not be taken concurrently.)"
   },
   {
     "id": 876942,
@@ -373,7 +377,7 @@
     "subjectCourse": "CHN020A",
     "faculty": [
       {
-        "bannerId": "65654",
+        "bannerId": "58270",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12448",
@@ -422,7 +426,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:CHN020ALanguage: Chinese Prereq 612 to 613\n May not be taken concurrently.)"
   },
   {
     "id": 876943,
@@ -458,7 +463,7 @@
     "subjectCourse": "CHN020B",
     "faculty": [
       {
-        "bannerId": "65653",
+        "bannerId": "58263",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "12449",
@@ -507,7 +512,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:CHN020B(\n Course or Test: Chinese 002 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chinese 020A \n Minimum Grade of C-\n May not be taken concurrently.Language: Chinese Prereq 614 to 615\n May not be taken concurrently.)"
   },
   {
     "id": 889177,
@@ -543,7 +549,7 @@
     "subjectCourse": "CHN048",
     "faculty": [
       {
-        "bannerId": "65066",
+        "bannerId": "60021",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37658",
@@ -553,7 +559,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65067",
+        "bannerId": "60023",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37658",
@@ -602,7 +608,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889292,
@@ -638,7 +645,7 @@
     "subjectCourse": "CHN048",
     "faculty": [
       {
-        "bannerId": "65067",
+        "bannerId": "60023",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37737",
@@ -699,7 +706,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886882,
@@ -735,7 +743,7 @@
     "subjectCourse": "CHN136",
     "faculty": [
       {
-        "bannerId": "65057",
+        "bannerId": "58349",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35868",
@@ -796,7 +804,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 890414,
@@ -832,7 +841,7 @@
     "subjectCourse": "CHN137",
     "faculty": [
       {
-        "bannerId": "65085",
+        "bannerId": "59850",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38098",
@@ -893,6 +902,7 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   }
 ]

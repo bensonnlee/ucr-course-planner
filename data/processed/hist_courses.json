@@ -33,7 +33,7 @@
     "subjectCourse": "HIST001",
     "faculty": [
       {
-        "bannerId": "66628",
+        "bannerId": "59089",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33716",
@@ -94,7 +94,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885591,
@@ -130,7 +131,7 @@
     "subjectCourse": "HIST001",
     "faculty": [
       {
-        "bannerId": "66631",
+        "bannerId": "59120",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33717",
@@ -191,7 +192,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878535,
@@ -227,7 +229,7 @@
     "subjectCourse": "HIST010",
     "faculty": [
       {
-        "bannerId": "66569",
+        "bannerId": "57849",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15851",
@@ -237,7 +239,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66570",
+        "bannerId": "57856",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15851",
@@ -247,7 +249,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66571",
+        "bannerId": "57861",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15851",
@@ -257,7 +259,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66572",
+        "bannerId": "57869",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15851",
@@ -267,7 +269,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66573",
+        "bannerId": "57876",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15851",
@@ -277,7 +279,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66574",
+        "bannerId": "57880",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15851",
@@ -287,7 +289,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66575",
+        "bannerId": "57890",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15851",
@@ -297,7 +299,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66576",
+        "bannerId": "57900",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15851",
@@ -346,7 +348,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878536,
@@ -382,7 +385,7 @@
     "subjectCourse": "HIST010",
     "faculty": [
       {
-        "bannerId": "66575",
+        "bannerId": "57890",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15852",
@@ -431,7 +434,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878537,
@@ -467,7 +471,7 @@
     "subjectCourse": "HIST010",
     "faculty": [
       {
-        "bannerId": "66575",
+        "bannerId": "57890",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15853",
@@ -516,7 +520,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878538,
@@ -552,7 +557,7 @@
     "subjectCourse": "HIST010",
     "faculty": [
       {
-        "bannerId": "66575",
+        "bannerId": "57890",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15854",
@@ -601,7 +606,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878539,
@@ -637,7 +643,7 @@
     "subjectCourse": "HIST010",
     "faculty": [
       {
-        "bannerId": "66573",
+        "bannerId": "57876",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15855",
@@ -686,7 +692,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881260,
@@ -722,7 +729,7 @@
     "subjectCourse": "HIST010",
     "faculty": [
       {
-        "bannerId": "66573",
+        "bannerId": "57876",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23242",
@@ -771,7 +778,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878540,
@@ -807,7 +815,7 @@
     "subjectCourse": "HIST010",
     "faculty": [
       {
-        "bannerId": "66573",
+        "bannerId": "57876",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15857",
@@ -856,7 +864,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878541,
@@ -892,7 +901,7 @@
     "subjectCourse": "HIST010",
     "faculty": [
       {
-        "bannerId": "66570",
+        "bannerId": "57856",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15858",
@@ -941,7 +950,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878542,
@@ -977,7 +987,7 @@
     "subjectCourse": "HIST010",
     "faculty": [
       {
-        "bannerId": "66570",
+        "bannerId": "57856",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15859",
@@ -1026,7 +1036,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878543,
@@ -1062,7 +1073,7 @@
     "subjectCourse": "HIST010",
     "faculty": [
       {
-        "bannerId": "66570",
+        "bannerId": "57856",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15860",
@@ -1111,7 +1122,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878544,
@@ -1147,7 +1159,7 @@
     "subjectCourse": "HIST010",
     "faculty": [
       {
-        "bannerId": "66576",
+        "bannerId": "57900",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15861",
@@ -1196,7 +1208,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878545,
@@ -1232,7 +1245,7 @@
     "subjectCourse": "HIST010",
     "faculty": [
       {
-        "bannerId": "66576",
+        "bannerId": "57900",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15862",
@@ -1281,7 +1294,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878546,
@@ -1317,7 +1331,7 @@
     "subjectCourse": "HIST010",
     "faculty": [
       {
-        "bannerId": "66574",
+        "bannerId": "57880",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15863",
@@ -1366,7 +1380,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878547,
@@ -1402,7 +1417,7 @@
     "subjectCourse": "HIST010",
     "faculty": [
       {
-        "bannerId": "66574",
+        "bannerId": "57880",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15864",
@@ -1451,7 +1466,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878548,
@@ -1487,7 +1503,7 @@
     "subjectCourse": "HIST010",
     "faculty": [
       {
-        "bannerId": "66574",
+        "bannerId": "57880",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15865",
@@ -1536,7 +1552,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878549,
@@ -1572,7 +1589,7 @@
     "subjectCourse": "HIST010",
     "faculty": [
       {
-        "bannerId": "66576",
+        "bannerId": "57900",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15866",
@@ -1621,7 +1638,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878550,
@@ -1657,7 +1675,7 @@
     "subjectCourse": "HIST010",
     "faculty": [
       {
-        "bannerId": "66572",
+        "bannerId": "57869",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15867",
@@ -1706,7 +1724,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878551,
@@ -1742,7 +1761,7 @@
     "subjectCourse": "HIST010",
     "faculty": [
       {
-        "bannerId": "66572",
+        "bannerId": "57869",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15868",
@@ -1791,7 +1810,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881261,
@@ -1827,7 +1847,7 @@
     "subjectCourse": "HIST010",
     "faculty": [
       {
-        "bannerId": "66572",
+        "bannerId": "57869",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23243",
@@ -1876,7 +1896,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881262,
@@ -1912,7 +1933,7 @@
     "subjectCourse": "HIST010",
     "faculty": [
       {
-        "bannerId": "66571",
+        "bannerId": "57861",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23244",
@@ -1961,7 +1982,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878552,
@@ -1997,7 +2019,7 @@
     "subjectCourse": "HIST010",
     "faculty": [
       {
-        "bannerId": "66571",
+        "bannerId": "57861",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15871",
@@ -2046,7 +2068,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882601,
@@ -2082,7 +2105,7 @@
     "subjectCourse": "HIST010",
     "faculty": [
       {
-        "bannerId": "66571",
+        "bannerId": "57861",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26830",
@@ -2131,7 +2154,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878553,
@@ -2167,17 +2191,7 @@
     "subjectCourse": "HIST015",
     "faculty": [
       {
-        "bannerId": "66577",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "15873",
-        "displayName": "Gomez, Rocio",
-        "emailAddress": "rocio.gomez001@email.ucr.edu",
-        "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "66578",
+        "bannerId": "58030",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15873",
@@ -2187,7 +2201,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66579",
+        "bannerId": "58036",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15873",
@@ -2197,7 +2211,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66580",
+        "bannerId": "58042",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15873",
@@ -2207,17 +2221,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66581",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "15873",
-        "displayName": "Schuele, Allyson",
-        "emailAddress": "allyson.schuele@email.ucr.edu",
-        "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "66582",
+        "bannerId": "58049",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15873",
@@ -2227,7 +2231,27 @@
         "term": "202440"
       },
       {
-        "bannerId": "66583",
+        "bannerId": "58056",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "15873",
+        "displayName": "Schuele, Allyson",
+        "emailAddress": "allyson.schuele@email.ucr.edu",
+        "primaryIndicator": false,
+        "term": "202440"
+      },
+      {
+        "bannerId": "58066",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "15873",
+        "displayName": "Gomez, Rocio",
+        "emailAddress": "rocio.gomez001@email.ucr.edu",
+        "primaryIndicator": false,
+        "term": "202440"
+      },
+      {
+        "bannerId": "58074",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15873",
@@ -2237,7 +2261,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66584",
+        "bannerId": "58080",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15873",
@@ -2286,7 +2310,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878554,
@@ -2322,7 +2347,7 @@
     "subjectCourse": "HIST015",
     "faculty": [
       {
-        "bannerId": "66578",
+        "bannerId": "58030",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15874",
@@ -2371,7 +2396,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878555,
@@ -2407,7 +2433,7 @@
     "subjectCourse": "HIST015",
     "faculty": [
       {
-        "bannerId": "66581",
+        "bannerId": "58056",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15875",
@@ -2456,7 +2482,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878556,
@@ -2492,7 +2519,7 @@
     "subjectCourse": "HIST015",
     "faculty": [
       {
-        "bannerId": "66578",
+        "bannerId": "58030",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15876",
@@ -2541,7 +2568,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878557,
@@ -2577,7 +2605,7 @@
     "subjectCourse": "HIST015",
     "faculty": [
       {
-        "bannerId": "66578",
+        "bannerId": "58030",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15877",
@@ -2626,7 +2654,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878558,
@@ -2662,7 +2691,7 @@
     "subjectCourse": "HIST015",
     "faculty": [
       {
-        "bannerId": "66581",
+        "bannerId": "58056",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15878",
@@ -2711,7 +2740,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878559,
@@ -2747,7 +2777,7 @@
     "subjectCourse": "HIST015",
     "faculty": [
       {
-        "bannerId": "66581",
+        "bannerId": "58056",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15879",
@@ -2796,7 +2826,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878560,
@@ -2832,7 +2863,7 @@
     "subjectCourse": "HIST015",
     "faculty": [
       {
-        "bannerId": "66577",
+        "bannerId": "58066",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15880",
@@ -2881,7 +2912,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878561,
@@ -2917,7 +2949,7 @@
     "subjectCourse": "HIST015",
     "faculty": [
       {
-        "bannerId": "66577",
+        "bannerId": "58066",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15881",
@@ -2966,7 +2998,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878562,
@@ -3002,7 +3035,7 @@
     "subjectCourse": "HIST015",
     "faculty": [
       {
-        "bannerId": "66577",
+        "bannerId": "58066",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15882",
@@ -3051,7 +3084,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878563,
@@ -3087,7 +3121,7 @@
     "subjectCourse": "HIST015",
     "faculty": [
       {
-        "bannerId": "66584",
+        "bannerId": "58080",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15883",
@@ -3136,7 +3170,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878564,
@@ -3172,7 +3207,7 @@
     "subjectCourse": "HIST015",
     "faculty": [
       {
-        "bannerId": "66580",
+        "bannerId": "58042",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15884",
@@ -3221,7 +3256,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878565,
@@ -3257,7 +3293,7 @@
     "subjectCourse": "HIST015",
     "faculty": [
       {
-        "bannerId": "66580",
+        "bannerId": "58042",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15885",
@@ -3306,7 +3342,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880733,
@@ -3342,7 +3379,7 @@
     "subjectCourse": "HIST015",
     "faculty": [
       {
-        "bannerId": "66580",
+        "bannerId": "58042",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20815",
@@ -3391,7 +3428,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880734,
@@ -3427,7 +3465,7 @@
     "subjectCourse": "HIST015",
     "faculty": [
       {
-        "bannerId": "66579",
+        "bannerId": "58036",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20816",
@@ -3476,7 +3514,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880735,
@@ -3512,7 +3551,7 @@
     "subjectCourse": "HIST015",
     "faculty": [
       {
-        "bannerId": "66584",
+        "bannerId": "58080",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20817",
@@ -3561,7 +3600,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880736,
@@ -3597,7 +3637,7 @@
     "subjectCourse": "HIST015",
     "faculty": [
       {
-        "bannerId": "66583",
+        "bannerId": "58074",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20818",
@@ -3646,7 +3686,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880737,
@@ -3682,7 +3723,7 @@
     "subjectCourse": "HIST015",
     "faculty": [
       {
-        "bannerId": "66579",
+        "bannerId": "58036",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20819",
@@ -3731,7 +3772,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880738,
@@ -3767,7 +3809,7 @@
     "subjectCourse": "HIST015",
     "faculty": [
       {
-        "bannerId": "66579",
+        "bannerId": "58036",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20820",
@@ -3816,7 +3858,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884132,
@@ -3852,7 +3895,7 @@
     "subjectCourse": "HIST015",
     "faculty": [
       {
-        "bannerId": "66583",
+        "bannerId": "58074",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "30461",
@@ -3901,7 +3944,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884133,
@@ -3937,7 +3981,7 @@
     "subjectCourse": "HIST015",
     "faculty": [
       {
-        "bannerId": "66584",
+        "bannerId": "58080",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "30462",
@@ -3986,7 +4030,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884134,
@@ -4022,7 +4067,7 @@
     "subjectCourse": "HIST015",
     "faculty": [
       {
-        "bannerId": "66583",
+        "bannerId": "58074",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "30463",
@@ -4071,7 +4116,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888776,
@@ -4107,17 +4153,7 @@
     "subjectCourse": "HIST017B",
     "faculty": [
       {
-        "bannerId": "66647",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "37342",
-        "displayName": "Rea, Christopher",
-        "emailAddress": "christopher.rea@email.ucr.edu",
-        "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "66648",
+        "bannerId": "59458",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37342",
@@ -4127,7 +4163,17 @@
         "term": "202440"
       },
       {
-        "bannerId": "66649",
+        "bannerId": "59484",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "37342",
+        "displayName": "Rea, Christopher",
+        "emailAddress": "christopher.rea@email.ucr.edu",
+        "primaryIndicator": false,
+        "term": "202440"
+      },
+      {
+        "bannerId": "59498",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37342",
@@ -4137,7 +4183,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66624",
+        "bannerId": "59000",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37342",
@@ -4186,7 +4232,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888777,
@@ -4222,7 +4269,7 @@
     "subjectCourse": "HIST017B",
     "faculty": [
       {
-        "bannerId": "66648",
+        "bannerId": "59458",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37343",
@@ -4271,7 +4318,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888779,
@@ -4307,7 +4355,7 @@
     "subjectCourse": "HIST017B",
     "faculty": [
       {
-        "bannerId": "66649",
+        "bannerId": "59498",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37345",
@@ -4356,7 +4404,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888780,
@@ -4392,7 +4441,7 @@
     "subjectCourse": "HIST017B",
     "faculty": [
       {
-        "bannerId": "66648",
+        "bannerId": "59458",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37346",
@@ -4441,7 +4490,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888781,
@@ -4477,7 +4527,7 @@
     "subjectCourse": "HIST017B",
     "faculty": [
       {
-        "bannerId": "66647",
+        "bannerId": "59484",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37347",
@@ -4526,7 +4576,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888783,
@@ -4562,7 +4613,7 @@
     "subjectCourse": "HIST017B",
     "faculty": [
       {
-        "bannerId": "66647",
+        "bannerId": "59484",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37349",
@@ -4611,7 +4662,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888784,
@@ -4647,7 +4699,7 @@
     "subjectCourse": "HIST017B",
     "faculty": [
       {
-        "bannerId": "66647",
+        "bannerId": "59484",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37350",
@@ -4696,7 +4748,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888785,
@@ -4732,7 +4785,7 @@
     "subjectCourse": "HIST017B",
     "faculty": [
       {
-        "bannerId": "66649",
+        "bannerId": "59498",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37351",
@@ -4781,7 +4834,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888787,
@@ -4817,7 +4871,7 @@
     "subjectCourse": "HIST017B",
     "faculty": [
       {
-        "bannerId": "66649",
+        "bannerId": "59498",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37353",
@@ -4866,7 +4920,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888790,
@@ -4902,7 +4957,7 @@
     "subjectCourse": "HIST017B",
     "faculty": [
       {
-        "bannerId": "66648",
+        "bannerId": "59458",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37355",
@@ -4951,7 +5006,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878566,
@@ -4987,67 +5043,7 @@
     "subjectCourse": "HIST020",
     "faculty": [
       {
-        "bannerId": "66585",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "15896",
-        "displayName": "Gauthier, Ethan",
-        "emailAddress": "ethan.gauthier@email.ucr.edu",
-        "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "66586",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "15896",
-        "displayName": "Levy, Juliette",
-        "emailAddress": "juliette.levy@ucr.edu",
-        "primaryIndicator": true,
-        "term": "202440"
-      },
-      {
-        "bannerId": "66587",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "15896",
-        "displayName": "Menchaca, Hailee",
-        "emailAddress": "hailee.menchaca@email.ucr.edu",
-        "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "66588",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "15896",
-        "displayName": "Hull, Marissa",
-        "emailAddress": "marissa.hull@email.ucr.edu",
-        "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "66589",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "15896",
-        "displayName": "Cardinale, Kristina",
-        "emailAddress": "kristina.cardinale@email.ucr.edu",
-        "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "66590",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "15896",
-        "displayName": "Principe, Abby",
-        "emailAddress": "abbygayle.principe@email.ucr.edu",
-        "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "66594",
+        "bannerId": "58139",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15896",
@@ -5057,7 +5053,57 @@
         "term": "202440"
       },
       {
-        "bannerId": "66591",
+        "bannerId": "58146",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "15896",
+        "displayName": "Gauthier, Ethan",
+        "emailAddress": "ethan.gauthier@email.ucr.edu",
+        "primaryIndicator": false,
+        "term": "202440"
+      },
+      {
+        "bannerId": "58155",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "15896",
+        "displayName": "Levy, Juliette",
+        "emailAddress": "juliette.levy@ucr.edu",
+        "primaryIndicator": true,
+        "term": "202440"
+      },
+      {
+        "bannerId": "58161",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "15896",
+        "displayName": "Menchaca, Hailee",
+        "emailAddress": "hailee.menchaca@email.ucr.edu",
+        "primaryIndicator": false,
+        "term": "202440"
+      },
+      {
+        "bannerId": "58169",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "15896",
+        "displayName": "Hull, Marissa",
+        "emailAddress": "marissa.hull@email.ucr.edu",
+        "primaryIndicator": false,
+        "term": "202440"
+      },
+      {
+        "bannerId": "58177",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "15896",
+        "displayName": "Cardinale, Kristina",
+        "emailAddress": "kristina.cardinale@email.ucr.edu",
+        "primaryIndicator": false,
+        "term": "202440"
+      },
+      {
+        "bannerId": "58183",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15896",
@@ -5067,7 +5113,17 @@
         "term": "202440"
       },
       {
-        "bannerId": "66595",
+        "bannerId": "58190",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "15896",
+        "displayName": "Principe, Abby",
+        "emailAddress": "abbygayle.principe@email.ucr.edu",
+        "primaryIndicator": false,
+        "term": "202440"
+      },
+      {
+        "bannerId": "58198",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15896",
@@ -5116,7 +5172,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 878567,
@@ -5152,7 +5209,7 @@
     "subjectCourse": "HIST020",
     "faculty": [
       {
-        "bannerId": "66588",
+        "bannerId": "58169",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15897",
@@ -5201,7 +5258,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 878568,
@@ -5237,7 +5295,7 @@
     "subjectCourse": "HIST020",
     "faculty": [
       {
-        "bannerId": "66588",
+        "bannerId": "58169",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15898",
@@ -5286,7 +5344,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 878569,
@@ -5322,7 +5381,7 @@
     "subjectCourse": "HIST020",
     "faculty": [
       {
-        "bannerId": "66588",
+        "bannerId": "58169",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15899",
@@ -5371,7 +5430,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 878570,
@@ -5407,7 +5467,7 @@
     "subjectCourse": "HIST020",
     "faculty": [
       {
-        "bannerId": "66591",
+        "bannerId": "58183",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15900",
@@ -5456,7 +5516,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 878571,
@@ -5492,7 +5553,7 @@
     "subjectCourse": "HIST020",
     "faculty": [
       {
-        "bannerId": "66591",
+        "bannerId": "58183",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15901",
@@ -5541,7 +5602,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 878572,
@@ -5577,7 +5639,7 @@
     "subjectCourse": "HIST020",
     "faculty": [
       {
-        "bannerId": "66591",
+        "bannerId": "58183",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15902",
@@ -5626,7 +5688,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 878573,
@@ -5662,7 +5725,7 @@
     "subjectCourse": "HIST020",
     "faculty": [
       {
-        "bannerId": "66587",
+        "bannerId": "58161",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15903",
@@ -5711,7 +5774,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 878574,
@@ -5747,7 +5811,7 @@
     "subjectCourse": "HIST020",
     "faculty": [
       {
-        "bannerId": "66587",
+        "bannerId": "58161",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15904",
@@ -5796,7 +5860,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 878575,
@@ -5832,7 +5897,7 @@
     "subjectCourse": "HIST020",
     "faculty": [
       {
-        "bannerId": "66587",
+        "bannerId": "58161",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15905",
@@ -5881,7 +5946,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 878576,
@@ -5917,7 +5983,7 @@
     "subjectCourse": "HIST020",
     "faculty": [
       {
-        "bannerId": "66589",
+        "bannerId": "58177",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15906",
@@ -5966,7 +6032,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 878577,
@@ -6002,7 +6069,7 @@
     "subjectCourse": "HIST020",
     "faculty": [
       {
-        "bannerId": "66589",
+        "bannerId": "58177",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15907",
@@ -6051,7 +6118,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 878578,
@@ -6087,7 +6155,7 @@
     "subjectCourse": "HIST020",
     "faculty": [
       {
-        "bannerId": "66589",
+        "bannerId": "58177",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15908",
@@ -6136,7 +6204,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 881376,
@@ -6172,7 +6241,7 @@
     "subjectCourse": "HIST020",
     "faculty": [
       {
-        "bannerId": "66595",
+        "bannerId": "58198",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23611",
@@ -6221,7 +6290,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 881377,
@@ -6257,7 +6327,7 @@
     "subjectCourse": "HIST020",
     "faculty": [
       {
-        "bannerId": "66595",
+        "bannerId": "58198",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23612",
@@ -6306,7 +6376,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 881378,
@@ -6342,7 +6413,7 @@
     "subjectCourse": "HIST020",
     "faculty": [
       {
-        "bannerId": "66595",
+        "bannerId": "58198",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23613",
@@ -6391,7 +6462,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 882450,
@@ -6427,7 +6499,7 @@
     "subjectCourse": "HIST020",
     "faculty": [
       {
-        "bannerId": "66585",
+        "bannerId": "58146",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26267",
@@ -6476,7 +6548,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 882451,
@@ -6512,7 +6585,7 @@
     "subjectCourse": "HIST020",
     "faculty": [
       {
-        "bannerId": "66590",
+        "bannerId": "58190",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26268",
@@ -6561,7 +6634,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 882452,
@@ -6597,7 +6671,7 @@
     "subjectCourse": "HIST020",
     "faculty": [
       {
-        "bannerId": "66590",
+        "bannerId": "58190",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26269",
@@ -6646,7 +6720,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 883533,
@@ -6682,7 +6757,7 @@
     "subjectCourse": "HIST020",
     "faculty": [
       {
-        "bannerId": "66585",
+        "bannerId": "58146",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29257",
@@ -6731,7 +6806,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 883534,
@@ -6767,7 +6843,7 @@
     "subjectCourse": "HIST020",
     "faculty": [
       {
-        "bannerId": "66590",
+        "bannerId": "58190",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29258",
@@ -6816,7 +6892,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 883535,
@@ -6852,7 +6929,7 @@
     "subjectCourse": "HIST020",
     "faculty": [
       {
-        "bannerId": "66594",
+        "bannerId": "58139",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29259",
@@ -6901,7 +6978,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 885740,
@@ -6937,7 +7015,7 @@
     "subjectCourse": "HIST020",
     "faculty": [
       {
-        "bannerId": "66594",
+        "bannerId": "58139",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34208",
@@ -6986,7 +7064,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 885741,
@@ -7022,7 +7101,7 @@
     "subjectCourse": "HIST020",
     "faculty": [
       {
-        "bannerId": "66585",
+        "bannerId": "58146",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34211",
@@ -7071,7 +7150,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 885742,
@@ -7107,7 +7187,7 @@
     "subjectCourse": "HIST020",
     "faculty": [
       {
-        "bannerId": "66594",
+        "bannerId": "58139",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34214",
@@ -7156,7 +7236,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 904007,
@@ -7192,7 +7273,7 @@
     "subjectCourse": "HIST025",
     "faculty": [
       {
-        "bannerId": "66653",
+        "bannerId": "59649",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38588",
@@ -7241,7 +7322,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 904008,
@@ -7277,7 +7359,7 @@
     "subjectCourse": "HIST025",
     "faculty": [
       {
-        "bannerId": "66653",
+        "bannerId": "59649",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38589",
@@ -7326,7 +7408,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881385,
@@ -7362,7 +7445,7 @@
     "subjectCourse": "HIST030",
     "faculty": [
       {
-        "bannerId": "66613",
+        "bannerId": "58632",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23655",
@@ -7411,7 +7494,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881394,
@@ -7447,7 +7531,7 @@
     "subjectCourse": "HIST030",
     "faculty": [
       {
-        "bannerId": "66604",
+        "bannerId": "58335",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23670",
@@ -7496,7 +7580,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883160,
@@ -7532,7 +7617,7 @@
     "subjectCourse": "HIST030",
     "faculty": [
       {
-        "bannerId": "66624",
+        "bannerId": "59000",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27997",
@@ -7581,7 +7666,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888792,
@@ -7617,7 +7703,7 @@
     "subjectCourse": "HIST033",
     "faculty": [
       {
-        "bannerId": "66606",
+        "bannerId": "58356",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37356",
@@ -7627,7 +7713,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66650",
+        "bannerId": "59560",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37356",
@@ -7676,7 +7762,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888794,
@@ -7712,7 +7799,7 @@
     "subjectCourse": "HIST033",
     "faculty": [
       {
-        "bannerId": "66650",
+        "bannerId": "59560",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37358",
@@ -7761,7 +7848,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888795,
@@ -7797,7 +7885,7 @@
     "subjectCourse": "HIST033",
     "faculty": [
       {
-        "bannerId": "66650",
+        "bannerId": "59560",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37359",
@@ -7846,7 +7934,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888796,
@@ -7882,7 +7971,7 @@
     "subjectCourse": "HIST033",
     "faculty": [
       {
-        "bannerId": "66650",
+        "bannerId": "59560",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37360",
@@ -7931,7 +8020,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888798,
@@ -7967,7 +8057,7 @@
     "subjectCourse": "HIST036",
     "faculty": [
       {
-        "bannerId": "66599",
+        "bannerId": "58302",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37362",
@@ -7977,7 +8067,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66651",
+        "bannerId": "59574",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37362",
@@ -8026,7 +8116,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 888800,
@@ -8062,7 +8153,7 @@
     "subjectCourse": "HIST036",
     "faculty": [
       {
-        "bannerId": "66651",
+        "bannerId": "59574",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37364",
@@ -8111,7 +8202,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888801,
@@ -8147,7 +8239,7 @@
     "subjectCourse": "HIST036",
     "faculty": [
       {
-        "bannerId": "66651",
+        "bannerId": "59574",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37365",
@@ -8196,7 +8288,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888803,
@@ -8232,7 +8325,7 @@
     "subjectCourse": "HIST036",
     "faculty": [
       {
-        "bannerId": "66651",
+        "bannerId": "59574",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37367",
@@ -8281,7 +8374,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881380,
@@ -8317,7 +8411,7 @@
     "subjectCourse": "HIST099W",
     "faculty": [
       {
-        "bannerId": "66611",
+        "bannerId": "58607",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23624",
@@ -8327,7 +8421,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66612",
+        "bannerId": "58618",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23624",
@@ -8388,7 +8482,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:HIST099W(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.and\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently.)"
   },
   {
     "id": 881381,
@@ -8424,7 +8519,7 @@
     "subjectCourse": "HIST099W",
     "faculty": [
       {
-        "bannerId": "66612",
+        "bannerId": "58618",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23629",
@@ -8485,7 +8580,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:HIST099W(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.and\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently.)"
   },
   {
     "id": 882682,
@@ -8521,7 +8617,7 @@
     "subjectCourse": "HIST099W",
     "faculty": [
       {
-        "bannerId": "66612",
+        "bannerId": "58618",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27022",
@@ -8582,7 +8678,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:HIST099W(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.and\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently."
   },
   {
     "id": 885047,
@@ -8618,7 +8715,7 @@
     "subjectCourse": "HIST099W",
     "faculty": [
       {
-        "bannerId": "66612",
+        "bannerId": "58618",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32956",
@@ -8679,7 +8776,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:HIST099W)\nand\n(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.and\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently."
   },
   {
     "id": 882519,
@@ -8715,7 +8813,7 @@
     "subjectCourse": "HIST108",
     "faculty": [
       {
-        "bannerId": "65897",
+        "bannerId": "58922",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26482",
@@ -8725,7 +8823,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66193",
+        "bannerId": "58929",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26482",
@@ -8774,7 +8872,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886823,
@@ -8810,7 +8909,7 @@
     "subjectCourse": "HIST121",
     "faculty": [
       {
-        "bannerId": "66631",
+        "bannerId": "59120",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35798",
@@ -8871,7 +8970,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889529,
@@ -8907,7 +9007,7 @@
     "subjectCourse": "HIST127",
     "faculty": [
       {
-        "bannerId": "66655",
+        "bannerId": "59623",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37908",
@@ -8956,7 +9056,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878594,
@@ -8992,7 +9093,7 @@
     "subjectCourse": "HIST197",
     "faculty": [
       {
-        "bannerId": "66592",
+        "bannerId": "58262",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15981",
@@ -9002,7 +9103,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66593",
+        "bannerId": "58268",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15981",
@@ -9051,7 +9152,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:HIST197(\n Course or Test: History 099W \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 885592,
@@ -9087,7 +9189,7 @@
     "subjectCourse": "HIST197",
     "faculty": [
       {
-        "bannerId": "66592",
+        "bannerId": "58262",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33738",
@@ -9097,7 +9199,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66611",
+        "bannerId": "58607",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33738",
@@ -9146,7 +9248,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:HIST197(\n Course or Test: History 099W \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884087,
@@ -9182,7 +9285,7 @@
     "subjectCourse": "HIST197",
     "faculty": [
       {
-        "bannerId": "66592",
+        "bannerId": "58262",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "30191",
@@ -9192,7 +9295,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66636",
+        "bannerId": "59195",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "30191",
@@ -9241,7 +9344,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:HIST197(\n Course or Test: History 099W \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 889822,
@@ -9277,7 +9381,7 @@
     "subjectCourse": "HIST201A",
     "faculty": [
       {
-        "bannerId": "66593",
+        "bannerId": "58268",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37965",
@@ -9326,7 +9430,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 903801,
@@ -9362,7 +9467,7 @@
     "subjectCourse": "HIST213",
     "faculty": [
       {
-        "bannerId": "66601",
+        "bannerId": "58317",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38561",
@@ -9411,7 +9516,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888818,
@@ -9447,7 +9553,7 @@
     "subjectCourse": "HIST237",
     "faculty": [
       {
-        "bannerId": "66538",
+        "bannerId": "59588",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37382",
@@ -9496,7 +9602,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888819,
@@ -9532,7 +9639,7 @@
     "subjectCourse": "HIST251A",
     "faculty": [
       {
-        "bannerId": "66628",
+        "bannerId": "59089",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37383",
@@ -9581,7 +9688,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888821,
@@ -9617,7 +9725,7 @@
     "subjectCourse": "HIST260",
     "faculty": [
       {
-        "bannerId": "66604",
+        "bannerId": "58335",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37385",
@@ -9666,7 +9774,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878600,
@@ -9702,7 +9811,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66597",
+        "bannerId": "58284",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16009",
@@ -9751,7 +9860,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883861,
@@ -9787,7 +9897,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66611",
+        "bannerId": "58607",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29643",
@@ -9836,7 +9946,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905482,
@@ -9872,7 +9983,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66654",
+        "bannerId": "59662",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38790",
@@ -9921,7 +10032,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878601,
@@ -9957,7 +10069,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66598",
+        "bannerId": "58292",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16010",
@@ -10006,7 +10118,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883731,
@@ -10042,7 +10155,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66631",
+        "bannerId": "59120",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29485",
@@ -10091,7 +10204,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878602,
@@ -10127,7 +10241,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66523",
+        "bannerId": "58296",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16011",
@@ -10176,7 +10290,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878603,
@@ -10212,7 +10327,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66599",
+        "bannerId": "58302",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16015",
@@ -10261,7 +10376,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878604,
@@ -10297,7 +10413,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66582",
+        "bannerId": "58049",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16016",
@@ -10346,7 +10462,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878605,
@@ -10382,7 +10499,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66600",
+        "bannerId": "58314",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16017",
@@ -10431,7 +10548,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887805,
@@ -10467,7 +10585,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66646",
+        "bannerId": "59454",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36942",
@@ -10516,7 +10634,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878607,
@@ -10552,7 +10671,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66601",
+        "bannerId": "58317",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16024",
@@ -10601,7 +10720,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878608,
@@ -10637,7 +10757,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66602",
+        "bannerId": "58324",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16026",
@@ -10686,7 +10806,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883676,
@@ -10722,7 +10843,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66627",
+        "bannerId": "59075",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29422",
@@ -10771,7 +10892,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878609,
@@ -10807,7 +10929,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66603",
+        "bannerId": "58331",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16027",
@@ -10856,7 +10978,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878610,
@@ -10892,7 +11015,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66604",
+        "bannerId": "58335",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16028",
@@ -10941,7 +11064,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878611,
@@ -10977,7 +11101,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66586",
+        "bannerId": "58155",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16029",
@@ -11026,7 +11150,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878612,
@@ -11062,7 +11187,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66605",
+        "bannerId": "58348",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16030",
@@ -11111,7 +11236,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883685,
@@ -11147,7 +11273,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66628",
+        "bannerId": "59089",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29431",
@@ -11196,7 +11322,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878613,
@@ -11232,7 +11359,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66606",
+        "bannerId": "58356",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16031",
@@ -11281,7 +11408,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878614,
@@ -11317,7 +11445,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66593",
+        "bannerId": "58268",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16032",
@@ -11366,7 +11494,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878615,
@@ -11402,7 +11531,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66607",
+        "bannerId": "58367",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16033",
@@ -11451,7 +11580,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881172,
@@ -11487,7 +11617,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66610",
+        "bannerId": "58549",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22925",
@@ -11536,7 +11666,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878598,
@@ -11572,7 +11703,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "65063",
+        "bannerId": "58273",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16006",
@@ -11621,7 +11752,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883691,
@@ -11657,7 +11789,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66629",
+        "bannerId": "59095",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29437",
@@ -11706,7 +11838,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905312,
@@ -11742,7 +11875,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66538",
+        "bannerId": "59588",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38721",
@@ -11791,7 +11924,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905476,
@@ -11827,7 +11961,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66624",
+        "bannerId": "59000",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38784",
@@ -11876,7 +12010,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883716,
@@ -11912,7 +12047,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66630",
+        "bannerId": "59114",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29468",
@@ -11961,7 +12096,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883867,
@@ -11997,7 +12133,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66634",
+        "bannerId": "59155",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29649",
@@ -12046,7 +12182,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885065,
@@ -12082,7 +12219,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66640",
+        "bannerId": "59315",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32995",
@@ -12131,7 +12268,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883873,
@@ -12167,7 +12305,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66635",
+        "bannerId": "59161",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29655",
@@ -12216,7 +12354,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889840,
@@ -12252,7 +12391,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66652",
+        "bannerId": "59628",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37966",
@@ -12301,7 +12440,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878599,
@@ -12337,7 +12477,7 @@
     "subjectCourse": "HIST290",
     "faculty": [
       {
-        "bannerId": "66596",
+        "bannerId": "58275",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16007",
@@ -12386,7 +12526,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878617,
@@ -12422,7 +12563,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66597",
+        "bannerId": "58284",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16036",
@@ -12471,7 +12612,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883862,
@@ -12507,7 +12649,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66611",
+        "bannerId": "58607",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29644",
@@ -12556,7 +12698,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905483,
@@ -12592,7 +12735,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66654",
+        "bannerId": "59662",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38791",
@@ -12641,7 +12784,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878618,
@@ -12677,7 +12821,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66598",
+        "bannerId": "58292",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16038",
@@ -12726,7 +12870,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883732,
@@ -12762,7 +12907,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66631",
+        "bannerId": "59120",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29486",
@@ -12811,7 +12956,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878619,
@@ -12847,7 +12993,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66523",
+        "bannerId": "58296",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16039",
@@ -12896,7 +13042,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878620,
@@ -12932,7 +13079,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66599",
+        "bannerId": "58302",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16040",
@@ -12981,7 +13128,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883703,
@@ -13017,7 +13165,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66582",
+        "bannerId": "58049",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29450",
@@ -13066,7 +13214,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883707,
@@ -13102,7 +13251,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66600",
+        "bannerId": "58314",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29458",
@@ -13151,7 +13300,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882030,
@@ -13187,7 +13337,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66601",
+        "bannerId": "58317",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25167",
@@ -13236,7 +13386,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878622,
@@ -13272,7 +13423,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66602",
+        "bannerId": "58324",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16042",
@@ -13321,7 +13472,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883677,
@@ -13357,7 +13509,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66627",
+        "bannerId": "59075",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29423",
@@ -13406,7 +13558,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878623,
@@ -13442,7 +13595,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66603",
+        "bannerId": "58331",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16043",
@@ -13491,7 +13644,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878624,
@@ -13527,7 +13681,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66604",
+        "bannerId": "58335",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16044",
@@ -13576,7 +13730,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878625,
@@ -13612,7 +13767,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66586",
+        "bannerId": "58155",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16045",
@@ -13661,7 +13816,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883714,
@@ -13697,7 +13853,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66605",
+        "bannerId": "58348",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29466",
@@ -13746,7 +13902,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883686,
@@ -13782,7 +13939,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66628",
+        "bannerId": "57609",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29432",
@@ -13831,7 +13988,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883713,
@@ -13867,7 +14025,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66606",
+        "bannerId": "56529",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29464",
@@ -13916,7 +14074,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882694,
@@ -13952,7 +14111,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66593",
+        "bannerId": "56550",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27036",
@@ -14001,7 +14160,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878626,
@@ -14037,7 +14197,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66607",
+        "bannerId": "56488",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16046",
@@ -14086,7 +14246,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882652,
@@ -14122,7 +14283,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66610",
+        "bannerId": "56536",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26954",
@@ -14171,7 +14332,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882351,
@@ -14207,7 +14369,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "65063",
+        "bannerId": "56491",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25606",
@@ -14256,7 +14418,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883692,
@@ -14292,7 +14455,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66629",
+        "bannerId": "57644",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29438",
@@ -14341,7 +14504,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905313,
@@ -14377,7 +14541,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66538",
+        "bannerId": "58583",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38722",
@@ -14426,7 +14590,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905477,
@@ -14462,7 +14627,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66624",
+        "bannerId": "59032",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38785",
@@ -14511,7 +14676,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883717,
@@ -14547,7 +14713,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66630",
+        "bannerId": "57235",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29469",
@@ -14596,7 +14762,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883868,
@@ -14632,7 +14799,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66634",
+        "bannerId": "57853",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29650",
@@ -14681,7 +14848,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885066,
@@ -14717,7 +14885,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66640",
+        "bannerId": "57965",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32996",
@@ -14766,7 +14934,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883874,
@@ -14802,7 +14971,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66635",
+        "bannerId": "57878",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29656",
@@ -14851,7 +15020,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889841,
@@ -14887,7 +15057,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66652",
+        "bannerId": "58860",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37967",
@@ -14936,7 +15106,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878616,
@@ -14972,7 +15143,7 @@
     "subjectCourse": "HIST291",
     "faculty": [
       {
-        "bannerId": "66596",
+        "bannerId": "56487",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16034",
@@ -15021,7 +15192,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878629,
@@ -15057,7 +15229,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66597",
+        "bannerId": "56496",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16049",
@@ -15106,7 +15278,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883863,
@@ -15142,7 +15315,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66611",
+        "bannerId": "57830",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29645",
@@ -15191,7 +15364,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905484,
@@ -15227,7 +15401,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66654",
+        "bannerId": "59055",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38792",
@@ -15276,7 +15450,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878630,
@@ -15312,7 +15487,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66598",
+        "bannerId": "56498",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16050",
@@ -15361,7 +15536,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878631,
@@ -15397,7 +15573,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66631",
+        "bannerId": "56501",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16051",
@@ -15446,7 +15622,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878632,
@@ -15482,7 +15659,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66523",
+        "bannerId": "56505",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16052",
@@ -15531,7 +15708,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878633,
@@ -15567,7 +15745,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66599",
+        "bannerId": "56508",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16055",
@@ -15616,7 +15794,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881097,
@@ -15652,7 +15831,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66582",
+        "bannerId": "56562",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22803",
@@ -15701,7 +15880,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878634,
@@ -15737,7 +15917,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66600",
+        "bannerId": "56509",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16056",
@@ -15786,7 +15966,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878636,
@@ -15822,7 +16003,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66601",
+        "bannerId": "56512",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16066",
@@ -15871,7 +16052,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878637,
@@ -15907,7 +16089,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66602",
+        "bannerId": "56515",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16068",
@@ -15956,7 +16138,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883678,
@@ -15992,7 +16175,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66627",
+        "bannerId": "57485",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29424",
@@ -16041,7 +16224,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878638,
@@ -16077,7 +16261,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66603",
+        "bannerId": "56517",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16069",
@@ -16126,7 +16310,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878640,
@@ -16162,7 +16347,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66604",
+        "bannerId": "56520",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16071",
@@ -16211,7 +16396,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878641,
@@ -16247,7 +16433,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66586",
+        "bannerId": "56524",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16072",
@@ -16296,7 +16482,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878642,
@@ -16332,7 +16519,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66605",
+        "bannerId": "56527",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16073",
@@ -16381,7 +16568,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883687,
@@ -16417,7 +16605,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66628",
+        "bannerId": "57609",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29433",
@@ -16466,7 +16654,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878643,
@@ -16502,7 +16691,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66606",
+        "bannerId": "56529",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16074",
@@ -16551,7 +16740,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883712,
@@ -16587,7 +16777,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66593",
+        "bannerId": "56550",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29463",
@@ -16636,7 +16826,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878644,
@@ -16672,7 +16863,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66607",
+        "bannerId": "56488",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16075",
@@ -16721,7 +16912,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878645,
@@ -16757,7 +16949,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66610",
+        "bannerId": "56536",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16076",
@@ -16806,7 +16998,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878627,
@@ -16842,7 +17035,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "65063",
+        "bannerId": "56491",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16047",
@@ -16891,7 +17084,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883693,
@@ -16927,7 +17121,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66629",
+        "bannerId": "57644",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29439",
@@ -16976,7 +17170,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905314,
@@ -17012,7 +17207,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66538",
+        "bannerId": "58583",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38723",
@@ -17061,7 +17256,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905478,
@@ -17097,7 +17293,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66624",
+        "bannerId": "59032",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38786",
@@ -17146,7 +17342,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882790,
@@ -17182,7 +17379,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66630",
+        "bannerId": "57235",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27220",
@@ -17231,7 +17428,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883869,
@@ -17267,7 +17465,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66634",
+        "bannerId": "57853",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29651",
@@ -17316,7 +17514,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885067,
@@ -17352,7 +17551,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66640",
+        "bannerId": "57965",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32997",
@@ -17401,7 +17600,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883875,
@@ -17437,7 +17637,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66635",
+        "bannerId": "57878",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29657",
@@ -17486,7 +17686,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889842,
@@ -17522,7 +17723,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66652",
+        "bannerId": "58860",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37968",
@@ -17571,7 +17772,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878628,
@@ -17607,7 +17809,7 @@
     "subjectCourse": "HIST292",
     "faculty": [
       {
-        "bannerId": "66596",
+        "bannerId": "56487",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16048",
@@ -17656,7 +17858,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883723,
@@ -17692,7 +17895,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66597",
+        "bannerId": "56496",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29475",
@@ -17741,7 +17944,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883864,
@@ -17777,7 +17981,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66611",
+        "bannerId": "57830",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29646",
@@ -17826,7 +18030,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905485,
@@ -17862,7 +18067,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66654",
+        "bannerId": "59055",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38793",
@@ -17911,7 +18116,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883729,
@@ -17947,7 +18153,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66598",
+        "bannerId": "56498",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29483",
@@ -17996,7 +18202,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883733,
@@ -18032,7 +18239,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66631",
+        "bannerId": "56501",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29487",
@@ -18081,7 +18288,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883715,
@@ -18117,7 +18325,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66523",
+        "bannerId": "56505",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29467",
@@ -18166,7 +18374,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883730,
@@ -18202,7 +18411,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66599",
+        "bannerId": "56508",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29484",
@@ -18251,7 +18460,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883704,
@@ -18287,7 +18497,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66582",
+        "bannerId": "56562",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29451",
@@ -18336,7 +18546,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882950,
@@ -18372,7 +18583,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66600",
+        "bannerId": "56509",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27427",
@@ -18421,7 +18632,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 906271,
@@ -18457,7 +18669,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66646",
+        "bannerId": "59087",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38934",
@@ -18506,7 +18718,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883726,
@@ -18542,7 +18755,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66601",
+        "bannerId": "56512",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29480",
@@ -18591,7 +18804,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883724,
@@ -18627,7 +18841,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66602",
+        "bannerId": "56515",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29476",
@@ -18676,7 +18890,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883679,
@@ -18712,7 +18927,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66627",
+        "bannerId": "57485",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29425",
@@ -18761,7 +18976,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883492,
@@ -18797,7 +19013,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66603",
+        "bannerId": "56517",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29181",
@@ -18846,7 +19062,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883711,
@@ -18882,7 +19099,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66604",
+        "bannerId": "56520",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29462",
@@ -18931,7 +19148,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883721,
@@ -18967,7 +19185,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66586",
+        "bannerId": "56524",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29473",
@@ -19016,7 +19234,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878646,
@@ -19052,7 +19271,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66605",
+        "bannerId": "56527",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16079",
@@ -19101,7 +19320,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883688,
@@ -19137,7 +19357,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66628",
+        "bannerId": "57609",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29434",
@@ -19186,7 +19406,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883635,
@@ -19222,7 +19443,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66606",
+        "bannerId": "56529",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29361",
@@ -19271,7 +19492,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883634,
@@ -19307,7 +19529,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66593",
+        "bannerId": "56550",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29360",
@@ -19356,7 +19578,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878647,
@@ -19392,7 +19615,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66607",
+        "bannerId": "56488",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16080",
@@ -19441,7 +19664,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882649,
@@ -19477,7 +19701,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66610",
+        "bannerId": "56536",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26949",
@@ -19526,7 +19750,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883697,
@@ -19562,7 +19787,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "65063",
+        "bannerId": "56491",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29443",
@@ -19611,7 +19836,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883694,
@@ -19647,7 +19873,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66629",
+        "bannerId": "57644",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29440",
@@ -19696,7 +19922,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905315,
@@ -19732,7 +19959,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66538",
+        "bannerId": "58583",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38724",
@@ -19781,7 +20008,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905479,
@@ -19817,7 +20045,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66624",
+        "bannerId": "59032",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38787",
@@ -19866,7 +20094,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883718,
@@ -19902,7 +20131,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66630",
+        "bannerId": "57235",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29470",
@@ -19951,7 +20180,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883870,
@@ -19987,7 +20217,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66634",
+        "bannerId": "57853",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29652",
@@ -20036,7 +20266,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885068,
@@ -20072,7 +20303,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66640",
+        "bannerId": "57965",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32998",
@@ -20121,7 +20352,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883876,
@@ -20157,7 +20389,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66635",
+        "bannerId": "57878",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29658",
@@ -20206,7 +20438,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889843,
@@ -20242,7 +20475,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66652",
+        "bannerId": "58860",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37969",
@@ -20291,7 +20524,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883727,
@@ -20327,7 +20561,7 @@
     "subjectCourse": "HIST297",
     "faculty": [
       {
-        "bannerId": "66596",
+        "bannerId": "56487",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29481",
@@ -20376,7 +20610,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878648,
@@ -20412,7 +20647,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66597",
+        "bannerId": "56496",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16082",
@@ -20461,7 +20696,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883865,
@@ -20497,7 +20733,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66611",
+        "bannerId": "57830",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29647",
@@ -20546,7 +20782,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905486,
@@ -20582,7 +20819,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66654",
+        "bannerId": "59055",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38794",
@@ -20631,7 +20868,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878649,
@@ -20667,7 +20905,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66598",
+        "bannerId": "56498",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16085",
@@ -20716,7 +20954,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883734,
@@ -20752,7 +20991,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66631",
+        "bannerId": "56501",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29488",
@@ -20801,7 +21040,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878650,
@@ -20837,7 +21077,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66523",
+        "bannerId": "56505",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16086",
@@ -20886,7 +21126,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878651,
@@ -20922,7 +21163,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66599",
+        "bannerId": "56508",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16088",
@@ -20971,7 +21212,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883705,
@@ -21007,7 +21249,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66582",
+        "bannerId": "56562",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29452",
@@ -21056,7 +21298,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883708,
@@ -21092,7 +21335,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66600",
+        "bannerId": "56509",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29459",
@@ -21141,7 +21384,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878653,
@@ -21177,7 +21421,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66601",
+        "bannerId": "56512",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16094",
@@ -21226,7 +21470,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878654,
@@ -21262,7 +21507,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66602",
+        "bannerId": "56515",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16095",
@@ -21311,7 +21556,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883680,
@@ -21347,7 +21593,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66627",
+        "bannerId": "57485",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29426",
@@ -21396,7 +21642,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878655,
@@ -21432,7 +21679,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66603",
+        "bannerId": "56517",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16096",
@@ -21481,7 +21728,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878656,
@@ -21517,7 +21765,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66604",
+        "bannerId": "56520",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16097",
@@ -21566,7 +21814,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878657,
@@ -21602,7 +21851,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66586",
+        "bannerId": "56524",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16098",
@@ -21651,7 +21900,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880947,
@@ -21687,7 +21937,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66605",
+        "bannerId": "56527",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22407",
@@ -21736,7 +21986,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883689,
@@ -21772,7 +22023,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66628",
+        "bannerId": "57609",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29435",
@@ -21821,7 +22072,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878658,
@@ -21857,7 +22109,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66606",
+        "bannerId": "56529",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16099",
@@ -21906,7 +22158,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878659,
@@ -21942,7 +22195,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66593",
+        "bannerId": "56550",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16100",
@@ -21991,7 +22244,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878660,
@@ -22027,7 +22281,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66607",
+        "bannerId": "56488",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16101",
@@ -22076,7 +22330,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883491,
@@ -22112,7 +22367,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66610",
+        "bannerId": "56536",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29180",
@@ -22161,7 +22416,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883698,
@@ -22197,7 +22453,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "65063",
+        "bannerId": "56491",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29444",
@@ -22246,7 +22502,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883695,
@@ -22282,7 +22539,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66629",
+        "bannerId": "57644",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29441",
@@ -22331,7 +22588,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905316,
@@ -22367,7 +22625,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66538",
+        "bannerId": "58583",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38725",
@@ -22416,7 +22674,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905480,
@@ -22452,7 +22711,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66624",
+        "bannerId": "59032",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38788",
@@ -22501,7 +22760,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883719,
@@ -22537,7 +22797,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66630",
+        "bannerId": "57235",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29471",
@@ -22586,7 +22846,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883871,
@@ -22622,7 +22883,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66634",
+        "bannerId": "57853",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29653",
@@ -22671,7 +22932,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885069,
@@ -22707,7 +22969,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66640",
+        "bannerId": "57965",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32999",
@@ -22756,7 +23018,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883877,
@@ -22792,7 +23055,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66635",
+        "bannerId": "57878",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29659",
@@ -22841,7 +23104,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889844,
@@ -22877,7 +23141,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66652",
+        "bannerId": "58860",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37970",
@@ -22926,7 +23190,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883728,
@@ -22962,7 +23227,7 @@
     "subjectCourse": "HIST299",
     "faculty": [
       {
-        "bannerId": "66596",
+        "bannerId": "56487",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29482",
@@ -23011,7 +23276,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884658,
@@ -23047,7 +23313,7 @@
     "subjectCourse": "HIST301",
     "faculty": [
       {
-        "bannerId": "66582",
+        "bannerId": "56562",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31737",
@@ -23096,7 +23362,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884659,
@@ -23132,7 +23399,7 @@
     "subjectCourse": "HIST301",
     "faculty": [
       {
-        "bannerId": "66582",
+        "bannerId": "56562",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31738",
@@ -23181,7 +23448,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878663,
@@ -23217,7 +23485,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "66597",
+        "bannerId": "56496",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16106",
@@ -23266,7 +23534,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883866,
@@ -23302,7 +23571,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "66611",
+        "bannerId": "57830",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29648",
@@ -23351,7 +23620,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905487,
@@ -23387,7 +23657,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "66654",
+        "bannerId": "59055",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38795",
@@ -23436,7 +23706,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880957,
@@ -23472,7 +23743,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "66598",
+        "bannerId": "56498",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22486",
@@ -23521,7 +23792,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883735,
@@ -23557,7 +23829,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "66631",
+        "bannerId": "56501",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29489",
@@ -23606,7 +23878,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878664,
@@ -23642,7 +23915,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "66523",
+        "bannerId": "56505",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16109",
@@ -23691,7 +23964,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878665,
@@ -23727,7 +24001,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "66599",
+        "bannerId": "56508",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16111",
@@ -23776,7 +24050,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878666,
@@ -23812,7 +24087,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "66582",
+        "bannerId": "56562",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16112",
@@ -23861,7 +24136,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883709,
@@ -23897,7 +24173,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "66600",
+        "bannerId": "56509",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29460",
@@ -23946,7 +24222,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878668,
@@ -23982,7 +24259,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "66601",
+        "bannerId": "56512",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16119",
@@ -24031,7 +24308,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883725,
@@ -24067,7 +24345,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "66602",
+        "bannerId": "56515",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29477",
@@ -24116,7 +24394,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883681,
@@ -24152,7 +24431,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "66627",
+        "bannerId": "57485",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29427",
@@ -24201,7 +24480,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878669,
@@ -24237,7 +24517,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "66603",
+        "bannerId": "56517",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16120",
@@ -24286,7 +24566,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878671,
@@ -24322,7 +24603,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "66604",
+        "bannerId": "56520",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16122",
@@ -24371,7 +24652,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878672,
@@ -24407,7 +24689,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "66586",
+        "bannerId": "56524",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16123",
@@ -24456,7 +24738,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883536,
@@ -24492,7 +24775,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "66605",
+        "bannerId": "56527",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29260",
@@ -24541,7 +24824,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883690,
@@ -24577,7 +24861,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "66628",
+        "bannerId": "57609",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29436",
@@ -24626,7 +24910,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878673,
@@ -24662,7 +24947,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "66606",
+        "bannerId": "56529",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16124",
@@ -24711,7 +24996,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881015,
@@ -24747,7 +25033,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "66593",
+        "bannerId": "56550",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22678",
@@ -24796,7 +25082,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878674,
@@ -24832,7 +25119,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "66607",
+        "bannerId": "56488",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16125",
@@ -24881,7 +25168,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883710,
@@ -24917,7 +25205,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "66610",
+        "bannerId": "56536",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29461",
@@ -24966,7 +25254,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878661,
@@ -25002,7 +25291,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "65063",
+        "bannerId": "56491",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16103",
@@ -25051,7 +25340,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883696,
@@ -25087,7 +25377,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "66629",
+        "bannerId": "57644",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29442",
@@ -25136,7 +25426,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905317,
@@ -25172,7 +25463,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "66538",
+        "bannerId": "58583",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38726",
@@ -25221,7 +25512,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905481,
@@ -25257,7 +25549,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "66624",
+        "bannerId": "59032",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38789",
@@ -25306,7 +25598,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883720,
@@ -25342,7 +25635,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "66630",
+        "bannerId": "57235",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29472",
@@ -25391,7 +25684,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883872,
@@ -25427,7 +25721,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "66634",
+        "bannerId": "57853",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29654",
@@ -25476,7 +25770,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885070,
@@ -25512,7 +25807,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "66640",
+        "bannerId": "57965",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33000",
@@ -25561,7 +25856,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883878,
@@ -25597,7 +25893,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "66635",
+        "bannerId": "57878",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29660",
@@ -25646,7 +25942,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878662,
@@ -25682,7 +25979,7 @@
     "subjectCourse": "HIST302",
     "faculty": [
       {
-        "bannerId": "66596",
+        "bannerId": "56487",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16104",
@@ -25731,7 +26028,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878675,
@@ -25767,7 +26065,7 @@
     "subjectCourse": "HIST398I",
     "faculty": [
       {
-        "bannerId": "66597",
+        "bannerId": "56496",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16126",
@@ -25816,7 +26114,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878676,
@@ -25852,7 +26151,7 @@
     "subjectCourse": "HIST398I",
     "faculty": [
       {
-        "bannerId": "66599",
+        "bannerId": "56508",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16127",
@@ -25901,7 +26200,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878677,
@@ -25937,7 +26237,7 @@
     "subjectCourse": "HIST398I",
     "faculty": [
       {
-        "bannerId": "66604",
+        "bannerId": "56520",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16128",
@@ -25986,6 +26286,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   }
 ]

@@ -33,7 +33,7 @@
     "subjectCourse": "HISA110B",
     "faculty": [
       {
-        "bannerId": "66606",
+        "bannerId": "56529",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37369",
@@ -94,7 +94,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886813,
@@ -130,7 +131,7 @@
     "subjectCourse": "HISA114S",
     "faculty": [
       {
-        "bannerId": "66711",
+        "bannerId": "58382",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35785",
@@ -140,7 +141,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66636",
+        "bannerId": "58386",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35785",
@@ -201,7 +202,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886814,
@@ -237,7 +239,7 @@
     "subjectCourse": "HISA114S",
     "faculty": [
       {
-        "bannerId": "66711",
+        "bannerId": "58382",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35786",
@@ -286,7 +288,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889323,
@@ -322,7 +325,7 @@
     "subjectCourse": "HISA114S",
     "faculty": [
       {
-        "bannerId": "66711",
+        "bannerId": "58382",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37763",
@@ -371,7 +374,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889324,
@@ -407,7 +411,7 @@
     "subjectCourse": "HISA114S",
     "faculty": [
       {
-        "bannerId": "66711",
+        "bannerId": "58382",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37764",
@@ -456,7 +460,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889321,
@@ -492,7 +497,7 @@
     "subjectCourse": "HISA135",
     "faculty": [
       {
-        "bannerId": "66532",
+        "bannerId": "58829",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37761",
@@ -541,7 +546,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888806,
@@ -577,7 +583,7 @@
     "subjectCourse": "HISA140",
     "faculty": [
       {
-        "bannerId": "66538",
+        "bannerId": "58583",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37370",
@@ -638,7 +644,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888810,
@@ -674,7 +681,7 @@
     "subjectCourse": "HISA144F",
     "faculty": [
       {
-        "bannerId": "66523",
+        "bannerId": "56505",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37374",
@@ -735,6 +742,7 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   }
 ]

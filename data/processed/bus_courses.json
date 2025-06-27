@@ -33,7 +33,7 @@
     "subjectCourse": "BUS001",
     "faculty": [
       {
-        "bannerId": "65459",
+        "bannerId": "58285",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23721",
@@ -82,7 +82,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881411,
@@ -118,7 +119,7 @@
     "subjectCourse": "BUS001",
     "faculty": [
       {
-        "bannerId": "65459",
+        "bannerId": "58285",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23730",
@@ -167,7 +168,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876511,
@@ -203,7 +205,7 @@
     "subjectCourse": "BUS010",
     "faculty": [
       {
-        "bannerId": "65401",
+        "bannerId": "57456",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11562",
@@ -213,7 +215,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65402",
+        "bannerId": "57463",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11562",
@@ -223,7 +225,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65403",
+        "bannerId": "57471",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11562",
@@ -233,7 +235,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65404",
+        "bannerId": "57476",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11562",
@@ -282,7 +284,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876512,
@@ -318,7 +321,7 @@
     "subjectCourse": "BUS010",
     "faculty": [
       {
-        "bannerId": "65401",
+        "bannerId": "57456",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11563",
@@ -328,7 +331,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65405",
+        "bannerId": "57487",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11563",
@@ -338,7 +341,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65406",
+        "bannerId": "57491",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11563",
@@ -348,7 +351,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65407",
+        "bannerId": "57498",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11563",
@@ -358,7 +361,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65408",
+        "bannerId": "57505",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11563",
@@ -368,7 +371,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65409",
+        "bannerId": "57512",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11563",
@@ -378,7 +381,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65410",
+        "bannerId": "57519",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11563",
@@ -427,7 +430,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876513,
@@ -463,7 +467,7 @@
     "subjectCourse": "BUS010",
     "faculty": [
       {
-        "bannerId": "65403",
+        "bannerId": "57471",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11564",
@@ -524,7 +528,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876514,
@@ -560,7 +565,7 @@
     "subjectCourse": "BUS010",
     "faculty": [
       {
-        "bannerId": "65402",
+        "bannerId": "57463",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11565",
@@ -621,7 +626,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876515,
@@ -657,7 +663,7 @@
     "subjectCourse": "BUS010",
     "faculty": [
       {
-        "bannerId": "65402",
+        "bannerId": "57463",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11566",
@@ -718,7 +724,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876516,
@@ -754,7 +761,7 @@
     "subjectCourse": "BUS010",
     "faculty": [
       {
-        "bannerId": "65404",
+        "bannerId": "57476",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11567",
@@ -815,7 +822,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876517,
@@ -851,7 +859,7 @@
     "subjectCourse": "BUS010",
     "faculty": [
       {
-        "bannerId": "65403",
+        "bannerId": "57471",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11568",
@@ -912,7 +920,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876518,
@@ -948,7 +957,7 @@
     "subjectCourse": "BUS010",
     "faculty": [
       {
-        "bannerId": "65404",
+        "bannerId": "57476",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11569",
@@ -1009,7 +1018,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876519,
@@ -1045,7 +1055,7 @@
     "subjectCourse": "BUS010",
     "faculty": [
       {
-        "bannerId": "65408",
+        "bannerId": "57505",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11571",
@@ -1106,7 +1116,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876520,
@@ -1142,7 +1153,7 @@
     "subjectCourse": "BUS010",
     "faculty": [
       {
-        "bannerId": "65410",
+        "bannerId": "57519",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11572",
@@ -1203,7 +1214,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876521,
@@ -1239,7 +1251,7 @@
     "subjectCourse": "BUS010",
     "faculty": [
       {
-        "bannerId": "65408",
+        "bannerId": "57505",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11573",
@@ -1300,7 +1312,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876522,
@@ -1336,7 +1349,7 @@
     "subjectCourse": "BUS010",
     "faculty": [
       {
-        "bannerId": "65410",
+        "bannerId": "57519",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11574",
@@ -1397,7 +1410,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876523,
@@ -1433,7 +1447,7 @@
     "subjectCourse": "BUS010",
     "faculty": [
       {
-        "bannerId": "65409",
+        "bannerId": "57512",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11575",
@@ -1494,7 +1508,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876524,
@@ -1530,7 +1545,7 @@
     "subjectCourse": "BUS010",
     "faculty": [
       {
-        "bannerId": "65409",
+        "bannerId": "57512",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11576",
@@ -1591,7 +1606,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876525,
@@ -1627,7 +1643,7 @@
     "subjectCourse": "BUS020",
     "faculty": [
       {
-        "bannerId": "65411",
+        "bannerId": "57603",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11578",
@@ -1637,7 +1653,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65412",
+        "bannerId": "57611",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11578",
@@ -1647,7 +1663,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65413",
+        "bannerId": "57617",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11578",
@@ -1657,7 +1673,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65414",
+        "bannerId": "57623",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11578",
@@ -1706,7 +1722,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876526,
@@ -1742,7 +1759,7 @@
     "subjectCourse": "BUS020",
     "faculty": [
       {
-        "bannerId": "65412",
+        "bannerId": "57611",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11579",
@@ -1791,7 +1808,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876527,
@@ -1827,7 +1845,7 @@
     "subjectCourse": "BUS020",
     "faculty": [
       {
-        "bannerId": "65414",
+        "bannerId": "57623",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11580",
@@ -1876,7 +1894,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876528,
@@ -1912,7 +1931,7 @@
     "subjectCourse": "BUS020",
     "faculty": [
       {
-        "bannerId": "65414",
+        "bannerId": "57623",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11581",
@@ -1961,7 +1980,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876529,
@@ -1997,7 +2017,7 @@
     "subjectCourse": "BUS020",
     "faculty": [
       {
-        "bannerId": "65413",
+        "bannerId": "57617",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11582",
@@ -2046,7 +2066,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876530,
@@ -2082,7 +2103,7 @@
     "subjectCourse": "BUS020",
     "faculty": [
       {
-        "bannerId": "65412",
+        "bannerId": "57611",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11583",
@@ -2131,7 +2152,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876531,
@@ -2167,7 +2189,7 @@
     "subjectCourse": "BUS020",
     "faculty": [
       {
-        "bannerId": "65413",
+        "bannerId": "57617",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11584",
@@ -2216,7 +2238,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889495,
@@ -2252,7 +2275,7 @@
     "subjectCourse": "BUS098",
     "faculty": [
       {
-        "bannerId": "65521",
+        "bannerId": "59802",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37893",
@@ -2301,7 +2324,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876532,
@@ -2337,7 +2361,7 @@
     "subjectCourse": "BUS100W",
     "faculty": [
       {
-        "bannerId": "65415",
+        "bannerId": "57660",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11588",
@@ -2347,7 +2371,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65416",
+        "bannerId": "57666",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11588",
@@ -2357,7 +2381,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65417",
+        "bannerId": "57673",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11588",
@@ -2367,7 +2391,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65418",
+        "bannerId": "57676",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11588",
@@ -2377,7 +2401,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65419",
+        "bannerId": "57681",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11588",
@@ -2387,7 +2411,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65420",
+        "bannerId": "57690",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11588",
@@ -2397,7 +2421,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65421",
+        "bannerId": "57693",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11588",
@@ -2446,7 +2470,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS100W(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.and\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently."
   },
   {
     "id": 876533,
@@ -2482,7 +2507,7 @@
     "subjectCourse": "BUS100W",
     "faculty": [
       {
-        "bannerId": "65416",
+        "bannerId": "57666",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11589",
@@ -2543,7 +2568,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS100W)\nand\n(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently.)"
   },
   {
     "id": 876534,
@@ -2579,7 +2605,7 @@
     "subjectCourse": "BUS100W",
     "faculty": [
       {
-        "bannerId": "65416",
+        "bannerId": "57666",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11590",
@@ -2640,7 +2666,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS100W)\nand\n(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently."
   },
   {
     "id": 876535,
@@ -2676,7 +2703,7 @@
     "subjectCourse": "BUS100W",
     "faculty": [
       {
-        "bannerId": "65416",
+        "bannerId": "57666",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11591",
@@ -2737,7 +2764,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS100W(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.and\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently."
   },
   {
     "id": 876536,
@@ -2773,7 +2801,7 @@
     "subjectCourse": "BUS100W",
     "faculty": [
       {
-        "bannerId": "65421",
+        "bannerId": "57693",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11592",
@@ -2834,7 +2862,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS100W(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently.)"
   },
   {
     "id": 876537,
@@ -2870,7 +2899,7 @@
     "subjectCourse": "BUS100W",
     "faculty": [
       {
-        "bannerId": "65417",
+        "bannerId": "57673",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11593",
@@ -2931,7 +2960,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS100W(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.and\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently."
   },
   {
     "id": 876538,
@@ -2967,7 +2997,7 @@
     "subjectCourse": "BUS100W",
     "faculty": [
       {
-        "bannerId": "65419",
+        "bannerId": "57681",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11594",
@@ -3028,7 +3058,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS100W(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently."
   },
   {
     "id": 876539,
@@ -3064,7 +3095,7 @@
     "subjectCourse": "BUS100W",
     "faculty": [
       {
-        "bannerId": "65418",
+        "bannerId": "57676",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11595",
@@ -3125,7 +3156,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS100W)\nand\n(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.and\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently."
   },
   {
     "id": 876540,
@@ -3161,7 +3193,7 @@
     "subjectCourse": "BUS100W",
     "faculty": [
       {
-        "bannerId": "65421",
+        "bannerId": "57693",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11596",
@@ -3222,7 +3254,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS100W)\nand\n(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently."
   },
   {
     "id": 876541,
@@ -3258,7 +3291,7 @@
     "subjectCourse": "BUS100W",
     "faculty": [
       {
-        "bannerId": "65421",
+        "bannerId": "57693",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11597",
@@ -3319,7 +3352,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS100W(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently."
   },
   {
     "id": 876542,
@@ -3355,7 +3389,7 @@
     "subjectCourse": "BUS100W",
     "faculty": [
       {
-        "bannerId": "65417",
+        "bannerId": "57673",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11598",
@@ -3416,7 +3450,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS100W(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently.)"
   },
   {
     "id": 876543,
@@ -3452,7 +3487,7 @@
     "subjectCourse": "BUS100W",
     "faculty": [
       {
-        "bannerId": "65419",
+        "bannerId": "57681",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11599",
@@ -3513,7 +3548,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS100W)\nand\n(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently.)"
   },
   {
     "id": 876544,
@@ -3549,7 +3585,7 @@
     "subjectCourse": "BUS100W",
     "faculty": [
       {
-        "bannerId": "65418",
+        "bannerId": "57676",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11600",
@@ -3610,7 +3646,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS100W(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently.)"
   },
   {
     "id": 876545,
@@ -3646,7 +3683,7 @@
     "subjectCourse": "BUS100W",
     "faculty": [
       {
-        "bannerId": "65418",
+        "bannerId": "57676",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11601",
@@ -3707,7 +3744,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS100W(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently."
   },
   {
     "id": 876546,
@@ -3743,7 +3781,7 @@
     "subjectCourse": "BUS100W",
     "faculty": [
       {
-        "bannerId": "65417",
+        "bannerId": "57673",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11602",
@@ -3804,7 +3842,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS100W(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.and\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently.)"
   },
   {
     "id": 876547,
@@ -3840,7 +3879,7 @@
     "subjectCourse": "BUS100W",
     "faculty": [
       {
-        "bannerId": "65415",
+        "bannerId": "57660",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11603",
@@ -3901,7 +3940,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS100W(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently.)"
   },
   {
     "id": 876548,
@@ -3937,7 +3977,7 @@
     "subjectCourse": "BUS100W",
     "faculty": [
       {
-        "bannerId": "65415",
+        "bannerId": "57660",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11604",
@@ -3998,7 +4038,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS100W(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently."
   },
   {
     "id": 876549,
@@ -4034,7 +4075,7 @@
     "subjectCourse": "BUS100W",
     "faculty": [
       {
-        "bannerId": "65419",
+        "bannerId": "57681",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11605",
@@ -4095,7 +4136,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS100W(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently.)"
   },
   {
     "id": 876550,
@@ -4131,7 +4173,7 @@
     "subjectCourse": "BUS100W",
     "faculty": [
       {
-        "bannerId": "65415",
+        "bannerId": "57660",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11606",
@@ -4192,7 +4234,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS100W(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently.)"
   },
   {
     "id": 876551,
@@ -4228,7 +4271,7 @@
     "subjectCourse": "BUS101",
     "faculty": [
       {
-        "bannerId": "65422",
+        "bannerId": "57771",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11607",
@@ -4238,7 +4281,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65423",
+        "bannerId": "57776",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11607",
@@ -4248,7 +4291,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65424",
+        "bannerId": "57781",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11607",
@@ -4258,7 +4301,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65425",
+        "bannerId": "57785",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11607",
@@ -4307,7 +4350,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS101(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 889478,
@@ -4343,7 +4387,7 @@
     "subjectCourse": "BUS101",
     "faculty": [
       {
-        "bannerId": "65510",
+        "bannerId": "59765",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37887",
@@ -4353,7 +4397,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65422",
+        "bannerId": "57771",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37887",
@@ -4363,7 +4407,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65511",
+        "bannerId": "59771",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37887",
@@ -4373,7 +4417,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65512",
+        "bannerId": "59773",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37887",
@@ -4422,7 +4466,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS101(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 876552,
@@ -4458,7 +4503,7 @@
     "subjectCourse": "BUS101",
     "faculty": [
       {
-        "bannerId": "65424",
+        "bannerId": "57781",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11608",
@@ -4519,7 +4564,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS101(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 876553,
@@ -4555,7 +4601,7 @@
     "subjectCourse": "BUS101",
     "faculty": [
       {
-        "bannerId": "65425",
+        "bannerId": "57785",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11609",
@@ -4616,7 +4662,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS101(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 876554,
@@ -4652,7 +4699,7 @@
     "subjectCourse": "BUS101",
     "faculty": [
       {
-        "bannerId": "65423",
+        "bannerId": "57776",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11610",
@@ -4713,7 +4760,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS101)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 876555,
@@ -4749,7 +4797,7 @@
     "subjectCourse": "BUS101",
     "faculty": [
       {
-        "bannerId": "65425",
+        "bannerId": "57785",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11611",
@@ -4810,7 +4858,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS101(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 876556,
@@ -4846,7 +4895,7 @@
     "subjectCourse": "BUS101",
     "faculty": [
       {
-        "bannerId": "65423",
+        "bannerId": "57776",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11612",
@@ -4907,7 +4956,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS101)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 876557,
@@ -4943,7 +4993,7 @@
     "subjectCourse": "BUS101",
     "faculty": [
       {
-        "bannerId": "65424",
+        "bannerId": "57781",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11613",
@@ -5004,7 +5054,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS101(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 903649,
@@ -5040,7 +5091,7 @@
     "subjectCourse": "BUS101",
     "faculty": [
       {
-        "bannerId": "65510",
+        "bannerId": "59765",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38531",
@@ -5101,7 +5152,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS101)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 903650,
@@ -5137,7 +5189,7 @@
     "subjectCourse": "BUS101",
     "faculty": [
       {
-        "bannerId": "65510",
+        "bannerId": "59765",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38532",
@@ -5198,7 +5250,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS101(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 903651,
@@ -5234,7 +5287,7 @@
     "subjectCourse": "BUS101",
     "faculty": [
       {
-        "bannerId": "65511",
+        "bannerId": "59771",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38533",
@@ -5295,7 +5348,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS101(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 904810,
@@ -5331,7 +5385,7 @@
     "subjectCourse": "BUS101",
     "faculty": [
       {
-        "bannerId": "65511",
+        "bannerId": "59771",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38640",
@@ -5392,7 +5446,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS101(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 904811,
@@ -5428,7 +5483,7 @@
     "subjectCourse": "BUS101",
     "faculty": [
       {
-        "bannerId": "65512",
+        "bannerId": "59773",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38641",
@@ -5489,7 +5544,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS101)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 904812,
@@ -5525,7 +5581,7 @@
     "subjectCourse": "BUS101",
     "faculty": [
       {
-        "bannerId": "65512",
+        "bannerId": "59773",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38642",
@@ -5586,7 +5642,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS101)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 876558,
@@ -5622,7 +5679,7 @@
     "subjectCourse": "BUS102",
     "faculty": [
       {
-        "bannerId": "65426",
+        "bannerId": "57816",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11614",
@@ -5632,7 +5689,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65427",
+        "bannerId": "57821",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11614",
@@ -5642,7 +5699,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65428",
+        "bannerId": "57827",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11614",
@@ -5652,7 +5709,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65429",
+        "bannerId": "57833",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11614",
@@ -5701,7 +5758,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:BUS102)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 889479,
@@ -5737,7 +5795,7 @@
     "subjectCourse": "BUS102",
     "faculty": [
       {
-        "bannerId": "65505",
+        "bannerId": "58975",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37888",
@@ -5747,7 +5805,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65513",
+        "bannerId": "59777",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37888",
@@ -5757,7 +5815,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65514",
+        "bannerId": "59779",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37888",
@@ -5767,7 +5825,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65515",
+        "bannerId": "59781",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37888",
@@ -5816,7 +5874,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS102(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 876559,
@@ -5852,7 +5911,7 @@
     "subjectCourse": "BUS102",
     "faculty": [
       {
-        "bannerId": "65428",
+        "bannerId": "57827",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11615",
@@ -5901,7 +5960,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:BUS102)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 876560,
@@ -5937,7 +5997,7 @@
     "subjectCourse": "BUS102",
     "faculty": [
       {
-        "bannerId": "65428",
+        "bannerId": "57827",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11616",
@@ -5998,7 +6058,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:BUS102)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 876561,
@@ -6034,7 +6095,7 @@
     "subjectCourse": "BUS102",
     "faculty": [
       {
-        "bannerId": "65427",
+        "bannerId": "57821",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11617",
@@ -6095,7 +6156,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:BUS102(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 876562,
@@ -6131,7 +6193,7 @@
     "subjectCourse": "BUS102",
     "faculty": [
       {
-        "bannerId": "65427",
+        "bannerId": "57821",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11618",
@@ -6192,7 +6254,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:BUS102)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 876563,
@@ -6228,7 +6291,7 @@
     "subjectCourse": "BUS102",
     "faculty": [
       {
-        "bannerId": "65429",
+        "bannerId": "57833",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11619",
@@ -6289,7 +6352,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:BUS102(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 876564,
@@ -6325,7 +6389,7 @@
     "subjectCourse": "BUS102",
     "faculty": [
       {
-        "bannerId": "65429",
+        "bannerId": "57833",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11620",
@@ -6386,7 +6450,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:BUS102(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 904792,
@@ -6422,7 +6487,7 @@
     "subjectCourse": "BUS102",
     "faculty": [
       {
-        "bannerId": "65513",
+        "bannerId": "59777",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38634",
@@ -6471,7 +6536,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS102(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 904802,
@@ -6507,7 +6573,7 @@
     "subjectCourse": "BUS102",
     "faculty": [
       {
-        "bannerId": "65515",
+        "bannerId": "59781",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38635",
@@ -6568,7 +6634,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS102)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 904804,
@@ -6604,7 +6671,7 @@
     "subjectCourse": "BUS102",
     "faculty": [
       {
-        "bannerId": "65513",
+        "bannerId": "59777",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38636",
@@ -6665,7 +6732,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS102(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 904805,
@@ -6701,7 +6769,7 @@
     "subjectCourse": "BUS102",
     "faculty": [
       {
-        "bannerId": "65514",
+        "bannerId": "59779",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38637",
@@ -6762,7 +6830,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS102(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 904808,
@@ -6798,7 +6867,7 @@
     "subjectCourse": "BUS102",
     "faculty": [
       {
-        "bannerId": "65514",
+        "bannerId": "59779",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38638",
@@ -6859,7 +6928,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS102)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 904809,
@@ -6895,7 +6965,7 @@
     "subjectCourse": "BUS102",
     "faculty": [
       {
-        "bannerId": "65515",
+        "bannerId": "59781",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38639",
@@ -6956,7 +7026,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS102)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 876565,
@@ -6992,7 +7063,7 @@
     "subjectCourse": "BUS103",
     "faculty": [
       {
-        "bannerId": "65430",
+        "bannerId": "57874",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11621",
@@ -7002,7 +7073,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65431",
+        "bannerId": "57881",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11621",
@@ -7012,7 +7083,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65432",
+        "bannerId": "57889",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11621",
@@ -7022,7 +7093,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65433",
+        "bannerId": "57895",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11621",
@@ -7071,7 +7142,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS103)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 876566,
@@ -7107,7 +7179,7 @@
     "subjectCourse": "BUS103",
     "faculty": [
       {
-        "bannerId": "65431",
+        "bannerId": "57881",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11622",
@@ -7168,7 +7240,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS103(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 876567,
@@ -7204,7 +7277,7 @@
     "subjectCourse": "BUS103",
     "faculty": [
       {
-        "bannerId": "65433",
+        "bannerId": "57895",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11623",
@@ -7265,7 +7338,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS103(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 885117,
@@ -7301,7 +7375,7 @@
     "subjectCourse": "BUS103",
     "faculty": [
       {
-        "bannerId": "65432",
+        "bannerId": "57889",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33083",
@@ -7362,7 +7436,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS103(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 885118,
@@ -7398,7 +7473,7 @@
     "subjectCourse": "BUS103",
     "faculty": [
       {
-        "bannerId": "65433",
+        "bannerId": "57895",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33084",
@@ -7459,7 +7534,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS103)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 885119,
@@ -7495,7 +7571,7 @@
     "subjectCourse": "BUS103",
     "faculty": [
       {
-        "bannerId": "65432",
+        "bannerId": "57889",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33085",
@@ -7556,7 +7632,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS103(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 885120,
@@ -7592,7 +7669,7 @@
     "subjectCourse": "BUS103",
     "faculty": [
       {
-        "bannerId": "65431",
+        "bannerId": "57881",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33086",
@@ -7653,7 +7730,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS103(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 876568,
@@ -7689,7 +7767,7 @@
     "subjectCourse": "BUS104",
     "faculty": [
       {
-        "bannerId": "65434",
+        "bannerId": "57918",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11628",
@@ -7699,7 +7777,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65435",
+        "bannerId": "57922",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11628",
@@ -7709,7 +7787,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65436",
+        "bannerId": "57928",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11628",
@@ -7719,7 +7797,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65437",
+        "bannerId": "57933",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11628",
@@ -7768,7 +7846,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS104)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 889480,
@@ -7804,7 +7883,7 @@
     "subjectCourse": "BUS104",
     "faculty": [
       {
-        "bannerId": "65516",
+        "bannerId": "59783",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37889",
@@ -7814,7 +7893,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65517",
+        "bannerId": "59787",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37889",
@@ -7824,7 +7903,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65518",
+        "bannerId": "59789",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37889",
@@ -7834,7 +7913,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65519",
+        "bannerId": "59792",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37889",
@@ -7883,7 +7962,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:BUS104(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 876569,
@@ -7919,7 +7999,7 @@
     "subjectCourse": "BUS104",
     "faculty": [
       {
-        "bannerId": "65436",
+        "bannerId": "57928",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11629",
@@ -7980,7 +8060,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS104(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 876570,
@@ -8016,7 +8097,7 @@
     "subjectCourse": "BUS104",
     "faculty": [
       {
-        "bannerId": "65436",
+        "bannerId": "57928",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11630",
@@ -8077,7 +8158,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS104(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 876571,
@@ -8113,7 +8195,7 @@
     "subjectCourse": "BUS104",
     "faculty": [
       {
-        "bannerId": "65435",
+        "bannerId": "57922",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11631",
@@ -8174,7 +8256,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS104)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 876572,
@@ -8210,7 +8293,7 @@
     "subjectCourse": "BUS104",
     "faculty": [
       {
-        "bannerId": "65435",
+        "bannerId": "57922",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11632",
@@ -8271,7 +8354,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS104(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 876573,
@@ -8307,7 +8391,7 @@
     "subjectCourse": "BUS104",
     "faculty": [
       {
-        "bannerId": "65437",
+        "bannerId": "57933",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11633",
@@ -8368,7 +8452,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS104)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 876574,
@@ -8404,7 +8489,7 @@
     "subjectCourse": "BUS104",
     "faculty": [
       {
-        "bannerId": "65437",
+        "bannerId": "57933",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11634",
@@ -8465,7 +8550,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS104)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 905418,
@@ -8501,7 +8587,7 @@
     "subjectCourse": "BUS104",
     "faculty": [
       {
-        "bannerId": "65517",
+        "bannerId": "59787",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38753",
@@ -8550,7 +8636,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:BUS104(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 905420,
@@ -8586,7 +8673,7 @@
     "subjectCourse": "BUS104",
     "faculty": [
       {
-        "bannerId": "65517",
+        "bannerId": "59787",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38755",
@@ -8635,7 +8722,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:BUS104(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 905422,
@@ -8671,7 +8759,7 @@
     "subjectCourse": "BUS104",
     "faculty": [
       {
-        "bannerId": "65519",
+        "bannerId": "59792",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38757",
@@ -8720,7 +8808,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:BUS104(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 905424,
@@ -8756,7 +8845,7 @@
     "subjectCourse": "BUS104",
     "faculty": [
       {
-        "bannerId": "65519",
+        "bannerId": "59792",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38759",
@@ -8805,7 +8894,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:BUS104)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 905426,
@@ -8841,7 +8931,7 @@
     "subjectCourse": "BUS104",
     "faculty": [
       {
-        "bannerId": "65518",
+        "bannerId": "59789",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38761",
@@ -8890,7 +8980,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:BUS104(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 905432,
@@ -8926,7 +9017,7 @@
     "subjectCourse": "BUS104",
     "faculty": [
       {
-        "bannerId": "65518",
+        "bannerId": "59789",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38763",
@@ -8975,7 +9066,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:BUS104(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884172,
@@ -9011,7 +9103,17 @@
     "subjectCourse": "BUS105",
     "faculty": [
       {
-        "bannerId": "65473",
+        "bannerId": "58701",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "30663",
+        "displayName": "Orsdemir, Adem",
+        "emailAddress": "adem.orsdemir@ucr.edu",
+        "primaryIndicator": true,
+        "term": "202440"
+      },
+      {
+        "bannerId": "58708",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "30663",
@@ -9021,7 +9123,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65474",
+        "bannerId": "58717",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "30663",
@@ -9031,23 +9133,13 @@
         "term": "202440"
       },
       {
-        "bannerId": "65475",
+        "bannerId": "58723",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "30663",
         "displayName": "Sakkara Rangaiah, Chethan",
         "emailAddress": "chethan.sakkararangaiah@email.ucr.edu",
         "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "65480",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "30663",
-        "displayName": "Orsdemir, Adem",
-        "emailAddress": "adem.orsdemir@ucr.edu",
-        "primaryIndicator": true,
         "term": "202440"
       }
     ],
@@ -9090,7 +9182,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS105(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884283,
@@ -9126,7 +9219,7 @@
     "subjectCourse": "BUS105",
     "faculty": [
       {
-        "bannerId": "65475",
+        "bannerId": "58723",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31163",
@@ -9187,7 +9280,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS105(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884284,
@@ -9223,7 +9317,7 @@
     "subjectCourse": "BUS105",
     "faculty": [
       {
-        "bannerId": "65475",
+        "bannerId": "58723",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31164",
@@ -9284,7 +9378,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS105(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884285,
@@ -9320,7 +9415,7 @@
     "subjectCourse": "BUS105",
     "faculty": [
       {
-        "bannerId": "65474",
+        "bannerId": "58717",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31165",
@@ -9381,7 +9476,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS105(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884286,
@@ -9417,7 +9513,7 @@
     "subjectCourse": "BUS105",
     "faculty": [
       {
-        "bannerId": "65474",
+        "bannerId": "58717",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31166",
@@ -9478,7 +9574,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS105(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884287,
@@ -9514,7 +9611,7 @@
     "subjectCourse": "BUS105",
     "faculty": [
       {
-        "bannerId": "65473",
+        "bannerId": "58708",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31167",
@@ -9575,7 +9672,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS105(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884288,
@@ -9611,7 +9709,7 @@
     "subjectCourse": "BUS105",
     "faculty": [
       {
-        "bannerId": "65473",
+        "bannerId": "58708",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31168",
@@ -9672,7 +9770,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS105)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884350,
@@ -9708,7 +9807,7 @@
     "subjectCourse": "BUS106",
     "faculty": [
       {
-        "bannerId": "65483",
+        "bannerId": "58814",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31289",
@@ -9718,7 +9817,17 @@
         "term": "202440"
       },
       {
-        "bannerId": "65113",
+        "bannerId": "58816",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "31289",
+        "displayName": "Chung, Y.",
+        "emailAddress": "peter.chung@ucr.edu",
+        "primaryIndicator": true,
+        "term": "202440"
+      },
+      {
+        "bannerId": "58822",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31289",
@@ -9728,7 +9837,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65484",
+        "bannerId": "58828",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31289",
@@ -9738,7 +9847,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65485",
+        "bannerId": "58836",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31289",
@@ -9748,23 +9857,13 @@
         "term": "202440"
       },
       {
-        "bannerId": "65486",
+        "bannerId": "58841",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31289",
         "displayName": "Park, Kay",
         "emailAddress": "kay.park@email.ucr.edu",
         "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "65500",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "31289",
-        "displayName": "Chung, Y.",
-        "emailAddress": "peter.chung@ucr.edu",
-        "primaryIndicator": true,
         "term": "202440"
       }
     ],
@@ -9807,7 +9906,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:BUS106)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884370,
@@ -9843,7 +9943,7 @@
     "subjectCourse": "BUS106",
     "faculty": [
       {
-        "bannerId": "65486",
+        "bannerId": "58841",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31313",
@@ -9904,7 +10004,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:BUS106)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884371,
@@ -9940,7 +10041,7 @@
     "subjectCourse": "BUS106",
     "faculty": [
       {
-        "bannerId": "65486",
+        "bannerId": "58841",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31314",
@@ -10001,7 +10102,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:BUS106(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884372,
@@ -10037,7 +10139,7 @@
     "subjectCourse": "BUS106",
     "faculty": [
       {
-        "bannerId": "65484",
+        "bannerId": "58828",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31315",
@@ -10098,7 +10200,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:BUS106)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884373,
@@ -10134,7 +10237,7 @@
     "subjectCourse": "BUS106",
     "faculty": [
       {
-        "bannerId": "65484",
+        "bannerId": "58828",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31316",
@@ -10195,7 +10298,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:BUS106(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884374,
@@ -10231,7 +10335,7 @@
     "subjectCourse": "BUS106",
     "faculty": [
       {
-        "bannerId": "65485",
+        "bannerId": "58836",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31317",
@@ -10292,7 +10396,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:BUS106)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884375,
@@ -10328,7 +10433,7 @@
     "subjectCourse": "BUS106",
     "faculty": [
       {
-        "bannerId": "65483",
+        "bannerId": "58814",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31318",
@@ -10389,7 +10494,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:BUS106(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 905372,
@@ -10425,7 +10531,7 @@
     "subjectCourse": "BUS106",
     "faculty": [
       {
-        "bannerId": "65485",
+        "bannerId": "58836",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38743",
@@ -10474,7 +10580,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:BUS106)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 905393,
@@ -10510,7 +10617,7 @@
     "subjectCourse": "BUS106",
     "faculty": [
       {
-        "bannerId": "65483",
+        "bannerId": "58814",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38746",
@@ -10559,7 +10666,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:BUS106(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 876575,
@@ -10595,7 +10703,7 @@
     "subjectCourse": "BUS107",
     "faculty": [
       {
-        "bannerId": "65438",
+        "bannerId": "57968",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11642",
@@ -10605,7 +10713,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65439",
+        "bannerId": "57972",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11642",
@@ -10615,7 +10723,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65440",
+        "bannerId": "57975",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11642",
@@ -10625,7 +10733,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65441",
+        "bannerId": "57981",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11642",
@@ -10674,7 +10782,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS107(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 876576,
@@ -10710,7 +10819,7 @@
     "subjectCourse": "BUS107",
     "faculty": [
       {
-        "bannerId": "65439",
+        "bannerId": "57972",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11643",
@@ -10771,7 +10880,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS107(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 876577,
@@ -10807,7 +10917,7 @@
     "subjectCourse": "BUS107",
     "faculty": [
       {
-        "bannerId": "65440",
+        "bannerId": "57975",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11644",
@@ -10868,7 +10978,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS107)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 876578,
@@ -10904,7 +11015,7 @@
     "subjectCourse": "BUS107",
     "faculty": [
       {
-        "bannerId": "65441",
+        "bannerId": "57981",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11645",
@@ -10965,7 +11076,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS107)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 876579,
@@ -11001,7 +11113,7 @@
     "subjectCourse": "BUS107",
     "faculty": [
       {
-        "bannerId": "65440",
+        "bannerId": "57975",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11646",
@@ -11062,7 +11174,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS107(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 876580,
@@ -11098,7 +11211,7 @@
     "subjectCourse": "BUS107",
     "faculty": [
       {
-        "bannerId": "65441",
+        "bannerId": "57981",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11647",
@@ -11159,7 +11272,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS107(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 876581,
@@ -11195,7 +11309,7 @@
     "subjectCourse": "BUS107",
     "faculty": [
       {
-        "bannerId": "65439",
+        "bannerId": "57972",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11648",
@@ -11256,7 +11370,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS107(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 880743,
@@ -11292,7 +11407,7 @@
     "subjectCourse": "BUS108",
     "faculty": [
       {
-        "bannerId": "65452",
+        "bannerId": "58159",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20976",
@@ -11302,7 +11417,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65446",
+        "bannerId": "58028",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20976",
@@ -11312,7 +11427,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65453",
+        "bannerId": "58175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20976",
@@ -11361,7 +11476,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS108(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 880744,
@@ -11397,7 +11513,7 @@
     "subjectCourse": "BUS108",
     "faculty": [
       {
-        "bannerId": "65452",
+        "bannerId": "58159",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20977",
@@ -11446,7 +11562,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS108)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 880745,
@@ -11482,7 +11599,7 @@
     "subjectCourse": "BUS108",
     "faculty": [
       {
-        "bannerId": "65453",
+        "bannerId": "58175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20978",
@@ -11531,7 +11648,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS108)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 880746,
@@ -11567,7 +11685,7 @@
     "subjectCourse": "BUS108",
     "faculty": [
       {
-        "bannerId": "65453",
+        "bannerId": "58175",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20979",
@@ -11616,7 +11734,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS108)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 880747,
@@ -11652,7 +11771,7 @@
     "subjectCourse": "BUS108",
     "faculty": [
       {
-        "bannerId": "65452",
+        "bannerId": "58159",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20980",
@@ -11701,7 +11820,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS108(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 876582,
@@ -11737,23 +11857,23 @@
     "subjectCourse": "BUS109",
     "faculty": [
       {
-        "bannerId": "65442",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "11649",
-        "displayName": "Parker, Katelyn",
-        "emailAddress": "katelyn.parker@email.ucr.edu",
-        "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "65445",
+        "bannerId": "58003",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11649",
         "displayName": "Raveendran, Marlo",
         "emailAddress": "marlo.raveendran@ucr.edu",
         "primaryIndicator": true,
+        "term": "202440"
+      },
+      {
+        "bannerId": "58009",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "11649",
+        "displayName": "Parker, Katelyn",
+        "emailAddress": "katelyn.parker@email.ucr.edu",
+        "primaryIndicator": false,
         "term": "202440"
       }
     ],
@@ -11796,7 +11916,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS109(\n Course or Test: Business 100W \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 103 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 108 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 106 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 134 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Business 133 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 887178,
@@ -11832,23 +11953,23 @@
     "subjectCourse": "BUS109",
     "faculty": [
       {
-        "bannerId": "65494",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "36201",
-        "displayName": "Mishra, Devyani",
-        "emailAddress": "dmish005@email.ucr.edu",
-        "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "65445",
+        "bannerId": "58003",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36201",
         "displayName": "Raveendran, Marlo",
         "emailAddress": "marlo.raveendran@ucr.edu",
         "primaryIndicator": true,
+        "term": "202440"
+      },
+      {
+        "bannerId": "59130",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "36201",
+        "displayName": "Mishra, Devyani",
+        "emailAddress": "dmish005@email.ucr.edu",
+        "primaryIndicator": false,
         "term": "202440"
       }
     ],
@@ -11891,7 +12012,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS109)\nand\n(\n Course or Test: Business 100W \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Business 103 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Business 108 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Business 106 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 134 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Business 133 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 876583,
@@ -11927,7 +12049,7 @@
     "subjectCourse": "BUS109",
     "faculty": [
       {
-        "bannerId": "65442",
+        "bannerId": "58009",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11650",
@@ -11976,7 +12098,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS109(\n Course or Test: Business 100W \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 103 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Business 108 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 106 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 134 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Business 133 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 876584,
@@ -12012,7 +12135,7 @@
     "subjectCourse": "BUS109",
     "faculty": [
       {
-        "bannerId": "65442",
+        "bannerId": "58009",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11651",
@@ -12061,7 +12184,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS109)\nand\n(\n Course or Test: Business 100W \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 103 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 108 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Business 106 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 134 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Business 133 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 887372,
@@ -12097,7 +12221,7 @@
     "subjectCourse": "BUS109",
     "faculty": [
       {
-        "bannerId": "65494",
+        "bannerId": "59130",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36436",
@@ -12146,7 +12270,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS109(\n Course or Test: Business 100W \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 103 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 108 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 106 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 134 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Business 133 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 887373,
@@ -12182,7 +12307,7 @@
     "subjectCourse": "BUS109",
     "faculty": [
       {
-        "bannerId": "65494",
+        "bannerId": "59130",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36437",
@@ -12231,7 +12356,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS109(\n Course or Test: Business 100W \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 103 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 108 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 106 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 134 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Business 133 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 887180,
@@ -12267,7 +12393,7 @@
     "subjectCourse": "BUS111",
     "faculty": [
       {
-        "bannerId": "65454",
+        "bannerId": "58217",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36203",
@@ -12316,7 +12442,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS111)\nand\n(\n Course or Test: Business 103 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884881,
@@ -12352,7 +12479,7 @@
     "subjectCourse": "BUS112",
     "faculty": [
       {
-        "bannerId": "65488",
+        "bannerId": "58948",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32593",
@@ -12401,7 +12528,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS112(\n Course or Test: Business 103 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 885773,
@@ -12437,7 +12565,7 @@
     "subjectCourse": "BUS114",
     "faculty": [
       {
-        "bannerId": "65488",
+        "bannerId": "58948",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34305",
@@ -12486,7 +12614,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS114(\n Course or Test: Business 103 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 883243,
@@ -12522,7 +12651,7 @@
     "subjectCourse": "BUS116",
     "faculty": [
       {
-        "bannerId": "65471",
+        "bannerId": "58633",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28354",
@@ -12571,7 +12700,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS116(\n Course or Test: Business 103 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 887181,
@@ -12607,7 +12737,7 @@
     "subjectCourse": "BUS117",
     "faculty": [
       {
-        "bannerId": "65495",
+        "bannerId": "59141",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36204",
@@ -12656,7 +12786,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS117(\n Course or Test: Business 103 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 887182,
@@ -12692,7 +12823,7 @@
     "subjectCourse": "BUS117",
     "faculty": [
       {
-        "bannerId": "65495",
+        "bannerId": "59141",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36205",
@@ -12741,7 +12872,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS117(\n Course or Test: Business 103 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 880786,
@@ -12777,7 +12909,7 @@
     "subjectCourse": "BUS118",
     "faculty": [
       {
-        "bannerId": "65454",
+        "bannerId": "58217",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "21705",
@@ -12826,7 +12958,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS118(\n Course or Test: Business 103 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 887183,
@@ -12862,7 +12995,7 @@
     "subjectCourse": "BUS119",
     "faculty": [
       {
-        "bannerId": "65496",
+        "bannerId": "59147",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36206",
@@ -12911,7 +13044,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS119)\nand\n(\n Course or Test: Business 103 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884882,
@@ -12947,7 +13081,7 @@
     "subjectCourse": "BUS123",
     "faculty": [
       {
-        "bannerId": "65497",
+        "bannerId": "58955",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32595",
@@ -12996,7 +13130,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:BUS123(\n Course or Test: Business 104 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Statistics 104 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884883,
@@ -13032,7 +13167,7 @@
     "subjectCourse": "BUS124A",
     "faculty": [
       {
-        "bannerId": "65504",
+        "bannerId": "58958",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32596",
@@ -13081,7 +13216,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS124A(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 887186,
@@ -13117,7 +13253,7 @@
     "subjectCourse": "BUS126",
     "faculty": [
       {
-        "bannerId": "65497",
+        "bannerId": "58955",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36209",
@@ -13166,7 +13302,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:BUS126(\n Course or Test: Business 105 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 885774,
@@ -13202,7 +13339,7 @@
     "subjectCourse": "BUS128",
     "faculty": [
       {
-        "bannerId": "65490",
+        "bannerId": "59058",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34307",
@@ -13251,7 +13388,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS128(\n Course or Test: Business 104 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 104 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 885108,
@@ -13287,7 +13425,7 @@
     "subjectCourse": "BUS132",
     "faculty": [
       {
-        "bannerId": "65489",
+        "bannerId": "58997",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33057",
@@ -13336,7 +13474,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS132(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 102 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 103 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 104A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 105A \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 885109,
@@ -13372,7 +13511,7 @@
     "subjectCourse": "BUS132",
     "faculty": [
       {
-        "bannerId": "65489",
+        "bannerId": "58997",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33058",
@@ -13421,7 +13560,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS132(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 102 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 103 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 104A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 105A \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884884,
@@ -13457,7 +13597,7 @@
     "subjectCourse": "BUS133",
     "faculty": [
       {
-        "bannerId": "65500",
+        "bannerId": "58816",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32598",
@@ -13506,7 +13646,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS133(\n Course or Test: Business 020 \n Minimum Grade of B\n May not be taken concurrently.and\n Course or Test: Statistics 004 \n Minimum Grade of B\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 008 \n Minimum Grade of B\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 010 \n Minimum Grade of B\n May not be taken concurrently.or\n Course or Test: Economics 101 \n Minimum Grade of B\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of B\n May not be taken concurrently.or\n Course or Test: Economics 003H \n Minimum Grade of B\n May not be taken concurrently."
   },
   {
     "id": 882496,
@@ -13542,7 +13683,7 @@
     "subjectCourse": "BUS134",
     "faculty": [
       {
-        "bannerId": "65464",
+        "bannerId": "58451",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26388",
@@ -13591,7 +13732,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS134(Rule: PICK2: PICK 2 of 3  for a total of 2 conditions )Business 106  Minimum Grade of C-\n May not be taken concurrently. )Business 132  Minimum Grade of C-\n May not be taken concurrently. Economics 134  Minimum Grade of C-\n May not be taken concurrently. End of Rule PICK2or\n Course or Test: Business 133 \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 884177,
@@ -13627,7 +13769,7 @@
     "subjectCourse": "BUS137",
     "faculty": [
       {
-        "bannerId": "65481",
+        "bannerId": "58730",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "30710",
@@ -13676,7 +13818,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS137(Rule: PICK2: PICK 2 of 3  for a total of 2 conditions Business 106  Minimum Grade of C-\n May not be taken concurrently. Business 132  Minimum Grade of C-\n May not be taken concurrently. )Economics 134  Minimum Grade of C-\n May not be taken concurrently. End of Rule PICK2or\n Course or Test: Business 133 \n Minimum Grade of C-\n May not be taken concurrently."
   },
   {
     "id": 884178,
@@ -13712,7 +13855,7 @@
     "subjectCourse": "BUS138",
     "faculty": [
       {
-        "bannerId": "65482",
+        "bannerId": "58741",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "30711",
@@ -13761,7 +13904,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS138)\nand\n(\n Course or Test: Business 133 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Business 106 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Business 132 \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Economics 134 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 883245,
@@ -13797,7 +13941,7 @@
     "subjectCourse": "BUS144",
     "faculty": [
       {
-        "bannerId": "65479",
+        "bannerId": "58643",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28358",
@@ -13846,7 +13990,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS144(\n Course or Test: Business 107 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 887179,
@@ -13882,7 +14027,7 @@
     "subjectCourse": "BUS145",
     "faculty": [
       {
-        "bannerId": "65438",
+        "bannerId": "57968",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36202",
@@ -13931,7 +14076,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS145)\nand\n(\n Course or Test: Business 107 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 889481,
@@ -13967,7 +14113,7 @@
     "subjectCourse": "BUS149",
     "faculty": [
       {
-        "bannerId": "65520",
+        "bannerId": "59795",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37890",
@@ -14016,7 +14162,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS149)\nand\n(\n Course or Test: Business 107 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 889482,
@@ -14052,7 +14199,7 @@
     "subjectCourse": "BUS149",
     "faculty": [
       {
-        "bannerId": "65520",
+        "bannerId": "59795",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37891",
@@ -14101,7 +14248,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS149(\n Course or Test: Business 107 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884886,
@@ -14137,7 +14285,7 @@
     "subjectCourse": "BUS152",
     "faculty": [
       {
-        "bannerId": "65488",
+        "bannerId": "58948",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32600",
@@ -14186,7 +14334,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS152(\n Course or Test: Business 103 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 885996,
@@ -14222,7 +14371,7 @@
     "subjectCourse": "BUS153",
     "faculty": [
       {
-        "bannerId": "65492",
+        "bannerId": "59068",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34772",
@@ -14271,7 +14420,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS153(\n Course or Test: Economics 102 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 104A \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 876585,
@@ -14307,7 +14457,7 @@
     "subjectCourse": "BUS154",
     "faculty": [
       {
-        "bannerId": "65430",
+        "bannerId": "57874",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11675",
@@ -14368,7 +14518,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876586,
@@ -14404,7 +14555,7 @@
     "subjectCourse": "BUS155",
     "faculty": [
       {
-        "bannerId": "65443",
+        "bannerId": "58022",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11676",
@@ -14453,7 +14604,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS155(\n Course or Test: Business 107 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 876587,
@@ -14489,7 +14641,7 @@
     "subjectCourse": "BUS165A",
     "faculty": [
       {
-        "bannerId": "65446",
+        "bannerId": "58028",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11681",
@@ -14550,7 +14702,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS165A(\n Course or Test: Business 021 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 880787,
@@ -14586,7 +14739,7 @@
     "subjectCourse": "BUS166",
     "faculty": [
       {
-        "bannerId": "65455",
+        "bannerId": "58226",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "21739",
@@ -14635,7 +14788,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS166(\n Course or Test: Business 101 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 108 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 876588,
@@ -14671,7 +14825,7 @@
     "subjectCourse": "BUS168A",
     "faculty": [
       {
-        "bannerId": "65444",
+        "bannerId": "58032",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11685",
@@ -14732,7 +14886,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS168A(\n Course or Test: Business 108 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 876589,
@@ -14768,7 +14923,7 @@
     "subjectCourse": "BUS168A",
     "faculty": [
       {
-        "bannerId": "65444",
+        "bannerId": "58032",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11686",
@@ -14829,7 +14984,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS168A(\n Course or Test: Business 108 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 876590,
@@ -14865,7 +15021,7 @@
     "subjectCourse": "BUS172",
     "faculty": [
       {
-        "bannerId": "65447",
+        "bannerId": "58038",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11689",
@@ -14914,7 +15070,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS172(\n Course or Test: Business 103 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 885775,
@@ -14950,7 +15107,7 @@
     "subjectCourse": "BUS173",
     "faculty": [
       {
-        "bannerId": "65491",
+        "bannerId": "59065",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34308",
@@ -14999,7 +15156,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS173(\n Course or Test: Business 101 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 883246,
@@ -15035,7 +15193,7 @@
     "subjectCourse": "BUS174",
     "faculty": [
       {
-        "bannerId": "65472",
+        "bannerId": "58650",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28360",
@@ -15084,7 +15242,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS174(\n Course or Test: Business 101 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 889483,
@@ -15120,7 +15279,7 @@
     "subjectCourse": "BUS175",
     "faculty": [
       {
-        "bannerId": "65472",
+        "bannerId": "58650",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37892",
@@ -15169,7 +15328,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS175(\n Course or Test: Business 101 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884887,
@@ -15205,7 +15365,7 @@
     "subjectCourse": "BUS177",
     "faculty": [
       {
-        "bannerId": "65505",
+        "bannerId": "58975",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32602",
@@ -15266,7 +15426,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS177(\n Course or Test: Business 010 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884671,
@@ -15302,23 +15463,23 @@
     "subjectCourse": "BUS178",
     "faculty": [
       {
-        "bannerId": "65487",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "31808",
-        "displayName": "Kitamura, Rio",
-        "emailAddress": "rio.kitamura@email.ucr.edu",
-        "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "65502",
+        "bannerId": "58907",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31808",
         "displayName": "Abubaker, Riyad",
         "emailAddress": "riyad.abubaker@email.ucr.edu",
         "primaryIndicator": true,
+        "term": "202440"
+      },
+      {
+        "bannerId": "58912",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "31808",
+        "displayName": "Kitamura, Rio",
+        "emailAddress": "rio.kitamura@email.ucr.edu",
+        "primaryIndicator": false,
         "term": "202440"
       }
     ],
@@ -15361,7 +15522,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUS178(\n Course or Test: Economics 102 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 104A \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 886310,
@@ -15397,7 +15559,7 @@
     "subjectCourse": "BUS190",
     "faculty": [
       {
-        "bannerId": "65493",
+        "bannerId": "59116",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35214",
@@ -15446,7 +15608,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887971,
@@ -15482,7 +15645,7 @@
     "subjectCourse": "BUS190",
     "faculty": [
       {
-        "bannerId": "65506",
+        "bannerId": "59737",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37112",
@@ -15531,7 +15694,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 903389,
@@ -15567,7 +15731,7 @@
     "subjectCourse": "BUS198",
     "faculty": [
       {
-        "bannerId": "65422",
+        "bannerId": "57771",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38460",
@@ -15616,7 +15780,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 876591,
@@ -15652,7 +15817,7 @@
     "subjectCourse": "BUS198I",
     "faculty": [
       {
-        "bannerId": "65401",
+        "bannerId": "57456",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "11696",
@@ -15701,6 +15866,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   }
 ]

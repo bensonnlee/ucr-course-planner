@@ -33,7 +33,7 @@
     "subjectCourse": "VNM001",
     "faculty": [
       {
-        "bannerId": "65854",
+        "bannerId": "60212",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19927",
@@ -82,7 +82,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:VNM001Language: Vietnamese Prereq 600 to 601\n May not be taken concurrently.)"
   },
   {
     "id": 880589,
@@ -118,7 +119,7 @@
     "subjectCourse": "VNM001",
     "faculty": [
       {
-        "bannerId": "65854",
+        "bannerId": "60212",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19928",
@@ -167,7 +168,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:VNM001Language: Vietnamese Prereq 600 to 601\n May not be taken concurrently.)"
   },
   {
     "id": 884880,
@@ -203,7 +205,7 @@
     "subjectCourse": "VNM004",
     "faculty": [
       {
-        "bannerId": "65854",
+        "bannerId": "60212",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32592",
@@ -252,6 +254,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:VNM004(\n Course or Test: Vietnamese 003 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Vietnamese 020B \n Minimum Grade of C-\n May not be taken concurrently.Language: Vietnamese Prereq 606 to 607\n May not be taken concurrently.)"
   }
 ]

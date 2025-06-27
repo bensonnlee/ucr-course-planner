@@ -33,7 +33,7 @@
     "subjectCourse": "ENTX125",
     "faculty": [
       {
-        "bannerId": "66340",
+        "bannerId": "57280",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "30283",
@@ -82,7 +82,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENTX125(\n Course or Test: Biology 005C \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 008B \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Chemistry 08HB \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 08LB \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 08HLB \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 881257,
@@ -118,7 +119,7 @@
     "subjectCourse": "ENTX135",
     "faculty": [
       {
-        "bannerId": "65588",
+        "bannerId": "56345",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23230",
@@ -167,7 +168,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENTX135(\n Course or Test: Chemistry 008A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 08LA \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Chemistry 08HA \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 08HLA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 12HA \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Chemistry 12A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 008B \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 08LB \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Chemistry 08HB \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 08HLB \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 12B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 12HB \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 881263,
@@ -203,7 +205,7 @@
     "subjectCourse": "ENTX135",
     "faculty": [
       {
-        "bannerId": "65588",
+        "bannerId": "56345",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23253",
@@ -213,7 +215,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65666",
+        "bannerId": "56695",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23253",
@@ -262,7 +264,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENTX135(\n Course or Test: Chemistry 008A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 08LA \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Chemistry 08HA \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 08HLA \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Chemistry 12HA \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Chemistry 12A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 008B \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 08LB \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 08HB \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 08HLB \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 12B \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Chemistry 12HB \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 878045,
@@ -298,7 +301,7 @@
     "subjectCourse": "ENTX201",
     "faculty": [
       {
-        "bannerId": "66429",
+        "bannerId": "56386",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14956",
@@ -347,7 +350,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENTX201(\n Course or Test: Biochemistry 110A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Biochemistry 110HA \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Biochemistry 110B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Biochemistry 110HB \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 880617,
@@ -383,7 +387,7 @@
     "subjectCourse": "ENTX201",
     "faculty": [
       {
-        "bannerId": "66429",
+        "bannerId": "56386",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20131",
@@ -432,7 +436,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENTX201(\n Course or Test: Biochemistry 110A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Biochemistry 110HA \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Biochemistry 110B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Biochemistry 110HB \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 878046,
@@ -468,7 +473,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65232",
+        "bannerId": "56387",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14957",
@@ -517,7 +522,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887937,
@@ -553,7 +559,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65501",
+        "bannerId": "57145",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37078",
@@ -602,7 +608,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887929,
@@ -638,7 +645,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65120",
+        "bannerId": "56397",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37070",
@@ -687,7 +694,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887930,
@@ -723,7 +731,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "66287",
+        "bannerId": "56370",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37071",
@@ -772,7 +780,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887932,
@@ -808,7 +817,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65338",
+        "bannerId": "56399",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37073",
@@ -857,7 +866,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887936,
@@ -893,7 +903,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65200",
+        "bannerId": "56401",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37077",
@@ -942,7 +952,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887928,
@@ -978,7 +989,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65276",
+        "bannerId": "57994",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37069",
@@ -1027,7 +1038,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887959,
@@ -1063,7 +1075,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "66422",
+        "bannerId": "56339",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37100",
@@ -1112,7 +1124,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887916,
@@ -1148,7 +1161,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65100",
+        "bannerId": "57087",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37056",
@@ -1197,7 +1210,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887921,
@@ -1233,7 +1247,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65561",
+        "bannerId": "58092",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37061",
@@ -1282,7 +1296,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887879,
@@ -1318,7 +1333,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "66426",
+        "bannerId": "56343",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37018",
@@ -1367,7 +1382,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887955,
@@ -1403,7 +1419,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65324",
+        "bannerId": "58221",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37096",
@@ -1452,7 +1468,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887939,
@@ -1488,7 +1505,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65705",
+        "bannerId": "56878",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37080",
@@ -1537,7 +1554,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887960,
@@ -1573,7 +1591,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65232",
+        "bannerId": "56387",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37101",
@@ -1622,7 +1640,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887874,
@@ -1658,7 +1677,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65127",
+        "bannerId": "56835",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37013",
@@ -1707,7 +1726,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887958,
@@ -1743,7 +1763,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "64999",
+        "bannerId": "57155",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37099",
@@ -1792,7 +1812,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887917,
@@ -1828,7 +1849,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "64977",
+        "bannerId": "56406",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37057",
@@ -1877,7 +1898,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887922,
@@ -1913,7 +1935,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "66427",
+        "bannerId": "56344",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37062",
@@ -1962,7 +1984,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887876,
@@ -1998,7 +2021,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "66449",
+        "bannerId": "57051",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37015",
@@ -2047,7 +2070,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887872,
@@ -2083,7 +2107,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "64978",
+        "bannerId": "56427",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37011",
@@ -2132,7 +2156,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887920,
@@ -2168,7 +2193,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65122",
+        "bannerId": "56409",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37060",
@@ -2217,7 +2242,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887919,
@@ -2253,7 +2279,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "64979",
+        "bannerId": "56414",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37059",
@@ -2302,7 +2328,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887923,
@@ -2338,7 +2365,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65094",
+        "bannerId": "56415",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37063",
@@ -2387,7 +2414,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887878,
@@ -2423,7 +2451,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65102",
+        "bannerId": "57196",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37017",
@@ -2472,7 +2500,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887940,
@@ -2508,7 +2537,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65467",
+        "bannerId": "58172",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37081",
@@ -2557,7 +2586,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887947,
@@ -2593,7 +2623,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65704",
+        "bannerId": "58194",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37088",
@@ -2642,7 +2672,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887880,
@@ -2678,7 +2709,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "64980",
+        "bannerId": "57262",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37019",
@@ -2727,7 +2758,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887881,
@@ -2763,7 +2795,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65184",
+        "bannerId": "58050",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37020",
@@ -2812,7 +2844,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887918,
@@ -2848,7 +2881,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65027",
+        "bannerId": "57117",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37058",
@@ -2897,7 +2930,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887875,
@@ -2933,7 +2967,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65575",
+        "bannerId": "56437",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37014",
@@ -2982,7 +3016,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888881,
@@ -3018,7 +3053,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65236",
+        "bannerId": "58276",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37420",
@@ -3067,7 +3102,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887956,
@@ -3103,7 +3139,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65535",
+        "bannerId": "57915",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37097",
@@ -3152,7 +3188,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887931,
@@ -3188,7 +3225,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "66429",
+        "bannerId": "56386",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37072",
@@ -3237,7 +3274,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887945,
@@ -3273,7 +3311,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "64970",
+        "bannerId": "57004",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37086",
@@ -3322,7 +3360,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887873,
@@ -3358,7 +3397,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65588",
+        "bannerId": "56345",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37012",
@@ -3407,7 +3446,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887946,
@@ -3443,7 +3483,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65005",
+        "bannerId": "57026",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37087",
@@ -3492,7 +3532,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887877,
@@ -3528,7 +3569,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65279",
+        "bannerId": "56412",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37016",
@@ -3577,7 +3618,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888880,
@@ -3613,7 +3655,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "66430",
+        "bannerId": "56389",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37419",
@@ -3662,7 +3704,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887953,
@@ -3698,7 +3741,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65234",
+        "bannerId": "57075",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37094",
@@ -3747,7 +3790,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887954,
@@ -3783,7 +3827,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "66441",
+        "bannerId": "56675",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37095",
@@ -3832,7 +3876,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887949,
@@ -3868,7 +3913,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "66461",
+        "bannerId": "57773",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37090",
@@ -3917,7 +3962,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887934,
@@ -3953,7 +3999,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65089",
+        "bannerId": "56418",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37075",
@@ -4002,7 +4048,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887935,
@@ -4038,7 +4085,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65528",
+        "bannerId": "56392",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37076",
@@ -4087,7 +4134,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887927,
@@ -4123,7 +4171,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65667",
+        "bannerId": "56713",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37067",
@@ -4172,7 +4220,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887957,
@@ -4208,7 +4257,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65006",
+        "bannerId": "57136",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37098",
@@ -4257,7 +4306,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887924,
@@ -4293,7 +4343,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "64972",
+        "bannerId": "56393",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37064",
@@ -4342,7 +4392,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887925,
@@ -4378,7 +4429,7 @@
     "subjectCourse": "ENTX201L",
     "faculty": [
       {
-        "bannerId": "65216",
+        "bannerId": "57691",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37065",
@@ -4427,7 +4478,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878047,
@@ -4463,7 +4515,7 @@
     "subjectCourse": "ENTX270",
     "faculty": [
       {
-        "bannerId": "66430",
+        "bannerId": "56389",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14958",
@@ -4512,7 +4564,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878050,
@@ -4548,7 +4601,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "64981",
+        "bannerId": "56394",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14961",
@@ -4597,7 +4650,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882720,
@@ -4633,7 +4687,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "65501",
+        "bannerId": "57145",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27063",
@@ -4682,7 +4736,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878051,
@@ -4718,7 +4773,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "66426",
+        "bannerId": "56343",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14962",
@@ -4767,7 +4822,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878052,
@@ -4803,7 +4859,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "64973",
+        "bannerId": "56369",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14965",
@@ -4852,7 +4908,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878054,
@@ -4888,7 +4945,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "66431",
+        "bannerId": "56395",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14967",
@@ -4937,7 +4994,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878055,
@@ -4973,7 +5031,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "65120",
+        "bannerId": "56397",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14969",
@@ -5022,7 +5080,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878056,
@@ -5058,7 +5117,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "66287",
+        "bannerId": "56370",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14970",
@@ -5107,7 +5166,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878057,
@@ -5143,7 +5203,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "65338",
+        "bannerId": "56399",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14971",
@@ -5192,7 +5252,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878058,
@@ -5228,7 +5289,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "65200",
+        "bannerId": "56401",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14973",
@@ -5277,7 +5338,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878059,
@@ -5313,7 +5375,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "65091",
+        "bannerId": "56385",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14974",
@@ -5362,7 +5424,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880778,
@@ -5398,7 +5461,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "66422",
+        "bannerId": "56339",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "21493",
@@ -5447,7 +5510,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878060,
@@ -5483,7 +5547,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "66432",
+        "bannerId": "56404",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14976",
@@ -5532,7 +5596,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882706,
@@ -5568,7 +5633,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "65100",
+        "bannerId": "57087",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27049",
@@ -5617,7 +5682,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882254,
@@ -5653,7 +5719,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "65705",
+        "bannerId": "56878",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25459",
@@ -5702,7 +5768,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882178,
@@ -5738,7 +5805,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "65127",
+        "bannerId": "56835",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25345",
@@ -5787,7 +5854,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882723,
@@ -5823,7 +5891,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "64999",
+        "bannerId": "57155",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27066",
@@ -5872,7 +5940,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878061,
@@ -5908,7 +5977,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "64977",
+        "bannerId": "56406",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14979",
@@ -5957,7 +6026,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878062,
@@ -5993,7 +6063,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "66427",
+        "bannerId": "56344",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14980",
@@ -6042,7 +6112,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882699,
@@ -6078,7 +6149,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "66449",
+        "bannerId": "57051",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27041",
@@ -6127,7 +6198,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882690,
@@ -6163,7 +6235,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "64978",
+        "bannerId": "56427",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27032",
@@ -6212,7 +6284,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882729,
@@ -6248,7 +6321,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "66450",
+        "bannerId": "57168",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27072",
@@ -6297,7 +6370,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878063,
@@ -6333,7 +6407,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "65122",
+        "bannerId": "56409",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14981",
@@ -6382,7 +6456,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878064,
@@ -6418,7 +6493,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "65279",
+        "bannerId": "56412",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14982",
@@ -6467,7 +6542,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883049,
@@ -6503,7 +6579,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "65564",
+        "bannerId": "57225",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27561",
@@ -6552,7 +6628,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878065,
@@ -6588,7 +6665,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "64979",
+        "bannerId": "56414",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14984",
@@ -6637,7 +6714,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878066,
@@ -6673,7 +6751,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "65094",
+        "bannerId": "56415",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14985",
@@ -6722,7 +6800,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882726,
@@ -6758,7 +6837,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "65336",
+        "bannerId": "56669",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27069",
@@ -6807,7 +6886,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882899,
@@ -6843,7 +6923,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "65102",
+        "bannerId": "57196",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27366",
@@ -6892,7 +6972,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878067,
@@ -6928,7 +7009,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "66433",
+        "bannerId": "56417",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14988",
@@ -6977,7 +7058,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883497,
@@ -7013,7 +7095,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "64980",
+        "bannerId": "57262",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29191",
@@ -7062,7 +7144,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882712,
@@ -7098,7 +7181,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "65027",
+        "bannerId": "57117",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27055",
@@ -7147,7 +7230,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882698,
@@ -7183,7 +7267,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "65575",
+        "bannerId": "56437",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27040",
@@ -7232,7 +7316,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878068,
@@ -7268,7 +7353,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "66429",
+        "bannerId": "56386",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14989",
@@ -7317,7 +7402,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882691,
@@ -7353,7 +7439,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "64970",
+        "bannerId": "57004",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27033",
@@ -7402,7 +7488,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882695,
@@ -7438,7 +7525,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "65005",
+        "bannerId": "57026",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27037",
@@ -7487,7 +7574,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882703,
@@ -7523,7 +7611,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "65234",
+        "bannerId": "57075",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27046",
@@ -7572,7 +7660,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885704,
@@ -7608,7 +7697,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "66461",
+        "bannerId": "57773",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34118",
@@ -7657,7 +7746,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882702,
@@ -7693,7 +7783,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "65089",
+        "bannerId": "56418",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27045",
@@ -7742,7 +7832,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878048,
@@ -7778,7 +7869,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "65528",
+        "bannerId": "56392",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14959",
@@ -7827,7 +7918,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882710,
@@ -7863,7 +7955,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "65529",
+        "bannerId": "56514",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27053",
@@ -7912,7 +8004,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882709,
@@ -7948,7 +8041,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "65667",
+        "bannerId": "56713",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27052",
@@ -7997,7 +8090,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882717,
@@ -8033,7 +8127,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "65006",
+        "bannerId": "57136",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27060",
@@ -8082,7 +8176,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878049,
@@ -8118,7 +8213,7 @@
     "subjectCourse": "ENTX290",
     "faculty": [
       {
-        "bannerId": "64972",
+        "bannerId": "56393",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14960",
@@ -8167,7 +8262,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882688,
@@ -8203,7 +8299,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "64981",
+        "bannerId": "56394",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27030",
@@ -8252,7 +8348,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882721,
@@ -8288,7 +8385,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65501",
+        "bannerId": "57145",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27064",
@@ -8337,7 +8434,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878074,
@@ -8373,7 +8471,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "64973",
+        "bannerId": "56369",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14998",
@@ -8422,7 +8520,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878076,
@@ -8458,7 +8557,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "66431",
+        "bannerId": "56395",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15000",
@@ -8507,7 +8606,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878077,
@@ -8543,7 +8643,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65120",
+        "bannerId": "56397",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15002",
@@ -8592,7 +8692,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878078,
@@ -8628,7 +8729,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "66287",
+        "bannerId": "56370",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15003",
@@ -8677,7 +8778,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878079,
@@ -8713,7 +8815,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65338",
+        "bannerId": "56399",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15004",
@@ -8762,7 +8864,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878080,
@@ -8798,7 +8901,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65200",
+        "bannerId": "56401",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15006",
@@ -8847,7 +8950,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878081,
@@ -8883,7 +8987,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65091",
+        "bannerId": "56385",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15007",
@@ -8932,7 +9036,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887850,
@@ -8968,7 +9073,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65276",
+        "bannerId": "57994",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36987",
@@ -9017,7 +9122,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880777,
@@ -9053,7 +9159,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "66422",
+        "bannerId": "56339",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "21492",
@@ -9102,7 +9208,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878082,
@@ -9138,7 +9245,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "66432",
+        "bannerId": "56404",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15009",
@@ -9187,7 +9294,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882707,
@@ -9223,7 +9331,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65100",
+        "bannerId": "57087",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27050",
@@ -9272,7 +9380,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878073,
@@ -9308,7 +9417,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "66426",
+        "bannerId": "56343",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14994",
@@ -9357,7 +9466,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882255,
@@ -9393,7 +9503,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65705",
+        "bannerId": "56878",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25461",
@@ -9442,7 +9552,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884629,
@@ -9478,7 +9589,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65232",
+        "bannerId": "56387",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31653",
@@ -9527,7 +9638,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882179,
@@ -9563,7 +9675,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65127",
+        "bannerId": "56835",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25346",
@@ -9612,7 +9724,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882724,
@@ -9648,7 +9761,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "64999",
+        "bannerId": "57155",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27067",
@@ -9697,7 +9810,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878083,
@@ -9733,7 +9847,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "64977",
+        "bannerId": "56406",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15012",
@@ -9782,7 +9896,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878084,
@@ -9818,7 +9933,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "66427",
+        "bannerId": "56344",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15013",
@@ -9867,7 +9982,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882700,
@@ -9903,7 +10019,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "66449",
+        "bannerId": "57051",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27042",
@@ -9952,7 +10068,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878085,
@@ -9988,7 +10105,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "64978",
+        "bannerId": "56427",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15014",
@@ -10037,7 +10154,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882730,
@@ -10073,7 +10191,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "66450",
+        "bannerId": "57168",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27073",
@@ -10122,7 +10240,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882716,
@@ -10158,7 +10277,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65122",
+        "bannerId": "56409",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27059",
@@ -10207,7 +10326,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882958,
@@ -10243,7 +10363,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65564",
+        "bannerId": "57225",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27437",
@@ -10292,7 +10412,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878087,
@@ -10328,7 +10449,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "64979",
+        "bannerId": "56414",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15017",
@@ -10377,7 +10498,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878088,
@@ -10413,7 +10535,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65094",
+        "bannerId": "56415",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15018",
@@ -10462,7 +10584,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880994,
@@ -10498,7 +10621,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65336",
+        "bannerId": "56669",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22609",
@@ -10547,7 +10670,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882900,
@@ -10583,7 +10707,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65102",
+        "bannerId": "57196",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27367",
@@ -10632,7 +10756,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878089,
@@ -10668,7 +10793,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "66433",
+        "bannerId": "56417",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15021",
@@ -10717,7 +10842,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905463,
@@ -10753,7 +10879,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65704",
+        "bannerId": "58194",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38776",
@@ -10802,7 +10928,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883498,
@@ -10838,7 +10965,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "64980",
+        "bannerId": "57262",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29192",
@@ -10887,7 +11014,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882713,
@@ -10923,7 +11051,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65027",
+        "bannerId": "57117",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27056",
@@ -10972,7 +11100,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878090,
@@ -11008,7 +11137,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65575",
+        "bannerId": "56437",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15022",
@@ -11057,7 +11186,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888845,
@@ -11093,7 +11223,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65236",
+        "bannerId": "58276",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37394",
@@ -11142,7 +11272,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886217,
@@ -11178,7 +11309,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65535",
+        "bannerId": "57915",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35099",
@@ -11227,7 +11358,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878091,
@@ -11263,7 +11395,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "66429",
+        "bannerId": "56386",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15023",
@@ -11312,7 +11444,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882692,
@@ -11348,7 +11481,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "64970",
+        "bannerId": "57004",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27034",
@@ -11397,7 +11530,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878069,
@@ -11433,7 +11567,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65588",
+        "bannerId": "56345",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14990",
@@ -11482,7 +11616,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882696,
@@ -11518,7 +11653,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65005",
+        "bannerId": "57026",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27038",
@@ -11567,7 +11702,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878086,
@@ -11603,7 +11739,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65279",
+        "bannerId": "56412",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15015",
@@ -11652,7 +11788,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888842,
@@ -11688,7 +11825,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "66430",
+        "bannerId": "56389",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37391",
@@ -11737,7 +11874,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882704,
@@ -11773,7 +11911,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65234",
+        "bannerId": "57075",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27047",
@@ -11822,7 +11960,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885705,
@@ -11858,7 +11997,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "66461",
+        "bannerId": "57773",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "34119",
@@ -11907,7 +12046,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878070,
@@ -11943,7 +12083,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65089",
+        "bannerId": "56418",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14991",
@@ -11992,7 +12132,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878071,
@@ -12028,7 +12169,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65528",
+        "bannerId": "56392",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14992",
@@ -12077,7 +12218,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882611,
@@ -12113,7 +12255,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65529",
+        "bannerId": "56514",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26861",
@@ -12162,7 +12304,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881838,
@@ -12198,7 +12341,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65667",
+        "bannerId": "56713",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24747",
@@ -12247,7 +12390,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882718,
@@ -12283,7 +12427,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65006",
+        "bannerId": "57136",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27061",
@@ -12332,7 +12476,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878072,
@@ -12368,7 +12513,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "64972",
+        "bannerId": "56393",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14993",
@@ -12417,7 +12562,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885219,
@@ -12453,7 +12599,7 @@
     "subjectCourse": "ENTX297",
     "faculty": [
       {
-        "bannerId": "65216",
+        "bannerId": "57691",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33219",
@@ -12502,7 +12648,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882689,
@@ -12538,7 +12685,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "64981",
+        "bannerId": "56394",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27031",
@@ -12587,7 +12734,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882722,
@@ -12623,7 +12771,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "65501",
+        "bannerId": "57145",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27065",
@@ -12672,7 +12820,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878096,
@@ -12708,7 +12857,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "66426",
+        "bannerId": "56343",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15028",
@@ -12757,7 +12906,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878097,
@@ -12793,7 +12943,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "64973",
+        "bannerId": "56369",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15032",
@@ -12842,7 +12992,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878099,
@@ -12878,7 +13029,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "66431",
+        "bannerId": "56395",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15034",
@@ -12927,7 +13078,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878100,
@@ -12963,7 +13115,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "65120",
+        "bannerId": "56397",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15037",
@@ -13012,7 +13164,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878101,
@@ -13048,7 +13201,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "66287",
+        "bannerId": "56370",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15038",
@@ -13097,7 +13250,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878102,
@@ -13133,7 +13287,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "65338",
+        "bannerId": "56399",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15039",
@@ -13182,7 +13336,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878103,
@@ -13218,7 +13373,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "65200",
+        "bannerId": "56401",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15041",
@@ -13267,7 +13422,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878104,
@@ -13303,7 +13459,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "65091",
+        "bannerId": "56385",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15042",
@@ -13352,7 +13508,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887851,
@@ -13388,7 +13545,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "65276",
+        "bannerId": "57994",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36988",
@@ -13437,7 +13594,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880776,
@@ -13473,7 +13631,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "66422",
+        "bannerId": "56339",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "21491",
@@ -13522,7 +13680,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878105,
@@ -13558,7 +13717,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "66432",
+        "bannerId": "56404",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15044",
@@ -13607,7 +13766,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882708,
@@ -13643,7 +13803,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "65100",
+        "bannerId": "57087",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27051",
@@ -13692,7 +13852,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882276,
@@ -13728,7 +13889,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "65705",
+        "bannerId": "56878",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25488",
@@ -13777,7 +13938,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885260,
@@ -13813,7 +13975,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "65232",
+        "bannerId": "56387",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33292",
@@ -13862,7 +14024,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882180,
@@ -13898,7 +14061,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "65127",
+        "bannerId": "56835",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25347",
@@ -13947,7 +14110,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882725,
@@ -13983,7 +14147,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "64999",
+        "bannerId": "57155",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27068",
@@ -14032,7 +14196,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878106,
@@ -14068,7 +14233,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "64977",
+        "bannerId": "56406",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15047",
@@ -14117,7 +14282,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878107,
@@ -14153,7 +14319,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "66427",
+        "bannerId": "56344",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15048",
@@ -14202,7 +14368,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882701,
@@ -14238,7 +14405,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "66449",
+        "bannerId": "57051",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27043",
@@ -14287,7 +14454,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878108,
@@ -14323,7 +14491,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "64978",
+        "bannerId": "56427",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15049",
@@ -14372,7 +14540,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882731,
@@ -14408,7 +14577,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "66450",
+        "bannerId": "57168",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27074",
@@ -14457,7 +14626,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878109,
@@ -14493,7 +14663,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "65122",
+        "bannerId": "56409",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15050",
@@ -14542,7 +14712,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878110,
@@ -14578,7 +14749,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "65279",
+        "bannerId": "56412",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15051",
@@ -14627,7 +14798,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882715,
@@ -14663,7 +14835,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "64979",
+        "bannerId": "56414",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27058",
@@ -14712,7 +14884,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878111,
@@ -14748,7 +14921,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "65094",
+        "bannerId": "56415",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15053",
@@ -14797,7 +14970,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882727,
@@ -14833,7 +15007,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "65336",
+        "bannerId": "56669",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27070",
@@ -14882,7 +15056,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882901,
@@ -14918,7 +15093,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "65102",
+        "bannerId": "57196",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27368",
@@ -14967,7 +15142,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878112,
@@ -15003,7 +15179,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "66433",
+        "bannerId": "56417",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15056",
@@ -15052,7 +15228,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884315,
@@ -15088,7 +15265,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "64980",
+        "bannerId": "57262",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31205",
@@ -15137,7 +15314,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882714,
@@ -15173,7 +15351,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "65027",
+        "bannerId": "57117",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27057",
@@ -15222,7 +15400,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878113,
@@ -15258,7 +15437,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "65575",
+        "bannerId": "56437",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15057",
@@ -15307,7 +15486,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888844,
@@ -15343,7 +15523,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "65236",
+        "bannerId": "58276",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37393",
@@ -15392,7 +15572,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886218,
@@ -15428,7 +15609,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "65535",
+        "bannerId": "57915",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35100",
@@ -15477,7 +15658,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878114,
@@ -15513,7 +15695,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "66429",
+        "bannerId": "56386",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15058",
@@ -15562,7 +15744,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882693,
@@ -15598,7 +15781,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "64970",
+        "bannerId": "57004",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27035",
@@ -15647,7 +15830,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878092,
@@ -15683,7 +15867,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "65588",
+        "bannerId": "56345",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15024",
@@ -15732,7 +15916,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882697,
@@ -15768,7 +15953,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "65005",
+        "bannerId": "57026",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27039",
@@ -15817,7 +16002,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888843,
@@ -15853,7 +16039,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "66430",
+        "bannerId": "56389",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37392",
@@ -15902,7 +16088,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882705,
@@ -15938,7 +16125,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "65234",
+        "bannerId": "57075",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27048",
@@ -15987,7 +16174,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878093,
@@ -16023,7 +16211,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "65089",
+        "bannerId": "56418",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15025",
@@ -16072,7 +16260,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878094,
@@ -16108,7 +16297,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "65528",
+        "bannerId": "56392",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15026",
@@ -16157,7 +16346,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882711,
@@ -16193,7 +16383,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "65529",
+        "bannerId": "56514",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27054",
@@ -16242,7 +16432,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881839,
@@ -16278,7 +16469,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "65667",
+        "bannerId": "56713",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24748",
@@ -16327,7 +16518,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882719,
@@ -16363,7 +16555,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "65006",
+        "bannerId": "57136",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27062",
@@ -16412,7 +16604,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878095,
@@ -16448,7 +16641,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "64972",
+        "bannerId": "56393",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15027",
@@ -16497,7 +16690,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905340,
@@ -16533,7 +16727,7 @@
     "subjectCourse": "ENTX299",
     "faculty": [
       {
-        "bannerId": "65216",
+        "bannerId": "57691",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38732",
@@ -16582,6 +16776,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   }
 ]

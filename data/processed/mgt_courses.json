@@ -33,7 +33,7 @@
     "subjectCourse": "MGT201",
     "faculty": [
       {
-        "bannerId": "66689",
+        "bannerId": "57257",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28341",
@@ -82,7 +82,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883240,
@@ -118,7 +119,7 @@
     "subjectCourse": "MGT201",
     "faculty": [
       {
-        "bannerId": "66689",
+        "bannerId": "57257",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28343",
@@ -167,7 +168,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879081,
@@ -203,7 +205,7 @@
     "subjectCourse": "MGT202",
     "faculty": [
       {
-        "bannerId": "65464",
+        "bannerId": "56689",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17081",
@@ -252,7 +254,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:MGT202(\n Course or Test: Management 201 \n Minimum Grade of D-\n May be taken concurrently.)\nand\n(\n Course or Test: Management 211 \n Minimum Grade of D-\n May be taken concurrently.)"
   },
   {
     "id": 879082,
@@ -288,7 +291,7 @@
     "subjectCourse": "MGT204",
     "faculty": [
       {
-        "bannerId": "66671",
+        "bannerId": "56692",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17082",
@@ -337,7 +340,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:MGT204(\n Course or Test: Management 211 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 879083,
@@ -373,7 +377,7 @@
     "subjectCourse": "MGT205",
     "faculty": [
       {
-        "bannerId": "65422",
+        "bannerId": "56698",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17083",
@@ -422,7 +426,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879084,
@@ -458,7 +463,7 @@
     "subjectCourse": "MGT205",
     "faculty": [
       {
-        "bannerId": "65422",
+        "bannerId": "56698",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17084",
@@ -507,7 +512,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880623,
@@ -543,7 +549,7 @@
     "subjectCourse": "MGT205",
     "faculty": [
       {
-        "bannerId": "65422",
+        "bannerId": "56698",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20190",
@@ -592,7 +598,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880624,
@@ -628,7 +635,7 @@
     "subjectCourse": "MGT205",
     "faculty": [
       {
-        "bannerId": "65422",
+        "bannerId": "56698",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "20191",
@@ -677,7 +684,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885585,
@@ -713,7 +721,7 @@
     "subjectCourse": "MGT207",
     "faculty": [
       {
-        "bannerId": "65516",
+        "bannerId": "58051",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33710",
@@ -762,7 +770,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:MGT207(\n Course or Test: Management 201 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884847,
@@ -798,7 +807,7 @@
     "subjectCourse": "MGT209",
     "faculty": [
       {
-        "bannerId": "66691",
+        "bannerId": "57266",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32475",
@@ -847,7 +856,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879085,
@@ -883,7 +893,7 @@
     "subjectCourse": "MGT211",
     "faculty": [
       {
-        "bannerId": "65411",
+        "bannerId": "56709",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17085",
@@ -932,7 +942,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879086,
@@ -968,7 +979,7 @@
     "subjectCourse": "MGT211",
     "faculty": [
       {
-        "bannerId": "65411",
+        "bannerId": "56709",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17086",
@@ -1017,7 +1028,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885652,
@@ -1053,7 +1065,7 @@
     "subjectCourse": "MGT218",
     "faculty": [
       {
-        "bannerId": "65430",
+        "bannerId": "58101",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33957",
@@ -1102,7 +1114,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885586,
@@ -1138,7 +1151,7 @@
     "subjectCourse": "MGT219",
     "faculty": [
       {
-        "bannerId": "66689",
+        "bannerId": "57257",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33712",
@@ -1187,7 +1200,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:MGT219(\n Course or Test: Management 207 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 883242,
@@ -1223,7 +1237,7 @@
     "subjectCourse": "MGT220",
     "faculty": [
       {
-        "bannerId": "66690",
+        "bannerId": "57261",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28349",
@@ -1272,7 +1286,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884848,
@@ -1308,7 +1323,7 @@
     "subjectCourse": "MGT227",
     "faculty": [
       {
-        "bannerId": "66700",
+        "bannerId": "57937",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32481",
@@ -1357,7 +1372,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:MGT227(\n Course or Test: Management 201 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 884200,
@@ -1393,7 +1409,7 @@
     "subjectCourse": "MGT228",
     "faculty": [
       {
-        "bannerId": "66690",
+        "bannerId": "57261",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "30891",
@@ -1442,7 +1458,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:MGT228)\nand\n(\n Course or Test: Management 209 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 881533,
@@ -1478,7 +1495,7 @@
     "subjectCourse": "MGT229",
     "faculty": [
       {
-        "bannerId": "66680",
+        "bannerId": "56990",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24124",
@@ -1527,7 +1544,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:MGT229)\nand\n(\n Course or Test: Management 204 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 882596,
@@ -1563,7 +1581,7 @@
     "subjectCourse": "MGT237",
     "faculty": [
       {
-        "bannerId": "65489",
+        "bannerId": "57221",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26775",
@@ -1612,7 +1630,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:MGT237(\n Course or Test: Management 202 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 879087,
@@ -1648,7 +1667,7 @@
     "subjectCourse": "MGT240A",
     "faculty": [
       {
-        "bannerId": "66671",
+        "bannerId": "56692",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17093",
@@ -1697,7 +1716,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:MGT240A(\n Course or Test: Management 211 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 881534,
@@ -1733,7 +1753,7 @@
     "subjectCourse": "MGT241",
     "faculty": [
       {
-        "bannerId": "66681",
+        "bannerId": "56996",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24125",
@@ -1782,7 +1802,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:MGT241)\nand\n(\n Course or Test: Management 204 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 883244,
@@ -1818,7 +1839,7 @@
     "subjectCourse": "MGT249",
     "faculty": [
       {
-        "bannerId": "66691",
+        "bannerId": "57266",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28356",
@@ -1867,7 +1888,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:MGT249(\n Course or Test: Management 209 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 885587,
@@ -1903,7 +1925,7 @@
     "subjectCourse": "MGT256",
     "faculty": [
       {
-        "bannerId": "65480",
+        "bannerId": "58064",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33713",
@@ -1952,7 +1974,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:MGT256(\n Course or Test: Management 201 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 885588,
@@ -1988,7 +2011,7 @@
     "subjectCourse": "MGT256",
     "faculty": [
       {
-        "bannerId": "66705",
+        "bannerId": "58075",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33714",
@@ -2037,7 +2060,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:MGT256(\n Course or Test: Management 201 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 886667,
@@ -2073,7 +2097,7 @@
     "subjectCourse": "MGT257",
     "faculty": [
       {
-        "bannerId": "66708",
+        "bannerId": "58305",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35597",
@@ -2122,7 +2146,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:MGT257(\n Course or Test: Management 209 \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 885174,
@@ -2158,7 +2183,7 @@
     "subjectCourse": "MGT285",
     "faculty": [
       {
-        "bannerId": "66702",
+        "bannerId": "57985",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33156",
@@ -2207,7 +2232,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 890766,
@@ -2243,7 +2269,7 @@
     "subjectCourse": "MGT288B",
     "faculty": [
       {
-        "bannerId": "66691",
+        "bannerId": "57266",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38292",
@@ -2253,7 +2279,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66708",
+        "bannerId": "58305",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38292",
@@ -2302,7 +2328,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887759,
@@ -2338,7 +2365,7 @@
     "subjectCourse": "MGT290",
     "faculty": [
       {
-        "bannerId": "66715",
+        "bannerId": "58474",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36894",
@@ -2387,7 +2414,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905836,
@@ -2423,7 +2451,7 @@
     "subjectCourse": "MGT290",
     "faculty": [
       {
-        "bannerId": "66725",
+        "bannerId": "59080",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38891",
@@ -2472,7 +2500,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886253,
@@ -2508,7 +2537,7 @@
     "subjectCourse": "MGT290",
     "faculty": [
       {
-        "bannerId": "66688",
+        "bannerId": "57248",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35143",
@@ -2557,7 +2586,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885368,
@@ -2593,7 +2623,7 @@
     "subjectCourse": "MGT292",
     "faculty": [
       {
-        "bannerId": "66703",
+        "bannerId": "58007",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33429",
@@ -2642,7 +2672,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883289,
@@ -2678,7 +2709,7 @@
     "subjectCourse": "MGT298I",
     "faculty": [
       {
-        "bannerId": "65443",
+        "bannerId": "57395",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28502",
@@ -2727,7 +2758,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 903221,
@@ -2763,7 +2795,7 @@
     "subjectCourse": "MGT298I",
     "faculty": [
       {
-        "bannerId": "65443",
+        "bannerId": "57395",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38407",
@@ -2812,7 +2844,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885273,
@@ -2848,7 +2881,7 @@
     "subjectCourse": "MGT299",
     "faculty": [
       {
-        "bannerId": "65426",
+        "bannerId": "57996",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33308",
@@ -2897,7 +2930,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884591,
@@ -2933,7 +2967,7 @@
     "subjectCourse": "MGT299",
     "faculty": [
       {
-        "bannerId": "66699",
+        "bannerId": "57920",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31604",
@@ -2982,7 +3016,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887837,
@@ -3018,7 +3053,7 @@
     "subjectCourse": "MGT299",
     "faculty": [
       {
-        "bannerId": "66716",
+        "bannerId": "58495",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36974",
@@ -3067,7 +3102,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887806,
@@ -3103,7 +3139,7 @@
     "subjectCourse": "MGT299",
     "faculty": [
       {
-        "bannerId": "65506",
+        "bannerId": "58477",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36943",
@@ -3152,7 +3188,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886371,
@@ -3188,7 +3225,7 @@
     "subjectCourse": "MGT299",
     "faculty": [
       {
-        "bannerId": "65445",
+        "bannerId": "58294",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35276",
@@ -3237,7 +3274,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881162,
@@ -3273,7 +3311,7 @@
     "subjectCourse": "MGT299",
     "faculty": [
       {
-        "bannerId": "66679",
+        "bannerId": "56968",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22910",
@@ -3322,7 +3360,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882812,
@@ -3358,7 +3397,7 @@
     "subjectCourse": "MGT299",
     "faculty": [
       {
-        "bannerId": "66686",
+        "bannerId": "57241",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27263",
@@ -3407,7 +3446,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882877,
@@ -3443,7 +3483,7 @@
     "subjectCourse": "MGT299",
     "faculty": [
       {
-        "bannerId": "66688",
+        "bannerId": "57248",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27337",
@@ -3492,7 +3532,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879101,
@@ -3528,7 +3569,7 @@
     "subjectCourse": "MGT299",
     "faculty": [
       {
-        "bannerId": "65520",
+        "bannerId": "56721",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17154",
@@ -3577,7 +3618,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881535,
@@ -3613,7 +3655,7 @@
     "subjectCourse": "MGT400A",
     "faculty": [
       {
-        "bannerId": "66680",
+        "bannerId": "56990",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24127",
@@ -3662,7 +3704,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881536,
@@ -3698,7 +3741,7 @@
     "subjectCourse": "MGT400A",
     "faculty": [
       {
-        "bannerId": "66680",
+        "bannerId": "56990",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24128",
@@ -3747,7 +3790,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881537,
@@ -3783,7 +3827,7 @@
     "subjectCourse": "MGT400E",
     "faculty": [
       {
-        "bannerId": "66671",
+        "bannerId": "56692",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24131",
@@ -3832,7 +3876,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881538,
@@ -3868,7 +3913,7 @@
     "subjectCourse": "MGT400E",
     "faculty": [
       {
-        "bannerId": "66671",
+        "bannerId": "56692",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24132",
@@ -3917,7 +3962,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883288,
@@ -3953,7 +3999,7 @@
     "subjectCourse": "MGT402",
     "faculty": [
       {
-        "bannerId": "65521",
+        "bannerId": "57388",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28501",
@@ -4002,7 +4048,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883406,
@@ -4038,7 +4085,7 @@
     "subjectCourse": "MGT402",
     "faculty": [
       {
-        "bannerId": "65521",
+        "bannerId": "57388",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28985",
@@ -4087,7 +4134,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883506,
@@ -4123,7 +4171,7 @@
     "subjectCourse": "MGT403",
     "faculty": [
       {
-        "bannerId": "65434",
+        "bannerId": "57443",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29208",
@@ -4172,6 +4220,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   }
 ]

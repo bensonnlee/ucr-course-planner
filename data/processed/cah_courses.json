@@ -33,7 +33,7 @@
     "subjectCourse": "CAH003",
     "faculty": [
       {
-        "bannerId": "65478",
+        "bannerId": "58628",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27845",
@@ -82,6 +82,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:CAH003(\n Course or Test: Cahuilla 002 \n Minimum Grade of C-\n May not be taken concurrently.)"
   }
 ]

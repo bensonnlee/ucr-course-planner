@@ -33,7 +33,7 @@
     "subjectCourse": "MEIS110",
     "faculty": [
       {
-        "bannerId": "66537",
+        "bannerId": "58334",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37265",
@@ -82,6 +82,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   }
 ]

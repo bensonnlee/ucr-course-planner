@@ -33,7 +33,7 @@
     "subjectCourse": "SEHE001",
     "faculty": [
       {
-        "bannerId": "66596",
+        "bannerId": "60436",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38511",
@@ -43,7 +43,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67466",
+        "bannerId": "60439",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38511",
@@ -53,7 +53,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67467",
+        "bannerId": "60440",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38511",
@@ -102,7 +102,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 903548,
@@ -138,7 +139,7 @@
     "subjectCourse": "SEHE001",
     "faculty": [
       {
-        "bannerId": "67466",
+        "bannerId": "60439",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38512",
@@ -187,7 +188,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 903549,
@@ -223,7 +225,7 @@
     "subjectCourse": "SEHE001",
     "faculty": [
       {
-        "bannerId": "67466",
+        "bannerId": "60439",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38513",
@@ -272,7 +274,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 903550,
@@ -308,7 +311,7 @@
     "subjectCourse": "SEHE001",
     "faculty": [
       {
-        "bannerId": "67466",
+        "bannerId": "60439",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38514",
@@ -357,7 +360,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 890467,
@@ -393,7 +397,7 @@
     "subjectCourse": "SEHE002",
     "faculty": [
       {
-        "bannerId": "66663",
+        "bannerId": "60269",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38108",
@@ -403,7 +407,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67462",
+        "bannerId": "60431",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38108",
@@ -413,22 +417,22 @@
         "term": "202440"
       },
       {
-        "bannerId": "67463",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "38108",
-        "displayName": "Olivier, Lydia",
-        "emailAddress": "lydia.olivier@email.ucr.edu",
-        "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "67474",
+        "bannerId": "60432",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38108",
         "displayName": "Kegler, Thomas",
         "emailAddress": "thomas.kegler@email.ucr.edu",
+        "primaryIndicator": false,
+        "term": "202440"
+      },
+      {
+        "bannerId": "60433",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "38108",
+        "displayName": "Olivier, Lydia",
+        "emailAddress": "lydia.olivier@email.ucr.edu",
         "primaryIndicator": false,
         "term": "202440"
       }
@@ -472,7 +476,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 890468,
@@ -508,7 +513,7 @@
     "subjectCourse": "SEHE002",
     "faculty": [
       {
-        "bannerId": "67462",
+        "bannerId": "60431",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38109",
@@ -557,7 +562,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 890469,
@@ -593,7 +599,7 @@
     "subjectCourse": "SEHE002",
     "faculty": [
       {
-        "bannerId": "67462",
+        "bannerId": "60431",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38110",
@@ -642,7 +648,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 890470,
@@ -678,7 +685,7 @@
     "subjectCourse": "SEHE002",
     "faculty": [
       {
-        "bannerId": "67463",
+        "bannerId": "60433",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38111",
@@ -727,7 +734,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 890471,
@@ -763,7 +771,7 @@
     "subjectCourse": "SEHE002",
     "faculty": [
       {
-        "bannerId": "67463",
+        "bannerId": "60433",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38112",
@@ -812,7 +820,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 890472,
@@ -848,7 +857,7 @@
     "subjectCourse": "SEHE002",
     "faculty": [
       {
-        "bannerId": "67462",
+        "bannerId": "60431",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38113",
@@ -897,7 +906,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 890473,
@@ -933,7 +943,7 @@
     "subjectCourse": "SEHE002",
     "faculty": [
       {
-        "bannerId": "67474",
+        "bannerId": "60432",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38114",
@@ -982,7 +992,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 904307,
@@ -1018,7 +1029,7 @@
     "subjectCourse": "SEHE002",
     "faculty": [
       {
-        "bannerId": "67463",
+        "bannerId": "60433",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38618",
@@ -1067,7 +1078,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 890528,
@@ -1103,7 +1115,7 @@
     "subjectCourse": "SEHE110",
     "faculty": [
       {
-        "bannerId": "67464",
+        "bannerId": "60435",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38140",
@@ -1152,7 +1164,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 890767,
@@ -1188,7 +1201,7 @@
     "subjectCourse": "SEHE115",
     "faculty": [
       {
-        "bannerId": "66641",
+        "bannerId": "60437",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38293",
@@ -1237,7 +1250,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:SEHE115"
   },
   {
     "id": 890529,
@@ -1273,7 +1287,7 @@
     "subjectCourse": "SEHE129",
     "faculty": [
       {
-        "bannerId": "66596",
+        "bannerId": "60436",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38141",
@@ -1322,7 +1336,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888799,
@@ -1358,7 +1373,7 @@
     "subjectCourse": "SEHE137S",
     "faculty": [
       {
-        "bannerId": "66633",
+        "bannerId": "60416",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37363",
@@ -1368,7 +1383,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67250",
+        "bannerId": "60417",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37363",
@@ -1417,7 +1432,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888986,
@@ -1453,7 +1469,7 @@
     "subjectCourse": "SEHE137S",
     "faculty": [
       {
-        "bannerId": "67250",
+        "bannerId": "60417",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37485",
@@ -1502,7 +1518,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888988,
@@ -1538,7 +1555,7 @@
     "subjectCourse": "SEHE137S",
     "faculty": [
       {
-        "bannerId": "67250",
+        "bannerId": "60417",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37487",
@@ -1587,7 +1604,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888990,
@@ -1623,7 +1641,7 @@
     "subjectCourse": "SEHE137S",
     "faculty": [
       {
-        "bannerId": "67250",
+        "bannerId": "60417",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37489",
@@ -1672,7 +1690,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888503,
@@ -1708,7 +1727,7 @@
     "subjectCourse": "SEHE143",
     "faculty": [
       {
-        "bannerId": "66893",
+        "bannerId": "60410",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37170",
@@ -1757,7 +1776,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888533,
@@ -1793,7 +1813,7 @@
     "subjectCourse": "SEHE143",
     "faculty": [
       {
-        "bannerId": "66893",
+        "bannerId": "60410",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37188",
@@ -1842,7 +1862,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 890504,
@@ -1878,7 +1899,7 @@
     "subjectCourse": "SEHE161",
     "faculty": [
       {
-        "bannerId": "66508",
+        "bannerId": "60434",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38134",
@@ -1927,7 +1948,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 904332,
@@ -1963,7 +1985,7 @@
     "subjectCourse": "SEHE183",
     "faculty": [
       {
-        "bannerId": "65037",
+        "bannerId": "58641",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38620",
@@ -2012,6 +2034,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   }
 ]

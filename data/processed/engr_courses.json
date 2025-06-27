@@ -1,440 +1,5 @@
 [
   {
-    "id": 877859,
-    "term": "202440",
-    "termDesc": "Fall 2024",
-    "courseReferenceNumber": "14579",
-    "partOfTerm": "1",
-    "courseNumber": "001G",
-    "courseDisplay": "001G",
-    "subject": "ENGR",
-    "subjectDescription": "Engineering",
-    "sequenceNumber": "001",
-    "campusDescription": "Riverside",
-    "scheduleTypeDescription": "Activity",
-    "courseTitle": "COMPUTER ENGINEERING",
-    "creditHours": 1,
-    "maximumEnrollment": 110,
-    "enrollment": 55,
-    "seatsAvailable": 55,
-    "waitCapacity": 0,
-    "waitCount": 0,
-    "waitAvailable": 0,
-    "crossList": "JZ",
-    "crossListCapacity": 395,
-    "crossListCount": 215,
-    "crossListAvailable": 180,
-    "creditHourHigh": null,
-    "creditHourLow": 1,
-    "creditHourIndicator": null,
-    "openSection": true,
-    "linkIdentifier": null,
-    "isSectionLinked": false,
-    "subjectCourse": "ENGR001G",
-    "faculty": [
-      {
-        "bannerId": "65847",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "14579",
-        "displayName": "LePendu, Paea",
-        "emailAddress": "paea.lependu@ucr.edu",
-        "primaryIndicator": true,
-        "term": "202440"
-      }
-    ],
-    "meetingsFaculty": [
-      {
-        "category": "01",
-        "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
-        "courseReferenceNumber": "14579",
-        "faculty": [],
-        "meetingTime": {
-          "beginTime": "1700",
-          "building": "SSC",
-          "buildingDescription": "Student Success Center",
-          "campus": "C",
-          "campusDescription": "Riverside",
-          "category": "01",
-          "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
-          "courseReferenceNumber": "14579",
-          "creditHourSession": 1.0,
-          "endDate": "12/06/2024",
-          "endTime": "1750",
-          "friday": false,
-          "hoursWeek": 0.83,
-          "meetingScheduleType": "ACT",
-          "meetingType": "ACT",
-          "meetingTypeDescription": "Activity",
-          "monday": true,
-          "room": "229",
-          "saturday": false,
-          "startDate": "09/26/2024",
-          "sunday": false,
-          "term": "202440",
-          "thursday": false,
-          "tuesday": false,
-          "wednesday": false
-        },
-        "term": "202440"
-      }
-    ],
-    "reservedSeatSummary": null,
-    "sectionAttributes": null,
-    "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
-  },
-  {
-    "id": 877860,
-    "term": "202440",
-    "termDesc": "Fall 2024",
-    "courseReferenceNumber": "14580",
-    "partOfTerm": "1",
-    "courseNumber": "001I",
-    "courseDisplay": "001I",
-    "subject": "ENGR",
-    "subjectDescription": "Engineering",
-    "sequenceNumber": "001",
-    "campusDescription": "Riverside",
-    "scheduleTypeDescription": "Activity",
-    "courseTitle": "COMPUTER SCIENCE",
-    "creditHours": 1,
-    "maximumEnrollment": 220,
-    "enrollment": 121,
-    "seatsAvailable": 99,
-    "waitCapacity": 0,
-    "waitCount": 0,
-    "waitAvailable": 0,
-    "crossList": "JZ",
-    "crossListCapacity": 395,
-    "crossListCount": 215,
-    "crossListAvailable": 180,
-    "creditHourHigh": null,
-    "creditHourLow": 1,
-    "creditHourIndicator": null,
-    "openSection": true,
-    "linkIdentifier": null,
-    "isSectionLinked": false,
-    "subjectCourse": "ENGR001I",
-    "faculty": [
-      {
-        "bannerId": "65847",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "14580",
-        "displayName": "LePendu, Paea",
-        "emailAddress": "paea.lependu@ucr.edu",
-        "primaryIndicator": true,
-        "term": "202440"
-      }
-    ],
-    "meetingsFaculty": [
-      {
-        "category": "01",
-        "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
-        "courseReferenceNumber": "14580",
-        "faculty": [],
-        "meetingTime": {
-          "beginTime": "1700",
-          "building": "SSC",
-          "buildingDescription": "Student Success Center",
-          "campus": "C",
-          "campusDescription": "Riverside",
-          "category": "01",
-          "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
-          "courseReferenceNumber": "14580",
-          "creditHourSession": 1.0,
-          "endDate": "12/06/2024",
-          "endTime": "1750",
-          "friday": false,
-          "hoursWeek": 0.83,
-          "meetingScheduleType": "ACT",
-          "meetingType": "ACT",
-          "meetingTypeDescription": "Activity",
-          "monday": true,
-          "room": "229",
-          "saturday": false,
-          "startDate": "09/26/2024",
-          "sunday": false,
-          "term": "202440",
-          "thursday": false,
-          "tuesday": false,
-          "wednesday": false
-        },
-        "term": "202440"
-      }
-    ],
-    "reservedSeatSummary": null,
-    "sectionAttributes": null,
-    "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
-  },
-  {
-    "id": 882541,
-    "term": "202440",
-    "termDesc": "Fall 2024",
-    "courseReferenceNumber": "26601",
-    "partOfTerm": "1",
-    "courseNumber": "001M",
-    "courseDisplay": "001M",
-    "subject": "ENGR",
-    "subjectDescription": "Engineering",
-    "sequenceNumber": "001",
-    "campusDescription": "Riverside",
-    "scheduleTypeDescription": "Activity",
-    "courseTitle": "PROFESSIONAL DEVELOPMENT AND MENTORING",
-    "creditHours": 1,
-    "maximumEnrollment": 70,
-    "enrollment": 39,
-    "seatsAvailable": 31,
-    "waitCapacity": 0,
-    "waitCount": 0,
-    "waitAvailable": 0,
-    "crossList": "JZ",
-    "crossListCapacity": 395,
-    "crossListCount": 215,
-    "crossListAvailable": 180,
-    "creditHourHigh": null,
-    "creditHourLow": 1,
-    "creditHourIndicator": null,
-    "openSection": true,
-    "linkIdentifier": null,
-    "isSectionLinked": false,
-    "subjectCourse": "ENGR001M",
-    "faculty": [
-      {
-        "bannerId": "65847",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "26601",
-        "displayName": "LePendu, Paea",
-        "emailAddress": "paea.lependu@ucr.edu",
-        "primaryIndicator": true,
-        "term": "202440"
-      }
-    ],
-    "meetingsFaculty": [
-      {
-        "category": "01",
-        "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
-        "courseReferenceNumber": "26601",
-        "faculty": [],
-        "meetingTime": {
-          "beginTime": "1700",
-          "building": "SSC",
-          "buildingDescription": "Student Success Center",
-          "campus": "C",
-          "campusDescription": "Riverside",
-          "category": "01",
-          "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
-          "courseReferenceNumber": "26601",
-          "creditHourSession": 1.0,
-          "endDate": "12/06/2024",
-          "endTime": "1750",
-          "friday": false,
-          "hoursWeek": 0.83,
-          "meetingScheduleType": "ACT",
-          "meetingType": "ACT",
-          "meetingTypeDescription": "Activity",
-          "monday": true,
-          "room": "229",
-          "saturday": false,
-          "startDate": "09/26/2024",
-          "sunday": false,
-          "term": "202440",
-          "thursday": false,
-          "tuesday": false,
-          "wednesday": false
-        },
-        "term": "202440"
-      }
-    ],
-    "reservedSeatSummary": null,
-    "sectionAttributes": null,
-    "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
-  },
-  {
-    "id": 877861,
-    "term": "202440",
-    "termDesc": "Fall 2024",
-    "courseReferenceNumber": "14589",
-    "partOfTerm": "1",
-    "courseNumber": "108",
-    "courseDisplay": "108",
-    "subject": "ENGR",
-    "subjectDescription": "Engineering",
-    "sequenceNumber": "001",
-    "campusDescription": "Riverside",
-    "scheduleTypeDescription": "Lecture",
-    "courseTitle": "TECHNOLOGY IN THE PREMODERN WORLD",
-    "creditHours": 4,
-    "maximumEnrollment": 290,
-    "enrollment": 88,
-    "seatsAvailable": 202,
-    "waitCapacity": 5,
-    "waitCount": 0,
-    "waitAvailable": 5,
-    "crossList": "DQ",
-    "crossListCapacity": 290,
-    "crossListCount": 129,
-    "crossListAvailable": 161,
-    "creditHourHigh": null,
-    "creditHourLow": 4,
-    "creditHourIndicator": null,
-    "openSection": true,
-    "linkIdentifier": null,
-    "isSectionLinked": false,
-    "subjectCourse": "ENGR108",
-    "faculty": [
-      {
-        "bannerId": "66193",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "14589",
-        "displayName": "Garg, Yash",
-        "emailAddress": "yash.garg@email.ucr.edu",
-        "primaryIndicator": false,
-        "term": "202440"
-      },
-      {
-        "bannerId": "65897",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "14589",
-        "displayName": "Heidarzadeh, Tofigh",
-        "emailAddress": "tofigh.heidarzadeh@ucr.edu",
-        "primaryIndicator": true,
-        "term": "202440"
-      }
-    ],
-    "meetingsFaculty": [
-      {
-        "category": "01",
-        "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
-        "courseReferenceNumber": "14589",
-        "faculty": [],
-        "meetingTime": {
-          "beginTime": "1300",
-          "building": "MSE",
-          "buildingDescription": "Materials Sci and Engineering",
-          "campus": "C",
-          "campusDescription": "Riverside",
-          "category": "01",
-          "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
-          "courseReferenceNumber": "14589",
-          "creditHourSession": 4.0,
-          "endDate": "12/06/2024",
-          "endTime": "1350",
-          "friday": true,
-          "hoursWeek": 2.5,
-          "meetingScheduleType": "LEC",
-          "meetingType": "LEC",
-          "meetingTypeDescription": "Lecture",
-          "monday": true,
-          "room": "104",
-          "saturday": false,
-          "startDate": "09/26/2024",
-          "sunday": false,
-          "term": "202440",
-          "thursday": false,
-          "tuesday": false,
-          "wednesday": true
-        },
-        "term": "202440"
-      }
-    ],
-    "reservedSeatSummary": null,
-    "sectionAttributes": null,
-    "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
-  },
-  {
-    "id": 884916,
-    "term": "202440",
-    "termDesc": "Fall 2024",
-    "courseReferenceNumber": "32699",
-    "partOfTerm": "1",
-    "courseNumber": "118",
-    "courseDisplay": "118",
-    "subject": "ENGR",
-    "subjectDescription": "Engineering",
-    "sequenceNumber": "001",
-    "campusDescription": "Riverside",
-    "scheduleTypeDescription": "Lecture",
-    "courseTitle": "ENGINEERING MODELING AND ANALYSIS",
-    "creditHours": 4,
-    "maximumEnrollment": 100,
-    "enrollment": 82,
-    "seatsAvailable": 18,
-    "waitCapacity": 0,
-    "waitCount": 0,
-    "waitAvailable": 0,
-    "crossList": null,
-    "crossListCapacity": null,
-    "crossListCount": null,
-    "crossListAvailable": null,
-    "creditHourHigh": 4,
-    "creditHourLow": 0,
-    "creditHourIndicator": "OR",
-    "openSection": true,
-    "linkIdentifier": "L1",
-    "isSectionLinked": true,
-    "subjectCourse": "ENGR118",
-    "faculty": [
-      {
-        "bannerId": "65572",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "32699",
-        "displayName": "Rupiper, Amanda",
-        "emailAddress": "amanda.rupiper@ucr.edu",
-        "primaryIndicator": true,
-        "term": "202440"
-      }
-    ],
-    "meetingsFaculty": [
-      {
-        "category": "01",
-        "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
-        "courseReferenceNumber": "32699",
-        "faculty": [],
-        "meetingTime": {
-          "beginTime": "0930",
-          "building": "OLMH",
-          "buildingDescription": "Olmsted",
-          "campus": "C",
-          "campusDescription": "Riverside",
-          "category": "01",
-          "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
-          "courseReferenceNumber": "32699",
-          "creditHourSession": 4.0,
-          "endDate": "12/06/2024",
-          "endTime": "1050",
-          "friday": false,
-          "hoursWeek": 2.66,
-          "meetingScheduleType": "LEC",
-          "meetingType": "LEC",
-          "meetingTypeDescription": "Lecture",
-          "monday": false,
-          "room": "1208",
-          "saturday": false,
-          "startDate": "09/26/2024",
-          "sunday": false,
-          "term": "202440",
-          "thursday": true,
-          "tuesday": true,
-          "wednesday": false
-        },
-        "term": "202440"
-      }
-    ],
-    "reservedSeatSummary": null,
-    "sectionAttributes": null,
-    "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
-  },
-  {
     "id": 884917,
     "term": "202440",
     "termDesc": "Fall 2024",
@@ -468,7 +33,7 @@
     "subjectCourse": "ENGR118",
     "faculty": [
       {
-        "bannerId": "65572",
+        "bannerId": "59547",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32700",
@@ -478,7 +43,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66359",
+        "bannerId": "59549",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32700",
@@ -539,7 +104,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENGR118)\nand\n(\n Course or Test: Chemistry 001A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 01HA \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Computer Science 009A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mathematics 046 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Physics 040B \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Physics 040HB \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 884918,
@@ -575,7 +141,7 @@
     "subjectCourse": "ENGR118",
     "faculty": [
       {
-        "bannerId": "65572",
+        "bannerId": "59547",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32701",
@@ -585,7 +151,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66359",
+        "bannerId": "59549",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32701",
@@ -646,7 +212,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENGR118(\n Course or Test: Chemistry 001A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 01HA \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Computer Science 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 046 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Physics 040B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Physics 040HB \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 877862,
@@ -682,7 +249,7 @@
     "subjectCourse": "ENGR180W",
     "faculty": [
       {
-        "bannerId": "66284",
+        "bannerId": "58023",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14593",
@@ -692,7 +259,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66285",
+        "bannerId": "58027",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14593",
@@ -741,7 +308,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:ENGR180W)\nand\n(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.)\nor\n(\n Course or Test: English 001B \n May not be taken concurrently.and\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently."
   },
   {
     "id": 877863,
@@ -777,7 +345,7 @@
     "subjectCourse": "ENGR180W",
     "faculty": [
       {
-        "bannerId": "66285",
+        "bannerId": "58027",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14594",
@@ -826,7 +394,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:ENGR180W)\nand\n(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.)\nor\n(\n Course or Test: English 001B \n May not be taken concurrently.and\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently.)"
   },
   {
     "id": 877864,
@@ -862,7 +431,7 @@
     "subjectCourse": "ENGR180W",
     "faculty": [
       {
-        "bannerId": "66284",
+        "bannerId": "58023",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14595",
@@ -911,7 +480,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:ENGR180W)\nand\n(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.)\nor\n(\n Course or Test: English 001B \n May not be taken concurrently.)\nand\n(\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently."
   },
   {
     "id": 877865,
@@ -947,7 +517,7 @@
     "subjectCourse": "ENGR180W",
     "faculty": [
       {
-        "bannerId": "66285",
+        "bannerId": "58027",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14596",
@@ -996,7 +566,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:ENGR180W(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.)\nor\n(\n Course or Test: English 001B \n May not be taken concurrently.)\nand\n(\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently.)"
   },
   {
     "id": 877866,
@@ -1032,7 +603,7 @@
     "subjectCourse": "ENGR180W",
     "faculty": [
       {
-        "bannerId": "66284",
+        "bannerId": "58023",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14597",
@@ -1081,7 +652,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:ENGR180W(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.)\nor\n(\n Course or Test: English 001B \n May not be taken concurrently.)\nand\n(\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently.)"
   },
   {
     "id": 882619,
@@ -1117,7 +689,7 @@
     "subjectCourse": "ENGR180W",
     "faculty": [
       {
-        "bannerId": "66285",
+        "bannerId": "58027",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26881",
@@ -1166,7 +738,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:ENGR180W(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.or\n Course or Test: English 001B \n May not be taken concurrently.and\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently."
   },
   {
     "id": 882620,
@@ -1202,7 +775,7 @@
     "subjectCourse": "ENGR180W",
     "faculty": [
       {
-        "bannerId": "66284",
+        "bannerId": "58023",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26882",
@@ -1263,7 +836,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:ENGR180W(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.or\n Course or Test: English 001B \n May not be taken concurrently.and\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently."
   },
   {
     "id": 903348,
@@ -1299,7 +873,7 @@
     "subjectCourse": "ENGR180W",
     "faculty": [
       {
-        "bannerId": "66284",
+        "bannerId": "58023",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38456",
@@ -1348,7 +922,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": "Prerequisites:ENGR180W(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.)\nor\n(\n Course or Test: English 001B \n May not be taken concurrently.)\nand\n(\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently.)"
   },
   {
     "id": 881764,
@@ -1384,7 +959,7 @@
     "subjectCourse": "ENGR190",
     "faculty": [
       {
-        "bannerId": "66315",
+        "bannerId": "58588",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24638",
@@ -1433,7 +1008,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 877867,
@@ -1469,7 +1045,7 @@
     "subjectCourse": "ENGR203",
     "faculty": [
       {
-        "bannerId": "66286",
+        "bannerId": "58067",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "14601",
@@ -1518,7 +1094,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 881267,
@@ -1554,7 +1131,7 @@
     "subjectCourse": "ENGR203",
     "faculty": [
       {
-        "bannerId": "66286",
+        "bannerId": "58067",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23265",
@@ -1564,7 +1141,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65198",
+        "bannerId": "58490",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23265",
@@ -1613,7 +1190,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 887652,
@@ -1649,7 +1227,7 @@
     "subjectCourse": "ENGR204",
     "faculty": [
       {
-        "bannerId": "66286",
+        "bannerId": "58067",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36761",
@@ -1659,7 +1237,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65198",
+        "bannerId": "58490",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36761",
@@ -1708,7 +1286,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 881605,
@@ -1744,7 +1323,7 @@
     "subjectCourse": "ENGR296",
     "faculty": [
       {
-        "bannerId": "66286",
+        "bannerId": "58067",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24300",
@@ -1793,7 +1372,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 883020,
@@ -1829,7 +1409,7 @@
     "subjectCourse": "ENGR296",
     "faculty": [
       {
-        "bannerId": "66330",
+        "bannerId": "58996",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27520",
@@ -1878,7 +1458,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 882286,
@@ -1914,7 +1495,7 @@
     "subjectCourse": "ENGR296",
     "faculty": [
       {
-        "bannerId": "65940",
+        "bannerId": "58671",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25499",
@@ -1963,7 +1544,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 884556,
@@ -1999,7 +1581,7 @@
     "subjectCourse": "ENGR296",
     "faculty": [
       {
-        "bannerId": "66187",
+        "bannerId": "59483",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31558",
@@ -2048,7 +1630,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 883479,
@@ -2084,7 +1667,7 @@
     "subjectCourse": "ENGR296",
     "faculty": [
       {
-        "bannerId": "65794",
+        "bannerId": "59204",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29164",
@@ -2133,7 +1716,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 882303,
@@ -2169,7 +1753,7 @@
     "subjectCourse": "ENGR296",
     "faculty": [
       {
-        "bannerId": "65354",
+        "bannerId": "58682",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25543",
@@ -2218,7 +1802,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 882333,
@@ -2254,7 +1839,7 @@
     "subjectCourse": "ENGR296",
     "faculty": [
       {
-        "bannerId": "65208",
+        "bannerId": "58720",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25577",
@@ -2303,7 +1888,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 882680,
@@ -2339,7 +1925,7 @@
     "subjectCourse": "ENGR296",
     "faculty": [
       {
-        "bannerId": "65124",
+        "bannerId": "58949",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27019",
@@ -2388,7 +1974,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 882296,
@@ -2424,7 +2011,7 @@
     "subjectCourse": "ENGR296",
     "faculty": [
       {
-        "bannerId": "65818",
+        "bannerId": "58675",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25515",
@@ -2473,7 +2060,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 883522,
@@ -2509,7 +2097,7 @@
     "subjectCourse": "ENGR296",
     "faculty": [
       {
-        "bannerId": "65210",
+        "bannerId": "59224",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29237",
@@ -2558,7 +2146,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 882304,
@@ -2594,7 +2183,7 @@
     "subjectCourse": "ENGR296",
     "faculty": [
       {
-        "bannerId": "66318",
+        "bannerId": "58690",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25544",
@@ -2643,7 +2232,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 882884,
@@ -2679,7 +2269,7 @@
     "subjectCourse": "ENGR296",
     "faculty": [
       {
-        "bannerId": "66328",
+        "bannerId": "58962",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27348",
@@ -2728,7 +2318,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 882282,
@@ -2764,7 +2355,7 @@
     "subjectCourse": "ENGR296",
     "faculty": [
       {
-        "bannerId": "65126",
+        "bannerId": "58664",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25494",
@@ -2813,7 +2404,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 881972,
@@ -2849,7 +2441,7 @@
     "subjectCourse": "ENGR296",
     "faculty": [
       {
-        "bannerId": "65532",
+        "bannerId": "58608",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25033",
@@ -2898,7 +2490,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 881783,
@@ -2934,7 +2527,7 @@
     "subjectCourse": "ENGR296",
     "faculty": [
       {
-        "bannerId": "65795",
+        "bannerId": "58594",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "24672",
@@ -2983,7 +2576,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 884396,
@@ -3019,7 +2613,7 @@
     "subjectCourse": "ENGR296",
     "faculty": [
       {
-        "bannerId": "66353",
+        "bannerId": "59479",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31353",
@@ -3068,7 +2662,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 884397,
@@ -3104,7 +2699,7 @@
     "subjectCourse": "ENGR296",
     "faculty": [
       {
-        "bannerId": "66161",
+        "bannerId": "59481",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31354",
@@ -3153,7 +2748,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 883482,
@@ -3189,7 +2785,7 @@
     "subjectCourse": "ENGR296",
     "faculty": [
       {
-        "bannerId": "66336",
+        "bannerId": "59214",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29169",
@@ -3238,7 +2834,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 882039,
@@ -3274,7 +2871,7 @@
     "subjectCourse": "ENGR296",
     "faculty": [
       {
-        "bannerId": "65528",
+        "bannerId": "58617",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25177",
@@ -3323,7 +2920,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 882330,
@@ -3359,7 +2957,7 @@
     "subjectCourse": "ENGR296",
     "faculty": [
       {
-        "bannerId": "66319",
+        "bannerId": "58715",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25574",
@@ -3408,7 +3006,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 883487,
@@ -3444,7 +3043,7 @@
     "subjectCourse": "ENGR296",
     "faculty": [
       {
-        "bannerId": "65529",
+        "bannerId": "59220",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29174",
@@ -3493,7 +3092,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 883750,
@@ -3529,7 +3129,7 @@
     "subjectCourse": "ENGR296",
     "faculty": [
       {
-        "bannerId": "65364",
+        "bannerId": "59251",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "29509",
@@ -3578,7 +3178,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 882116,
@@ -3652,7 +3253,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 882342,
@@ -3688,7 +3290,7 @@
     "subjectCourse": "ENGR296",
     "faculty": [
       {
-        "bannerId": "65581",
+        "bannerId": "58727",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25589",
@@ -3737,7 +3339,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 882956,
@@ -3773,7 +3376,7 @@
     "subjectCourse": "ENGR296",
     "faculty": [
       {
-        "bannerId": "66186",
+        "bannerId": "58987",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27435",
@@ -3822,7 +3425,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 882761,
@@ -3858,7 +3462,7 @@
     "subjectCourse": "ENGR296",
     "faculty": [
       {
-        "bannerId": "66327",
+        "bannerId": "58956",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27119",
@@ -3907,7 +3511,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 883035,
@@ -3943,7 +3548,7 @@
     "subjectCourse": "ENGR296",
     "faculty": [
       {
-        "bannerId": "65202",
+        "bannerId": "59001",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "27541",
@@ -3992,7 +3597,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 906092,
@@ -4028,7 +3634,7 @@
     "subjectCourse": "ENGR296",
     "faculty": [
       {
-        "bannerId": "65572",
+        "bannerId": "59547",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38929",
@@ -4077,6 +3683,447 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
+  },
+  {
+    "id": 877859,
+    "term": "202440",
+    "termDesc": "Fall 2024",
+    "courseReferenceNumber": "14579",
+    "partOfTerm": "1",
+    "courseNumber": "001G",
+    "courseDisplay": "001G",
+    "subject": "ENGR",
+    "subjectDescription": "Engineering",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Activity",
+    "courseTitle": "COMPUTER ENGINEERING",
+    "creditHours": 1,
+    "maximumEnrollment": 110,
+    "enrollment": 55,
+    "seatsAvailable": 55,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": "JZ",
+    "crossListCapacity": 395,
+    "crossListCount": 215,
+    "crossListAvailable": 180,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "creditHourIndicator": null,
+    "openSection": true,
+    "linkIdentifier": null,
+    "isSectionLinked": false,
+    "subjectCourse": "ENGR001G",
+    "faculty": [
+      {
+        "bannerId": "57163",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "14579",
+        "displayName": "LePendu, Paea",
+        "emailAddress": "paea.lependu@ucr.edu",
+        "primaryIndicator": true,
+        "term": "202440"
+      }
+    ],
+    "meetingsFaculty": [
+      {
+        "category": "01",
+        "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
+        "courseReferenceNumber": "14579",
+        "faculty": [],
+        "meetingTime": {
+          "beginTime": "1700",
+          "building": "SSC",
+          "buildingDescription": "Student Success Center",
+          "campus": "C",
+          "campusDescription": "Riverside",
+          "category": "01",
+          "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
+          "courseReferenceNumber": "14579",
+          "creditHourSession": 1.0,
+          "endDate": "12/06/2024",
+          "endTime": "1750",
+          "friday": false,
+          "hoursWeek": 0.83,
+          "meetingScheduleType": "ACT",
+          "meetingType": "ACT",
+          "meetingTypeDescription": "Activity",
+          "monday": true,
+          "room": "229",
+          "saturday": false,
+          "startDate": "09/26/2024",
+          "sunday": false,
+          "term": "202440",
+          "thursday": false,
+          "tuesday": false,
+          "wednesday": false
+        },
+        "term": "202440"
+      }
+    ],
+    "reservedSeatSummary": null,
+    "sectionAttributes": null,
+    "instructionalMethod": "I",
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
+  },
+  {
+    "id": 877860,
+    "term": "202440",
+    "termDesc": "Fall 2024",
+    "courseReferenceNumber": "14580",
+    "partOfTerm": "1",
+    "courseNumber": "001I",
+    "courseDisplay": "001I",
+    "subject": "ENGR",
+    "subjectDescription": "Engineering",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Activity",
+    "courseTitle": "COMPUTER SCIENCE",
+    "creditHours": 1,
+    "maximumEnrollment": 220,
+    "enrollment": 121,
+    "seatsAvailable": 99,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": "JZ",
+    "crossListCapacity": 395,
+    "crossListCount": 215,
+    "crossListAvailable": 180,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "creditHourIndicator": null,
+    "openSection": true,
+    "linkIdentifier": null,
+    "isSectionLinked": false,
+    "subjectCourse": "ENGR001I",
+    "faculty": [
+      {
+        "bannerId": "57163",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "14580",
+        "displayName": "LePendu, Paea",
+        "emailAddress": "paea.lependu@ucr.edu",
+        "primaryIndicator": true,
+        "term": "202440"
+      }
+    ],
+    "meetingsFaculty": [
+      {
+        "category": "01",
+        "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
+        "courseReferenceNumber": "14580",
+        "faculty": [],
+        "meetingTime": {
+          "beginTime": "1700",
+          "building": "SSC",
+          "buildingDescription": "Student Success Center",
+          "campus": "C",
+          "campusDescription": "Riverside",
+          "category": "01",
+          "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
+          "courseReferenceNumber": "14580",
+          "creditHourSession": 1.0,
+          "endDate": "12/06/2024",
+          "endTime": "1750",
+          "friday": false,
+          "hoursWeek": 0.83,
+          "meetingScheduleType": "ACT",
+          "meetingType": "ACT",
+          "meetingTypeDescription": "Activity",
+          "monday": true,
+          "room": "229",
+          "saturday": false,
+          "startDate": "09/26/2024",
+          "sunday": false,
+          "term": "202440",
+          "thursday": false,
+          "tuesday": false,
+          "wednesday": false
+        },
+        "term": "202440"
+      }
+    ],
+    "reservedSeatSummary": null,
+    "sectionAttributes": null,
+    "instructionalMethod": "I",
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
+  },
+  {
+    "id": 882541,
+    "term": "202440",
+    "termDesc": "Fall 2024",
+    "courseReferenceNumber": "26601",
+    "partOfTerm": "1",
+    "courseNumber": "001M",
+    "courseDisplay": "001M",
+    "subject": "ENGR",
+    "subjectDescription": "Engineering",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Activity",
+    "courseTitle": "PROFESSIONAL DEVELOPMENT AND MENTORING",
+    "creditHours": 1,
+    "maximumEnrollment": 70,
+    "enrollment": 39,
+    "seatsAvailable": 31,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": "JZ",
+    "crossListCapacity": 395,
+    "crossListCount": 215,
+    "crossListAvailable": 180,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "creditHourIndicator": null,
+    "openSection": true,
+    "linkIdentifier": null,
+    "isSectionLinked": false,
+    "subjectCourse": "ENGR001M",
+    "faculty": [
+      {
+        "bannerId": "57163",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "26601",
+        "displayName": "LePendu, Paea",
+        "emailAddress": "paea.lependu@ucr.edu",
+        "primaryIndicator": true,
+        "term": "202440"
+      }
+    ],
+    "meetingsFaculty": [
+      {
+        "category": "01",
+        "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
+        "courseReferenceNumber": "26601",
+        "faculty": [],
+        "meetingTime": {
+          "beginTime": "1700",
+          "building": "SSC",
+          "buildingDescription": "Student Success Center",
+          "campus": "C",
+          "campusDescription": "Riverside",
+          "category": "01",
+          "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
+          "courseReferenceNumber": "26601",
+          "creditHourSession": 1.0,
+          "endDate": "12/06/2024",
+          "endTime": "1750",
+          "friday": false,
+          "hoursWeek": 0.83,
+          "meetingScheduleType": "ACT",
+          "meetingType": "ACT",
+          "meetingTypeDescription": "Activity",
+          "monday": true,
+          "room": "229",
+          "saturday": false,
+          "startDate": "09/26/2024",
+          "sunday": false,
+          "term": "202440",
+          "thursday": false,
+          "tuesday": false,
+          "wednesday": false
+        },
+        "term": "202440"
+      }
+    ],
+    "reservedSeatSummary": null,
+    "sectionAttributes": null,
+    "instructionalMethod": "I",
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
+  },
+  {
+    "id": 877861,
+    "term": "202440",
+    "termDesc": "Fall 2024",
+    "courseReferenceNumber": "14589",
+    "partOfTerm": "1",
+    "courseNumber": "108",
+    "courseDisplay": "108",
+    "subject": "ENGR",
+    "subjectDescription": "Engineering",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "TECHNOLOGY IN THE PREMODERN WORLD",
+    "creditHours": 4,
+    "maximumEnrollment": 290,
+    "enrollment": 88,
+    "seatsAvailable": 202,
+    "waitCapacity": 5,
+    "waitCount": 0,
+    "waitAvailable": 5,
+    "crossList": "DQ",
+    "crossListCapacity": 290,
+    "crossListCount": 129,
+    "crossListAvailable": 161,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "creditHourIndicator": null,
+    "openSection": true,
+    "linkIdentifier": null,
+    "isSectionLinked": false,
+    "subjectCourse": "ENGR108",
+    "faculty": [
+      {
+        "bannerId": "57165",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "14589",
+        "displayName": "Heidarzadeh, Tofigh",
+        "emailAddress": "tofigh.heidarzadeh@ucr.edu",
+        "primaryIndicator": true,
+        "term": "202440"
+      },
+      {
+        "bannerId": "57167",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "14589",
+        "displayName": "Garg, Yash",
+        "emailAddress": "yash.garg@email.ucr.edu",
+        "primaryIndicator": false,
+        "term": "202440"
+      }
+    ],
+    "meetingsFaculty": [
+      {
+        "category": "01",
+        "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
+        "courseReferenceNumber": "14589",
+        "faculty": [],
+        "meetingTime": {
+          "beginTime": "1300",
+          "building": "MSE",
+          "buildingDescription": "Materials Sci and Engineering",
+          "campus": "C",
+          "campusDescription": "Riverside",
+          "category": "01",
+          "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
+          "courseReferenceNumber": "14589",
+          "creditHourSession": 4.0,
+          "endDate": "12/06/2024",
+          "endTime": "1350",
+          "friday": true,
+          "hoursWeek": 2.5,
+          "meetingScheduleType": "LEC",
+          "meetingType": "LEC",
+          "meetingTypeDescription": "Lecture",
+          "monday": true,
+          "room": "104",
+          "saturday": false,
+          "startDate": "09/26/2024",
+          "sunday": false,
+          "term": "202440",
+          "thursday": false,
+          "tuesday": false,
+          "wednesday": true
+        },
+        "term": "202440"
+      }
+    ],
+    "reservedSeatSummary": null,
+    "sectionAttributes": null,
+    "instructionalMethod": "I",
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
+  },
+  {
+    "id": 884916,
+    "term": "202440",
+    "termDesc": "Fall 2024",
+    "courseReferenceNumber": "32699",
+    "partOfTerm": "1",
+    "courseNumber": "118",
+    "courseDisplay": "118",
+    "subject": "ENGR",
+    "subjectDescription": "Engineering",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "ENGINEERING MODELING AND ANALYSIS",
+    "creditHours": 4,
+    "maximumEnrollment": 100,
+    "enrollment": 82,
+    "seatsAvailable": 18,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "ENGR118",
+    "faculty": [
+      {
+        "bannerId": "57919",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "32699",
+        "displayName": "Rupiper, Amanda",
+        "emailAddress": "amanda.rupiper@ucr.edu",
+        "primaryIndicator": true,
+        "term": "202440"
+      }
+    ],
+    "meetingsFaculty": [
+      {
+        "category": "01",
+        "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
+        "courseReferenceNumber": "32699",
+        "faculty": [],
+        "meetingTime": {
+          "beginTime": "0930",
+          "building": "OLMH",
+          "buildingDescription": "Olmsted",
+          "campus": "C",
+          "campusDescription": "Riverside",
+          "category": "01",
+          "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
+          "courseReferenceNumber": "32699",
+          "creditHourSession": 4.0,
+          "endDate": "12/06/2024",
+          "endTime": "1050",
+          "friday": false,
+          "hoursWeek": 2.66,
+          "meetingScheduleType": "LEC",
+          "meetingType": "LEC",
+          "meetingTypeDescription": "Lecture",
+          "monday": false,
+          "room": "1208",
+          "saturday": false,
+          "startDate": "09/26/2024",
+          "sunday": false,
+          "term": "202440",
+          "thursday": true,
+          "tuesday": true,
+          "wednesday": false
+        },
+        "term": "202440"
+      }
+    ],
+    "reservedSeatSummary": null,
+    "sectionAttributes": null,
+    "instructionalMethod": "I",
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ENGR118(\n Course or Test: Chemistry 001A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 01HA \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Computer Science 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 046 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Physics 040B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Physics 040HB \n Minimum Grade of D-\n May not be taken concurrently.)"
   }
 ]

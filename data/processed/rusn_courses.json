@@ -33,7 +33,7 @@
     "subjectCourse": "RUSN001",
     "faculty": [
       {
-        "bannerId": "66540",
+        "bannerId": "60213",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19360",
@@ -82,7 +82,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880372,
@@ -118,7 +119,7 @@
     "subjectCourse": "RUSN004",
     "faculty": [
       {
-        "bannerId": "66540",
+        "bannerId": "60213",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "19361",
@@ -167,7 +168,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:RUSN004(\n Course or Test: Russian Studies 003 \n Minimum Grade of C-\n May not be taken concurrently.Language: Russian Prereq 606 to 607\n May not be taken concurrently.)"
   },
   {
     "id": 885149,
@@ -203,7 +205,7 @@
     "subjectCourse": "RUSN190",
     "faculty": [
       {
-        "bannerId": "65659",
+        "bannerId": "60368",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33127",
@@ -252,6 +254,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   }
 ]

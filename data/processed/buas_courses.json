@@ -33,7 +33,7 @@
     "subjectCourse": "BUAS101",
     "faculty": [
       {
-        "bannerId": "65058",
+        "bannerId": "59082",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36208",
@@ -82,6 +82,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:BUAS101(\n Course or Test: Business 106 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 134 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Business 133 \n Minimum Grade of D-\n May not be taken concurrently.)"
   }
 ]

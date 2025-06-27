@@ -33,7 +33,7 @@
     "subjectCourse": "BLKS001",
     "faculty": [
       {
-        "bannerId": "64948",
+        "bannerId": "58731",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37786",
@@ -82,7 +82,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889350,
@@ -118,7 +119,7 @@
     "subjectCourse": "BLKS002",
     "faculty": [
       {
-        "bannerId": "65393",
+        "bannerId": "58761",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37791",
@@ -167,7 +168,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889346,
@@ -203,7 +205,7 @@
     "subjectCourse": "BLKS101",
     "faculty": [
       {
-        "bannerId": "65370",
+        "bannerId": "58743",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37787",
@@ -252,7 +254,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889347,
@@ -288,7 +291,7 @@
     "subjectCourse": "BLKS142",
     "faculty": [
       {
-        "bannerId": "65392",
+        "bannerId": "58749",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37788",
@@ -337,7 +340,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889344,
@@ -373,7 +377,7 @@
     "subjectCourse": "BLKS144",
     "faculty": [
       {
-        "bannerId": "65369",
+        "bannerId": "58724",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37785",
@@ -422,7 +426,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887316,
@@ -458,23 +463,23 @@
     "subjectCourse": "BLKS145",
     "faculty": [
       {
-        "bannerId": "65362",
-        "category": null,
-        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-        "courseReferenceNumber": "36374",
-        "displayName": "Lee, Alice",
-        "emailAddress": "alicel@ucr.edu",
-        "primaryIndicator": true,
-        "term": "202440"
-      },
-      {
-        "bannerId": "65389",
+        "bannerId": "58489",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36374",
         "displayName": "Rivas, Sofia",
         "emailAddress": "sofia.rivas@email.ucr.edu",
         "primaryIndicator": false,
+        "term": "202440"
+      },
+      {
+        "bannerId": "58502",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "36374",
+        "displayName": "Lee, Alice",
+        "emailAddress": "alicel@ucr.edu",
+        "primaryIndicator": true,
         "term": "202440"
       }
     ],
@@ -517,7 +522,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889547,
@@ -553,7 +559,7 @@
     "subjectCourse": "BLKS145",
     "faculty": [
       {
-        "bannerId": "65389",
+        "bannerId": "58489",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37927",
@@ -602,7 +608,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887330,
@@ -638,7 +645,7 @@
     "subjectCourse": "BLKS145",
     "faculty": [
       {
-        "bannerId": "65389",
+        "bannerId": "58489",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36390",
@@ -687,6 +694,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   }
 ]

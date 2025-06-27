@@ -33,7 +33,7 @@
     "subjectCourse": "HASS001",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "57957",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32910",
@@ -43,7 +43,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "57962",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32910",
@@ -104,7 +104,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 886806,
@@ -140,7 +141,7 @@
     "subjectCourse": "HASS001",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "57957",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35778",
@@ -150,7 +151,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "57962",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35778",
@@ -211,7 +212,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 886807,
@@ -247,7 +249,7 @@
     "subjectCourse": "HASS001",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "57957",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35779",
@@ -257,7 +259,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "57962",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35779",
@@ -318,7 +320,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 888513,
@@ -354,7 +357,7 @@
     "subjectCourse": "HASS001",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "57957",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37176",
@@ -364,7 +367,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "57962",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37176",
@@ -425,7 +428,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 888514,
@@ -461,7 +465,7 @@
     "subjectCourse": "HASS001",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "57957",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37177",
@@ -471,7 +475,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "57962",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37177",
@@ -532,7 +536,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 888515,
@@ -568,7 +573,7 @@
     "subjectCourse": "HASS001",
     "faculty": [
       {
-        "bannerId": "65498",
+        "bannerId": "57957",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37178",
@@ -578,7 +583,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "65499",
+        "bannerId": "57962",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37178",
@@ -639,7 +644,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 878528,
@@ -675,7 +681,7 @@
     "subjectCourse": "HASS090",
     "faculty": [
       {
-        "bannerId": "64964",
+        "bannerId": "56475",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15829",
@@ -724,7 +730,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878529,
@@ -760,7 +767,7 @@
     "subjectCourse": "HASS090",
     "faculty": [
       {
-        "bannerId": "66009",
+        "bannerId": "56478",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15830",
@@ -809,7 +816,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878530,
@@ -845,7 +853,7 @@
     "subjectCourse": "HASS090",
     "faculty": [
       {
-        "bannerId": "65728",
+        "bannerId": "56480",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15831",
@@ -894,7 +902,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885575,
@@ -930,7 +939,7 @@
     "subjectCourse": "HASS189A",
     "faculty": [
       {
-        "bannerId": "66704",
+        "bannerId": "58043",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33692",
@@ -979,7 +988,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878531,
@@ -1015,7 +1025,7 @@
     "subjectCourse": "HASS190",
     "faculty": [
       {
-        "bannerId": "64964",
+        "bannerId": "56475",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15832",
@@ -1064,7 +1074,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878532,
@@ -1100,7 +1111,7 @@
     "subjectCourse": "HASS190",
     "faculty": [
       {
-        "bannerId": "66276",
+        "bannerId": "56484",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15833",
@@ -1149,7 +1160,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878533,
@@ -1185,7 +1197,7 @@
     "subjectCourse": "HASS190",
     "faculty": [
       {
-        "bannerId": "65728",
+        "bannerId": "56480",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "15834",
@@ -1234,7 +1246,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878534,
@@ -1273,7 +1286,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887809,
@@ -1309,7 +1323,7 @@
     "subjectCourse": "HASS198I",
     "faculty": [
       {
-        "bannerId": "66704",
+        "bannerId": "58043",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36946",
@@ -1358,6 +1372,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   }
 ]

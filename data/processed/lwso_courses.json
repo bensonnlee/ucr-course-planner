@@ -33,7 +33,7 @@
     "subjectCourse": "LWSO100",
     "faculty": [
       {
-        "bannerId": "66449",
+        "bannerId": "58085",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33844",
@@ -43,7 +43,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66670",
+        "bannerId": "56680",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33844",
@@ -53,7 +53,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "66669",
+        "bannerId": "56671",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33844",
@@ -102,7 +102,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878702,
@@ -138,7 +139,7 @@
     "subjectCourse": "LWSO100",
     "faculty": [
       {
-        "bannerId": "66669",
+        "bannerId": "56671",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16329",
@@ -199,7 +200,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878703,
@@ -235,7 +237,7 @@
     "subjectCourse": "LWSO100",
     "faculty": [
       {
-        "bannerId": "66669",
+        "bannerId": "56671",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16330",
@@ -296,7 +298,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878704,
@@ -332,7 +335,7 @@
     "subjectCourse": "LWSO100",
     "faculty": [
       {
-        "bannerId": "66669",
+        "bannerId": "56671",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16331",
@@ -381,7 +384,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878705,
@@ -417,7 +421,7 @@
     "subjectCourse": "LWSO100",
     "faculty": [
       {
-        "bannerId": "66670",
+        "bannerId": "56680",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16332",
@@ -466,7 +470,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878706,
@@ -502,7 +507,7 @@
     "subjectCourse": "LWSO100",
     "faculty": [
       {
-        "bannerId": "66670",
+        "bannerId": "56680",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16333",
@@ -551,7 +556,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 878707,
@@ -587,7 +593,7 @@
     "subjectCourse": "LWSO100",
     "faculty": [
       {
-        "bannerId": "66670",
+        "bannerId": "56680",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16334",
@@ -636,6 +642,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   }
 ]

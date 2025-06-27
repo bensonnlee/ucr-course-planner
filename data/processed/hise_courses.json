@@ -33,7 +33,7 @@
     "subjectCourse": "HISE111",
     "faculty": [
       {
-        "bannerId": "66653",
+        "bannerId": "58972",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38591",
@@ -82,7 +82,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888813,
@@ -118,7 +119,7 @@
     "subjectCourse": "HISE115",
     "faculty": [
       {
-        "bannerId": "66569",
+        "bannerId": "58596",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37377",
@@ -179,7 +180,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888814,
@@ -215,7 +217,7 @@
     "subjectCourse": "HISE162",
     "faculty": [
       {
-        "bannerId": "66630",
+        "bannerId": "57235",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37378",
@@ -276,7 +278,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 888815,
@@ -312,7 +315,7 @@
     "subjectCourse": "HISE173",
     "faculty": [
       {
-        "bannerId": "66602",
+        "bannerId": "56515",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37379",
@@ -373,6 +376,7 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   }
 ]

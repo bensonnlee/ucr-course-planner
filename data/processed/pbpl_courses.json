@@ -33,7 +33,7 @@
     "subjectCourse": "PBPL001",
     "faculty": [
       {
-        "bannerId": "67363",
+        "bannerId": "60123",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17586",
@@ -43,7 +43,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67364",
+        "bannerId": "60124",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17586",
@@ -53,7 +53,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67365",
+        "bannerId": "60126",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17586",
@@ -63,7 +63,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67366",
+        "bannerId": "60128",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17586",
@@ -73,7 +73,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67367",
+        "bannerId": "60130",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17586",
@@ -134,7 +134,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879349,
@@ -170,7 +171,7 @@
     "subjectCourse": "PBPL001",
     "faculty": [
       {
-        "bannerId": "67365",
+        "bannerId": "60126",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17589",
@@ -219,7 +220,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882602,
@@ -255,7 +257,7 @@
     "subjectCourse": "PBPL001",
     "faculty": [
       {
-        "bannerId": "67365",
+        "bannerId": "60126",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26842",
@@ -304,7 +306,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882603,
@@ -340,7 +343,7 @@
     "subjectCourse": "PBPL001",
     "faculty": [
       {
-        "bannerId": "67367",
+        "bannerId": "60130",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26843",
@@ -401,7 +404,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882604,
@@ -437,7 +441,7 @@
     "subjectCourse": "PBPL001",
     "faculty": [
       {
-        "bannerId": "67367",
+        "bannerId": "60130",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "26844",
@@ -498,7 +502,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884165,
@@ -534,7 +539,7 @@
     "subjectCourse": "PBPL001",
     "faculty": [
       {
-        "bannerId": "67363",
+        "bannerId": "60123",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "30609",
@@ -583,7 +588,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884166,
@@ -619,7 +625,7 @@
     "subjectCourse": "PBPL001",
     "faculty": [
       {
-        "bannerId": "67364",
+        "bannerId": "60124",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "30610",
@@ -668,7 +674,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884167,
@@ -704,7 +711,7 @@
     "subjectCourse": "PBPL001",
     "faculty": [
       {
-        "bannerId": "67364",
+        "bannerId": "60124",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "30611",
@@ -765,7 +772,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886979,
@@ -801,7 +809,7 @@
     "subjectCourse": "PBPL001",
     "faculty": [
       {
-        "bannerId": "67363",
+        "bannerId": "60123",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35995",
@@ -850,7 +858,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884562,
@@ -886,7 +895,7 @@
     "subjectCourse": "PBPL001",
     "faculty": [
       {
-        "bannerId": "67364",
+        "bannerId": "60124",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31572",
@@ -947,7 +956,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884563,
@@ -983,7 +993,7 @@
     "subjectCourse": "PBPL001",
     "faculty": [
       {
-        "bannerId": "67363",
+        "bannerId": "60123",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "31573",
@@ -1032,7 +1042,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887793,
@@ -1068,7 +1079,7 @@
     "subjectCourse": "PBPL001",
     "faculty": [
       {
-        "bannerId": "67367",
+        "bannerId": "60130",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36930",
@@ -1129,7 +1140,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 887794,
@@ -1165,7 +1177,7 @@
     "subjectCourse": "PBPL001",
     "faculty": [
       {
-        "bannerId": "67364",
+        "bannerId": "60124",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "36931",
@@ -1214,7 +1226,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 890712,
@@ -1250,7 +1263,7 @@
     "subjectCourse": "PBPL001",
     "faculty": [
       {
-        "bannerId": "67365",
+        "bannerId": "60126",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38255",
@@ -1299,7 +1312,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 890713,
@@ -1335,7 +1349,7 @@
     "subjectCourse": "PBPL001",
     "faculty": [
       {
-        "bannerId": "67365",
+        "bannerId": "60126",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38256",
@@ -1384,7 +1398,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 890714,
@@ -1420,7 +1435,7 @@
     "subjectCourse": "PBPL001",
     "faculty": [
       {
-        "bannerId": "67363",
+        "bannerId": "60123",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38257",
@@ -1481,7 +1496,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 890715,
@@ -1517,7 +1533,7 @@
     "subjectCourse": "PBPL001",
     "faculty": [
       {
-        "bannerId": "67367",
+        "bannerId": "60130",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38258",
@@ -1566,7 +1582,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883259,
@@ -1602,7 +1619,7 @@
     "subjectCourse": "PBPL002",
     "faculty": [
       {
-        "bannerId": "67397",
+        "bannerId": "60265",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28401",
@@ -1612,7 +1629,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67419",
+        "bannerId": "60340",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28401",
@@ -1622,7 +1639,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67420",
+        "bannerId": "60341",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28401",
@@ -1632,7 +1649,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67421",
+        "bannerId": "60342",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28401",
@@ -1693,7 +1710,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883260,
@@ -1729,7 +1747,7 @@
     "subjectCourse": "PBPL002",
     "faculty": [
       {
-        "bannerId": "67419",
+        "bannerId": "60340",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28403",
@@ -1778,7 +1796,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883261,
@@ -1814,7 +1833,7 @@
     "subjectCourse": "PBPL002",
     "faculty": [
       {
-        "bannerId": "67419",
+        "bannerId": "60340",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28404",
@@ -1863,7 +1882,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883262,
@@ -1899,7 +1919,7 @@
     "subjectCourse": "PBPL002",
     "faculty": [
       {
-        "bannerId": "67419",
+        "bannerId": "60340",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28405",
@@ -1948,7 +1968,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889242,
@@ -1984,7 +2005,7 @@
     "subjectCourse": "PBPL002",
     "faculty": [
       {
-        "bannerId": "67421",
+        "bannerId": "60342",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37706",
@@ -2033,7 +2054,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889243,
@@ -2069,7 +2091,7 @@
     "subjectCourse": "PBPL002",
     "faculty": [
       {
-        "bannerId": "67421",
+        "bannerId": "60342",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37707",
@@ -2118,7 +2140,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889244,
@@ -2154,7 +2177,7 @@
     "subjectCourse": "PBPL002",
     "faculty": [
       {
-        "bannerId": "67420",
+        "bannerId": "60341",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37708",
@@ -2215,7 +2238,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889245,
@@ -2251,7 +2275,7 @@
     "subjectCourse": "PBPL002",
     "faculty": [
       {
-        "bannerId": "67421",
+        "bannerId": "60342",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37709",
@@ -2312,7 +2336,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889246,
@@ -2348,7 +2373,7 @@
     "subjectCourse": "PBPL002",
     "faculty": [
       {
-        "bannerId": "67420",
+        "bannerId": "60341",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37710",
@@ -2409,7 +2434,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889247,
@@ -2445,7 +2471,7 @@
     "subjectCourse": "PBPL002",
     "faculty": [
       {
-        "bannerId": "67420",
+        "bannerId": "60341",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37711",
@@ -2494,7 +2520,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883256,
@@ -2530,7 +2557,7 @@
     "subjectCourse": "PBPL004",
     "faculty": [
       {
-        "bannerId": "67416",
+        "bannerId": "60334",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28397",
@@ -2540,7 +2567,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67417",
+        "bannerId": "60338",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28397",
@@ -2550,7 +2577,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67418",
+        "bannerId": "60339",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28397",
@@ -2611,7 +2638,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883257,
@@ -2647,7 +2675,7 @@
     "subjectCourse": "PBPL004",
     "faculty": [
       {
-        "bannerId": "67418",
+        "bannerId": "60339",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28398",
@@ -2708,7 +2736,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 883258,
@@ -2744,7 +2773,7 @@
     "subjectCourse": "PBPL004",
     "faculty": [
       {
-        "bannerId": "67417",
+        "bannerId": "60338",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "28399",
@@ -2793,7 +2822,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 884879,
@@ -2829,7 +2859,7 @@
     "subjectCourse": "PBPL004",
     "faculty": [
       {
-        "bannerId": "67417",
+        "bannerId": "60338",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "32591",
@@ -2878,7 +2908,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889248,
@@ -2914,7 +2945,7 @@
     "subjectCourse": "PBPL004",
     "faculty": [
       {
-        "bannerId": "67417",
+        "bannerId": "60338",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37712",
@@ -2963,7 +2994,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889249,
@@ -2999,7 +3031,7 @@
     "subjectCourse": "PBPL004",
     "faculty": [
       {
-        "bannerId": "67418",
+        "bannerId": "60339",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37713",
@@ -3048,7 +3080,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889250,
@@ -3084,7 +3117,7 @@
     "subjectCourse": "PBPL004",
     "faculty": [
       {
-        "bannerId": "67418",
+        "bannerId": "60339",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37714",
@@ -3133,7 +3166,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885637,
@@ -3169,7 +3203,7 @@
     "subjectCourse": "PBPL006",
     "faculty": [
       {
-        "bannerId": "67434",
+        "bannerId": "60372",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33902",
@@ -3179,7 +3213,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67416",
+        "bannerId": "60334",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33902",
@@ -3189,7 +3223,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67435",
+        "bannerId": "60373",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33902",
@@ -3199,7 +3233,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67436",
+        "bannerId": "60374",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33902",
@@ -3260,7 +3294,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885638,
@@ -3296,7 +3331,7 @@
     "subjectCourse": "PBPL006",
     "faculty": [
       {
-        "bannerId": "67434",
+        "bannerId": "60372",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33903",
@@ -3357,7 +3392,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885639,
@@ -3393,7 +3429,7 @@
     "subjectCourse": "PBPL006",
     "faculty": [
       {
-        "bannerId": "67436",
+        "bannerId": "60374",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33904",
@@ -3454,7 +3490,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885640,
@@ -3490,7 +3527,7 @@
     "subjectCourse": "PBPL006",
     "faculty": [
       {
-        "bannerId": "67434",
+        "bannerId": "60372",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33905",
@@ -3551,7 +3588,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885641,
@@ -3587,7 +3625,7 @@
     "subjectCourse": "PBPL006",
     "faculty": [
       {
-        "bannerId": "67436",
+        "bannerId": "60374",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33906",
@@ -3648,7 +3686,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885642,
@@ -3684,7 +3723,7 @@
     "subjectCourse": "PBPL006",
     "faculty": [
       {
-        "bannerId": "67434",
+        "bannerId": "60372",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33907",
@@ -3733,7 +3772,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885643,
@@ -3769,7 +3809,7 @@
     "subjectCourse": "PBPL006",
     "faculty": [
       {
-        "bannerId": "67436",
+        "bannerId": "60374",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33908",
@@ -3818,7 +3858,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885644,
@@ -3854,7 +3895,7 @@
     "subjectCourse": "PBPL006",
     "faculty": [
       {
-        "bannerId": "67435",
+        "bannerId": "60373",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33909",
@@ -3903,7 +3944,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885645,
@@ -3939,7 +3981,7 @@
     "subjectCourse": "PBPL006",
     "faculty": [
       {
-        "bannerId": "67435",
+        "bannerId": "60373",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33910",
@@ -3988,7 +4030,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885646,
@@ -4024,7 +4067,7 @@
     "subjectCourse": "PBPL006",
     "faculty": [
       {
-        "bannerId": "67435",
+        "bannerId": "60373",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33911",
@@ -4073,7 +4116,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886968,
@@ -4109,7 +4153,7 @@
     "subjectCourse": "PBPL010",
     "faculty": [
       {
-        "bannerId": "67445",
+        "bannerId": "60392",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35981",
@@ -4119,7 +4163,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67449",
+        "bannerId": "60393",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35981",
@@ -4180,7 +4224,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 886969,
@@ -4216,7 +4261,7 @@
     "subjectCourse": "PBPL010",
     "faculty": [
       {
-        "bannerId": "67449",
+        "bannerId": "60393",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35982",
@@ -4277,7 +4322,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 904507,
@@ -4313,7 +4359,7 @@
     "subjectCourse": "PBPL010",
     "faculty": [
       {
-        "bannerId": "67449",
+        "bannerId": "60393",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38626",
@@ -4362,7 +4408,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "O",
-    "instructionalMethodDescription": "Online"
+    "instructionalMethodDescription": "Online",
+    "prerequisites": ""
   },
   {
     "id": 889236,
@@ -4398,7 +4445,7 @@
     "subjectCourse": "PBPL050",
     "faculty": [
       {
-        "bannerId": "67433",
+        "bannerId": "60371",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37699",
@@ -4459,7 +4506,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 890835,
@@ -4495,7 +4543,7 @@
     "subjectCourse": "PBPL127",
     "faculty": [
       {
-        "bannerId": "67413",
+        "bannerId": "60307",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38322",
@@ -4544,7 +4592,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:PBPL127(\n Course or Test: Sociology 001 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001H \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 890836,
@@ -4618,7 +4667,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:PBPL127)\nand\n(\n Course or Test: Sociology 001 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001H \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 890837,
@@ -4692,7 +4742,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:PBPL127)\nand\n(\n Course or Test: Sociology 001 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001H \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 890838,
@@ -4766,7 +4817,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:PBPL127)\nand\n(\n Course or Test: Sociology 001 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001H \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 889239,
@@ -4802,7 +4854,7 @@
     "subjectCourse": "PBPL172",
     "faculty": [
       {
-        "bannerId": "66015",
+        "bannerId": "60418",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37702",
@@ -4863,7 +4915,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:PBPL172)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 886971,
@@ -4899,7 +4952,7 @@
     "subjectCourse": "PBPL180",
     "faculty": [
       {
-        "bannerId": "67446",
+        "bannerId": "60394",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35987",
@@ -4960,7 +5013,8 @@
     },
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 890815,
@@ -4996,7 +5050,7 @@
     "subjectCourse": "PBPL182",
     "faculty": [
       {
-        "bannerId": "67376",
+        "bannerId": "60220",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38305",
@@ -5045,7 +5099,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 890816,
@@ -5119,7 +5174,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 890819,
@@ -5193,7 +5249,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 890821,
@@ -5267,7 +5324,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 886615,
@@ -5303,7 +5361,7 @@
     "subjectCourse": "PBPL186",
     "faculty": [
       {
-        "bannerId": "66072",
+        "bannerId": "60384",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "35545",
@@ -5352,7 +5410,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:PBPL186(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)"
   },
   {
     "id": 879350,
@@ -5388,7 +5447,7 @@
     "subjectCourse": "PBPL191",
     "faculty": [
       {
-        "bannerId": "67368",
+        "bannerId": "60132",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17592",
@@ -5437,7 +5496,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 905492,
@@ -5473,7 +5533,7 @@
     "subjectCourse": "PBPL197",
     "faculty": [
       {
-        "bannerId": "67453",
+        "bannerId": "60420",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "38796",
@@ -5522,7 +5582,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:PBPL197)\nand\n(\n Course or Test: Business 115 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Psychology 011 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Sociology 005 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Statistics 004 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Statistics 155 \n Minimum Grade of D-\n May not be taken concurrently."
   },
   {
     "id": 879351,
@@ -5558,7 +5619,7 @@
     "subjectCourse": "PBPL198I",
     "faculty": [
       {
-        "bannerId": "67368",
+        "bannerId": "60132",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17595",
@@ -5607,7 +5668,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 879352,
@@ -5643,7 +5705,7 @@
     "subjectCourse": "PBPL200",
     "faculty": [
       {
-        "bannerId": "67368",
+        "bannerId": "60132",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "17596",
@@ -5692,7 +5754,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889278,
@@ -5728,7 +5791,7 @@
     "subjectCourse": "PBPL205",
     "faculty": [
       {
-        "bannerId": "67433",
+        "bannerId": "60371",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37726",
@@ -5777,7 +5840,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885583,
@@ -5813,7 +5877,7 @@
     "subjectCourse": "PBPL216",
     "faculty": [
       {
-        "bannerId": "67209",
+        "bannerId": "60370",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33708",
@@ -5862,7 +5926,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 880948,
@@ -5898,7 +5963,7 @@
     "subjectCourse": "PBPL222",
     "faculty": [
       {
-        "bannerId": "67408",
+        "bannerId": "60305",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22410",
@@ -5908,7 +5973,7 @@
         "term": "202440"
       },
       {
-        "bannerId": "67413",
+        "bannerId": "60307",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "22410",
@@ -5957,7 +6022,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889279,
@@ -5993,7 +6059,7 @@
     "subjectCourse": "PBPL233",
     "faculty": [
       {
-        "bannerId": "67452",
+        "bannerId": "60419",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37727",
@@ -6042,7 +6108,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889280,
@@ -6078,7 +6145,7 @@
     "subjectCourse": "PBPL233",
     "faculty": [
       {
-        "bannerId": "67452",
+        "bannerId": "60419",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37728",
@@ -6127,7 +6194,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889281,
@@ -6163,7 +6231,7 @@
     "subjectCourse": "PBPL270F",
     "faculty": [
       {
-        "bannerId": "67453",
+        "bannerId": "60420",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37729",
@@ -6212,7 +6280,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 885584,
@@ -6248,7 +6317,7 @@
     "subjectCourse": "PBPL298I",
     "faculty": [
       {
-        "bannerId": "67433",
+        "bannerId": "60371",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "33709",
@@ -6297,6 +6366,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   }
 ]

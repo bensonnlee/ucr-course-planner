@@ -33,7 +33,7 @@
     "subjectCourse": "ITAL001",
     "faculty": [
       {
-        "bannerId": "66657",
+        "bannerId": "56584",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16252",
@@ -82,7 +82,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 882374,
@@ -118,7 +119,7 @@
     "subjectCourse": "ITAL002",
     "faculty": [
       {
-        "bannerId": "66657",
+        "bannerId": "56584",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "25915",
@@ -167,7 +168,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ITAL002(\n Course or Test: Italian 001 \n Minimum Grade of C-\n May not be taken concurrently.Language: Italian Prereq 602 to 603\n May not be taken concurrently.)"
   },
   {
     "id": 881242,
@@ -203,7 +205,7 @@
     "subjectCourse": "ITAL004",
     "faculty": [
       {
-        "bannerId": "66541",
+        "bannerId": "56981",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "23153",
@@ -252,7 +254,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": "Prerequisites:ITAL004(\n Course or Test: Italian 003 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Italian 020B \n Minimum Grade of C-\n May not be taken concurrently.Language: Italian Prereq 606 to 607\n May not be taken concurrently.)"
   },
   {
     "id": 878679,
@@ -288,7 +291,7 @@
     "subjectCourse": "ITAL020A",
     "faculty": [
       {
-        "bannerId": "66657",
+        "bannerId": "56584",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "16257",
@@ -337,7 +340,8 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   },
   {
     "id": 889194,
@@ -373,7 +377,7 @@
     "subjectCourse": "ITAL042",
     "faculty": [
       {
-        "bannerId": "66541",
+        "bannerId": "56981",
         "category": null,
         "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
         "courseReferenceNumber": "37675",
@@ -422,6 +426,7 @@
     "reservedSeatSummary": null,
     "sectionAttributes": null,
     "instructionalMethod": "I",
-    "instructionalMethodDescription": "In-Person"
+    "instructionalMethodDescription": "In-Person",
+    "prerequisites": ""
   }
 ]

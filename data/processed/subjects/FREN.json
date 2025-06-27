@@ -1,0 +1,334 @@
+{
+  "FREN001": {
+    "title": "INTRODUCTION TO FRENCH",
+    "credits": "4",
+    "prerequisites": "Prerequisites:FREN001Language: French Prereq 600 to 601\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "25908",
+        "instructor": "Nettleton, Claire",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "HMNSS",
+          "room": "1400"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 25,
+          "available": 10
+        }
+      },
+      {
+        "section": "002",
+        "crn": "15239",
+        "instructor": "Tilson, Benjamin",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "INTS",
+          "room": "2138"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 25,
+          "available": 17
+        }
+      }
+    ]
+  },
+  "FREN002": {
+    "title": "INTRODUCTION TO FRENCH",
+    "credits": "4",
+    "prerequisites": "Prerequisites:FREN002(\n Course or Test: French 001 \n Minimum Grade of C-\n May not be taken concurrently.Language: French Prereq 602 to 603\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "15240",
+        "instructor": "Ramos, Jennifer",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "HMNSS",
+          "room": "1400"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 25,
+          "available": 14
+        }
+      }
+    ]
+  },
+  "FREN003": {
+    "title": "INTRODUCTION TO FRENCH",
+    "credits": "4",
+    "prerequisites": "Prerequisites:FREN003)\nand\n(\n Course or Test: French 002 \n Minimum Grade of C-\n May not be taken concurrently.Language: French Prereq 604 to 605\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37732",
+        "instructor": "Nettleton, Claire",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "HMNSS",
+          "room": "1400"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 25,
+          "available": 15
+        }
+      },
+      {
+        "section": "002",
+        "crn": "27333",
+        "instructor": "Ramos, Jennifer",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "HMNSS",
+          "room": "1400"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 25,
+          "available": 16
+        }
+      }
+    ]
+  },
+  "FREN004": {
+    "title": "INTERMEDIATE FRENCH",
+    "credits": "4",
+    "prerequisites": "Prerequisites:FREN004(\n Course or Test: French 003 \n Minimum Grade of C-\n May not be taken concurrently.Language: French Prereq 606 to 607\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "15243",
+        "instructor": "Nettleton, Claire",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "HMNSS",
+          "room": "1400"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 25,
+          "available": 4
+        }
+      }
+    ]
+  },
+  "FREN015A": {
+    "title": "INTRODUCTION TO LITERATURE AND CULTURE",
+    "credits": "4",
+    "prerequisites": "Prerequisites:FREN015A)\nand\n(\n Course or Test: French 004 \n Minimum Grade of C\n May not be taken concurrently.Language: French Prereq 608 to 609\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "15245",
+        "instructor": "Duverg&eacute;, Christine",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "HMNSS",
+          "room": "1402"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 5,
+          "available": -4
+        }
+      }
+    ]
+  },
+  "FREN101A": {
+    "title": "ADVANCED FRENCH STUDIES",
+    "credits": "4",
+    "prerequisites": "Prerequisites:FREN101A(\n Course or Test: French 015B \n Minimum Grade of C\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "15247",
+        "instructor": "Duverg&eacute;, Christine",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "SPR",
+          "room": "2225"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 5,
+          "available": -2
+        }
+      }
+    ]
+  },
+  "FREN112": {
+    "title": "MYTHOLOGY IN FRENCH LITERATURE, FILM, AND THE VISUAL ARTS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:FREN112(\n Course or Test: French 101A \n Minimum Grade of C\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37668",
+        "instructor": "Brevik-Zender, Heidi",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "SPTH",
+          "room": "1222"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 5,
+          "available": -2
+        }
+      }
+    ]
+  },
+  "FREN190": {
+    "title": "SPECIAL STUDIES",
+    "credits": "1-5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "72B",
+        "crn": "15251",
+        "instructor": "Bloom, Michelle",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "92B",
+        "crn": "15252",
+        "instructor": "Brevik-Zender, Heidi",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "FREN290": {
+    "title": "DIRECTED STUDIES",
+    "credits": "1-6",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "72B",
+        "crn": "15256",
+        "instructor": "Bloom, Michelle",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  }
+}

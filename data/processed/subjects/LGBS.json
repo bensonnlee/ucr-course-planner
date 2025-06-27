@@ -1,0 +1,187 @@
+{
+  "LGBS001": {
+    "title": "INTRODUCTION TO LESBIAN, GAY, BISEXUAL, AND TRANSGENDER STUDIES",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37161",
+        "instructor": "Caraves, Jack",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "OLMH",
+          "room": "1136"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 35,
+          "capacity": 40,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "LGBS143": {
+    "title": "ART, SEX, AND SCIENCE",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37573",
+        "instructor": "Doyle, Jennifer",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1350",
+          "building": "WAT",
+          "room": "1101"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 15,
+          "available": 13
+        }
+      },
+      {
+        "section": "021",
+        "crn": "37576",
+        "instructor": "Doyle, Jennifer",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "TBA",
+          "room": "TBA"
+        },
+        "type": "Screening",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 15,
+          "available": 13
+        }
+      }
+    ]
+  },
+  "LGBS190": {
+    "title": "SPECIAL STUDIES",
+    "credits": "1-5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "16298",
+        "instructor": "The Staff, .",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "44D",
+        "crn": "16299",
+        "instructor": "Doyle, Jennifer",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "R17",
+        "crn": "35191",
+        "instructor": "Robinson, Brandon",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      }
+    ]
+  },
+  "LGBS198I": {
+    "title": "INDIVIDUAL INTERNSHIP",
+    "credits": "1-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "16300",
+        "instructor": "The Staff, .",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 3,
+          "available": 3
+        }
+      },
+      {
+        "section": "14A",
+        "crn": "16301",
+        "instructor": "Adams, Byron",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      }
+    ]
+  }
+}

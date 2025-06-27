@@ -1,0 +1,4237 @@
+{
+  "CMDB201": {
+    "title": "MOLECULAR BIOLOGY",
+    "credits": "4",
+    "prerequisites": "Prerequisites:CMDB201(\n Course or Test: Biochemistry 110A \n Minimum Grade of D-\n May be taken concurrently.)\nor\n(\n Course or Test: Biochemistry 110B \n Minimum Grade of D-\n May be taken concurrently.)\nor\n(\n Course or Test: Biochemistry 110HA \n Minimum Grade of D-\n May be taken concurrently.or\n Course or Test: Biochemistry 110HB \n Minimum Grade of D-\n May be taken concurrently.)\nand\n(\n Course or Test: Biology 102 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Biology 107A \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "12477",
+        "instructor": "Le Roch, Karine",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "CHUNG",
+          "room": "139"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 20,
+          "available": 9
+        }
+      },
+      {
+        "section": "021",
+        "crn": "20047",
+        "instructor": "Le Roch, Karine",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "HMNSS",
+          "room": "1401"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 20,
+          "available": 9
+        }
+      }
+    ]
+  },
+  "CMDB203": {
+    "title": "ADVANCED GENETIC ANALYSIS IN MODEL ORGANISMS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:CMDB203(\n Course or Test: Biology 102 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "24649",
+        "instructor": "Dahanukar, Anupama",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1200",
+          "endTime": "1350",
+          "building": "LFSC",
+          "room": "2550"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 21,
+          "available": 13
+        }
+      },
+      {
+        "section": "021",
+        "crn": "24651",
+        "instructor": "Dahanukar, Anupama",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1200",
+          "endTime": "1350",
+          "building": "LFSC",
+          "room": "2550"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 21,
+          "available": 13
+        }
+      }
+    ]
+  },
+  "CMDB208": {
+    "title": "STEM CELL ETHICS",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36269",
+        "instructor": "Plemmons, Dena",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1000",
+          "endTime": "1150",
+          "building": "LFSC",
+          "room": "2550"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 10,
+          "available": 3
+        }
+      }
+    ]
+  },
+  "CMDB230": {
+    "title": "MOLECULAR PLANT-MICROBIAL INTERACTIONS",
+    "credits": "3",
+    "prerequisites": "Prerequisites:CMDB230(\n Course or Test: Biochemistry 100 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Biology 120 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Microbiology 120 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Plant Pathology 120 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "31294",
+        "instructor": "Jin, Hailing",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1300",
+          "endTime": "1420",
+          "building": "SPTH",
+          "room": "1239"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 15,
+          "available": 15
+        }
+      },
+      {
+        "section": "010",
+        "crn": "31298",
+        "instructor": "Jin, Hailing",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": null,
+          "endTime": null,
+          "building": "SPTH",
+          "room": "1239"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 15,
+          "available": 15
+        }
+      }
+    ]
+  },
+  "CMDB250": {
+    "title": "SPECIAL TOPICS IN CELL, MOLECULAR, AND DEVELOPMENTAL BIOLOGY",
+    "credits": "1-2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "01B",
+        "crn": "12489",
+        "instructor": "Bachant, Jeffrey",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "01N",
+        "crn": "12490",
+        "instructor": "Nugent, Constance",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "01X",
+        "crn": "12491",
+        "instructor": "Xu, Shizhong",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "03D",
+        "crn": "12493",
+        "instructor": "Ding, Shou-Wei",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "09F",
+        "crn": "12496",
+        "instructor": "Federici, Brian",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "0S7",
+        "crn": "29548",
+        "instructor": "Seymour, Danelle",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "11A",
+        "crn": "12497",
+        "instructor": "Adams, Michael",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "11X",
+        "crn": "38341",
+        "instructor": "Xiang, Joy",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "14J",
+        "crn": "12501",
+        "instructor": "Judelson, Howard",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "14T",
+        "crn": "12504",
+        "instructor": "Talbot, Prudence",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "16N",
+        "crn": "12505",
+        "instructor": "Ng, Chik",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "22W",
+        "crn": "12510",
+        "instructor": "Walling, Linda",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "22Z",
+        "crn": "12511",
+        "instructor": "Zur Nieden, Nicole",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 30,
+          "available": 27
+        }
+      },
+      {
+        "section": "24E",
+        "crn": "12513",
+        "instructor": "Ethell, Iryna",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "26E",
+        "crn": "12514",
+        "instructor": "Eulgem, Thomas",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "26Y",
+        "crn": "38717",
+        "instructor": "Yamanaka, Naoki",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "26Z",
+        "crn": "12515",
+        "instructor": "Zheng, Sika",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "27J",
+        "crn": "12516",
+        "instructor": "Jin, Hailing",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28A",
+        "crn": "12517",
+        "instructor": "Atkinson, Peter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "31O",
+        "crn": "12519",
+        "instructor": "Ozkan, Mihrimah",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "32Y",
+        "crn": "27265",
+        "instructor": "Yamanaka, Sachiko",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "37C",
+        "crn": "31404",
+        "instructor": "Chang, Chia-En",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "37N",
+        "crn": "29176",
+        "instructor": "Nam, Jin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "37O",
+        "crn": "25449",
+        "instructor": "O&#39;Leary, Sean",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 15,
+          "available": 15
+        }
+      },
+      {
+        "section": "38K",
+        "crn": "12524",
+        "instructor": "Kaloshian, Isgouhi",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "41L",
+        "crn": "12525",
+        "instructor": "Liu, Xuan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "48B",
+        "crn": "12529",
+        "instructor": "Bailey-Serres, Julia",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "49F",
+        "crn": "31454",
+        "instructor": "Fiacco, Todd",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "55L",
+        "crn": "12531",
+        "instructor": "Larsen, Paul",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "55N",
+        "crn": "35086",
+        "instructor": "Ninova, Maria",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "58M",
+        "crn": "29282",
+        "instructor": "Morrison, Juliet",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "62P",
+        "crn": "12533",
+        "instructor": "Pirrung, Michael",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "64D",
+        "crn": "12534",
+        "instructor": "Dahanukar, Anupama",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "65M",
+        "crn": "12535",
+        "instructor": "Martins-Green, Manuela",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "66R",
+        "crn": "12536",
+        "instructor": "Raikhel, Alexander",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "66S",
+        "crn": "12537",
+        "instructor": "Sladek, Frances",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "67K",
+        "crn": "12539",
+        "instructor": "Karginov, Fedor",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "73D",
+        "crn": "22739",
+        "instructor": "Dillman, Adler",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "75D",
+        "crn": "12541",
+        "instructor": "DiPatrizio, Nicholas",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "76G",
+        "crn": "12542",
+        "instructor": "Gonehal, Venugopala",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "77R",
+        "crn": "12544",
+        "instructor": "Ray, Anandasankar",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "85L",
+        "crn": "12545",
+        "instructor": "Liao, Jiayu",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "86D",
+        "crn": "29099",
+        "instructor": "Degnan, Patrick",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "86L",
+        "crn": "12546",
+        "instructor": "Le Roch, Karine",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "86W",
+        "crn": "12547",
+        "instructor": "Wilson, Emma",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "87M",
+        "crn": "12548",
+        "instructor": "Martinez, Ernest",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 30,
+          "available": 27
+        }
+      },
+      {
+        "section": "88P",
+        "crn": "35039",
+        "instructor": "Pegan, Scott",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "92L",
+        "crn": "12549",
+        "instructor": "Lo, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "92S",
+        "crn": "12550",
+        "instructor": "Springer, Patricia",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "92W",
+        "crn": "12551",
+        "instructor": "Wessler, Susan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "93V",
+        "crn": "22689",
+        "instructor": "Van Norman, Jaimie",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "94R",
+        "crn": "22702",
+        "instructor": "Riccomagno, Martin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "96B",
+        "crn": "12552",
+        "instructor": "Borkovich, Katherine",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "96M",
+        "crn": "12554",
+        "instructor": "Maduro, Morris",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "C19",
+        "crn": "12481",
+        "instructor": "Coss, Djurdjica",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "C40",
+        "crn": "27273",
+        "instructor": "Cheloufi, Sihem",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "C59",
+        "crn": "26920",
+        "instructor": "Curras-Collazo, Margarita",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "C67",
+        "crn": "12482",
+        "instructor": "Carson, Monica",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "C72",
+        "crn": "12483",
+        "instructor": "Chen, Xuemei",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "C89",
+        "crn": "38770",
+        "instructor": "Chaturvedi, Sonali",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "G04",
+        "crn": "27165",
+        "instructor": "Gu, Weifeng",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "G07",
+        "crn": "12484",
+        "instructor": "Garcia-Castro, Martin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "G11",
+        "crn": "33442",
+        "instructor": "Giraldo Gomez, Juan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "H16",
+        "crn": "22757",
+        "instructor": "Hai, Rong",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "L09",
+        "crn": "27311",
+        "instructor": "Liu, Huinan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "M34",
+        "crn": "35030",
+        "instructor": "McCole, Declan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "M58",
+        "crn": "27510",
+        "instructor": "Morgan, Joshua",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "M60",
+        "crn": "25505",
+        "instructor": "Murn, Jernej",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "S49",
+        "crn": "12487",
+        "instructor": "Stajich, Jason",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "Z03",
+        "crn": "36835",
+        "instructor": "Zhou, Changcheng",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "CMDB257": {
+    "title": "SEMINAR IN CELL, MOLECULAR, AND DEVELOPMENTAL BIOLOGY",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "12555",
+        "instructor": "Gu, Weifeng",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "GENOM",
+          "room": "1102A"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 40,
+          "capacity": 100,
+          "available": 60
+        }
+      }
+    ]
+  },
+  "CMDB297": {
+    "title": "DIRECTED RESEARCH",
+    "credits": "1-6",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "01B",
+        "crn": "12571",
+        "instructor": "Bachant, Jeffrey",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "01N",
+        "crn": "12572",
+        "instructor": "Nugent, Constance",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "01X",
+        "crn": "12573",
+        "instructor": "Xu, Shizhong",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "03D",
+        "crn": "12575",
+        "instructor": "Ding, Shou-Wei",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "09F",
+        "crn": "12579",
+        "instructor": "Federici, Brian",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "0S7",
+        "crn": "29549",
+        "instructor": "Seymour, Danelle",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "11A",
+        "crn": "12580",
+        "instructor": "Adams, Michael",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "11X",
+        "crn": "38342",
+        "instructor": "Xiang, Joy",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "14J",
+        "crn": "12584",
+        "instructor": "Judelson, Howard",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "14T",
+        "crn": "12587",
+        "instructor": "Talbot, Prudence",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "16N",
+        "crn": "12588",
+        "instructor": "Ng, Chik",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "16W",
+        "crn": "12589",
+        "instructor": "Wang, Yinsheng",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "20R",
+        "crn": "12592",
+        "instructor": "Reznick, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "22W",
+        "crn": "12594",
+        "instructor": "Walling, Linda",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "22Z",
+        "crn": "12595",
+        "instructor": "Zur Nieden, Nicole",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 30,
+          "available": 26
+        }
+      },
+      {
+        "section": "24E",
+        "crn": "12597",
+        "instructor": "Ethell, Iryna",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "26E",
+        "crn": "12598",
+        "instructor": "Eulgem, Thomas",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "26Y",
+        "crn": "38718",
+        "instructor": "Yamanaka, Naoki",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "26Z",
+        "crn": "12599",
+        "instructor": "Zheng, Sika",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "27J",
+        "crn": "12600",
+        "instructor": "Jin, Hailing",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28A",
+        "crn": "12601",
+        "instructor": "Atkinson, Peter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "31O",
+        "crn": "12603",
+        "instructor": "Ozkan, Mihrimah",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "32Y",
+        "crn": "27266",
+        "instructor": "Yamanaka, Sachiko",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "37C",
+        "crn": "31403",
+        "instructor": "Chang, Chia-En",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "37N",
+        "crn": "29177",
+        "instructor": "Nam, Jin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "37O",
+        "crn": "25447",
+        "instructor": "O&#39;Leary, Sean",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 15,
+          "available": 15
+        }
+      },
+      {
+        "section": "38K",
+        "crn": "12608",
+        "instructor": "Kaloshian, Isgouhi",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "39N",
+        "crn": "25266",
+        "instructor": "Nair, Meera",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "41L",
+        "crn": "12609",
+        "instructor": "Liu, Xuan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "48B",
+        "crn": "12613",
+        "instructor": "Bailey-Serres, Julia",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "49F",
+        "crn": "31455",
+        "instructor": "Fiacco, Todd",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "55L",
+        "crn": "12615",
+        "instructor": "Larsen, Paul",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "55N",
+        "crn": "35029",
+        "instructor": "Ninova, Maria",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "58M",
+        "crn": "29283",
+        "instructor": "Morrison, Juliet",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "62P",
+        "crn": "12618",
+        "instructor": "Pirrung, Michael",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "64D",
+        "crn": "12619",
+        "instructor": "Dahanukar, Anupama",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "65A",
+        "crn": "12620",
+        "instructor": "Aronson, Emma",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "65M",
+        "crn": "12621",
+        "instructor": "Martins-Green, Manuela",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "65T",
+        "crn": "12622",
+        "instructor": "Tiwari-Woodruff, Seema",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "66R",
+        "crn": "12623",
+        "instructor": "Raikhel, Alexander",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "66S",
+        "crn": "12624",
+        "instructor": "Sladek, Frances",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "67K",
+        "crn": "12626",
+        "instructor": "Karginov, Fedor",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 30,
+          "available": 27
+        }
+      },
+      {
+        "section": "73D",
+        "crn": "22740",
+        "instructor": "Dillman, Adler",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "75D",
+        "crn": "12628",
+        "instructor": "DiPatrizio, Nicholas",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "76G",
+        "crn": "12629",
+        "instructor": "Gonehal, Venugopala",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "77R",
+        "crn": "12631",
+        "instructor": "Ray, Anandasankar",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "85L",
+        "crn": "12632",
+        "instructor": "Liao, Jiayu",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "86D",
+        "crn": "29100",
+        "instructor": "Degnan, Patrick",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "86L",
+        "crn": "12633",
+        "instructor": "Le Roch, Karine",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "86W",
+        "crn": "12634",
+        "instructor": "Wilson, Emma",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "87M",
+        "crn": "12635",
+        "instructor": "Martinez, Ernest",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "88P",
+        "crn": "35038",
+        "instructor": "Pegan, Scott",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "92L",
+        "crn": "12636",
+        "instructor": "Lo, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "92S",
+        "crn": "12637",
+        "instructor": "Springer, Patricia",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "92W",
+        "crn": "12638",
+        "instructor": "Wessler, Susan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "93V",
+        "crn": "22691",
+        "instructor": "Van Norman, Jaimie",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "94R",
+        "crn": "22703",
+        "instructor": "Riccomagno, Martin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "96B",
+        "crn": "12639",
+        "instructor": "Borkovich, Katherine",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "96M",
+        "crn": "12642",
+        "instructor": "Maduro, Morris",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "C19",
+        "crn": "12562",
+        "instructor": "Coss, Djurdjica",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "C36",
+        "crn": "35111",
+        "instructor": "Cho, Jun-Hyeong",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "C40",
+        "crn": "27274",
+        "instructor": "Cheloufi, Sihem",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "C67",
+        "crn": "12563",
+        "instructor": "Carson, Monica",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "C72",
+        "crn": "12564",
+        "instructor": "Chen, Xuemei",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "C89",
+        "crn": "38771",
+        "instructor": "Chaturvedi, Sonali",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "G04",
+        "crn": "27166",
+        "instructor": "Gu, Weifeng",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "G07",
+        "crn": "12565",
+        "instructor": "Garcia-Castro, Martin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "G11",
+        "crn": "33443",
+        "instructor": "Giraldo Gomez, Juan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "H16",
+        "crn": "22756",
+        "instructor": "Hai, Rong",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "L09",
+        "crn": "27312",
+        "instructor": "Liu, Huinan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "M34",
+        "crn": "35018",
+        "instructor": "McCole, Declan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "M58",
+        "crn": "26907",
+        "instructor": "Morgan, Joshua",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "M60",
+        "crn": "25503",
+        "instructor": "Murn, Jernej",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "S49",
+        "crn": "12569",
+        "instructor": "Stajich, Jason",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "Z03",
+        "crn": "36836",
+        "instructor": "Zhou, Changcheng",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "CMDB299": {
+    "title": "RESEARCH FOR THE THESIS OR DISSERTATION",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "01B",
+        "crn": "12647",
+        "instructor": "Bachant, Jeffrey",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "01N",
+        "crn": "12648",
+        "instructor": "Nugent, Constance",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "01X",
+        "crn": "12649",
+        "instructor": "Xu, Shizhong",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "03D",
+        "crn": "12651",
+        "instructor": "Ding, Shou-Wei",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "09F",
+        "crn": "12655",
+        "instructor": "Federici, Brian",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "0S7",
+        "crn": "29550",
+        "instructor": "Seymour, Danelle",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "11A",
+        "crn": "12656",
+        "instructor": "Adams, Michael",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "11X",
+        "crn": "38343",
+        "instructor": "Xiang, Joy",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "14J",
+        "crn": "24844",
+        "instructor": "Judelson, Howard",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "14T",
+        "crn": "12661",
+        "instructor": "Talbot, Prudence",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "16W",
+        "crn": "12662",
+        "instructor": "Wang, Yinsheng",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "22W",
+        "crn": "12667",
+        "instructor": "Walling, Linda",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "22Z",
+        "crn": "12668",
+        "instructor": "Zur Nieden, Nicole",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "24E",
+        "crn": "12669",
+        "instructor": "Ethell, Iryna",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "26Z",
+        "crn": "12670",
+        "instructor": "Zheng, Sika",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "27J",
+        "crn": "12671",
+        "instructor": "Jin, Hailing",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28A",
+        "crn": "12672",
+        "instructor": "Atkinson, Peter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "31O",
+        "crn": "12674",
+        "instructor": "Ozkan, Mihrimah",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "32Y",
+        "crn": "27267",
+        "instructor": "Yamanaka, Sachiko",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "37C",
+        "crn": "31405",
+        "instructor": "Chang, Chia-En",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "37N",
+        "crn": "29178",
+        "instructor": "Nam, Jin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "37O",
+        "crn": "25448",
+        "instructor": "O&#39;Leary, Sean",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 15,
+          "available": 15
+        }
+      },
+      {
+        "section": "38K",
+        "crn": "12677",
+        "instructor": "Kaloshian, Isgouhi",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "39N",
+        "crn": "25267",
+        "instructor": "Nair, Meera",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "41L",
+        "crn": "12678",
+        "instructor": "Liu, Xuan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "48B",
+        "crn": "12682",
+        "instructor": "Bailey-Serres, Julia",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "49F",
+        "crn": "12683",
+        "instructor": "Fiacco, Todd",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "55L",
+        "crn": "12685",
+        "instructor": "Larsen, Paul",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "55N",
+        "crn": "35085",
+        "instructor": "Ninova, Maria",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "58M",
+        "crn": "29284",
+        "instructor": "Morrison, Juliet",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "62P",
+        "crn": "12688",
+        "instructor": "Pirrung, Michael",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "64D",
+        "crn": "12689",
+        "instructor": "Dahanukar, Anupama",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "65A",
+        "crn": "12690",
+        "instructor": "Aronson, Emma",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "65M",
+        "crn": "12691",
+        "instructor": "Martins-Green, Manuela",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "65T",
+        "crn": "12692",
+        "instructor": "Tiwari-Woodruff, Seema",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "66R",
+        "crn": "12693",
+        "instructor": "Raikhel, Alexander",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "66S",
+        "crn": "12694",
+        "instructor": "Sladek, Frances",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "67K",
+        "crn": "12696",
+        "instructor": "Karginov, Fedor",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 30,
+          "available": 27
+        }
+      },
+      {
+        "section": "73D",
+        "crn": "22741",
+        "instructor": "Dillman, Adler",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "75D",
+        "crn": "12698",
+        "instructor": "DiPatrizio, Nicholas",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "76G",
+        "crn": "12699",
+        "instructor": "Gonehal, Venugopala",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "77R",
+        "crn": "12701",
+        "instructor": "Ray, Anandasankar",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "86D",
+        "crn": "29101",
+        "instructor": "Degnan, Patrick",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "86L",
+        "crn": "12702",
+        "instructor": "Le Roch, Karine",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "86W",
+        "crn": "12703",
+        "instructor": "Wilson, Emma",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "87M",
+        "crn": "12704",
+        "instructor": "Martinez, Ernest",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "92L",
+        "crn": "12705",
+        "instructor": "Lo, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "92S",
+        "crn": "12706",
+        "instructor": "Springer, Patricia",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "92W",
+        "crn": "12707",
+        "instructor": "Wessler, Susan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "93V",
+        "crn": "22692",
+        "instructor": "Van Norman, Jaimie",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "94R",
+        "crn": "22704",
+        "instructor": "Riccomagno, Martin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "96B",
+        "crn": "12708",
+        "instructor": "Borkovich, Katherine",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "96M",
+        "crn": "12711",
+        "instructor": "Maduro, Morris",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "C36",
+        "crn": "35112",
+        "instructor": "Cho, Jun-Hyeong",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "C40",
+        "crn": "27275",
+        "instructor": "Cheloufi, Sihem",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "C67",
+        "crn": "12643",
+        "instructor": "Carson, Monica",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "G04",
+        "crn": "27167",
+        "instructor": "Gu, Weifeng",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "G07",
+        "crn": "12644",
+        "instructor": "Garcia-Castro, Martin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "G11",
+        "crn": "33444",
+        "instructor": "Giraldo Gomez, Juan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "H16",
+        "crn": "22809",
+        "instructor": "Hai, Rong",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "L09",
+        "crn": "27313",
+        "instructor": "Liu, Huinan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "M34",
+        "crn": "35219",
+        "instructor": "McCole, Declan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "M58",
+        "crn": "26908",
+        "instructor": "Morgan, Joshua",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "M60",
+        "crn": "25504",
+        "instructor": "Murn, Jernej",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "S49",
+        "crn": "36909",
+        "instructor": "Stajich, Jason",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "Z03",
+        "crn": "36837",
+        "instructor": "Zhou, Changcheng",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  }
+}

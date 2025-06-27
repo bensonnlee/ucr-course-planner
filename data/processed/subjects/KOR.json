@@ -1,0 +1,277 @@
+{
+  "KOR001": {
+    "title": "FIRST-YEAR KOREAN",
+    "credits": "4",
+    "prerequisites": "Prerequisites:KOR001Language: Korean Prereq 600 to 601\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "16280",
+        "instructor": "Hong, Young",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "OLMH",
+          "room": "1122"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "002",
+        "crn": "16281",
+        "instructor": "Kim, Hui",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1900",
+          "endTime": "1950",
+          "building": "HMNSS",
+          "room": "1400"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "003",
+        "crn": "21170",
+        "instructor": "Tark, Eun",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "INTS",
+          "room": "2136"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 25,
+          "available": 8
+        }
+      }
+    ]
+  },
+  "KOR004": {
+    "title": "SECOND-YEAR KOREAN",
+    "credits": "4",
+    "prerequisites": "Prerequisites:KOR004(\n Course or Test: Korean 003 \n Minimum Grade of C-\n May not be taken concurrently.Language: Korean Prereq 606 to 607\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "16283",
+        "instructor": "Hong, Young",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "OLMH",
+          "room": "1122"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 25,
+          "available": 2
+        }
+      }
+    ]
+  },
+  "KOR020A": {
+    "title": "FIRST-YEAR KOREAN FOR HERITAGE LEARNERS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:KOR020ALanguage: Korean Prereq 610 to 611\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "16284",
+        "instructor": "Hong, Young",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "OLMH",
+          "room": "1122"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 25,
+          "available": 2
+        }
+      }
+    ]
+  },
+  "KOR047": {
+    "title": "INTRODUCTION TO KOREAN FILM",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34325",
+        "instructor": "Jeong, Kelly",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "INTN",
+          "room": "1002"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 40,
+          "available": 16
+        }
+      },
+      {
+        "section": "021",
+        "crn": "34326",
+        "instructor": "Jeong, Kelly",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Screening",
+        "method": "Online",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 50,
+          "available": 26
+        }
+      },
+      {
+        "section": "031",
+        "crn": "34327",
+        "instructor": "McAllister, Jr., Charles",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 13,
+          "available": 0
+        }
+      },
+      {
+        "section": "032",
+        "crn": "34328",
+        "instructor": "McAllister, Jr., Charles",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 13,
+          "available": 9
+        }
+      },
+      {
+        "section": "033",
+        "crn": "34329",
+        "instructor": "McAllister, Jr., Charles",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 13,
+          "available": 6
+        }
+      }
+    ]
+  },
+  "KOR112": {
+    "title": "MODERN KOREAN LITERATURE",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "35915",
+        "instructor": "Jeong, Kelly",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "SPR",
+          "room": "2225"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 20,
+          "available": 5
+        }
+      }
+    ]
+  }
+}

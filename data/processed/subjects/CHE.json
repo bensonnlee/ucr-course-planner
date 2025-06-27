@@ -1,0 +1,404 @@
+{
+  "CHE110A": {
+    "title": "CHEMICAL PROCESS ANALYSIS",
+    "credits": "3",
+    "prerequisites": "Prerequisites:CHE110A(\n Course or Test: Chemistry 001C \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 009C \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Physics 040B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Physics 040HB \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "11905",
+        "instructor": "Du, Ke",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0800",
+          "endTime": "0950",
+          "building": "BOYHL",
+          "room": "1471"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 54,
+          "capacity": 60,
+          "available": 6
+        }
+      },
+      {
+        "section": "022",
+        "crn": "11907",
+        "instructor": "Du, Ke",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "MSE",
+          "room": "103"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 54,
+          "capacity": 60,
+          "available": 6
+        }
+      }
+    ]
+  },
+  "CHE114": {
+    "title": "APPLIED FLUID MECHANICS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:CHE114(\n Course or Test: Chemical Engineering 110A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Environmental Engineering 171 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 010A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 046 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Physics 040B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Physics 040HB \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "11908",
+        "instructor": "Zhang, Jiamin",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "SPTH",
+          "room": "2200"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 76,
+          "capacity": 79,
+          "available": 3
+        }
+      },
+      {
+        "section": "021",
+        "crn": "11909",
+        "instructor": "Zhang, Jiamin",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "MSE",
+          "room": "003"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 37,
+          "capacity": 39,
+          "available": 2
+        }
+      },
+      {
+        "section": "022",
+        "crn": "11910",
+        "instructor": "Zhang, Jiamin",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "SPR",
+          "room": "2343"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 39,
+          "capacity": 40,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "CHE117": {
+    "title": "SEPARATION PROCESSES",
+    "credits": "4",
+    "prerequisites": "Prerequisites:CHE117(\n Course or Test: Chemical Engineering 116 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Chemical Engineering 120 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "11911",
+        "instructor": "Zhang, Jiamin",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "HMNSS",
+          "room": "1503"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 53,
+          "capacity": 60,
+          "available": 7
+        }
+      },
+      {
+        "section": "022",
+        "crn": "11913",
+        "instructor": "Zhang, Jiamin",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "SSC",
+          "room": "125"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 53,
+          "capacity": 60,
+          "available": 7
+        }
+      }
+    ]
+  },
+  "CHE124": {
+    "title": "BIOCHEMICAL ENGINEERING PRINCIPLES",
+    "credits": "4",
+    "prerequisites": "Prerequisites:CHE124(\n Course or Test: Biochemistry 110HA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Biochemistry 110A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemical Engineering 120 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemical Engineering 122 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "11914",
+        "instructor": "Mulchandani, Ashok",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "OLMH",
+          "room": "1116"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 30,
+          "available": 25
+        }
+      },
+      {
+        "section": "021",
+        "crn": "21051",
+        "instructor": "Mulchandani, Ashok",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "2000",
+          "endTime": "2050",
+          "building": "CHUNG",
+          "room": "139"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 30,
+          "available": 25
+        }
+      }
+    ]
+  },
+  "CHE124L": {
+    "title": "BIOCHEMICAL ENGINEERING LABORATORY",
+    "credits": "2",
+    "prerequisites": "Prerequisites:CHE124L)\nand\n(\n Course or Test: Chemical Engineering 124 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32702",
+        "instructor": "Mulchandani, Ashok",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1200",
+          "endTime": "1450",
+          "building": null,
+          "room": null
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 30,
+          "available": 25
+        }
+      }
+    ]
+  },
+  "CHE160B": {
+    "title": "CHEMICAL ENGINEERING LABORATORY",
+    "credits": "3",
+    "prerequisites": "Prerequisites:CHE160B(\n Course or Test: Chemical Engineering 116 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemical Engineering 122 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "002",
+        "crn": "32707",
+        "instructor": "Liu, Fudong",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0800",
+          "endTime": "1050",
+          "building": null,
+          "room": null
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 53,
+          "capacity": 57,
+          "available": 4
+        }
+      },
+      {
+        "section": "021",
+        "crn": "32705",
+        "instructor": "Liu, Fudong",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "SPR",
+          "room": "2355"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 53,
+          "capacity": 57,
+          "available": 4
+        }
+      }
+    ]
+  },
+  "CHE190": {
+    "title": "SPECIAL STUDIES",
+    "credits": "1-5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "21K",
+        "crn": "22912",
+        "instructor": "Kisailus, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      },
+      {
+        "section": "38J",
+        "crn": "22177",
+        "instructor": "Jassby, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "56M",
+        "crn": "22913",
+        "instructor": "Mulchandani, Ashok",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "69W",
+        "crn": "24926",
+        "instructor": "Cai, Charles",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "R27",
+        "crn": "36978",
+        "instructor": "Rupiper, Amanda",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 3,
+          "available": 2
+        }
+      }
+    ]
+  }
+}

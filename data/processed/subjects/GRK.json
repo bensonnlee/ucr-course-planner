@@ -1,0 +1,114 @@
+{
+  "GRK001": {
+    "title": "INTRODUCTION TO CLASSICAL GREEK",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "15792",
+        "instructor": "King, Benjamin",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "OLMH",
+          "room": "1122"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 30,
+          "available": 24
+        }
+      }
+    ]
+  },
+  "GRK101N": {
+    "title": "XENOPHON",
+    "credits": "4",
+    "prerequisites": "Prerequisites:GRK101N(\n Course or Test: Greek 003 \n Minimum Grade of C-\n May not be taken concurrently.Language: Greek Prereq 606 to 607\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37674",
+        "instructor": "King, Benjamin",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "HMNSS",
+          "room": "1407"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 15,
+          "available": -1
+        }
+      }
+    ]
+  },
+  "GRK190": {
+    "title": "SPECIAL STUDIES",
+    "credits": "1-5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "37K",
+        "crn": "15796",
+        "instructor": "King, Benjamin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "GRK292": {
+    "title": "CONCURRENT ANALYTICAL STUDIES",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "37K",
+        "crn": "15798",
+        "instructor": "King, Benjamin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "HASS001": {
+    "title": "STEP-BY-STEP TO COLLEGE SUCCESS FOR FIRST YEAR STUDENTS",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32910",
+        "instructor": "Rogers, Christina",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 125,
+          "capacity": 125,
+          "available": 0
+        }
+      },
+      {
+        "section": "002",
+        "crn": "35778",
+        "instructor": "Rogers, Christina",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 123,
+          "capacity": 125,
+          "available": 2
+        }
+      },
+      {
+        "section": "003",
+        "crn": "35779",
+        "instructor": "Rogers, Christina",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 80,
+          "capacity": 125,
+          "available": 45
+        }
+      },
+      {
+        "section": "004",
+        "crn": "37176",
+        "instructor": "Rogers, Christina",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 44,
+          "capacity": 125,
+          "available": 81
+        }
+      },
+      {
+        "section": "005",
+        "crn": "37177",
+        "instructor": "Rogers, Christina",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 71,
+          "capacity": 125,
+          "available": 54
+        }
+      },
+      {
+        "section": "006",
+        "crn": "37178",
+        "instructor": "Rogers, Christina",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 75,
+          "capacity": 75,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "HASS090": {
+    "title": "SPECIAL STUDIES",
+    "credits": "1-3",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "15829",
+        "instructor": "The Staff, .",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "53D",
+        "crn": "15830",
+        "instructor": "Deolalikar, Anil",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "59C",
+        "crn": "15831",
+        "instructor": "Arrizon, Alicia",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "HASS189A": {
+    "title": "MMUG FELLOWSHIP SEM IV",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "33692",
+        "instructor": "Lamar Prieto, Maria",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1700",
+          "endTime": "1850",
+          "building": "CBN",
+          "room": "301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 10,
+          "available": 3
+        }
+      }
+    ]
+  },
+  "HASS190": {
+    "title": "SPECIAL STUDIES",
+    "credits": "1-5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "15832",
+        "instructor": "The Staff, .",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "18K",
+        "crn": "15833",
+        "instructor": "Kinney, Katherine",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "59C",
+        "crn": "15834",
+        "instructor": "Arrizon, Alicia",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "HASS195": {
+    "title": "SENIOR THESIS",
+    "credits": "1-8",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "15836",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "HASS198I": {
+    "title": "INTERNSHIP",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "L15",
+        "crn": "36946",
+        "instructor": "Lamar Prieto, Maria",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      }
+    ]
+  }
+}

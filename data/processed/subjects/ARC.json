@@ -1,0 +1,1571 @@
+{
+  "ARC072": {
+    "title": "CHEM SPLMNTL INST - CNAS",
+    "credits": "TBD",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "10306",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "SKYE",
+          "room": "108"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 24,
+          "available": 19
+        }
+      },
+      {
+        "section": "002",
+        "crn": "10307",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "SKYE",
+          "room": "113"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 24,
+          "available": 17
+        }
+      },
+      {
+        "section": "040",
+        "crn": "10304",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "SKYE",
+          "room": "108"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 24,
+          "available": 0
+        }
+      },
+      {
+        "section": "045",
+        "crn": "26616",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "SKYE",
+          "room": "108"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 24,
+          "available": 3
+        }
+      },
+      {
+        "section": "046",
+        "crn": "10308",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "SKYE",
+          "room": "108"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 24,
+          "available": 1
+        }
+      },
+      {
+        "section": "047",
+        "crn": "36473",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "SKYE",
+          "room": "110"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 24,
+          "available": 2
+        }
+      },
+      {
+        "section": "050",
+        "crn": "10311",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "SKYE",
+          "room": "112"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 24,
+          "available": 0
+        }
+      },
+      {
+        "section": "052",
+        "crn": "10312",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "SKYE",
+          "room": "112"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 24,
+          "available": 1
+        }
+      },
+      {
+        "section": "062",
+        "crn": "10319",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "SKYE",
+          "room": "110"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 24,
+          "available": 1
+        }
+      },
+      {
+        "section": "094",
+        "crn": "10313",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "SKYE",
+          "room": "158"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 24,
+          "available": 16
+        }
+      },
+      {
+        "section": "095",
+        "crn": "26618",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "SKYE",
+          "room": "108"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 24,
+          "available": 6
+        }
+      },
+      {
+        "section": "096",
+        "crn": "36498",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "SKYE",
+          "room": "108"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 24,
+          "available": 14
+        }
+      }
+    ]
+  },
+  "ARC073": {
+    "title": "MATH SPLMNTL INST - CNAS",
+    "credits": "TBD",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "24325",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "SKYE",
+          "room": "108"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 24,
+          "available": 17
+        }
+      },
+      {
+        "section": "002",
+        "crn": "24333",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "SKYE",
+          "room": "113"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 24,
+          "available": 19
+        }
+      },
+      {
+        "section": "003",
+        "crn": "29183",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "SKYE",
+          "room": "108"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 24,
+          "available": 24
+        }
+      },
+      {
+        "section": "004",
+        "crn": "30760",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "SKYE",
+          "room": "108"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 24,
+          "available": 19
+        }
+      },
+      {
+        "section": "005",
+        "crn": "36458",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "SKYE",
+          "room": "110"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 24,
+          "available": 20
+        }
+      },
+      {
+        "section": "019",
+        "crn": "24324",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "SKYE",
+          "room": "108"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 24,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "36466",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "SKYE",
+          "room": "108"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 24,
+          "available": 3
+        }
+      },
+      {
+        "section": "031",
+        "crn": "10345",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "SKYE",
+          "room": "110"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 24,
+          "available": 1
+        }
+      },
+      {
+        "section": "034",
+        "crn": "10346",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "SKYE",
+          "room": "108"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 24,
+          "available": 2
+        }
+      },
+      {
+        "section": "080",
+        "crn": "10356",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "SKYE",
+          "room": "108"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 24,
+          "available": 1
+        }
+      },
+      {
+        "section": "082",
+        "crn": "22553",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "SKYE",
+          "room": "110"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 24,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "ARC078": {
+    "title": "BIOL SPLMNTL INST - CNAS",
+    "credits": "TBD",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "042",
+        "crn": "36475",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "SKYE",
+          "room": "113"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 24,
+          "available": 1
+        }
+      },
+      {
+        "section": "053",
+        "crn": "38516",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "SKYE",
+          "room": "110"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 24,
+          "available": 3
+        }
+      },
+      {
+        "section": "087",
+        "crn": "38518",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "SKYE",
+          "room": "113"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 24,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "ARC080": {
+    "title": "COE: LEARNING CENTER WORKSHOP",
+    "credits": "TBD",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "10358",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 42,
+          "capacity": 50,
+          "available": 8
+        }
+      },
+      {
+        "section": "002",
+        "crn": "10359",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 48,
+          "capacity": 50,
+          "available": 2
+        }
+      },
+      {
+        "section": "003",
+        "crn": "10360",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 30,
+          "available": 21
+        }
+      },
+      {
+        "section": "004",
+        "crn": "10361",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 30,
+          "available": 6
+        }
+      },
+      {
+        "section": "005",
+        "crn": "10362",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 50,
+          "available": 32
+        }
+      },
+      {
+        "section": "006",
+        "crn": "10363",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 30,
+          "available": 16
+        }
+      },
+      {
+        "section": "007",
+        "crn": "10364",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 30,
+          "available": 14
+        }
+      },
+      {
+        "section": "008",
+        "crn": "10365",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 30,
+          "available": 8
+        }
+      },
+      {
+        "section": "009",
+        "crn": "10366",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 30,
+          "available": 21
+        }
+      },
+      {
+        "section": "011",
+        "crn": "10368",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 30,
+          "available": 13
+        }
+      },
+      {
+        "section": "012",
+        "crn": "10369",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 31,
+          "available": 13
+        }
+      },
+      {
+        "section": "013",
+        "crn": "10370",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 30,
+          "available": 14
+        }
+      },
+      {
+        "section": "014",
+        "crn": "10371",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 30,
+          "available": 27
+        }
+      },
+      {
+        "section": "015",
+        "crn": "10372",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 30,
+          "available": 27
+        }
+      },
+      {
+        "section": "016",
+        "crn": "10373",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 30,
+          "available": 20
+        }
+      },
+      {
+        "section": "017",
+        "crn": "10374",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 30,
+          "available": 14
+        }
+      },
+      {
+        "section": "018",
+        "crn": "10375",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 36,
+          "available": 15
+        }
+      },
+      {
+        "section": "019",
+        "crn": "10376",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 36,
+          "available": 23
+        }
+      },
+      {
+        "section": "020",
+        "crn": "10377",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 30,
+          "available": 24
+        }
+      },
+      {
+        "section": "021",
+        "crn": "10378",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 30,
+          "available": 25
+        }
+      },
+      {
+        "section": "022",
+        "crn": "10379",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 30,
+          "available": 7
+        }
+      },
+      {
+        "section": "023",
+        "crn": "10380",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 30,
+          "available": 13
+        }
+      },
+      {
+        "section": "024",
+        "crn": "10381",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 30,
+          "available": 20
+        }
+      },
+      {
+        "section": "025",
+        "crn": "10382",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 31,
+          "capacity": 31,
+          "available": 0
+        }
+      },
+      {
+        "section": "026",
+        "crn": "10383",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 30,
+          "available": 3
+        }
+      },
+      {
+        "section": "028",
+        "crn": "10385",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 38,
+          "capacity": 40,
+          "available": 2
+        }
+      },
+      {
+        "section": "029",
+        "crn": "10386",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 32,
+          "available": 19
+        }
+      },
+      {
+        "section": "030",
+        "crn": "10387",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 30,
+          "available": 5
+        }
+      },
+      {
+        "section": "031",
+        "crn": "10388",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 30,
+          "available": 20
+        }
+      },
+      {
+        "section": "032",
+        "crn": "10389",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 31,
+          "capacity": 50,
+          "available": 19
+        }
+      },
+      {
+        "section": "034",
+        "crn": "10390",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 30,
+          "available": 14
+        }
+      },
+      {
+        "section": "035",
+        "crn": "10391",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 30,
+          "available": 16
+        }
+      },
+      {
+        "section": "036",
+        "crn": "10392",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 30,
+          "available": 21
+        }
+      },
+      {
+        "section": "037",
+        "crn": "10393",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 50,
+          "available": 30
+        }
+      },
+      {
+        "section": "038",
+        "crn": "10394",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 30,
+          "available": 25
+        }
+      },
+      {
+        "section": "039",
+        "crn": "32727",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 50,
+          "available": 35
+        }
+      },
+      {
+        "section": "040",
+        "crn": "32728",
+        "instructor": "Mogrovejo, Pablo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 30,
+          "available": 18
+        }
+      },
+      {
+        "section": "041",
+        "crn": "32729",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 30,
+          "available": 7
+        }
+      },
+      {
+        "section": "042",
+        "crn": "32730",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 30,
+          "available": 15
+        }
+      },
+      {
+        "section": "043",
+        "crn": "33175",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "044",
+        "crn": "33176",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 29,
+          "capacity": 30,
+          "available": 1
+        }
+      },
+      {
+        "section": "045",
+        "crn": "33177",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "046",
+        "crn": "33178",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 30,
+          "available": 18
+        }
+      },
+      {
+        "section": "047",
+        "crn": "33181",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 30,
+          "available": 14
+        }
+      },
+      {
+        "section": "048",
+        "crn": "33182",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 30,
+          "available": 10
+        }
+      },
+      {
+        "section": "049",
+        "crn": "33183",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "050",
+        "crn": "33184",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "097",
+        "crn": "21652",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "098",
+        "crn": "10395",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 200,
+          "available": 200
+        }
+      },
+      {
+        "section": "099",
+        "crn": "22053",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 100,
+          "available": 100
+        }
+      },
+      {
+        "section": "100",
+        "crn": "22454",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 100,
+          "available": 100
+        }
+      }
+    ]
+  }
+}

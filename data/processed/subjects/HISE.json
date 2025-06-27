@@ -1,0 +1,118 @@
+{
+  "HISE111": {
+    "title": "ANCIENT GREECE FROM THE BRONZE AGE TO THE PERSIAN WARS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38591",
+        "instructor": "Sullivan, Benjamin",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0920",
+          "building": "SSC",
+          "room": "216"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 45,
+          "available": 36
+        }
+      }
+    ]
+  },
+  "HISE115": {
+    "title": "THE ROMAN REPUBLIC",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37377",
+        "instructor": "Chrissanthos, Stefan",
+        "schedule": {
+          "days": [
+            "W",
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "SSC",
+          "room": "308"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 36,
+          "capacity": 21,
+          "available": -15
+        }
+      }
+    ]
+  },
+  "HISE162": {
+    "title": "GERMANY FROM BISMARCK TO HITLER",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37378",
+        "instructor": "Lehmann, Philipp",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "WAT",
+          "room": "1101"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 70,
+          "available": 47
+        }
+      }
+    ]
+  },
+  "HISE173": {
+    "title": "RELIGION AND NATIONALITY IN IMPERIAL RUSSIA",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37379",
+        "instructor": "Michels, Georg",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 41,
+          "capacity": 24,
+          "available": -17
+        }
+      }
+    ]
+  }
+}

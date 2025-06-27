@@ -1,0 +1,426 @@
+{
+  "JPN001": {
+    "title": "FIRST-YEAR JAPANESE",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "16262",
+        "instructor": "Sagawa, Kyoko",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "R",
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "HMNSS",
+          "room": "1401"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 27,
+          "available": 2
+        }
+      },
+      {
+        "section": "002",
+        "crn": "16263",
+        "instructor": "Sagawa, Kyoko",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "R",
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "HMNSS",
+          "room": "1401"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 27,
+          "available": 4
+        }
+      },
+      {
+        "section": "003",
+        "crn": "16264",
+        "instructor": "Sato, Reiko",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "R",
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "HMNSS",
+          "room": "1400"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 25,
+          "available": 2
+        }
+      },
+      {
+        "section": "004",
+        "crn": "16265",
+        "instructor": "Sato, Reiko",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "R",
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "HMNSS",
+          "room": "1400"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "JPN003": {
+    "title": "FIRST-YEAR JAPANESE",
+    "credits": "4",
+    "prerequisites": "Prerequisites:JPN003(\n Course or Test: Japanese 002 \n Minimum Grade of C-\n May not be taken concurrently.Language: Japanese Prereq 604 to 605\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "25922",
+        "instructor": "Miura, Yasuhiko",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "R",
+            "F"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "HMNSS",
+          "room": "1401"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 28,
+          "capacity": 28,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "JPN004": {
+    "title": "SECOND-YEAR JAPANESE",
+    "credits": "4",
+    "prerequisites": "Prerequisites:JPN004)\nand\n(\n Course or Test: Japanese 003 \n Minimum Grade of C-\n May not be taken concurrently.Language: Japanese Prereq 606 to 607\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "16268",
+        "instructor": "Sato, Reiko",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "R",
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "HMNSS",
+          "room": "1400"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "002",
+        "crn": "16269",
+        "instructor": "Miura, Yasuhiko",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "R",
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "HMNSS",
+          "room": "1401"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 25,
+          "available": 13
+        }
+      }
+    ]
+  },
+  "JPN022": {
+    "title": "INTRODUCTION TO JAPANESE FILM",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37677",
+        "instructor": "Shima, Kenneth",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "SSC",
+          "room": "335"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 44,
+          "capacity": 75,
+          "available": 31
+        }
+      },
+      {
+        "section": "021",
+        "crn": "37743",
+        "instructor": "Xu, Yixin",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "DUNDE",
+          "room": "A1105"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 5,
+          "available": -4
+        }
+      },
+      {
+        "section": "022",
+        "crn": "37746",
+        "instructor": "Xu, Yixin",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1900",
+          "endTime": "1950",
+          "building": "OLMH",
+          "room": "1126"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 13,
+          "available": 5
+        }
+      },
+      {
+        "section": "023",
+        "crn": "37749",
+        "instructor": "Xu, Yixin",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "2000",
+          "endTime": "2050",
+          "building": "OLMH",
+          "room": "1126"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 13,
+          "available": 9
+        }
+      },
+      {
+        "section": "024",
+        "crn": "37752",
+        "instructor": "Matsuda, Misaki",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "CHUNG",
+          "room": "141"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 13,
+          "available": 7
+        }
+      },
+      {
+        "section": "025",
+        "crn": "37755",
+        "instructor": "Matsuda, Misaki",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "SPR",
+          "room": "2339"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 13,
+          "available": 6
+        }
+      },
+      {
+        "section": "026",
+        "crn": "37758",
+        "instructor": "Matsuda, Misaki",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "INTS",
+          "room": "2138"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 13,
+          "available": 3
+        }
+      }
+    ]
+  },
+  "JPN101A": {
+    "title": "THIRD-YEAR JAPANESE",
+    "credits": "4",
+    "prerequisites": "Prerequisites:JPN101A(\n Course or Test: Japanese 006 \n Minimum Grade of C-\n May not be taken concurrently.Language: Japanese Prereq 612 to 613\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "16275",
+        "instructor": "Sagawa, Kyoko",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "HMNSS",
+          "room": "1402"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 5,
+          "available": -3
+        }
+      },
+      {
+        "section": "021",
+        "crn": "20161",
+        "instructor": "Sagawa, Kyoko",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "HMNSS",
+          "room": "1405"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 5,
+          "available": -3
+        }
+      }
+    ]
+  },
+  "JPN120": {
+    "title": "REMEDIATING JAPAN: GENRE, ADAPTATION AND MEDIA FORMS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:JPN120(\n Course or Test: Comparative Literature 001 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Comparative Literature 002 \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Comparative Literature 017 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Japanese 022 \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Japanese 023 \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Japanese 034 \n Minimum Grade of C-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37680",
+        "instructor": "McKnight, Anne",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "HMNSS",
+          "room": "2408"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 15,
+          "available": 5
+        }
+      }
+    ]
+  }
+}

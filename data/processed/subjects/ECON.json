@@ -1,0 +1,5035 @@
+{
+  "ECON002": {
+    "title": "INTRODUCTION TO MACROECONOMICS",
+    "credits": "5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "20451",
+        "instructor": "Choi, Young Eun",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "UNLH",
+          "room": "1000"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 564,
+          "capacity": 567,
+          "available": 3
+        }
+      },
+      {
+        "section": "021",
+        "crn": "13446",
+        "instructor": "Xu, Lusha",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "OLMH",
+          "room": "1122"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "13447",
+        "instructor": "Xu, Lusha",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "OLMH",
+          "room": "1122"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "13448",
+        "instructor": "Diaz, Alvaro",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "OLMH",
+          "room": "1123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "13449",
+        "instructor": "Ye, Zihao",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "OLMH",
+          "room": "1123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "30181",
+        "instructor": "Qiu, Chenhui",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "OLMH",
+          "room": "1123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "026",
+        "crn": "13451",
+        "instructor": "Qiu, Chenhui",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "SPTH",
+          "room": "1222"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "027",
+        "crn": "13452",
+        "instructor": "Padha, Daanish",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "OLMH",
+          "room": "1123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "028",
+        "crn": "13453",
+        "instructor": "Qiu, Chenhui",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "OLMH",
+          "room": "1123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "029",
+        "crn": "30182",
+        "instructor": "Padha, Daanish",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "OLMH",
+          "room": "1123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "030",
+        "crn": "13455",
+        "instructor": "Ye, Zihao",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "WAT",
+          "room": "2141"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "031",
+        "crn": "13456",
+        "instructor": "Yu, Yangxi",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "OLMH",
+          "room": "1122"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "032",
+        "crn": "13457",
+        "instructor": "Padha, Daanish",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "OLMH",
+          "room": "1123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "033",
+        "crn": "13458",
+        "instructor": "Chen, Yuqing",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "OLMH",
+          "room": "1122"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "034",
+        "crn": "13459",
+        "instructor": "Ye, Zihao",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "OLMH",
+          "room": "1122"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "035",
+        "crn": "13460",
+        "instructor": "Jain, Vaishali",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "OLMH",
+          "room": "1123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "036",
+        "crn": "13461",
+        "instructor": "Jain, Vaishali",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "HMNSS",
+          "room": "1405"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 27,
+          "available": 2
+        }
+      },
+      {
+        "section": "037",
+        "crn": "13462",
+        "instructor": "Chen, Yuqing",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "OLMH",
+          "room": "1123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "038",
+        "crn": "13463",
+        "instructor": "Chen, Yuqing",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "WAT",
+          "room": "2141"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "039",
+        "crn": "23104",
+        "instructor": "Yu, Yangxi",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "OLMH",
+          "room": "1123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 26,
+          "capacity": 27,
+          "available": 1
+        }
+      },
+      {
+        "section": "040",
+        "crn": "23106",
+        "instructor": "Jain, Vaishali",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "OLMH",
+          "room": "1122"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "041",
+        "crn": "29202",
+        "instructor": "Yu, Yangxi",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "OLMH",
+          "room": "1123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "ECON003": {
+    "title": "INTRODUCTION TO MICROECONOMICS",
+    "credits": "5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "20452",
+        "instructor": "Velovici, Silviu",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1700",
+          "endTime": "1950",
+          "building": "UNLH",
+          "room": "1000"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 557,
+          "capacity": 567,
+          "available": 10
+        }
+      },
+      {
+        "section": "002",
+        "crn": "38807",
+        "instructor": "Dhar, Jay",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "MSE",
+          "room": "104"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 121,
+          "capacity": 270,
+          "available": 149
+        }
+      },
+      {
+        "section": "021",
+        "crn": "13468",
+        "instructor": "Han, Ilsoo",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "OLMH",
+          "room": "1122"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 26,
+          "capacity": 27,
+          "available": 1
+        }
+      },
+      {
+        "section": "022",
+        "crn": "13469",
+        "instructor": "Han, Ilsoo",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "OLMH",
+          "room": "1122"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "13470",
+        "instructor": "Nguyen, Quan",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "OLMH",
+          "room": "1122"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "13471",
+        "instructor": "Liu, Weijing",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "DUNDE",
+          "room": "A1105"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "13472",
+        "instructor": "Hu, Tingyu",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "OLMH",
+          "room": "1123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "026",
+        "crn": "13473",
+        "instructor": "Sun, Xin",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "OLMH",
+          "room": "1123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 26,
+          "capacity": 27,
+          "available": 1
+        }
+      },
+      {
+        "section": "027",
+        "crn": "13474",
+        "instructor": "Sun, Xin",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "OLMH",
+          "room": "1123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 26,
+          "capacity": 27,
+          "available": 1
+        }
+      },
+      {
+        "section": "028",
+        "crn": "13475",
+        "instructor": "Hu, Tingyu",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "OLMH",
+          "room": "1123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "029",
+        "crn": "29205",
+        "instructor": "Nguyen, Quan",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "WAT",
+          "room": "2141"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 26,
+          "capacity": 27,
+          "available": 1
+        }
+      },
+      {
+        "section": "030",
+        "crn": "13477",
+        "instructor": "Liu, Weijing",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "WAT",
+          "room": "2141"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "031",
+        "crn": "29206",
+        "instructor": "Ye, Yubin",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "WAT",
+          "room": "2141"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 26,
+          "capacity": 27,
+          "available": 1
+        }
+      },
+      {
+        "section": "032",
+        "crn": "13479",
+        "instructor": "Sun, Xin",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "OLMH",
+          "room": "1123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "033",
+        "crn": "13480",
+        "instructor": "Nguyen, Quan",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "OLMH",
+          "room": "1123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "034",
+        "crn": "13481",
+        "instructor": "Liu, Weijing",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "OLMH",
+          "room": "1123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 26,
+          "capacity": 27,
+          "available": 1
+        }
+      },
+      {
+        "section": "035",
+        "crn": "13482",
+        "instructor": "Ye, Yubin",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "WAT",
+          "room": "2141"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "036",
+        "crn": "23107",
+        "instructor": "Ye, Yubin",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "MSE",
+          "room": "003"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 26,
+          "capacity": 27,
+          "available": 1
+        }
+      },
+      {
+        "section": "037",
+        "crn": "23108",
+        "instructor": "Hu, Tingyu",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "INTS",
+          "room": "2134"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "038",
+        "crn": "29207",
+        "instructor": "Han, Ilsoo",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "OLMH",
+          "room": "1123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "039",
+        "crn": "23110",
+        "instructor": "Huang, Da",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "OLMH",
+          "room": "1122"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "040",
+        "crn": "23111",
+        "instructor": "Huang, Da",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "OLMH",
+          "room": "1122"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 27,
+          "available": 0
+        }
+      },
+      {
+        "section": "041",
+        "crn": "23112",
+        "instructor": "Huang, Da",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "OLMH",
+          "room": "1123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 26,
+          "capacity": 27,
+          "available": 1
+        }
+      },
+      {
+        "section": "052",
+        "crn": "38839",
+        "instructor": "Hodge, Ryan",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "SPR",
+          "room": "1358"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 23,
+          "available": 1
+        }
+      },
+      {
+        "section": "053",
+        "crn": "38809",
+        "instructor": "Hodge, Ryan",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "SPR",
+          "room": "1358"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 23,
+          "available": 0
+        }
+      },
+      {
+        "section": "056",
+        "crn": "38812",
+        "instructor": "Hodge, Ryan",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "SPR",
+          "room": "1358"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 23,
+          "available": 5
+        }
+      },
+      {
+        "section": "058",
+        "crn": "38814",
+        "instructor": "Ford, David",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "SPR",
+          "room": "2364"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 22,
+          "available": 0
+        }
+      },
+      {
+        "section": "061",
+        "crn": "38817",
+        "instructor": "Ford, David",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "INTS",
+          "room": "2134"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 22,
+          "available": 0
+        }
+      },
+      {
+        "section": "062",
+        "crn": "38818",
+        "instructor": "Ford, David",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "OLMH",
+          "room": "1123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 22,
+          "available": 8
+        }
+      }
+    ]
+  },
+  "ECON101": {
+    "title": "STATISTICS FOR ECONOMICS",
+    "credits": "5",
+    "prerequisites": "Prerequisites:ECON101(\n Course or Test: Mathematics 005B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "23113",
+        "instructor": "Sovero, Veronica",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "INTN",
+          "room": "1020"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 186,
+          "capacity": 200,
+          "available": 14
+        }
+      },
+      {
+        "section": "021",
+        "crn": "23114",
+        "instructor": "Pridanonda, Pete",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0700",
+          "endTime": "0750",
+          "building": "WAT",
+          "room": "2101"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 22,
+          "available": 7
+        }
+      },
+      {
+        "section": "022",
+        "crn": "23115",
+        "instructor": "Pridanonda, Pete",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "SPR",
+          "room": "1358"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 22,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "23116",
+        "instructor": "Pridanonda, Pete",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "WAT",
+          "room": "2101"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 22,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "23117",
+        "instructor": "Fan, Yuxuan",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0700",
+          "endTime": "0750",
+          "building": "SPR",
+          "room": "2361"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 22,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "37593",
+        "instructor": "Fan, Yuxuan",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "WAT",
+          "room": "2101"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 22,
+          "available": 4
+        }
+      },
+      {
+        "section": "026",
+        "crn": "23119",
+        "instructor": "Fan, Yuxuan",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "OLMH",
+          "room": "1123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 22,
+          "available": 0
+        }
+      },
+      {
+        "section": "027",
+        "crn": "29220",
+        "instructor": "Lee, Saerom",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "INTS",
+          "room": "2130"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 22,
+          "available": 0
+        }
+      },
+      {
+        "section": "028",
+        "crn": "30471",
+        "instructor": "Lee, Saerom",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "SPR",
+          "room": "2339"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 23,
+          "available": 0
+        }
+      },
+      {
+        "section": "029",
+        "crn": "30472",
+        "instructor": "Lee, Saerom",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0700",
+          "endTime": "0750",
+          "building": "SPR",
+          "room": "1358"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 23,
+          "available": 3
+        }
+      },
+      {
+        "section": "031",
+        "crn": "23120",
+        "instructor": "Wang, Dingli",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "OLMH",
+          "room": "1316"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 22,
+          "available": 1
+        }
+      },
+      {
+        "section": "032",
+        "crn": "23121",
+        "instructor": "Chen, Jianbin",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "OLMH",
+          "room": "1316"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 22,
+          "available": 0
+        }
+      },
+      {
+        "section": "033",
+        "crn": "23122",
+        "instructor": "Chen, Jianbin",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "OLMH",
+          "room": "1316"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 22,
+          "available": 0
+        }
+      },
+      {
+        "section": "034",
+        "crn": "23123",
+        "instructor": "Chen, Jianbin",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "OLMH",
+          "room": "1316"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 22,
+          "available": 0
+        }
+      },
+      {
+        "section": "035",
+        "crn": "37621",
+        "instructor": "Wang, Dingli",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "OLMH",
+          "room": "1316"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 22,
+          "available": 0
+        }
+      },
+      {
+        "section": "036",
+        "crn": "23125",
+        "instructor": "Wang, Dingli",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "OLMH",
+          "room": "1316"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 22,
+          "available": 0
+        }
+      },
+      {
+        "section": "037",
+        "crn": "29221",
+        "instructor": "Liu, Xinran",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "OLMH",
+          "room": "1316"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 22,
+          "available": 12
+        }
+      },
+      {
+        "section": "038",
+        "crn": "29222",
+        "instructor": "Liu, Xinran",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "OLMH",
+          "room": "1316"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 23,
+          "available": 1
+        }
+      },
+      {
+        "section": "040",
+        "crn": "31241",
+        "instructor": "Liu, Xinran",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "OLMH",
+          "room": "1316"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 23,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "ECON102": {
+    "title": "INTERMEDIATE MICROECONOMICS",
+    "credits": "5",
+    "prerequisites": "Prerequisites:ECON102(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "31795",
+        "instructor": "McLaren, Craig",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "MSE",
+          "room": "104"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 264,
+          "capacity": 270,
+          "available": 6
+        }
+      },
+      {
+        "section": "021",
+        "crn": "32605",
+        "instructor": "Chandra, Ujaan",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "SKYE",
+          "room": "172"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "32606",
+        "instructor": "Kapoor, Manisha",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "SPR",
+          "room": "2351"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "32607",
+        "instructor": "Ather, Zarnaab",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "SKYE",
+          "room": "173"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "32608",
+        "instructor": "Ather, Zarnaab",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "SPR",
+          "room": "2360"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "32635",
+        "instructor": "Kapoor, Manisha",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "SPR",
+          "room": "2360"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 29,
+          "capacity": 30,
+          "available": 1
+        }
+      },
+      {
+        "section": "026",
+        "crn": "32636",
+        "instructor": "Kapoor, Manisha",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "WAT",
+          "room": "1117"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 29,
+          "capacity": 30,
+          "available": 1
+        }
+      },
+      {
+        "section": "027",
+        "crn": "32637",
+        "instructor": "Chandra, Ujaan",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "INTS",
+          "room": "2136"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 26,
+          "capacity": 30,
+          "available": 4
+        }
+      },
+      {
+        "section": "028",
+        "crn": "32638",
+        "instructor": "Ather, Zarnaab",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "SSC",
+          "room": "121"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "029",
+        "crn": "32639",
+        "instructor": "Chandra, Ujaan",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0700",
+          "endTime": "0750",
+          "building": "OLMH",
+          "room": "1133"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "ECON104A": {
+    "title": "INTERMEDIATE MICROECONOMIC THEORY",
+    "credits": "5",
+    "prerequisites": "Prerequisites:ECON104A)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of C-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "13521",
+        "instructor": "Velovici, Silviu",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "2000",
+          "endTime": "2120",
+          "building": "PHY",
+          "room": "2000"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 152,
+          "capacity": 225,
+          "available": 73
+        }
+      },
+      {
+        "section": "021",
+        "crn": "13522",
+        "instructor": "Wen, Chao-Chi",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "OLMH",
+          "room": "1127"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "37594",
+        "instructor": "Wen, Chao-Chi",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0700",
+          "endTime": "0750",
+          "building": "PRCE",
+          "room": "2226"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 25,
+          "available": 21
+        }
+      },
+      {
+        "section": "023",
+        "crn": "13524",
+        "instructor": "Tu, Tianyan",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0700",
+          "endTime": "0750",
+          "building": "OLMH",
+          "room": "1116"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 25,
+          "available": 9
+        }
+      },
+      {
+        "section": "024",
+        "crn": "13525",
+        "instructor": "Tu, Tianyan",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "OLMH",
+          "room": "1132"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "13526",
+        "instructor": "Wen, Chao-Chi",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "DUNDE",
+          "room": "A1105"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 25,
+          "available": 13
+        }
+      },
+      {
+        "section": "026",
+        "crn": "13527",
+        "instructor": "Tu, Tianyan",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "OLMH",
+          "room": "1127"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 25,
+          "available": 10
+        }
+      },
+      {
+        "section": "027",
+        "crn": "28970",
+        "instructor": "Yang, Yunhao",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "INTS",
+          "room": "2130"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 25,
+          "available": 7
+        }
+      },
+      {
+        "section": "028",
+        "crn": "28971",
+        "instructor": "Yang, Yunhao",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "SPR",
+          "room": "2356"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "029",
+        "crn": "28972",
+        "instructor": "Yang, Yunhao",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "SPR",
+          "room": "2356"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 25,
+          "available": 12
+        }
+      }
+    ]
+  },
+  "ECON105A": {
+    "title": "INTERMEDIATE MACROECONOMIC THEORY",
+    "credits": "5",
+    "prerequisites": "Prerequisites:ECON105A)\nand\n(\n Course or Test: Economics 002 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of C-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "13528",
+        "instructor": "Ortego Marti, Victor",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0920",
+          "building": "MSE",
+          "room": "104"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 185,
+          "capacity": 225,
+          "available": 40
+        }
+      },
+      {
+        "section": "021",
+        "crn": "13529",
+        "instructor": "Tunc, Zeliha",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0700",
+          "endTime": "0750",
+          "building": "SPR",
+          "room": "2361"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 25,
+          "available": 6
+        }
+      },
+      {
+        "section": "022",
+        "crn": "13530",
+        "instructor": "Montoya, Michael",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0700",
+          "endTime": "0750",
+          "building": "PRCE",
+          "room": "2226"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 25,
+          "available": 4
+        }
+      },
+      {
+        "section": "023",
+        "crn": "13531",
+        "instructor": "Montoya, Michael",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "DUNDE",
+          "room": "A1105"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 25,
+          "available": 4
+        }
+      },
+      {
+        "section": "024",
+        "crn": "13532",
+        "instructor": "Montoya, Michael",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0700",
+          "endTime": "0750",
+          "building": "WAT",
+          "room": "2141"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 25,
+          "available": 2
+        }
+      },
+      {
+        "section": "025",
+        "crn": "35582",
+        "instructor": "Tunc, Zeliha",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0700",
+          "endTime": "0750",
+          "building": "HMNSS",
+          "room": "1401"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 25,
+          "available": 18
+        }
+      },
+      {
+        "section": "026",
+        "crn": "32643",
+        "instructor": "Tunc, Zeliha",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "INTS",
+          "room": "2138"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "027",
+        "crn": "28973",
+        "instructor": "Son, Yeonjoo",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "INTS",
+          "room": "1132"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "028",
+        "crn": "28974",
+        "instructor": "Son, Yeonjoo",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "SPR",
+          "room": "2361"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "029",
+        "crn": "28975",
+        "instructor": "Son, Yeonjoo",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "HMNSS",
+          "room": "1401"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 25,
+          "available": 6
+        }
+      }
+    ]
+  },
+  "ECON106": {
+    "title": "DATA ANALYSIS IN ECONOMICS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ECON106(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37591",
+        "instructor": "Sovero, Veronica",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "SPTH",
+          "room": "2200"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 42,
+          "capacity": 75,
+          "available": 33
+        }
+      },
+      {
+        "section": "031",
+        "crn": "37622",
+        "instructor": "Bu, Fan",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "OLMH",
+          "room": "1316"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 25,
+          "available": 10
+        }
+      },
+      {
+        "section": "032",
+        "crn": "37623",
+        "instructor": "Bu, Fan",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "OLMH",
+          "room": "1316"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 25,
+          "available": 19
+        }
+      },
+      {
+        "section": "033",
+        "crn": "37624",
+        "instructor": "Bu, Fan",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "OLMH",
+          "room": "1316"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 25,
+          "available": 4
+        }
+      }
+    ]
+  },
+  "ECON107": {
+    "title": "INTRODUCTORY ECONOMETRICS",
+    "credits": "5",
+    "prerequisites": "Prerequisites:ECON107)\nand\n(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "13535",
+        "instructor": "Eren, Ozkan",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1350",
+          "building": "SSC",
+          "room": "329"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 134,
+          "capacity": 140,
+          "available": 6
+        }
+      },
+      {
+        "section": "021",
+        "crn": "21161",
+        "instructor": "Fang, Colin",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0700",
+          "endTime": "0750",
+          "building": "SPR",
+          "room": "1358"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 24,
+          "available": 1
+        }
+      },
+      {
+        "section": "022",
+        "crn": "23133",
+        "instructor": "Qiu, Zhuoyu",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0700",
+          "endTime": "0750",
+          "building": "HMNSS",
+          "room": "1402"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 24,
+          "available": 1
+        }
+      },
+      {
+        "section": "023",
+        "crn": "30541",
+        "instructor": "Fang, Colin",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "OLMH",
+          "room": "1133"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 23,
+          "available": 2
+        }
+      },
+      {
+        "section": "024",
+        "crn": "27651",
+        "instructor": "Bansal, Radhika",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "SKYE",
+          "room": "170"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 23,
+          "available": 2
+        }
+      },
+      {
+        "section": "025",
+        "crn": "35586",
+        "instructor": "Bansal, Radhika",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "OLMH",
+          "room": "1133"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 23,
+          "available": 0
+        }
+      },
+      {
+        "section": "026",
+        "crn": "35588",
+        "instructor": "Bansal, Radhika",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "OLMH",
+          "room": "1133"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 23,
+          "available": 0
+        }
+      },
+      {
+        "section": "031",
+        "crn": "21146",
+        "instructor": "Qiu, Zhuoyu",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "OLMH",
+          "room": "1316"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 24,
+          "available": 1
+        }
+      },
+      {
+        "section": "032",
+        "crn": "21147",
+        "instructor": "Qiu, Zhuoyu",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "OLMH",
+          "room": "1316"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 24,
+          "available": 0
+        }
+      },
+      {
+        "section": "033",
+        "crn": "30469",
+        "instructor": "Zhao, Ruinan",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "OLMH",
+          "room": "1316"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 23,
+          "available": 0
+        }
+      },
+      {
+        "section": "034",
+        "crn": "31389",
+        "instructor": "Zhao, Ruinan",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "OLMH",
+          "room": "1316"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 23,
+          "available": 2
+        }
+      },
+      {
+        "section": "035",
+        "crn": "31390",
+        "instructor": "Fang, Colin",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "OLMH",
+          "room": "1316"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 23,
+          "available": 3
+        }
+      },
+      {
+        "section": "036",
+        "crn": "36477",
+        "instructor": "Zhao, Ruinan",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "OLMH",
+          "room": "1316"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 23,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "ECON119": {
+    "title": "LAW AND ECONOMICS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ECON119(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37557",
+        "instructor": "Kim, Kenneth",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1830",
+          "endTime": "1950",
+          "building": "SSC",
+          "room": "335"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 86,
+          "capacity": 90,
+          "available": 4
+        }
+      }
+    ]
+  },
+  "ECON125": {
+    "title": "HISTORY OF ECONOMIC THOUGHT",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ECON125(\n Course or Test: Economics 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37559",
+        "instructor": "McLaren, Craig",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1820",
+          "building": "SPR",
+          "room": "1102"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 81,
+          "capacity": 90,
+          "available": 9
+        }
+      }
+    ]
+  },
+  "ECON130": {
+    "title": "INTRODUCTION TO MONEY, BANKING, AND CREDIT",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ECON130)\nand\n(\n Course or Test: Economics 103 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 105A \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37560",
+        "instructor": "Kim, Kenneth",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1700",
+          "endTime": "1820",
+          "building": "SSC",
+          "room": "335"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 89,
+          "capacity": 90,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "ECON134": {
+    "title": "INTRODUCTION TO FINANCIAL MANAGEMENT",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ECON134)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "002",
+        "crn": "33211",
+        "instructor": "Chung, Y.",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 3,
+          "available": 0
+        }
+      },
+      {
+        "section": "027",
+        "crn": "33212",
+        "instructor": "Park, Kay",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 0,
+          "available": 0
+        }
+      },
+      {
+        "section": "028",
+        "crn": "33213",
+        "instructor": "Park, Kay",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 0,
+          "available": 0
+        }
+      },
+      {
+        "section": "029",
+        "crn": "33214",
+        "instructor": "Bommakanti, Manideep",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 0,
+          "available": 0
+        }
+      },
+      {
+        "section": "030",
+        "crn": "33215",
+        "instructor": "Bommakanti, Manideep",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 0,
+          "available": 0
+        }
+      },
+      {
+        "section": "031",
+        "crn": "33216",
+        "instructor": "Chen, Yingwen",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 0,
+          "available": 0
+        }
+      },
+      {
+        "section": "032",
+        "crn": "33217",
+        "instructor": "Ramirez Heredia, Ricardo",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 3,
+          "available": 0
+        }
+      },
+      {
+        "section": "033",
+        "crn": "38745",
+        "instructor": "Chen, Yingwen",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 0,
+          "available": 0
+        }
+      },
+      {
+        "section": "034",
+        "crn": "38747",
+        "instructor": "Ramirez Heredia, Ricardo",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 0,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "ECON135": {
+    "title": "THE STOCK MARKET",
+    "credits": "5",
+    "prerequisites": "Prerequisites:ECON135)\nand\n(\n Course or Test: Economics 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "24410",
+        "instructor": "Velovici, Silviu",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1830",
+          "endTime": "1950",
+          "building": "MSE",
+          "room": "104"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 214,
+          "capacity": 218,
+          "available": 4
+        }
+      },
+      {
+        "section": "021",
+        "crn": "24411",
+        "instructor": "Li, Chuanman",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "SPR",
+          "room": "2360"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 24,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "24412",
+        "instructor": "Rocha e Silva, Murilo",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "SPR",
+          "room": "2361"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 24,
+          "available": 1
+        }
+      },
+      {
+        "section": "023",
+        "crn": "24413",
+        "instructor": "Li, Chuanman",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "OLMH",
+          "room": "420"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 24,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "24414",
+        "instructor": "Rocha e Silva, Murilo",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0700",
+          "endTime": "0750",
+          "building": "HMNSS",
+          "room": "1403"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 12,
+          "available": -11
+        }
+      },
+      {
+        "section": "025",
+        "crn": "24415",
+        "instructor": "Li, Chuanman",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "MSE",
+          "room": "113"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 24,
+          "available": 3
+        }
+      },
+      {
+        "section": "026",
+        "crn": "24416",
+        "instructor": "Rocha e Silva, Murilo",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "OLMH",
+          "room": "1133"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "027",
+        "crn": "24417",
+        "instructor": "Zhang, Han",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0700",
+          "endTime": "0750",
+          "building": "OLMH",
+          "room": "1126"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "028",
+        "crn": "24418",
+        "instructor": "Zhang, Han",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "NORD",
+          "room": "A1000"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "029",
+        "crn": "24419",
+        "instructor": "Zhang, Han",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "OLMH",
+          "room": "1123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 24,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "ECON137": {
+    "title": "ECONOMIC GROWTH AND UNEMPLOYMENT",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ECON137(\n Course or Test: Economics 103 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 105A \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "35540",
+        "instructor": "Ortego Marti, Victor",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "HMNSS",
+          "room": "1503"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 56,
+          "capacity": 60,
+          "available": 4
+        }
+      }
+    ]
+  },
+  "ECON151": {
+    "title": "ECONMICS OF EDUCATION",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ECON151)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of C-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 101 \n Minimum Grade of C-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37561",
+        "instructor": "Eren, Ozkan",
+        "schedule": {
+          "days": [
+            "W",
+            "F"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "OLMH",
+          "room": "1136"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 40,
+          "available": 33
+        }
+      }
+    ]
+  },
+  "ECON153": {
+    "title": "LABOR ECONOMICS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ECON153)\nand\n(\n Course or Test: Economics 102 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 104A \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34643",
+        "instructor": "Bates, Michael",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "WAT",
+          "room": "1101"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 49,
+          "capacity": 80,
+          "available": 31
+        }
+      }
+    ]
+  },
+  "ECON164": {
+    "title": "BEHAVIORAL ECONOMICS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ECON164(\n Course or Test: Economics 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 002H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 104B \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37567",
+        "instructor": "Hirshleifer, Sarojini",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "SSC",
+          "room": "216"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 36,
+          "capacity": 60,
+          "available": 24
+        }
+      }
+    ]
+  },
+  "ECON171": {
+    "title": "INTERNATIONAL FINANCE",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ECON171(\n Course or Test: Economics 103 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 105A \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "33839",
+        "instructor": "Abubaker, Riyad",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1350",
+          "building": "OLMH",
+          "room": "1212"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 80,
+          "capacity": 80,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "ECON178": {
+    "title": "INTERNATIONAL TRADE",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ECON178(\n Course or Test: Economics 102 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 104A \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "31802",
+        "instructor": "Abubaker, Riyad",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "1050",
+          "building": "OLMH",
+          "room": "1208"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 63,
+          "capacity": 90,
+          "available": 27
+        }
+      }
+    ]
+  },
+  "ECON186": {
+    "title": "POLICY EVALUATION IN DEVELOPMENT ECONOMICS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ECON186(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "35544",
+        "instructor": "Hirshleifer, Sarojini",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "SSC",
+          "room": "121"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 34,
+          "capacity": 35,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "ECON200A": {
+    "title": "MICROECONOMIC THEORY",
+    "credits": "6",
+    "prerequisites": "Prerequisites:ECON200A)\nand\n(\n Course or Test: Economics 104B \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "31158",
+        "instructor": "Nishimura, Hiroki",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1320",
+          "building": "SPR",
+          "room": "2206"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 15,
+          "available": 1
+        }
+      },
+      {
+        "section": "021",
+        "crn": "31159",
+        "instructor": "Iyer, Anirudh",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1250",
+          "building": "SPR",
+          "room": "2206"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 15,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "ECON201A": {
+    "title": "MACROECONOMIC THEORY",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ECON201A(\n Course or Test: Economics 105B \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 200A \n Minimum Grade of D-\n May be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "33842",
+        "instructor": "Guo, Jang-Ting",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0800",
+          "endTime": "0920",
+          "building": "SPR",
+          "room": "2206"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 15,
+          "available": 1
+        }
+      },
+      {
+        "section": "021",
+        "crn": "34080",
+        "instructor": "Kumar, Nitish",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "SPR",
+          "room": "2206"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 15,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "ECON205A": {
+    "title": "ECONOMETRIC METHODS 1",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ECON205A(\n Course or Test: Economics 104A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 105A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 009B \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 011 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "33843",
+        "instructor": "Shi, Ruoyao",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "SPR",
+          "room": "2206"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 15,
+          "available": 1
+        }
+      },
+      {
+        "section": "021",
+        "crn": "34081",
+        "instructor": "Ding, Yifei",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "SPR",
+          "room": "2206"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 15,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "ECON241": {
+    "title": "LABOR SUPPLY",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37569",
+        "instructor": "Bates, Michael",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "SPR",
+          "room": "4128"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 15,
+          "available": 7
+        }
+      }
+    ]
+  },
+  "ECON260": {
+    "title": "THEORIES OF ECONOMIC DEVELOPMENT",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36503",
+        "instructor": "Helfand, Steven",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1200",
+          "endTime": "1320",
+          "building": "SPR",
+          "room": "4128"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 15,
+          "available": 11
+        }
+      }
+    ]
+  },
+  "ECON282E": {
+    "title": "FOUNDATIONS OF MACROECONOMICS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "13573",
+        "instructor": "Guo, Jang-Ting",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1030",
+          "endTime": "1150",
+          "building": "SPR",
+          "room": "4128"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 15,
+          "available": 11
+        }
+      }
+    ]
+  },
+  "ECON283E": {
+    "title": "RATIONAL CHOICE THEORY",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "31804",
+        "instructor": "Nishimura, Hiroki",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0900",
+          "endTime": "1020",
+          "building": "SPR",
+          "room": "4128"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 15,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "ECON285E": {
+    "title": "ADVANCED ECONOMETRIC METHODS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37570",
+        "instructor": "Shi, Ruoyao",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": "SPR",
+          "room": "2206"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 15,
+          "available": 11
+        }
+      }
+    ]
+  },
+  "ECON289A": {
+    "title": "COLLOQUIUM IN ECONOMICS",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "13575",
+        "instructor": "Guo, Jang-Ting",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "SPR",
+          "room": "4128"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "002",
+        "crn": "13576",
+        "instructor": "Shi, Ruoyao",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "SPR",
+          "room": "4128"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "003",
+        "crn": "13577",
+        "instructor": "Xiong, Siyang",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "SPR",
+          "room": "4128"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 30,
+          "available": 27
+        }
+      },
+      {
+        "section": "004",
+        "crn": "31369",
+        "instructor": "Hirshleifer, Sarojini",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "SPR",
+          "room": "4128"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 30,
+          "available": 22
+        }
+      }
+    ]
+  },
+  "ECON289B": {
+    "title": "COLLOQUIUM IN ECONOMICS",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "13578",
+        "instructor": "Guo, Jang-Ting",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "SPR",
+          "room": "4128"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 30,
+          "available": 19
+        }
+      },
+      {
+        "section": "002",
+        "crn": "13579",
+        "instructor": "Shi, Ruoyao",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "SPR",
+          "room": "4128"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 30,
+          "available": 17
+        }
+      },
+      {
+        "section": "003",
+        "crn": "13580",
+        "instructor": "Xiong, Siyang",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "SPR",
+          "room": "4128"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 30,
+          "available": 21
+        }
+      },
+      {
+        "section": "004",
+        "crn": "31370",
+        "instructor": "Hirshleifer, Sarojini",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "SPR",
+          "room": "4128"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 30,
+          "available": 19
+        }
+      }
+    ]
+  },
+  "ECON290": {
+    "title": "DIRECTED STUDIES",
+    "credits": "1-6",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "02U",
+        "crn": "13583",
+        "instructor": "Ullah, Aman",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "38L",
+        "crn": "13587",
+        "instructor": "Lee, Tae-Hwy",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "43G",
+        "crn": "13588",
+        "instructor": "Gonzalez-Rivera, Gloria",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "52G",
+        "crn": "13590",
+        "instructor": "Guo, Jang-Ting",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "53D",
+        "crn": "13591",
+        "instructor": "Deolalikar, Anil",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "68C",
+        "crn": "13592",
+        "instructor": "Chauvet, Marcelle",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "ECON291": {
+    "title": "INDIVIDUAL STUDY IN COORDINATED AREAS",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "02U",
+        "crn": "13596",
+        "instructor": "Ullah, Aman",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "08X",
+        "crn": "31554",
+        "instructor": "Xie, Yang",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "09X",
+        "crn": "31490",
+        "instructor": "Xiong, Siyang",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "0S9",
+        "crn": "29544",
+        "instructor": "Shi, Ruoyao",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "35O",
+        "crn": "31488",
+        "instructor": "Ortego Marti, Victor",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 25,
+          "available": 25
+        }
+      },
+      {
+        "section": "38L",
+        "crn": "13600",
+        "instructor": "Lee, Tae-Hwy",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "40N",
+        "crn": "13602",
+        "instructor": "Nishimura, Hiroki",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "43G",
+        "crn": "13603",
+        "instructor": "Gonzalez-Rivera, Gloria",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "47E",
+        "crn": "31623",
+        "instructor": "Eren, Ozkan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "47H",
+        "crn": "13604",
+        "instructor": "Helfand, Steven",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "52G",
+        "crn": "13606",
+        "instructor": "Guo, Jang-Ting",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "53D",
+        "crn": "13607",
+        "instructor": "Deolalikar, Anil",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "63K",
+        "crn": "13608",
+        "instructor": "Khan, Urmee",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "68C",
+        "crn": "13609",
+        "instructor": "Chauvet, Marcelle",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "B41",
+        "crn": "27441",
+        "instructor": "Bates, Michael",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "C26",
+        "crn": "27484",
+        "instructor": "Cummins, Joseph",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "H28",
+        "crn": "33329",
+        "instructor": "Hirshleifer, Sarojini",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "S91",
+        "crn": "33249",
+        "instructor": "Sloane, Carolyn",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "ECON292": {
+    "title": "CONCURRENT ANALYTICAL STUDIES",
+    "credits": "2-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "47E",
+        "crn": "31595",
+        "instructor": "Eren, Ozkan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "ECON297": {
+    "title": "DIRECTED RESEARCH",
+    "credits": "1-6",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "02U",
+        "crn": "13614",
+        "instructor": "Ullah, Aman",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "35O",
+        "crn": "13621",
+        "instructor": "Ortego Marti, Victor",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "38L",
+        "crn": "13622",
+        "instructor": "Lee, Tae-Hwy",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "43G",
+        "crn": "13623",
+        "instructor": "Gonzalez-Rivera, Gloria",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "47E",
+        "crn": "31574",
+        "instructor": "Eren, Ozkan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "47H",
+        "crn": "13625",
+        "instructor": "Helfand, Steven",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "52G",
+        "crn": "13627",
+        "instructor": "Guo, Jang-Ting",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "53D",
+        "crn": "13628",
+        "instructor": "Deolalikar, Anil",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "63D",
+        "crn": "22681",
+        "instructor": "Dinar, Ariel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "68C",
+        "crn": "13629",
+        "instructor": "Chauvet, Marcelle",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "ECON299": {
+    "title": "RESEARCH FOR THESIS OR DISSERTATION",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "02U",
+        "crn": "13634",
+        "instructor": "Chauvet, Marcelle",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "08X",
+        "crn": "33306",
+        "instructor": "Xie, Yang",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "09X",
+        "crn": "33282",
+        "instructor": "Xiong, Siyang",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "0S9",
+        "crn": "33276",
+        "instructor": "Shi, Ruoyao",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "35O",
+        "crn": "13640",
+        "instructor": "Ortego Marti, Victor",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 30,
+          "available": 27
+        }
+      },
+      {
+        "section": "38L",
+        "crn": "13641",
+        "instructor": "Lee, Tae-Hwy",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 30,
+          "available": 25
+        }
+      },
+      {
+        "section": "40N",
+        "crn": "33320",
+        "instructor": "Nishimura, Hiroki",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "43G",
+        "crn": "13642",
+        "instructor": "Gonzalez-Rivera, Gloria",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "45S",
+        "crn": "13643",
+        "instructor": "Schwabe, Kurt",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "47E",
+        "crn": "13633",
+        "instructor": "Eren, Ozkan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 30,
+          "available": 27
+        }
+      },
+      {
+        "section": "47H",
+        "crn": "13644",
+        "instructor": "Helfand, Steven",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "52G",
+        "crn": "13646",
+        "instructor": "Guo, Jang-Ting",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "53D",
+        "crn": "13647",
+        "instructor": "Deolalikar, Anil",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "63D",
+        "crn": "13648",
+        "instructor": "Dinar, Ariel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "63K",
+        "crn": "13649",
+        "instructor": "Khan, Urmee",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "68C",
+        "crn": "13650",
+        "instructor": "Chauvet, Marcelle",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 30,
+          "available": 25
+        }
+      },
+      {
+        "section": "B41",
+        "crn": "25244",
+        "instructor": "Bates, Michael",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 30,
+          "available": 26
+        }
+      },
+      {
+        "section": "C26",
+        "crn": "13630",
+        "instructor": "Cummins, Joseph",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "H28",
+        "crn": "29543",
+        "instructor": "Hirshleifer, Sarojini",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "ECON302": {
+    "title": "TEACHING PRACTICUM",
+    "credits": "1-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "13651",
+        "instructor": "The Staff, .",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "02U",
+        "crn": "13652",
+        "instructor": "Ullah, Aman",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "07K",
+        "crn": "13653",
+        "instructor": "Knapp, Keith",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "07L",
+        "crn": "13654",
+        "instructor": "Lippit, Victor",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "17G",
+        "crn": "13655",
+        "instructor": "Gaffney, Mason",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "18F",
+        "crn": "13656",
+        "instructor": "Fairris, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "24R",
+        "crn": "13657",
+        "instructor": "Russell, R.",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "29D",
+        "crn": "13658",
+        "instructor": "Dymski, Gary",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "32C",
+        "crn": "13659",
+        "instructor": "Cullenberg, Stephen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "33B",
+        "crn": "13660",
+        "instructor": "Bandyopadhyay, Taradas",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "43G",
+        "crn": "13661",
+        "instructor": "Gonzalez-Rivera, Gloria",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "47H",
+        "crn": "13662",
+        "instructor": "Helfand, Steven",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "52G",
+        "crn": "13663",
+        "instructor": "Guo, Jang-Ting",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "68C",
+        "crn": "13664",
+        "instructor": "Chauvet, Marcelle",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  }
+}

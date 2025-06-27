@@ -1,0 +1,2191 @@
+{
+  "ENSC001": {
+    "title": "INTRODUCTION TO ENVIRONMENTAL SCIENCE: NATURAL RESOURCES",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "14605",
+        "instructor": "Porter, William",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "SSC",
+          "room": "229"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 391,
+          "capacity": 350,
+          "available": -41
+        }
+      },
+      {
+        "section": "021",
+        "crn": "14606",
+        "instructor": "Horn, Sophia",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "SPR",
+          "room": "2343"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 40,
+          "capacity": 20,
+          "available": -20
+        }
+      },
+      {
+        "section": "022",
+        "crn": "14607",
+        "instructor": "Horn, Sophia",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "SPR",
+          "room": "2343"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 40,
+          "capacity": 20,
+          "available": -20
+        }
+      },
+      {
+        "section": "023",
+        "crn": "14608",
+        "instructor": "Karapetrova, Aleksandra",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "SSC",
+          "room": "125"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 39,
+          "capacity": 20,
+          "available": -19
+        }
+      },
+      {
+        "section": "024",
+        "crn": "14609",
+        "instructor": "Karapetrova, Aleksandra",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "SSC",
+          "room": "125"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 39,
+          "capacity": 20,
+          "available": -19
+        }
+      },
+      {
+        "section": "025",
+        "crn": "14610",
+        "instructor": "Perna, John",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "CHUNG",
+          "room": "142"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 38,
+          "capacity": 20,
+          "available": -18
+        }
+      },
+      {
+        "section": "026",
+        "crn": "14611",
+        "instructor": "Perna, John",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "CHUNG",
+          "room": "142"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 38,
+          "capacity": 20,
+          "available": -18
+        }
+      },
+      {
+        "section": "027",
+        "crn": "14612",
+        "instructor": "Tran, Lillian",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "MSE",
+          "room": "003"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 40,
+          "capacity": 20,
+          "available": -20
+        }
+      },
+      {
+        "section": "028",
+        "crn": "33592",
+        "instructor": "Tran, Lillian",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "MSE",
+          "room": "003"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 39,
+          "capacity": 20,
+          "available": -19
+        }
+      },
+      {
+        "section": "029",
+        "crn": "33596",
+        "instructor": "Buerk, Emma",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "INTS",
+          "room": "1121"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 40,
+          "capacity": 20,
+          "available": -20
+        }
+      },
+      {
+        "section": "030",
+        "crn": "33597",
+        "instructor": "Buerk, Emma",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "INTS",
+          "room": "1121"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 38,
+          "capacity": 20,
+          "available": -18
+        }
+      }
+    ]
+  },
+  "ENSC003": {
+    "title": "CONTEMPORARY ISSUES IN THE ENVIRONMENTAL SCIENCES",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "35416",
+        "instructor": "Li, King-Fai",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "BRNHL",
+          "room": "B118"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 178,
+          "capacity": 200,
+          "available": 22
+        }
+      },
+      {
+        "section": "021",
+        "crn": "35417",
+        "instructor": "Tan, Lin",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "SSC",
+          "room": "125"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 34,
+          "capacity": 40,
+          "available": 6
+        }
+      },
+      {
+        "section": "022",
+        "crn": "35418",
+        "instructor": "Tan, Lin",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "SSC",
+          "room": "125"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 37,
+          "capacity": 40,
+          "available": 3
+        }
+      },
+      {
+        "section": "023",
+        "crn": "35419",
+        "instructor": "Pena, Gino",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "HMNSS",
+          "room": "1503"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 36,
+          "capacity": 40,
+          "available": 4
+        }
+      },
+      {
+        "section": "024",
+        "crn": "35420",
+        "instructor": "Braun, Audrey",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "SPR",
+          "room": "2340"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 36,
+          "capacity": 40,
+          "available": 4
+        }
+      },
+      {
+        "section": "025",
+        "crn": "37328",
+        "instructor": "Braun, Audrey",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "SPR",
+          "room": "2351"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 35,
+          "capacity": 40,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "ENSC100": {
+    "title": "INTRODUCTION TO SOIL SCIENCE",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ENSC100(\n Course or Test: Chemistry 001C \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 01LC \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 01HC \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 01HLC \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Environmental Sciences 001 \n Minimum Grade of D-\n May be taken concurrently.)\nor\n(\n Course or Test: Environmental Sciences 002 \n Minimum Grade of D-\n May be taken concurrently.)\nor\n(\n Course or Test: Chemical and Environmental Eng 010 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "14619",
+        "instructor": "Ying, Samantha",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "DUNDE",
+          "room": "A1003"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 70,
+          "capacity": 100,
+          "available": 30
+        }
+      },
+      {
+        "section": "021",
+        "crn": "14620",
+        "instructor": "Heartt, Lukkee",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1300",
+          "endTime": "1550",
+          "building": "PRCE",
+          "room": "2443"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 20,
+          "available": 7
+        }
+      },
+      {
+        "section": "022",
+        "crn": "14621",
+        "instructor": "Ode, Shanthini",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0900",
+          "endTime": "1150",
+          "building": "PRCE",
+          "room": "2443"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 20,
+          "available": 5
+        }
+      },
+      {
+        "section": "023",
+        "crn": "14622",
+        "instructor": "Ode, Shanthini",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1200",
+          "endTime": "1450",
+          "building": "PRCE",
+          "room": "2443"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 20,
+          "available": 6
+        }
+      },
+      {
+        "section": "024",
+        "crn": "14623",
+        "instructor": "Heartt, Lukkee",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1300",
+          "endTime": "1550",
+          "building": "PRCE",
+          "room": "2443"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 20,
+          "available": 9
+        }
+      },
+      {
+        "section": "025",
+        "crn": "31698",
+        "instructor": "Zakopal, Lindsey",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "1150",
+          "building": "PRCE",
+          "room": "2443"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 20,
+          "available": 3
+        }
+      }
+    ]
+  },
+  "ENSC133": {
+    "title": "ENVIRONMENTAL MICROBIOLOGY",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ENSC133(\n Course or Test: Biology 005A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Biology 05LA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Biology 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Biology 005B \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Biology 005C \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32611",
+        "instructor": "Aronson, Emma",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "HMNSS",
+          "room": "1501"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 31,
+          "capacity": 120,
+          "available": 89
+        }
+      },
+      {
+        "section": "002",
+        "crn": "32612",
+        "instructor": "Arian, Suri",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0700",
+          "endTime": "0750",
+          "building": "MSE",
+          "room": "003"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 30,
+          "available": 22
+        }
+      },
+      {
+        "section": "003",
+        "crn": "32613",
+        "instructor": "Arian, Suri",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "SKYE",
+          "room": "170"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 30,
+          "available": 19
+        }
+      },
+      {
+        "section": "004",
+        "crn": "32614",
+        "instructor": "Arian, Suri",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "MSE",
+          "room": "003"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 30,
+          "available": 19
+        }
+      },
+      {
+        "section": "005",
+        "crn": "32616",
+        "instructor": "Arian, Suri",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1900",
+          "endTime": "1950",
+          "building": "MSE",
+          "room": "011"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      }
+    ]
+  },
+  "ENSC135": {
+    "title": "ATMOSPHERIC CHEMISTRY",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ENSC135(\n Course or Test: Chemistry 008A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 08LA \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Chemistry 08HA \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 08HLA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 12HA \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 12A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Chemistry 008B \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 08LB \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Chemistry 08HB \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Chemistry 08HLB \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Chemistry 12B \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Chemistry 12HB \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "23228",
+        "instructor": "Bahreini, Roya",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "CHUNG",
+          "room": "143"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 17,
+          "available": 1
+        }
+      },
+      {
+        "section": "021",
+        "crn": "23229",
+        "instructor": "Bowey, Erin",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "CHUNG",
+          "room": "142"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 17,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "ENSC136": {
+    "title": "CHEMISTRY OF NATURAL WATERS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ENSC136)\nand\n(\n Course or Test: Chemistry 005 \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Environmental Sciences 101 \n Minimum Grade of C-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "23257",
+        "instructor": "Lin, Ying-Hsuan",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "HMNSS",
+          "room": "1402"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 27,
+          "available": 12
+        }
+      },
+      {
+        "section": "021",
+        "crn": "23263",
+        "instructor": "Lin, Ying-Hsuan",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "HMNSS",
+          "room": "1402"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 27,
+          "available": 12
+        }
+      }
+    ]
+  },
+  "ENSC140": {
+    "title": "LIMNOLOGY",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ENSC140)\nand\n(\n Course or Test: Environmental Sciences 101 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "25873",
+        "instructor": "Harms, Tamara",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1300",
+          "endTime": "1420",
+          "building": "NORD",
+          "room": "A1000"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 25,
+          "available": 9
+        }
+      },
+      {
+        "section": "021",
+        "crn": "25874",
+        "instructor": "Harms, Tamara",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1000",
+          "endTime": "1250",
+          "building": "PRCE",
+          "room": "2443"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 25,
+          "available": 9
+        }
+      }
+    ]
+  },
+  "ENSC163": {
+    "title": "HYDROLOGY",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ENSC163)\nand\n(\n Course or Test: Environmental Sciences 100 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Environmental Sciences 101 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Environmental Sciences 110 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mathematics 007B \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 009B \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 09HB \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "35411",
+        "instructor": "Verdi, Amir",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "OLMH",
+          "room": "420"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 35,
+          "available": 23
+        }
+      },
+      {
+        "section": "021",
+        "crn": "35412",
+        "instructor": "Verdi, Amir",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "SKYE",
+          "room": "171"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 35,
+          "available": 23
+        }
+      }
+    ]
+  },
+  "ENSC190": {
+    "title": "SPECIAL STUDIES",
+    "credits": "1-5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "H23",
+        "crn": "38585",
+        "instructor": "Hopkins, Francesca",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0900",
+          "endTime": "1150",
+          "building": "GEOL",
+          "room": "2218"
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 8,
+          "available": 7
+        }
+      }
+    ]
+  },
+  "ENSC191": {
+    "title": "SEMINAR IN PROFESSIONAL DEVELOPMENT IN ENVIRONMENTAL SCIENCES",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "14640",
+        "instructor": "Simunek, Jiri",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "NORD",
+          "room": "A1000"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 25,
+          "available": 2
+        }
+      }
+    ]
+  },
+  "ENSC197": {
+    "title": "RESEARCH FOR UNDERGRADUATES",
+    "credits": "1-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "10H",
+        "crn": "29232",
+        "instructor": "Hirmas, Daniel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "29Y",
+        "crn": "29840",
+        "instructor": "Ying, Samantha",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "44S",
+        "crn": "33082",
+        "instructor": "Schlenk, Daniel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "72A",
+        "crn": "33038",
+        "instructor": "Ajami, Hoori",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "G14",
+        "crn": "33231",
+        "instructor": "Gray, Andrew",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "H23",
+        "crn": "29763",
+        "instructor": "Hopkins, Francesca",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "H60",
+        "crn": "29678",
+        "instructor": "Homyak, Peter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "H62",
+        "crn": "29870",
+        "instructor": "Verdi, Amir",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "L38",
+        "crn": "33321",
+        "instructor": "Lin, Ying-Hsuan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "P03",
+        "crn": "29114",
+        "instructor": "Porter, William",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "ENSC198I": {
+    "title": "INTERNSHIP IN ENVIRONMENTAL SCIENCES",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "H23",
+        "crn": "27571",
+        "instructor": "Hopkins, Francesca",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Field",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "L60",
+        "crn": "38937",
+        "instructor": "Li, King-Fai",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Field",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "ENSC232": {
+    "title": "BIOGEOCHEMISTRY",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37336",
+        "instructor": "Homyak, Peter",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "SCLAB",
+          "room": "301"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 15,
+          "available": 5
+        }
+      },
+      {
+        "section": "021",
+        "crn": "37337",
+        "instructor": "Homyak, Peter",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1530",
+          "endTime": "1620",
+          "building": "SCLAB",
+          "room": "301"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 15,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "ENSC290": {
+    "title": "DIRECTED STUDIES",
+    "credits": "1-6",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "32G",
+        "crn": "14679",
+        "instructor": "Gan, Jianying",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "H23",
+        "crn": "38586",
+        "instructor": "Hopkins, Francesca",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0900",
+          "endTime": "1150",
+          "building": "GEOL",
+          "room": "2218"
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 7,
+          "available": 1
+        }
+      },
+      {
+        "section": "H60",
+        "crn": "29680",
+        "instructor": "Homyak, Peter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "P03",
+        "crn": "27325",
+        "instructor": "Porter, William",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "ENSC292": {
+    "title": "CONCURRENT AND ADVANCED STUDIES",
+    "credits": "1-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "B26",
+        "crn": "31458",
+        "instructor": "Bahreini, Roya",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Written Work",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 2,
+          "available": 0
+        }
+      },
+      {
+        "section": "H23",
+        "crn": "27414",
+        "instructor": "Hopkins, Francesca",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Written Work",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      },
+      {
+        "section": "H62",
+        "crn": "27402",
+        "instructor": "Verdi, Amir",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Written Work",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      }
+    ]
+  },
+  "ENSC297": {
+    "title": "DIRECTED RESEARCH",
+    "credits": "1-6",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "10H",
+        "crn": "31440",
+        "instructor": "Hirmas, Daniel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "29Y",
+        "crn": "33303",
+        "instructor": "Ying, Samantha",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "32G",
+        "crn": "14696",
+        "instructor": "Gan, Jianying",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "32Z",
+        "crn": "31419",
+        "instructor": "Zhang, Haofei",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "33J",
+        "crn": "29732",
+        "instructor": "Jenerette, George",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "44S",
+        "crn": "14699",
+        "instructor": "Schlenk, Daniel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "72A",
+        "crn": "27208",
+        "instructor": "Ajami, Hoori",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "94V",
+        "crn": "27995",
+        "instructor": "Volz, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "B26",
+        "crn": "27372",
+        "instructor": "Bahreini, Roya",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "G14",
+        "crn": "27393",
+        "instructor": "Gray, Andrew",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 30,
+          "available": 27
+        }
+      },
+      {
+        "section": "H23",
+        "crn": "31439",
+        "instructor": "Hopkins, Francesca",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 30,
+          "available": 24
+        }
+      },
+      {
+        "section": "H41",
+        "crn": "38575",
+        "instructor": "Harms, Tamara",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "H60",
+        "crn": "29682",
+        "instructor": "Homyak, Peter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "H62",
+        "crn": "27556",
+        "instructor": "Verdi, Amir",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "L38",
+        "crn": "29662",
+        "instructor": "Lin, Ying-Hsuan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "L60",
+        "crn": "29773",
+        "instructor": "Li, King-Fai",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "P03",
+        "crn": "27326",
+        "instructor": "Porter, William",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "S16",
+        "crn": "14681",
+        "instructor": "Simunek, Jiri",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "ENSC299": {
+    "title": "RESEARCH FOR THE THESIS OR DISSERTATION",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "10H",
+        "crn": "29636",
+        "instructor": "Hirmas, Daniel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "29Y",
+        "crn": "22256",
+        "instructor": "Ying, Samantha",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "32G",
+        "crn": "14718",
+        "instructor": "Gan, Jianying",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "32Z",
+        "crn": "31420",
+        "instructor": "Zhang, Haofei",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "33J",
+        "crn": "29383",
+        "instructor": "Jenerette, George",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "44S",
+        "crn": "14723",
+        "instructor": "Schlenk, Daniel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "45S",
+        "crn": "33454",
+        "instructor": "Schwabe, Kurt",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "49W",
+        "crn": "14726",
+        "instructor": "Wu, Laosheng",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "72A",
+        "crn": "27239",
+        "instructor": "Ajami, Hoori",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "94V",
+        "crn": "27996",
+        "instructor": "Volz, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "B26",
+        "crn": "14704",
+        "instructor": "Bahreini, Roya",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "G14",
+        "crn": "22666",
+        "instructor": "Gray, Andrew",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 30,
+          "available": 27
+        }
+      },
+      {
+        "section": "H23",
+        "crn": "25306",
+        "instructor": "Hopkins, Francesca",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 30,
+          "available": 24
+        }
+      },
+      {
+        "section": "H41",
+        "crn": "38576",
+        "instructor": "Harms, Tamara",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "H60",
+        "crn": "29679",
+        "instructor": "Homyak, Peter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 30,
+          "available": 27
+        }
+      },
+      {
+        "section": "H62",
+        "crn": "27580",
+        "instructor": "Verdi, Amir",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "L38",
+        "crn": "29663",
+        "instructor": "Lin, Ying-Hsuan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "L60",
+        "crn": "29774",
+        "instructor": "Li, King-Fai",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "P03",
+        "crn": "27327",
+        "instructor": "Porter, William",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 30,
+          "available": 27
+        }
+      },
+      {
+        "section": "S16",
+        "crn": "14705",
+        "instructor": "Simunek, Jiri",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "ENSC302": {
+    "title": "TEACHING PRACTICUM",
+    "credits": "1-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "29Y",
+        "crn": "25604",
+        "instructor": "Ying, Samantha",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "32G",
+        "crn": "14738",
+        "instructor": "Gan, Jianying",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "44S",
+        "crn": "14739",
+        "instructor": "Schlenk, Daniel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "49W",
+        "crn": "14741",
+        "instructor": "Wu, Laosheng",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "ENSC401": {
+    "title": "PROFESSIONAL DEVELOPMENT IN ENVIRONMENTAL SCIENCES",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "35414",
+        "instructor": "Schlenk, Daniel",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "SCLAB",
+          "room": "301"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 15,
+          "available": 9
+        }
+      },
+      {
+        "section": "021",
+        "crn": "35415",
+        "instructor": "Schlenk, Daniel",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "SCLAB",
+          "room": "301"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 15,
+          "available": 9
+        }
+      }
+    ]
+  }
+}

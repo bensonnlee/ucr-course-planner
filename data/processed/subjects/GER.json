@@ -1,0 +1,181 @@
+{
+  "GER001": {
+    "title": "ELEMENTARY GERMAN",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "20950",
+        "instructor": "Thuerwaechter, Sabine",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "INTS",
+          "room": "2138"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 25,
+          "available": 11
+        }
+      },
+      {
+        "section": "002",
+        "crn": "15767",
+        "instructor": "Thuerwaechter, Sabine",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "INTS",
+          "room": "2138"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 25,
+          "available": 15
+        }
+      }
+    ]
+  },
+  "GER004": {
+    "title": "INTERMEDIATE GERMAN",
+    "credits": "4",
+    "prerequisites": "Prerequisites:GER004(\n Course or Test: German 003 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: German 010B \n Minimum Grade of C-\n May not be taken concurrently.Language: German Prereq 606 to 607\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "23151",
+        "instructor": "Thuerwaechter, Sabine",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "INTS",
+          "room": "2138"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 25,
+          "available": 16
+        }
+      }
+    ]
+  },
+  "GER045": {
+    "title": "INTRODUCTION TO GERMAN CINEMA",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37669",
+        "instructor": "Hertzog, Sue",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "SSC",
+          "room": "308"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "021",
+        "crn": "37671",
+        "instructor": "Hertzog, Sue",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Screening",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      }
+    ]
+  },
+  "GER190": {
+    "title": "SPECIAL STUDIES",
+    "credits": "1-5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "33E",
+        "crn": "15776",
+        "instructor": "Endres, Johannes",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "51K",
+        "crn": "15778",
+        "instructor": "Kim, John",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  }
+}

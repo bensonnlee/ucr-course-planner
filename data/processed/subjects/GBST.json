@@ -1,0 +1,296 @@
+{
+  "GBST001": {
+    "title": "GLOBAL HISTORY, CULTURE, AND IDEAS",
+    "credits": "5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "24033",
+        "instructor": "Clark, Robert",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "OLMH",
+          "room": "421"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 75,
+          "capacity": 75,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "24035",
+        "instructor": "Huang, Mingyue",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "DUNDE",
+          "room": "A1105"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "24038",
+        "instructor": "Huang, Mingyue",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "DUNDE",
+          "room": "A1107"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "24039",
+        "instructor": "Huang, Mingyue",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "DUNDE",
+          "room": "A1107"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "GBST003": {
+    "title": "CROSSING CULTURE",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34084",
+        "instructor": "Hall, Linda",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "INTS",
+          "room": "2130"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 30,
+          "available": 24
+        }
+      }
+    ]
+  },
+  "GBST110": {
+    "title": "GLOBAL MIGRATIONS AND MOVEMENTS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:GBST110(\n Course or Test: Global Studies 001 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Global Studies 002 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "30996",
+        "instructor": "Nielsen, Selin",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "OLMH",
+          "room": "1136"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 40,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "GBST115": {
+    "title": "ETHNOGRAPHY: COLLABORATIVE/ACTIVIST INTERDISCIPLINARY RESEARCH",
+    "credits": "4",
+    "prerequisites": "Prerequisites:GBST115(\n Course or Test: Global Studies 001 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38253",
+        "instructor": "Hall, Linda",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "INTS",
+          "room": "1134"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 20,
+          "available": 15
+        }
+      }
+    ]
+  },
+  "GBST190": {
+    "title": "SPECIAL STUDIES",
+    "credits": "1-5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "30O",
+        "crn": "15270",
+        "instructor": "Ossman, Susan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "GBST198I": {
+    "title": "INDIVIDUAL INTERNSHIP IN GLOBAL STUDIES",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "30O",
+        "crn": "15274",
+        "instructor": "Ossman, Susan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "GBST302": {
+    "title": "TEACHING PRACTICUM",
+    "credits": "1-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "29A",
+        "crn": "33298",
+        "instructor": "Allison, Juliann",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "30O",
+        "crn": "25334",
+        "instructor": "Ossman, Susan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "61L",
+        "crn": "29574",
+        "instructor": "Leebaw, Bronwyn",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  }
+}

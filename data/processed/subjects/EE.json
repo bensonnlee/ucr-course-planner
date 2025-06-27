@@ -1,0 +1,5663 @@
+{
+  "EE005": {
+    "title": "CIRCUITS AND ELECTRONICS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE005)\nand\n(\n Course or Test: Physics 040C \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Physics 040HC \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34913",
+        "instructor": "Vaezi, Matt",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "WAT",
+          "room": "1000"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 122,
+          "capacity": 125,
+          "available": 3
+        }
+      },
+      {
+        "section": "021",
+        "crn": "34914",
+        "instructor": "Zhang, Yanyu",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1350",
+          "building": "CHUNG",
+          "room": "121"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 32,
+          "capacity": 32,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "34915",
+        "instructor": "Zhang, Yanyu",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": "CHUNG",
+          "room": "121"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 31,
+          "capacity": 32,
+          "available": 1
+        }
+      },
+      {
+        "section": "023",
+        "crn": "34916",
+        "instructor": "Somanath, Prathik",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1700",
+          "endTime": "1950",
+          "building": "CHUNG",
+          "room": "121"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 28,
+          "capacity": 30,
+          "available": 2
+        }
+      },
+      {
+        "section": "024",
+        "crn": "35207",
+        "instructor": "Peter, Jerin",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1350",
+          "building": "CHUNG",
+          "room": "121"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 31,
+          "capacity": 31,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "EE010": {
+    "title": "INTRODUCTION TO ELECTRICAL ENGINEERING",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "30321",
+        "instructor": "Chomko, Roman",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1650",
+          "building": "SSC",
+          "room": "335"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 120,
+          "capacity": 120,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "EE016": {
+    "title": "DATA ANALYSIS FOR ENGINEERING APPLICATIONS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE016)\nand\n(\n Course or Test: Computer Science 010B \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37695",
+        "instructor": "Chen, Jia",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "SSC",
+          "room": "216"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 62,
+          "capacity": 62,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "37696",
+        "instructor": "Rakesh Kumar, Ankith Jain",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "SSC",
+          "room": "123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 62,
+          "capacity": 62,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "EE020A": {
+    "title": "INTRODUCTION TO ORDINARY DIFFERENTIAL EQUATIONS FOR PHYSICAL SCIENCES AND ENGINEERING",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE020A(\n Course or Test: Mathematics 005C \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Mathematics 007B \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Mathematics 009B \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Mathematics 09HB \n Minimum Grade of C-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34437",
+        "instructor": "Chen, Po-Ning",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0920",
+          "building": "SOMED",
+          "room": "1670"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 66,
+          "capacity": 80,
+          "available": 14
+        }
+      },
+      {
+        "section": "002",
+        "crn": "34438",
+        "instructor": "Brown, Chase",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "MSE",
+          "room": "113"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 28,
+          "capacity": 35,
+          "available": 7
+        }
+      },
+      {
+        "section": "003",
+        "crn": "34439",
+        "instructor": "Brown, Chase",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "MSE",
+          "room": "113"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 32,
+          "capacity": 35,
+          "available": 3
+        }
+      },
+      {
+        "section": "004",
+        "crn": "34440",
+        "instructor": "Shikunov, Vasilij",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": null,
+          "room": null
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 10,
+          "available": 4
+        }
+      }
+    ]
+  },
+  "EE020B": {
+    "title": "LINEAR METHODS FOR ENGINEERING ANALYSIS AND DESIGN USING MATLAB",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE020B(\n Course or Test: Computer Science 010A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34882",
+        "instructor": "Chen, Jia",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "SPR",
+          "room": "1102"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 100,
+          "capacity": 100,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "34883",
+        "instructor": "Wang, Dongming",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1830",
+          "endTime": "1920",
+          "building": "HMNSS",
+          "room": "1503"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 32,
+          "capacity": 32,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "34884",
+        "instructor": "Peter, Jerin",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "SSC",
+          "room": "125"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 40,
+          "capacity": 40,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "36926",
+        "instructor": "Wang, Dongming",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1830",
+          "endTime": "1920",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 28,
+          "capacity": 28,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "EE030A": {
+    "title": "FUNDAMENTALS OF ELECTRIC CIRCUITS 1",
+    "credits": "3",
+    "prerequisites": "Prerequisites:EE030A(Rule: PICK2: Pick 2 of 5 courses  for a total of 2 conditions )Electrical Engineering 020  May not be taken concurrently. Electrical Engineering 020A  May be taken concurrently. Electrical Engineering 020B  May be taken concurrently. )Mathematics 045  May be taken concurrently. )Mathematics 046  May be taken concurrently. )End of Rule PICK2and\n Course or Test: Physics 040C \n May be taken concurrently.or\n Course or Test: Physics 040HC \n May be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32837",
+        "instructor": "Ozkan, Mihrimah",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "MSE",
+          "room": "116"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 77,
+          "capacity": 160,
+          "available": 83
+        }
+      }
+    ]
+  },
+  "EE030LA": {
+    "title": "FUNDAMENTALS OF ELEC CIRCUITS I LABORATORY",
+    "credits": "1",
+    "prerequisites": "Prerequisites:EE030LA(Rule: PICK2: Pick 2 of 5 courses  for a total of 2 conditions Electrical Engineering 020  May not be taken concurrently. Electrical Engineering 020A  May be taken concurrently. Electrical Engineering 020B  May be taken concurrently. Mathematics 045  May be taken concurrently. )Mathematics 046  May be taken concurrently. End of Rule PICK2and\n Course or Test: Physics 040C \n Minimum Grade of D-\n May be taken concurrently.or\n Course or Test: Physics 040HC \n Minimum Grade of D-\n May be taken concurrently.",
+    "sections": [
+      {
+        "section": "003",
+        "crn": "32848",
+        "instructor": "Islam, Md Shazid",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": "CHUNG",
+          "room": "121"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 32,
+          "available": 10
+        }
+      },
+      {
+        "section": "004",
+        "crn": "36293",
+        "instructor": "Islam, Md Shazid",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1700",
+          "endTime": "1950",
+          "building": "CHUNG",
+          "room": "128"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 32,
+          "available": 18
+        }
+      },
+      {
+        "section": "005",
+        "crn": "34357",
+        "instructor": "Wang, John",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1350",
+          "building": "CHUNG",
+          "room": "121"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 32,
+          "available": 17
+        }
+      },
+      {
+        "section": "006",
+        "crn": "32851",
+        "instructor": "Wang, John",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": "CHUNG",
+          "room": "121"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 32,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "EE100A": {
+    "title": "ELECTRONIC CIRCUITS 1",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE100A(\n Course or Test: Electrical Engineering 030B \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "33072",
+        "instructor": "Liu, Ming",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0920",
+          "building": "DUNDE",
+          "room": "A1003"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 57,
+          "capacity": 90,
+          "available": 33
+        }
+      },
+      {
+        "section": "021",
+        "crn": "33073",
+        "instructor": "Pan, Zijin",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": "CHUNG",
+          "room": "121"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "33074",
+        "instructor": "Pan, Zijin",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1700",
+          "endTime": "1950",
+          "building": "CHUNG",
+          "room": "121"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 30,
+          "available": 20
+        }
+      },
+      {
+        "section": "023",
+        "crn": "34464",
+        "instructor": "Chan, Yiu",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1950",
+          "building": "CHUNG",
+          "room": "121"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 30,
+          "available": 13
+        }
+      }
+    ]
+  },
+  "EE110A": {
+    "title": "SIGNALS AND SYSTEMS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE110A(\n Course or Test: Electrical Engineering 020A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 045 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Electrical Engineering 020B \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 031 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "13901",
+        "instructor": "Tuncel, Ertem",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "SSC",
+          "room": "308"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 50,
+          "capacity": 80,
+          "available": 30
+        }
+      },
+      {
+        "section": "021",
+        "crn": "13902",
+        "instructor": "Zhu, Yuhan",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "WAT",
+          "room": "1111"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 35,
+          "capacity": 40,
+          "available": 5
+        }
+      },
+      {
+        "section": "022",
+        "crn": "13903",
+        "instructor": "Zhu, Yuhan",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "SKYE",
+          "room": "171"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 40,
+          "available": 25
+        }
+      }
+    ]
+  },
+  "EE114": {
+    "title": "PROBABILITY, RANDOM VARIABLES, AND RANDOM PROCESSES IN ELECTRICAL ENGINEERING",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE114)\nand\n(\n Course or Test: Electrical Engineering 110A \n Minimum Grade of D-\n May be taken concurrently.or\n Course or Test: Electrical Engineering 111 \n Minimum Grade of D-\n May be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34263",
+        "instructor": "Vaezi, Matt",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "HMNSS",
+          "room": "1503"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 49,
+          "capacity": 60,
+          "available": 11
+        }
+      },
+      {
+        "section": "021",
+        "crn": "34267",
+        "instructor": "Xu, Jie",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "CHUNG",
+          "room": "143"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 49,
+          "capacity": 60,
+          "available": 11
+        }
+      }
+    ]
+  },
+  "EE115": {
+    "title": "INTRODUCTION TO COMMUNICATION SYSTEMS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE115(\n Course or Test: Electrical Engineering 110A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Electrical Engineering 111 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "13904",
+        "instructor": "Chomko, Roman",
+        "schedule": {
+          "days": [
+            "W",
+            "F"
+          ],
+          "startTime": "1830",
+          "endTime": "1950",
+          "building": "SSC",
+          "room": "216"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 50,
+          "available": 33
+        }
+      },
+      {
+        "section": "021",
+        "crn": "13906",
+        "instructor": "Rafique, Moontasir",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1350",
+          "building": "CHUNG",
+          "room": "128"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 25,
+          "available": 20
+        }
+      },
+      {
+        "section": "022",
+        "crn": "13907",
+        "instructor": "Rafique, Moontasir",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": "CHUNG",
+          "room": "128"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 25,
+          "available": 13
+        }
+      }
+    ]
+  },
+  "EE116": {
+    "title": "ENGINEERING ELECTROMAGNETICS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE116(\n Course or Test: Electrical Engineering 030B \n Minimum Grade of D-\n May be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28077",
+        "instructor": "Khitun, Aleksandr",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "WAT",
+          "room": "1101"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 35,
+          "capacity": 50,
+          "available": 15
+        }
+      },
+      {
+        "section": "021",
+        "crn": "30748",
+        "instructor": "Shou, Chengyun",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "HMNSS",
+          "room": "1405"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "023",
+        "crn": "34590",
+        "instructor": "Shou, Chengyun",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "HMNSS",
+          "room": "1406"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 25,
+          "available": 14
+        }
+      }
+    ]
+  },
+  "EE120A": {
+    "title": "LOGIC DESIGN",
+    "credits": "5",
+    "prerequisites": "Prerequisites:EE120A(\n Course or Test: Computer Science 061 \n Minimum Grade of C-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "13908",
+        "instructor": "Chen, Jia",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "SSC",
+          "room": "335"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 150,
+          "available": 140
+        }
+      },
+      {
+        "section": "021",
+        "crn": "25980",
+        "instructor": "Subash Seetha, Aswini Shilpha",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0800",
+          "endTime": "1050",
+          "building": "CHUNG",
+          "room": "128"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "022",
+        "crn": "13910",
+        "instructor": "Subash Seetha, Aswini Shilpha",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0800",
+          "endTime": "1050",
+          "building": "CHUNG",
+          "room": "126"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "023",
+        "crn": "23045",
+        "instructor": "Song, Xiaoao",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0800",
+          "endTime": "1050",
+          "building": "CHUNG",
+          "room": "128"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "024",
+        "crn": "13912",
+        "instructor": "Song, Xiaoao",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "1050",
+          "building": "CHUNG",
+          "room": "128"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "025",
+        "crn": "13914",
+        "instructor": "Islam, Mohammad Jaminur",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "1050",
+          "building": "CHUNG",
+          "room": "128"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 30,
+          "available": 23
+        }
+      }
+    ]
+  },
+  "EE120B": {
+    "title": "INTRODUCTION TO EMBEDDED SYSTEMS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE120B(\n Course or Test: Computer Science 010B \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Computer Science 120A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Electrical Engineering 120A \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28051",
+        "instructor": "Knight, Allan",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "SSC",
+          "room": "329"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 40,
+          "capacity": 200,
+          "available": 160
+        }
+      },
+      {
+        "section": "021",
+        "crn": "32742",
+        "instructor": "Bandyopadhyay, Ratnodeep",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 50,
+          "available": 38
+        }
+      },
+      {
+        "section": "022",
+        "crn": "32743",
+        "instructor": "Nicolaides, Marios",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "BOYHL",
+          "room": "1471"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 50,
+          "available": 43
+        }
+      },
+      {
+        "section": "023",
+        "crn": "33040",
+        "instructor": "Bandyopadhyay, Ratnodeep",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "BOYHL",
+          "room": "1471"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 50,
+          "available": 42
+        }
+      },
+      {
+        "section": "024",
+        "crn": "34891",
+        "instructor": "Nicolaides, Marios",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "MSE",
+          "room": "103"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 50,
+          "available": 37
+        }
+      }
+    ]
+  },
+  "EE128": {
+    "title": "SENSING AND ACTUATION FOR EMBEDDED SYSTEMS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE128)\nand\n(\n Course or Test: Electrical Engineering 005 \n Minimum Grade of D-\n May be taken concurrently.)\nor\n(\n Course or Test: Electrical Engineering 030B \n Minimum Grade of D-\n May be taken concurrently.)\nand\n(\n Course or Test: Electrical Engineering 120B \n Minimum Grade of D-\n May be taken concurrently.or\n Course or Test: Computer Science 120B \n Minimum Grade of D-\n May be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "13915",
+        "instructor": "Chomko, Roman",
+        "schedule": {
+          "days": [
+            "W",
+            "F"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "BOYHL",
+          "room": "1471"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 45,
+          "capacity": 51,
+          "available": 6
+        }
+      },
+      {
+        "section": "021",
+        "crn": "13916",
+        "instructor": "Bhattacharyya, Rajarshi",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": "CHUNG",
+          "room": "128"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 26,
+          "available": 1
+        }
+      },
+      {
+        "section": "022",
+        "crn": "13917",
+        "instructor": "Bhattacharyya, Rajarshi",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1700",
+          "endTime": "1950",
+          "building": "CHUNG",
+          "room": "128"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 25,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "EE133": {
+    "title": "SOLID-STATE ELECTRONICS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE133(\n Course or Test: Electrical Engineering 005 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Electrical Engineering 030B \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "29055",
+        "instructor": "Chen, Xi",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1830",
+          "endTime": "1950",
+          "building": "CHUNG",
+          "room": "143"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 61,
+          "capacity": 63,
+          "available": 2
+        }
+      },
+      {
+        "section": "021",
+        "crn": "29056",
+        "instructor": "Mahmud, Quazi Sanjid",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "2000",
+          "endTime": "2050",
+          "building": "CHUNG",
+          "room": "139"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 32,
+          "available": 2
+        }
+      },
+      {
+        "section": "022",
+        "crn": "31272",
+        "instructor": "Mahmud, Quazi Sanjid",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "WAT",
+          "room": "1111"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 31,
+          "capacity": 31,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "EE136": {
+    "title": "SEMICONDUCTOR DEVICE PROCESSING",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE136)\nand\n(\n Course or Test: Electrical Engineering 133 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32326",
+        "instructor": "Liu, Jianlin",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "HMNSS",
+          "room": "1503"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 30,
+          "available": 24
+        }
+      },
+      {
+        "section": "021",
+        "crn": "32327",
+        "instructor": "Zhu, Edward",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "1050",
+          "building": "CHUNG",
+          "room": "126"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 30,
+          "available": 24
+        }
+      }
+    ]
+  },
+  "EE138": {
+    "title": "ELECTRICAL PROPERTIES OF MATERIALS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE138(\n Course or Test: Physics 040C \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Physics 04HC \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "30308",
+        "instructor": "Haberer, Elaine",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "SSC",
+          "room": "216"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 50,
+          "available": 31
+        }
+      },
+      {
+        "section": "021",
+        "crn": "30310",
+        "instructor": "Zhu, Edward",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1900",
+          "endTime": "1950",
+          "building": "CHUNG",
+          "room": "142"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 50,
+          "available": 31
+        }
+      }
+    ]
+  },
+  "EE141": {
+    "title": "DIGITAL SIGNAL PROCESSING",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE141(\n Course or Test: Electrical Engineering 110B \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Electrical Engineering 111 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "13920",
+        "instructor": "Ren, Shaolei",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "SKYE",
+          "room": "171"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 25,
+          "available": 9
+        }
+      },
+      {
+        "section": "022",
+        "crn": "13922",
+        "instructor": "Lu, Xingyu",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1350",
+          "building": "CHUNG",
+          "room": "126"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 25,
+          "available": 9
+        }
+      }
+    ]
+  },
+  "EE142": {
+    "title": "INTRODUCTION TO MACHINE LEARNING AND DATA MINING",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE142(\n Course or Test: Mathematics 010A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 031 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Electrical Engineering 020B \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 155 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Electrical Engineering 114 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 156A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Computer Science 100 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Electrical Engineering 016 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "30736",
+        "instructor": "Asif, Salman",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "SSC",
+          "room": "335"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 52,
+          "capacity": 150,
+          "available": 98
+        }
+      },
+      {
+        "section": "021",
+        "crn": "30737",
+        "instructor": "Asif, Salman",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 50,
+          "available": 28
+        }
+      },
+      {
+        "section": "022",
+        "crn": "30994",
+        "instructor": "Asif, Salman",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1900",
+          "endTime": "1950",
+          "building": "PHY",
+          "room": "2104"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 50,
+          "available": 30
+        }
+      },
+      {
+        "section": "023",
+        "crn": "30995",
+        "instructor": "Asif, Salman",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "BOYHL",
+          "room": "1471"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 50,
+          "available": 40
+        }
+      }
+    ]
+  },
+  "EE148": {
+    "title": "ROBOTICS AND ARTIFICIAL INTELLIGENCE",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE148(\n Course or Test: Electrical Engineering 114 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Statistics 155 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38104",
+        "instructor": "Li, Jiachen",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "SKYE",
+          "room": "170"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 30,
+          "available": 17
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38105",
+        "instructor": "Bachu, Saketh",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1100",
+          "endTime": "1350",
+          "building": "CHUNG",
+          "room": "125"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 30,
+          "available": 17
+        }
+      }
+    ]
+  },
+  "EE165": {
+    "title": "DESIGN FOR RELIABILITY OF INTEGRATED CIRCUITS AND SYSTEMS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE165(\n Course or Test: Electrical Engineering 100A \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "35979",
+        "instructor": "Wang, Albert",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1820",
+          "building": "HMNSS",
+          "room": "1503"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 50,
+          "available": 35
+        }
+      },
+      {
+        "section": "021",
+        "crn": "35980",
+        "instructor": "Yue, Zijian",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1350",
+          "building": "CHUNG",
+          "room": "128"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 50,
+          "available": 35
+        }
+      }
+    ]
+  },
+  "EE168": {
+    "title": "INTRODUCTION TO VERY LARGE SCALE INTEGRATION DESIGN",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE168)\nand\n(\n Course or Test: Computer Science 120A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Electrical Engineering 120A \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36249",
+        "instructor": "Tan, Sheldon",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "MSE",
+          "room": "103"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 61,
+          "available": 44
+        }
+      },
+      {
+        "section": "021",
+        "crn": "36250",
+        "instructor": "Sachdeva, Sachin",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1800",
+          "endTime": "2050",
+          "building": "MSE",
+          "room": "003"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 32,
+          "available": 20
+        }
+      },
+      {
+        "section": "022",
+        "crn": "36940",
+        "instructor": "Tan, Sheldon",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1800",
+          "endTime": "2050",
+          "building": "CHUNG",
+          "room": "139"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 29,
+          "available": 24
+        }
+      }
+    ]
+  },
+  "EE175A": {
+    "title": "SENIOR DESIGN PROJECT",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE175A(\n Course or Test: Computer Science 010C \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Electrical Engineering 016 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Computer Science 120B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Electrical Engineering 120B \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "13926",
+        "instructor": "Chomko, Roman",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "SSC",
+          "room": "316"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 76,
+          "capacity": 80,
+          "available": 4
+        }
+      },
+      {
+        "section": "021",
+        "crn": "13927",
+        "instructor": "Ayazi, Mehrnoosh",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1700",
+          "endTime": "1950",
+          "building": "CHUNG",
+          "room": "128"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 26,
+          "capacity": 26,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "13928",
+        "instructor": "Bose, Sarosij",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0900",
+          "endTime": "1150",
+          "building": "CHUNG",
+          "room": "128"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "023",
+        "crn": "13929",
+        "instructor": "Kavousi, Mohammadamir",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1800",
+          "endTime": "2050",
+          "building": "CHUNG",
+          "room": "128"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 32,
+          "capacity": 32,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "EE190": {
+    "title": "SPECIAL STUDIES",
+    "credits": "1-5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "0S8",
+        "crn": "36745",
+        "instructor": "Sheng, Jun",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "49B",
+        "crn": "25524",
+        "instructor": "Bhanu, Bir",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "82B",
+        "crn": "29081",
+        "instructor": "Balandin, Alexander",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      },
+      {
+        "section": "82K",
+        "crn": "24869",
+        "instructor": "Karydis, Konstantinos",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "C13",
+        "crn": "29228",
+        "instructor": "Chen, Gang",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "C87",
+        "crn": "38886",
+        "instructor": "Choi, Steve",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "TBA",
+          "room": "TBA"
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 1,
+          "available": 0
+        }
+      },
+      {
+        "section": "W08",
+        "crn": "27540",
+        "instructor": "Wong, Daniel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      }
+    ]
+  },
+  "EE197": {
+    "title": "RESEARCH FOR UNDERGRADUATES",
+    "credits": "1-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "01K",
+        "crn": "22110",
+        "instructor": "Korotkov, Alexander",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "31O",
+        "crn": "25600",
+        "instructor": "Ozkan, Mihrimah",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "82K",
+        "crn": "24868",
+        "instructor": "Karydis, Konstantinos",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 6,
+          "available": 6
+        }
+      }
+    ]
+  },
+  "EE198I": {
+    "title": "INDIVIDUAL INTERNSHIP IN ELECTRICAL ENGINEERING",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "29L",
+        "crn": "22861",
+        "instructor": "Liang, Ping",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "EE201": {
+    "title": "APPLIED QUANTUM MECHANICS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE201(\n Course or Test: Mathematics 046 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Physics 040A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Physics 040HA \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "13931",
+        "instructor": "Liu, Ming",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "SKYE",
+          "room": "171"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 30,
+          "available": 25
+        }
+      }
+    ]
+  },
+  "EE212": {
+    "title": "QUANTUM ELECTRON TRANSPORT",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE212(\n Course or Test: Electrical Engineering 208 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Materials Sci and Engineering 227B \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38101",
+        "instructor": "Lake, Roger",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1820",
+          "building": "INTN",
+          "room": "1002"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 60,
+          "available": 59
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38102",
+        "instructor": "Lake, Roger",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "SOMED",
+          "room": "1670"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 60,
+          "available": 59
+        }
+      }
+    ]
+  },
+  "EE215": {
+    "title": "STOCHASTIC PROCESSES",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "13935",
+        "instructor": "Guler, Basak",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "SKYE",
+          "room": "173"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 40,
+          "available": 16
+        }
+      },
+      {
+        "section": "021",
+        "crn": "20111",
+        "instructor": "Lu, Xingyu",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1900",
+          "endTime": "1950",
+          "building": "SPR",
+          "room": "2340"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 40,
+          "available": 16
+        }
+      }
+    ]
+  },
+  "EE217": {
+    "title": "GRAPHICS PROCESSING UNIT ARCHITECTURE AND PARALLEL PROGRAMMING",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE217(\n Course or Test: Computer Science 160 \n Minimum Grade of C-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28155",
+        "instructor": "Wong, Daniel",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1830",
+          "endTime": "1950",
+          "building": "SSC",
+          "room": "329"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 125,
+          "available": 118
+        }
+      },
+      {
+        "section": "021",
+        "crn": "28182",
+        "instructor": "Awuor, Racquel",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "BRNHL",
+          "room": "A125"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 125,
+          "available": 118
+        }
+      }
+    ]
+  },
+  "EE221": {
+    "title": "RADIO-FREQUENCY INTEGRATED CIRCUIT DESIGN",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE221)\nand\n(\n Course or Test: Electrical Engineering 100B \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36210",
+        "instructor": "Wang, Albert",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "SKYE",
+          "room": "171"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 30,
+          "available": 21
+        }
+      },
+      {
+        "section": "021",
+        "crn": "36211",
+        "instructor": "Wang, Albert",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "DUNDE",
+          "room": "A1105"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 30,
+          "available": 21
+        }
+      }
+    ]
+  },
+  "EE227": {
+    "title": "INTRODUCTION TO REINFORCEMENT LEARNING",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE227)\nand\n(\n Course or Test: Electrical Engineering 215 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Electrical Engineering 244 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Computer Science 224 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Electrical Engineering 228 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Computer Science 228 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Electrical Engineering 251B \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Computer Science 252B \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37334",
+        "instructor": "Karamouzas, Ioannis",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "DUNDE",
+          "room": "A1003"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 100,
+          "available": 91
+        }
+      },
+      {
+        "section": "021",
+        "crn": "37335",
+        "instructor": "Karamouzas, Ioannis",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "OLMH",
+          "room": "1208"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 100,
+          "available": 91
+        }
+      }
+    ]
+  },
+  "EE228": {
+    "title": "INTRODUCTION TO DEEP LEARNING",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE228(\n Course or Test: Computer Science 224 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Electrical Engineering 231 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Electrical Engineering 236 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Electrical Engineering 244 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Computer Science 171 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Electrical Engineering 142 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36819",
+        "instructor": "Zhu, Yinglun",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0920",
+          "building": "OLMH",
+          "room": "1212"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 82,
+          "available": 66
+        }
+      }
+    ]
+  },
+  "EE230": {
+    "title": "MATHEMATICAL METHODS FOR ELECTRICAL ENGINEERS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "13939",
+        "instructor": "Cheng, Ran",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "CHUNG",
+          "room": "143"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 40,
+          "available": 27
+        }
+      },
+      {
+        "section": "021",
+        "crn": "20113",
+        "instructor": "Zhang, Hantao",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "SKYE",
+          "room": "171"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 40,
+          "available": 27
+        }
+      }
+    ]
+  },
+  "EE231": {
+    "title": "CONVEX OPTIMIZATION IN ENGINEERING APPLICATIONS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE231(\n Course or Test: Electrical Engineering 230 \n Minimum Grade of D-\n May be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36212",
+        "instructor": "Mohsenian-Rad, Amir-Hamed",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "SKYE",
+          "room": "171"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 30,
+          "available": 18
+        }
+      }
+    ]
+  },
+  "EE233": {
+    "title": "OPTIMAL CONTROL AND ESTIMATION",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38396",
+        "instructor": "Sheng, Jun",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1830",
+          "endTime": "1950",
+          "building": "OLMH",
+          "room": "1133"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 20,
+          "available": 17
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38397",
+        "instructor": "Sheng, Jun",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Term Paper",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 20,
+          "available": 17
+        }
+      }
+    ]
+  },
+  "EE242A": {
+    "title": "FOUNDATIONS OF MACHINE LEARNING",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE242A(\n Course or Test: Computer Science 100 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 155 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Electrical Engineering 114 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 031 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37918",
+        "instructor": "Roy Chowdhury, Amit",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "SPR",
+          "room": "1102"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 100,
+          "available": 95
+        }
+      }
+    ]
+  },
+  "EE251A": {
+    "title": "DATA ANALYTICS AND EXPLORATION",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE251A(\n Course or Test: Computer Science 100 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Computer Science 141 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 155 \n May not be taken concurrently.)\nor\n(\n Course or Test: Electrical Engineering 155 \n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37330",
+        "instructor": "Salloum, Mariam",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "SSC",
+          "room": "235"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 115,
+          "available": 114
+        }
+      }
+    ]
+  },
+  "EE252": {
+    "title": "DATA CENTER ARCHITECTURE",
+    "credits": "4",
+    "prerequisites": "Prerequisites:EE252)\nand\n(\n Course or Test: Computer Science 161 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "26168",
+        "instructor": "Ren, Shaolei",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "SKYE",
+          "room": "171"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 45,
+          "available": 34
+        }
+      }
+    ]
+  },
+  "EE259": {
+    "title": "COLLOQUIUM IN ELECTRICAL ENGINEERING",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "13942",
+        "instructor": "Qiu, Hang",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "TBA",
+          "room": "TBA"
+        },
+        "type": "Colloquium",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 48,
+          "capacity": 100,
+          "available": 52
+        }
+      }
+    ]
+  },
+  "EE260": {
+    "title": "SEMINAR IN ELECTRICAL ENGINEERING",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37959",
+        "instructor": "Qiu, Hang",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "SKYE",
+          "room": "173"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 30,
+          "available": 19
+        }
+      },
+      {
+        "section": "007",
+        "crn": "34301",
+        "instructor": "Liu, Cong",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "LFSC",
+          "room": "2418"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 30,
+          "available": 24
+        }
+      }
+    ]
+  },
+  "EE282D": {
+    "title": "DESIGN FOR RELIABILITY OF INTEGRATED CIRCUITS AND SYSTEMS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36213",
+        "instructor": "Wang, Albert",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1820",
+          "building": "HMNSS",
+          "room": "1503"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 50,
+          "available": 49
+        }
+      },
+      {
+        "section": "021",
+        "crn": "36214",
+        "instructor": "Wang, Albert",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1350",
+          "building": "CHUNG",
+          "room": "128"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 50,
+          "available": 49
+        }
+      }
+    ]
+  },
+  "EE290": {
+    "title": "DIRECTED STUDIES",
+    "credits": "1-6",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "13951",
+        "instructor": "Ren, Shaolei",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "01K",
+        "crn": "13952",
+        "instructor": "Korotkov, Alexander",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "20K",
+        "crn": "13953",
+        "instructor": "Khizroev, Sakhrat",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "28Y",
+        "crn": "13954",
+        "instructor": "Yu, Nanpeng",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "29L",
+        "crn": "13955",
+        "instructor": "Liang, Ping",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "30F",
+        "crn": "13956",
+        "instructor": "Farrell, Jay",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "31O",
+        "crn": "13957",
+        "instructor": "Ozkan, Mihrimah",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "40D",
+        "crn": "13958",
+        "instructor": "Dumer, Ilya",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "49B",
+        "crn": "13959",
+        "instructor": "Bhanu, Bir",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 7,
+          "available": 7
+        }
+      },
+      {
+        "section": "52T",
+        "crn": "13960",
+        "instructor": "Tan, Sheldon",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 8,
+          "available": 8
+        }
+      },
+      {
+        "section": "56T",
+        "crn": "13961",
+        "instructor": "Tuncel, Ertem",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "58L",
+        "crn": "13962",
+        "instructor": "Lake, Roger",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      },
+      {
+        "section": "62B",
+        "crn": "13963",
+        "instructor": "Barth, Matthew",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 7,
+          "available": 7
+        }
+      },
+      {
+        "section": "63H",
+        "crn": "13964",
+        "instructor": "Hua, Yingbo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "64K",
+        "crn": "13966",
+        "instructor": "Khitun, Aleksandr",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "70L",
+        "crn": "13967",
+        "instructor": "Liu, Jianlin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 9,
+          "available": 9
+        }
+      },
+      {
+        "section": "82B",
+        "crn": "13968",
+        "instructor": "Balandin, Alexander",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "84W",
+        "crn": "13969",
+        "instructor": "Wang, Albert",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "86R",
+        "crn": "13970",
+        "instructor": "Ren, Wei",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "96C",
+        "crn": "13971",
+        "instructor": "Roy Chowdhury, Amit",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "97R",
+        "crn": "21973",
+        "instructor": "Ren, Shaolei",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "C13",
+        "crn": "13947",
+        "instructor": "Chen, Gang",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "L18",
+        "crn": "13948",
+        "instructor": "Liu, Ming",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "M20",
+        "crn": "13949",
+        "instructor": "Mourikis, Anastasios",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "W08",
+        "crn": "22333",
+        "instructor": "Wong, Daniel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "Z02",
+        "crn": "13950",
+        "instructor": "Zhu, Qi",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "EE297": {
+    "title": "DIRECTED RESEARCH",
+    "credits": "1-6",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "01A",
+        "crn": "31581",
+        "instructor": "Abbaschian, Reza",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "01K",
+        "crn": "13976",
+        "instructor": "Korotkov, Alexander",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "07Q",
+        "crn": "36985",
+        "instructor": "Qiu, Hang",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 3,
+          "available": 1
+        }
+      },
+      {
+        "section": "25T",
+        "crn": "29428",
+        "instructor": "Tseng, Hung-Wei",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28Y",
+        "crn": "13977",
+        "instructor": "Yu, Nanpeng",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      },
+      {
+        "section": "29L",
+        "crn": "13978",
+        "instructor": "Liang, Ping",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "2S6",
+        "crn": "38836",
+        "instructor": "Saragadam Raja Venkata, Vishwanath",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 3,
+          "available": 1
+        }
+      },
+      {
+        "section": "30F",
+        "crn": "13979",
+        "instructor": "Farrell, Jay",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "31O",
+        "crn": "13980",
+        "instructor": "Ozkan, Mihrimah",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 8,
+          "available": 8
+        }
+      },
+      {
+        "section": "32O",
+        "crn": "13981",
+        "instructor": "Ozkan, Cengiz",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "36V",
+        "crn": "38858",
+        "instructor": "Ver Steeg, Gregory",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      },
+      {
+        "section": "38O",
+        "crn": "27416",
+        "instructor": "Oymak, Samet",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "40D",
+        "crn": "13982",
+        "instructor": "Dumer, Ilya",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "41Z",
+        "crn": "36927",
+        "instructor": "Zhu, Yinglun",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 3,
+          "available": 3
+        }
+      },
+      {
+        "section": "45P",
+        "crn": "31489",
+        "instructor": "Park, Boris",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "49B",
+        "crn": "13983",
+        "instructor": "Bhanu, Bir",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 13,
+          "available": 13
+        }
+      },
+      {
+        "section": "49M",
+        "crn": "31541",
+        "instructor": "Martinez-Morales, Alfredo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "52T",
+        "crn": "13984",
+        "instructor": "Tan, Sheldon",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 7,
+          "available": 6
+        }
+      },
+      {
+        "section": "56T",
+        "crn": "13985",
+        "instructor": "Tuncel, Ertem",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "58L",
+        "crn": "13986",
+        "instructor": "Lake, Roger",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      },
+      {
+        "section": "62B",
+        "crn": "13987",
+        "instructor": "Barth, Matthew",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "63H",
+        "crn": "13988",
+        "instructor": "Hua, Yingbo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "64K",
+        "crn": "13990",
+        "instructor": "Khitun, Aleksandr",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "66A",
+        "crn": "22890",
+        "instructor": "Abu-Ghazaleh, Nael",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 15,
+          "available": 15
+        }
+      },
+      {
+        "section": "70L",
+        "crn": "13991",
+        "instructor": "Liu, Jianlin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 7,
+          "available": 6
+        }
+      },
+      {
+        "section": "75A",
+        "crn": "25338",
+        "instructor": "Asif, Salman",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "82B",
+        "crn": "13992",
+        "instructor": "Balandin, Alexander",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "82K",
+        "crn": "25486",
+        "instructor": "Karydis, Konstantinos",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 30,
+          "available": 19
+        }
+      },
+      {
+        "section": "83A",
+        "crn": "27476",
+        "instructor": "Akhavan Hejazi, Seyed",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "83B",
+        "crn": "13993",
+        "instructor": "Bartels, Ludwig",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 3,
+          "available": 3
+        }
+      },
+      {
+        "section": "84W",
+        "crn": "13994",
+        "instructor": "Wang, Albert",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "85K",
+        "crn": "25307",
+        "instructor": "Kim, Hyoseung",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "86R",
+        "crn": "13995",
+        "instructor": "Ren, Wei",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "95H",
+        "crn": "13996",
+        "instructor": "Haberer, Elaine",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "96C",
+        "crn": "13997",
+        "instructor": "Roy Chowdhury, Amit",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 5,
+          "available": 2
+        }
+      },
+      {
+        "section": "97R",
+        "crn": "21974",
+        "instructor": "Ren, Shaolei",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "B18",
+        "crn": "27370",
+        "instructor": "Brisk, Philip",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "C33",
+        "crn": "33124",
+        "instructor": "Cybart, Shane",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 30,
+          "available": 26
+        }
+      },
+      {
+        "section": "C52",
+        "crn": "31543",
+        "instructor": "Chen, Xi",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "C76",
+        "crn": "31498",
+        "instructor": "Cheng, Ran",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "G40",
+        "crn": "33351",
+        "instructor": "Guler, Basak",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "L18",
+        "crn": "13972",
+        "instructor": "Liu, Ming",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 10,
+          "available": 8
+        }
+      },
+      {
+        "section": "L69",
+        "crn": "38340",
+        "instructor": "Li, Jiachen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 5,
+          "available": 2
+        }
+      },
+      {
+        "section": "M20",
+        "crn": "13973",
+        "instructor": "Mourikis, Anastasios",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "M32",
+        "crn": "13974",
+        "instructor": "Mohsenian-Rad, Amir-Hamed",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "W08",
+        "crn": "22334",
+        "instructor": "Wong, Daniel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "W22",
+        "crn": "38750",
+        "instructor": "Wu, Guoyuan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "TBA",
+          "room": "TBA"
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 3,
+          "available": 2
+        }
+      },
+      {
+        "section": "Z02",
+        "crn": "13975",
+        "instructor": "Zhu, Qi",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "EE298I": {
+    "title": "INDIVIDUAL INTERNSHIP IN ELECTRICAL ENGINEERING",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "14000",
+        "instructor": "The Staff, .",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "01K",
+        "crn": "14001",
+        "instructor": "Korotkov, Alexander",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "20K",
+        "crn": "14003",
+        "instructor": "Khizroev, Sakhrat",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 4,
+          "available": 4
+        }
+      },
+      {
+        "section": "24N",
+        "crn": "14004",
+        "instructor": "Najjar, Walid",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 3,
+          "available": 3
+        }
+      },
+      {
+        "section": "25T",
+        "crn": "29430",
+        "instructor": "Tseng, Hung-Wei",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "29L",
+        "crn": "14005",
+        "instructor": "Liang, Ping",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 3,
+          "available": 3
+        }
+      },
+      {
+        "section": "30F",
+        "crn": "14006",
+        "instructor": "Farrell, Jay",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "31O",
+        "crn": "14007",
+        "instructor": "Ozkan, Mihrimah",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "32O",
+        "crn": "14008",
+        "instructor": "Ozkan, Cengiz",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "40D",
+        "crn": "14009",
+        "instructor": "Dumer, Ilya",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "45A",
+        "crn": "14010",
+        "instructor": "Abdollahi, Afshin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "49B",
+        "crn": "14011",
+        "instructor": "Bhanu, Bir",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 6,
+          "available": 5
+        }
+      },
+      {
+        "section": "51B",
+        "crn": "14012",
+        "instructor": "Beni, Gerardo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "52T",
+        "crn": "14013",
+        "instructor": "Tan, Sheldon",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "56T",
+        "crn": "14014",
+        "instructor": "Tuncel, Ertem",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "58L",
+        "crn": "14015",
+        "instructor": "Lake, Roger",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 3,
+          "available": 3
+        }
+      },
+      {
+        "section": "62B",
+        "crn": "14016",
+        "instructor": "Barth, Matthew",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "63H",
+        "crn": "14017",
+        "instructor": "Hua, Yingbo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 3,
+          "available": 3
+        }
+      },
+      {
+        "section": "66A",
+        "crn": "29728",
+        "instructor": "Abu-Ghazaleh, Nael",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "67L",
+        "crn": "14019",
+        "instructor": "Lyubomirsky, Ilya",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "70L",
+        "crn": "14020",
+        "instructor": "Liu, Jianlin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "75A",
+        "crn": "33291",
+        "instructor": "Asif, Salman",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "82B",
+        "crn": "14021",
+        "instructor": "Balandin, Alexander",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "82K",
+        "crn": "38573",
+        "instructor": "Karydis, Konstantinos",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 2,
+          "available": 1
+        }
+      },
+      {
+        "section": "84W",
+        "crn": "14022",
+        "instructor": "Wang, Albert",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "85K",
+        "crn": "25308",
+        "instructor": "Kim, Hyoseung",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "86R",
+        "crn": "31547",
+        "instructor": "Ren, Wei",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "96C",
+        "crn": "14023",
+        "instructor": "Roy Chowdhury, Amit",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 3,
+          "available": 2
+        }
+      },
+      {
+        "section": "M20",
+        "crn": "13998",
+        "instructor": "Mourikis, Anastasios",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "W22",
+        "crn": "38772",
+        "instructor": "Pasqualetti, Fabio",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 2,
+          "available": 1
+        }
+      },
+      {
+        "section": "Z02",
+        "crn": "13999",
+        "instructor": "Zhu, Qi",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "EE299": {
+    "title": "RESEARCH FOR THE THESIS OR DISSERTATION",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "01A",
+        "crn": "31553",
+        "instructor": "Abbaschian, Reza",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "01K",
+        "crn": "14029",
+        "instructor": "Korotkov, Alexander",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "07Q",
+        "crn": "36984",
+        "instructor": "Qiu, Hang",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 3,
+          "available": 0
+        }
+      },
+      {
+        "section": "25T",
+        "crn": "29429",
+        "instructor": "Tseng, Hung-Wei",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "28Y",
+        "crn": "14030",
+        "instructor": "Yu, Nanpeng",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 15,
+          "available": 12
+        }
+      },
+      {
+        "section": "29L",
+        "crn": "14031",
+        "instructor": "Liang, Ping",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "2S6",
+        "crn": "37120",
+        "instructor": "Saragadam Raja Venkata, Vishwanath",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 2,
+          "available": 0
+        }
+      },
+      {
+        "section": "30F",
+        "crn": "14032",
+        "instructor": "Farrell, Jay",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "31O",
+        "crn": "14033",
+        "instructor": "Ozkan, Mihrimah",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "32O",
+        "crn": "14034",
+        "instructor": "Ozkan, Cengiz",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "32V",
+        "crn": "31557",
+        "instructor": "Vuong, Luat",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "36V",
+        "crn": "38859",
+        "instructor": "Ver Steeg, Gregory",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 2,
+          "available": 0
+        }
+      },
+      {
+        "section": "38O",
+        "crn": "27415",
+        "instructor": "Oymak, Samet",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "40D",
+        "crn": "14035",
+        "instructor": "Dumer, Ilya",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "41Z",
+        "crn": "36928",
+        "instructor": "Zhu, Yinglun",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 3,
+          "available": 1
+        }
+      },
+      {
+        "section": "45P",
+        "crn": "33317",
+        "instructor": "Park, Boris",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "49B",
+        "crn": "14036",
+        "instructor": "Bhanu, Bir",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 11,
+          "available": 9
+        }
+      },
+      {
+        "section": "49M",
+        "crn": "31540",
+        "instructor": "Martinez-Morales, Alfredo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "52T",
+        "crn": "14037",
+        "instructor": "Tan, Sheldon",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 30,
+          "available": 26
+        }
+      },
+      {
+        "section": "54N",
+        "crn": "33316",
+        "instructor": "Nozari, Erfan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "56T",
+        "crn": "14038",
+        "instructor": "Tuncel, Ertem",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 25,
+          "available": 25
+        }
+      },
+      {
+        "section": "58L",
+        "crn": "14039",
+        "instructor": "Lake, Roger",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "62B",
+        "crn": "14040",
+        "instructor": "Barth, Matthew",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 30,
+          "available": 22
+        }
+      },
+      {
+        "section": "63H",
+        "crn": "14041",
+        "instructor": "Hua, Yingbo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 8,
+          "available": 6
+        }
+      },
+      {
+        "section": "64K",
+        "crn": "14043",
+        "instructor": "Khitun, Aleksandr",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "66A",
+        "crn": "22891",
+        "instructor": "Abu-Ghazaleh, Nael",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "68P",
+        "crn": "31606",
+        "instructor": "Pasqualetti, Fabio",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "70K",
+        "crn": "14044",
+        "instructor": "Kassas, Zak",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "70L",
+        "crn": "14045",
+        "instructor": "Liu, Jianlin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 15,
+          "available": 11
+        }
+      },
+      {
+        "section": "75A",
+        "crn": "25337",
+        "instructor": "Asif, Salman",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 10,
+          "available": 8
+        }
+      },
+      {
+        "section": "82B",
+        "crn": "14046",
+        "instructor": "Balandin, Alexander",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 15,
+          "available": 15
+        }
+      },
+      {
+        "section": "82K",
+        "crn": "25485",
+        "instructor": "Karydis, Konstantinos",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 30,
+          "available": 22
+        }
+      },
+      {
+        "section": "83B",
+        "crn": "14047",
+        "instructor": "Bartels, Ludwig",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "84W",
+        "crn": "14048",
+        "instructor": "Wang, Albert",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 49,
+          "available": 44
+        }
+      },
+      {
+        "section": "85K",
+        "crn": "25305",
+        "instructor": "Kim, Hyoseung",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 20,
+          "available": 17
+        }
+      },
+      {
+        "section": "86R",
+        "crn": "14049",
+        "instructor": "Ren, Wei",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 30,
+          "available": 26
+        }
+      },
+      {
+        "section": "95H",
+        "crn": "14050",
+        "instructor": "Haberer, Elaine",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "96C",
+        "crn": "14051",
+        "instructor": "Roy Chowdhury, Amit",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 10,
+          "available": 1
+        }
+      },
+      {
+        "section": "97R",
+        "crn": "21975",
+        "instructor": "Ren, Shaolei",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "B18",
+        "crn": "27371",
+        "instructor": "Brisk, Philip",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "C13",
+        "crn": "14024",
+        "instructor": "Chen, Gang",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "C33",
+        "crn": "25325",
+        "instructor": "Cybart, Shane",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 30,
+          "available": 22
+        }
+      },
+      {
+        "section": "C52",
+        "crn": "31542",
+        "instructor": "Chen, Xi",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 30,
+          "available": 25
+        }
+      },
+      {
+        "section": "C76",
+        "crn": "31499",
+        "instructor": "Cheng, Ran",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "G40",
+        "crn": "33352",
+        "instructor": "Guler, Basak",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 30,
+          "available": 26
+        }
+      },
+      {
+        "section": "H26",
+        "crn": "27328",
+        "instructor": "Hu, Xiaoping",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "L18",
+        "crn": "14025",
+        "instructor": "Liu, Ming",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "L53",
+        "crn": "35177",
+        "instructor": "Liu, Cong",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "M20",
+        "crn": "14026",
+        "instructor": "Mourikis, Anastasios",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "M32",
+        "crn": "14027",
+        "instructor": "Mohsenian-Rad, Amir-Hamed",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 10,
+          "available": 7
+        }
+      },
+      {
+        "section": "W08",
+        "crn": "22332",
+        "instructor": "Wong, Daniel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 10,
+          "available": 7
+        }
+      },
+      {
+        "section": "W22",
+        "crn": "28466",
+        "instructor": "Wu, Guoyuan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 30,
+          "available": 23
+        }
+      },
+      {
+        "section": "Z02",
+        "crn": "14028",
+        "instructor": "Zhu, Qi",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 15,
+          "available": 15
+        }
+      }
+    ]
+  }
+}

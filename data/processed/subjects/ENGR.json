@@ -1,0 +1,1009 @@
+{
+  "ENGR118": {
+    "title": "ENGINEERING MODELING AND ANALYSIS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ENGR118(\n Course or Test: Chemistry 001A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemistry 01HA \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Computer Science 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 046 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Physics 040B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Physics 040HB \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "021",
+        "crn": "32700",
+        "instructor": "Rupiper, Amanda",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1830",
+          "endTime": "2120",
+          "building": "PHY",
+          "room": "2104"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 41,
+          "capacity": 50,
+          "available": 9
+        }
+      },
+      {
+        "section": "022",
+        "crn": "32701",
+        "instructor": "Rupiper, Amanda",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "1050",
+          "building": "SPR",
+          "room": "2340"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 41,
+          "capacity": 50,
+          "available": 9
+        }
+      },
+      {
+        "section": "001",
+        "crn": "32699",
+        "instructor": "Rupiper, Amanda",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "OLMH",
+          "room": "1208"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 82,
+          "capacity": 100,
+          "available": 18
+        }
+      }
+    ]
+  },
+  "ENGR180W": {
+    "title": "TECHNICAL COMMUNICATIONS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ENGR180W(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.)\nor\n(\n Course or Test: English 001B \n May not be taken concurrently.)\nand\n(\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "14593",
+        "instructor": "Burton, Sharon",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1820",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 144,
+          "capacity": 168,
+          "available": 24
+        }
+      },
+      {
+        "section": "021",
+        "crn": "14594",
+        "instructor": "Graham, Bonni",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1830",
+          "endTime": "2120",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Workshop",
+        "method": "Online",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 24,
+          "available": 4
+        }
+      },
+      {
+        "section": "022",
+        "crn": "14595",
+        "instructor": "Burton, Sharon",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1830",
+          "endTime": "2120",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Workshop",
+        "method": "Online",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 24,
+          "available": 6
+        }
+      },
+      {
+        "section": "023",
+        "crn": "14596",
+        "instructor": "Graham, Bonni",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1830",
+          "endTime": "2120",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Workshop",
+        "method": "Online",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 24,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "14597",
+        "instructor": "Burton, Sharon",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1830",
+          "endTime": "2120",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Workshop",
+        "method": "Online",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 24,
+          "available": 8
+        }
+      },
+      {
+        "section": "025",
+        "crn": "26881",
+        "instructor": "Graham, Bonni",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1830",
+          "endTime": "2120",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Workshop",
+        "method": "Online",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 24,
+          "available": 2
+        }
+      },
+      {
+        "section": "026",
+        "crn": "26882",
+        "instructor": "Burton, Sharon",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1800",
+          "endTime": "2050",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Workshop",
+        "method": "Online",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 24,
+          "available": 3
+        }
+      },
+      {
+        "section": "027",
+        "crn": "38456",
+        "instructor": "Burton, Sharon",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Workshop",
+        "method": "Online",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 24,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "ENGR190": {
+    "title": "SPECIAL STUDIES",
+    "credits": "1-5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "03X",
+        "crn": "24638",
+        "instructor": "Xu, Guanshui",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "ENGR203": {
+    "title": "PRINCIPLES OF ENGINEERING MANAGEMENT",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "14601",
+        "instructor": "Fryer, Thomas",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1500",
+          "endTime": "1650",
+          "building": "SKYE",
+          "room": "170"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 32,
+          "available": 30
+        }
+      },
+      {
+        "section": "010",
+        "crn": "23265",
+        "instructor": "Fryer, Thomas",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 68,
+          "capacity": 90,
+          "available": 22
+        }
+      }
+    ]
+  },
+  "ENGR204": {
+    "title": "PROJECTS PORTFOLIO MANAGEMENT",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "010",
+        "crn": "36761",
+        "instructor": "Fryer, Thomas",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1200",
+          "endTime": "1350",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 11,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "ENGR296": {
+    "title": "PROFESSIONAL PROJECT DESIGN",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "010",
+        "crn": "24300",
+        "instructor": "Fryer, Thomas",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Individual Study",
+        "method": "Online",
+        "availability": {
+          "enrolled": 73,
+          "capacity": 95,
+          "available": 22
+        }
+      },
+      {
+        "section": "28J",
+        "crn": "27520",
+        "instructor": "Jeske, Daniel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Individual Study",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "28Y",
+        "crn": "25499",
+        "instructor": "Yu, Nanpeng",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Individual Study",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      },
+      {
+        "section": "32O",
+        "crn": "31558",
+        "instructor": "Ozkan, Cengiz",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Individual Study",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "43E",
+        "crn": "29164",
+        "instructor": "Eldawy, Ahmed",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Individual Study",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "47J",
+        "crn": "25543",
+        "instructor": "Jinkerson, Robert",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Individual Study",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "49B",
+        "crn": "25577",
+        "instructor": "Bhanu, Bir",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Individual Study",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "75R",
+        "crn": "27019",
+        "instructor": "Rodgers, Victor",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Individual Study",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      },
+      {
+        "section": "79P",
+        "crn": "25515",
+        "instructor": "Papalexakis, Evangelos",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Individual Study",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      },
+      {
+        "section": "81P",
+        "crn": "29237",
+        "instructor": "Peters, Megan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Individual Study",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "92V",
+        "crn": "25544",
+        "instructor": "Venkatadriagaram, Sundararajan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Individual Study",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      },
+      {
+        "section": "97M",
+        "crn": "27348",
+        "instructor": "Myung, Nosang",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Individual Study",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "98G",
+        "crn": "25494",
+        "instructor": "Grover, William",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Individual Study",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "99W",
+        "crn": "25033",
+        "instructor": "Wong, Bryan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Individual Study",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      },
+      {
+        "section": "C05",
+        "crn": "24672",
+        "instructor": "Christidis, Evangelos",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Individual Study",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 6,
+          "available": 6
+        }
+      },
+      {
+        "section": "C39",
+        "crn": "31353",
+        "instructor": "Chartron, Justin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Individual Study",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "C49",
+        "crn": "31354",
+        "instructor": "Chomko, Roman",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "0700",
+          "endTime": "0750",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Individual Study",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "G09",
+        "crn": "29169",
+        "instructor": "Greaney, Peter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Individual Study",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "L17",
+        "crn": "25177",
+        "instructor": "Liu, Haizhou",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Individual Study",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "L30",
+        "crn": "25574",
+        "instructor": "Li, Chen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Individual Study",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "L35",
+        "crn": "29174",
+        "instructor": "Liu, Jinyong",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Individual Study",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "M12",
+        "crn": "29509",
+        "instructor": "Mobasher, Bahram",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Individual Study",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      },
+      {
+        "section": "M14",
+        "crn": "25269",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Individual Study",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "M25",
+        "crn": "25589",
+        "instructor": "Mangolini, Lorenzo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Individual Study",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "M32",
+        "crn": "27435",
+        "instructor": "Mohsenian-Rad, Amir-Hamed",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Individual Study",
+        "method": "Online",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 1,
+          "available": 0
+        }
+      },
+      {
+        "section": "M43",
+        "crn": "27119",
+        "instructor": "Mathaudhu, Suveen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Individual Study",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "M58",
+        "crn": "27541",
+        "instructor": "Morgan, Joshua",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Individual Study",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "R27",
+        "crn": "38929",
+        "instructor": "Rupiper, Amanda",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "Online",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 1,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "ENGR001G": {
+    "title": "COMPUTER ENGINEERING",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "14579",
+        "instructor": "LePendu, Paea",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "SSC",
+          "room": "229"
+        },
+        "type": "Activity",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 55,
+          "capacity": 110,
+          "available": 55
+        }
+      }
+    ]
+  },
+  "ENGR001I": {
+    "title": "COMPUTER SCIENCE",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "14580",
+        "instructor": "LePendu, Paea",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "SSC",
+          "room": "229"
+        },
+        "type": "Activity",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 121,
+          "capacity": 220,
+          "available": 99
+        }
+      }
+    ]
+  },
+  "ENGR001M": {
+    "title": "PROFESSIONAL DEVELOPMENT AND MENTORING",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "26601",
+        "instructor": "LePendu, Paea",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "SSC",
+          "room": "229"
+        },
+        "type": "Activity",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 39,
+          "capacity": 70,
+          "available": 31
+        }
+      }
+    ]
+  },
+  "ENGR108": {
+    "title": "TECHNOLOGY IN THE PREMODERN WORLD",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "14589",
+        "instructor": "Heidarzadeh, Tofigh",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "MSE",
+          "room": "104"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 88,
+          "capacity": 290,
+          "available": 202
+        }
+      }
+    ]
+  }
+}

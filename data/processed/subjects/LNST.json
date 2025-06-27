@@ -1,0 +1,292 @@
+{
+  "LNST001": {
+    "title": "INTRODUCTION TO LATIN AMERICAN STUDIES",
+    "credits": "5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36456",
+        "instructor": "Gonzalez, Jaime",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1350",
+          "building": "OLMH",
+          "room": "421"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 59,
+          "capacity": 65,
+          "available": 6
+        }
+      },
+      {
+        "section": "021",
+        "crn": "36457",
+        "instructor": "Gonzalez, Jaime",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Screening",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 59,
+          "capacity": 65,
+          "available": 6
+        }
+      }
+    ]
+  },
+  "LNST104": {
+    "title": "AN INTRODUCTION TO THE STUDY OF SPANISH AND COMPARATIVE LINGUISTICS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37476",
+        "instructor": "Holguin Mendoza, Claudia",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0800",
+          "endTime": "0920",
+          "building": "SPR",
+          "room": "2355"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 40,
+          "available": 37
+        }
+      }
+    ]
+  },
+  "LNST106": {
+    "title": "THE PHONOLOGY OF THE SPANISH LANGUAGE",
+    "credits": "4",
+    "prerequisites": "Prerequisites:LNST106",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38319",
+        "instructor": "Saffi, Natalie",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 40,
+          "available": 26
+        }
+      }
+    ]
+  },
+  "LNST115": {
+    "title": "MODERN AND CONTEMPORARY ART OF LATIN AMERICA",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38461",
+        "instructor": "LeBlanc, Alexandra",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1700",
+          "endTime": "1820",
+          "building": "ARTS",
+          "room": "335"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 75,
+          "available": 70
+        }
+      }
+    ]
+  },
+  "LNST142S": {
+    "title": "LATIN AMERICA:  THE QUEST FOR DEVELOPMENT AND DEMOCRACY",
+    "credits": "5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37499",
+        "instructor": "Carreras, Miguel",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 36,
+          "capacity": 36,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "37501",
+        "instructor": "Chen, Siqi",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 12,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "37503",
+        "instructor": "Chen, Siqi",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 12,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "37505",
+        "instructor": "Chen, Siqi",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 12,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "LNST190": {
+    "title": "SPECIAL STUDIES",
+    "credits": "1-5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "16324",
+        "instructor": "The Staff, .",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 999,
+          "available": 999
+        }
+      },
+      {
+        "section": "30P",
+        "crn": "16326",
+        "instructor": "Pianca, Marina",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "31P",
+        "crn": "16327",
+        "instructor": "Pianca, Marina",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  }
+}

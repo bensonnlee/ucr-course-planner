@@ -1,0 +1,1520 @@
+{
+  "CRWT040": {
+    "title": "FICTION AND FILM",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36454",
+        "instructor": "Erickson, Stephen",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1350",
+          "building": "SPR",
+          "room": "1102"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 75,
+          "capacity": 75,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "CRWT041": {
+    "title": "POETRY AND FICTION: A READING COURSE FOR WRITERS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38503",
+        "instructor": "Charles, Jos",
+        "schedule": {
+          "days": [
+            "W",
+            "F"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "OLMH",
+          "room": "421"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 47,
+          "capacity": 50,
+          "available": 3
+        }
+      }
+    ]
+  },
+  "CRWT045": {
+    "title": "THE PROSE POEM AND &quot;SHORT-SHORT&quot; STORY",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34201",
+        "instructor": "Cruz, Rachelle",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": "WAT",
+          "room": "1101"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 73,
+          "capacity": 75,
+          "available": 2
+        }
+      }
+    ]
+  },
+  "CRWT046S": {
+    "title": "FICTION LABORATORY LIVE",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32264",
+        "instructor": "Espinoza, Alex",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "SSC",
+          "room": "329"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 142,
+          "capacity": 180,
+          "available": 38
+        }
+      },
+      {
+        "section": "021",
+        "crn": "32267",
+        "instructor": "Espinoza, Alex",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "INTN",
+          "room": "3043"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 15,
+          "available": 1
+        }
+      },
+      {
+        "section": "022",
+        "crn": "32268",
+        "instructor": "Espinoza, Alex",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "INTN",
+          "room": "3009"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 15,
+          "available": 1
+        }
+      },
+      {
+        "section": "023",
+        "crn": "32269",
+        "instructor": "Espinoza, Alex",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1900",
+          "endTime": "1950",
+          "building": "INTN",
+          "room": "3043"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 15,
+          "available": 3
+        }
+      },
+      {
+        "section": "024",
+        "crn": "32270",
+        "instructor": "Espinoza, Alex",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "INTN",
+          "room": "3009"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 15,
+          "available": 1
+        }
+      },
+      {
+        "section": "025",
+        "crn": "32271",
+        "instructor": "Espinoza, Alex",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "HMNSS",
+          "room": "1407"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "026",
+        "crn": "32272",
+        "instructor": "Espinoza, Alex",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "INTN",
+          "room": "3009"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 15,
+          "available": 2
+        }
+      },
+      {
+        "section": "027",
+        "crn": "32273",
+        "instructor": "Espinoza, Alex",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "INTN",
+          "room": "3031"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "028",
+        "crn": "32274",
+        "instructor": "Espinoza, Alex",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "INTN",
+          "room": "3031"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 15,
+          "available": 6
+        }
+      },
+      {
+        "section": "029",
+        "crn": "32275",
+        "instructor": "Espinoza, Alex",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1900",
+          "endTime": "1950",
+          "building": "INTN",
+          "room": "3031"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 15,
+          "available": 8
+        }
+      },
+      {
+        "section": "030",
+        "crn": "32276",
+        "instructor": "Espinoza, Alex",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "ARTS",
+          "room": "214"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 15,
+          "available": 7
+        }
+      },
+      {
+        "section": "031",
+        "crn": "32277",
+        "instructor": "Espinoza, Alex",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "ARTS",
+          "room": "214"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 15,
+          "available": 9
+        }
+      },
+      {
+        "section": "032",
+        "crn": "32278",
+        "instructor": "Espinoza, Alex",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "ARTS",
+          "room": "214"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "CRWT056": {
+    "title": "INTRODUCTION TO CREATIVE WRITING",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "12920",
+        "instructor": "Long, Goldberry",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0920",
+          "building": "LFSC",
+          "room": "1500"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 251,
+          "capacity": 270,
+          "available": 19
+        }
+      },
+      {
+        "section": "021",
+        "crn": "12921",
+        "instructor": "Long, Goldberry",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "INTN",
+          "room": "3043"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "12922",
+        "instructor": "Long, Goldberry",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "INTN",
+          "room": "3043"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "12923",
+        "instructor": "Long, Goldberry",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "INTN",
+          "room": "3043"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 15,
+          "available": 1
+        }
+      },
+      {
+        "section": "024",
+        "crn": "12924",
+        "instructor": "Long, Goldberry",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "INTN",
+          "room": "3031"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "12925",
+        "instructor": "Long, Goldberry",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "INTN",
+          "room": "3031"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 15,
+          "available": 1
+        }
+      },
+      {
+        "section": "026",
+        "crn": "12926",
+        "instructor": "Long, Goldberry",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "INTN",
+          "room": "3043"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 15,
+          "available": 1
+        }
+      },
+      {
+        "section": "027",
+        "crn": "12927",
+        "instructor": "Long, Goldberry",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "INTN",
+          "room": "3043"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 15,
+          "available": 2
+        }
+      },
+      {
+        "section": "028",
+        "crn": "12928",
+        "instructor": "Long, Goldberry",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "INTN",
+          "room": "3043"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 15,
+          "available": 2
+        }
+      },
+      {
+        "section": "029",
+        "crn": "12929",
+        "instructor": "Long, Goldberry",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "INTN",
+          "room": "3043"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 15,
+          "available": 2
+        }
+      },
+      {
+        "section": "030",
+        "crn": "12930",
+        "instructor": "Long, Goldberry",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "INTN",
+          "room": "3031"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 15,
+          "available": 1
+        }
+      },
+      {
+        "section": "031",
+        "crn": "12931",
+        "instructor": "Long, Goldberry",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "INTN",
+          "room": "3031"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "032",
+        "crn": "12932",
+        "instructor": "Long, Goldberry",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "INTN",
+          "room": "3031"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "033",
+        "crn": "12933",
+        "instructor": "Long, Goldberry",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "INTN",
+          "room": "3031"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 15,
+          "available": 5
+        }
+      },
+      {
+        "section": "034",
+        "crn": "12934",
+        "instructor": "Long, Goldberry",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "INTN",
+          "room": "3031"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "035",
+        "crn": "12935",
+        "instructor": "Long, Goldberry",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "INTN",
+          "room": "3031"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 15,
+          "available": 1
+        }
+      },
+      {
+        "section": "036",
+        "crn": "35124",
+        "instructor": "Long, Goldberry",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "INTN",
+          "room": "3031"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 15,
+          "available": 3
+        }
+      },
+      {
+        "section": "037",
+        "crn": "35125",
+        "instructor": "Long, Goldberry",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "INTN",
+          "room": "3031"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "038",
+        "crn": "35126",
+        "instructor": "Long, Goldberry",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "ARTS",
+          "room": "213"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "CRWT057A": {
+    "title": "INTRODUCTION TO FICTION",
+    "credits": "4",
+    "prerequisites": "Prerequisites:CRWT057A(\n Course or Test: Creative Writing 056 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: English 001A \n Minimum Grade of C\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28993",
+        "instructor": "Emmons, Joshua",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0800",
+          "endTime": "0920",
+          "building": "INTN",
+          "room": "3043"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "002",
+        "crn": "33126",
+        "instructor": "Espinoza, Alex",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0920",
+          "building": "INTN",
+          "room": "3009"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "CRWT057B": {
+    "title": "INTRODUCTION TO POETRY",
+    "credits": "4",
+    "prerequisites": "Prerequisites:CRWT057B(\n Course or Test: Creative Writing 056 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: English 001A \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28995",
+        "instructor": "Ford, Kathrin",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0800",
+          "endTime": "0920",
+          "building": "INTN",
+          "room": "3009"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "002",
+        "crn": "34578",
+        "instructor": "White, Allison",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1700",
+          "endTime": "1820",
+          "building": "INTS",
+          "room": "2130"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 15,
+          "available": 3
+        }
+      }
+    ]
+  },
+  "CRWT057C": {
+    "title": "INTRODUCTION TO CREATIVE NONFICTION",
+    "credits": "4",
+    "prerequisites": "Prerequisites:CRWT057C(\n Course or Test: Creative Writing 056 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: English 001A \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34579",
+        "instructor": "Rapp, Emily",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0920",
+          "building": "INTN",
+          "room": "3031"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 15,
+          "available": 5
+        }
+      },
+      {
+        "section": "002",
+        "crn": "34580",
+        "instructor": "Aslan, Reza",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1000",
+          "endTime": "1120",
+          "building": "INTN",
+          "room": "3043"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "CRWT066": {
+    "title": "SCREENWRITING: HOW MOVIES WORK",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28690",
+        "instructor": "Bucklin, Michael",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "ARTS",
+          "room": "335"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "01A",
+        "crn": "21650",
+        "instructor": "Bucklin, Michael",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "TBA",
+          "room": "TBA"
+        },
+        "type": "Screening",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "26189",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "ARTS",
+          "room": "214"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 5,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "26190",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "ARTS",
+          "room": "214"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 5,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "26191",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "ARTS",
+          "room": "214"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 5,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "CRWT076": {
+    "title": "THE VERBAL COLISEUM: SPOKEN WORD WORKSHOP",
+    "credits": "5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34582",
+        "instructor": "Cruz, Rachelle",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": "OLMH",
+          "room": "420"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 20,
+          "available": 2
+        }
+      },
+      {
+        "section": "021",
+        "crn": "34583",
+        "instructor": "Cruz, Rachelle",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "INTN",
+          "room": "3009"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 20,
+          "available": 2
+        }
+      }
+    ]
+  },
+  "CRWT130": {
+    "title": "BEGINNING CREATIVE NONFICTION",
+    "credits": "4",
+    "prerequisites": "Prerequisites:CRWT130(Rule: PICK2: Pick 2 of 3 Classes  for a total of 2 conditions Creative Writing 057A  Minimum Grade of D-\n May not be taken concurrently. )Creative Writing 057B  Minimum Grade of D-\n May not be taken concurrently. Creative Writing 057C  Minimum Grade of D-\n May not be taken concurrently. )Creative Writing 057SA  Minimum Grade of D-\n May not be taken concurrently. End of Rule PICK2",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36323",
+        "instructor": "Williams, Brandon",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "1150",
+          "building": "INTN",
+          "room": "3043"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "CRWT146": {
+    "title": "MISFITS, MISCREANTS, &amp; WEIRDOS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:CRWT146)\nand\n(\n Course or Test: Creative Writing 056 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38027",
+        "instructor": "Espinoza, Alex",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1000",
+          "endTime": "1250",
+          "building": "INTN",
+          "room": "3009"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "CRWT150": {
+    "title": "BEGINNING POETRY WORKSHOP",
+    "credits": "4",
+    "prerequisites": "Prerequisites:CRWT150(Rule: PICK2: Pick 2 of 3  for a total of 2 conditions Creative Writing 057A  Minimum Grade of D-\n May not be taken concurrently. Creative Writing 057B  Minimum Grade of D-\n May not be taken concurrently. Creative Writing 057C  Minimum Grade of D-\n May not be taken concurrently. Creative Writing 057SA  Minimum Grade of D-\n May not be taken concurrently. End of Rule PICK2",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "12949",
+        "instructor": "Cruz, Rachelle",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1000",
+          "endTime": "1250",
+          "building": "INTN",
+          "room": "3043"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "002",
+        "crn": "36324",
+        "instructor": "Hedgecoke, Allison",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1700",
+          "endTime": "1950",
+          "building": "ARTS",
+          "room": "214"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 16,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "CRWT152": {
+    "title": "BEGINNING FICTION WORKSHOP",
+    "credits": "4",
+    "prerequisites": "Prerequisites:CRWT152(Rule: PICK2: Pick 2 of 3 courses  for a total of 2 conditions Creative Writing 057A  Minimum Grade of D-\n May not be taken concurrently. Creative Writing 057B  Minimum Grade of D-\n May not be taken concurrently. Creative Writing 057C  Minimum Grade of D-\n May not be taken concurrently. Creative Writing 057SA  Minimum Grade of D-\n May not be taken concurrently. End of Rule PICK2",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "12950",
+        "instructor": "Hardina, Joshua",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1250",
+          "building": "INTS",
+          "room": "2134"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "002",
+        "crn": "30179",
+        "instructor": "Hardina, Joshua",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1230",
+          "endTime": "1520",
+          "building": "ARTS",
+          "room": "214"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 15,
+          "available": -1
+        }
+      }
+    ]
+  },
+  "CRWT162": {
+    "title": "INTERMEDIATE FICTION WORKSHOP",
+    "credits": "4",
+    "prerequisites": "Prerequisites:CRWT162)\nand\n(\n Course or Test: Creative Writing 056 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Creative Writing 152 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "12953",
+        "instructor": "Williams, Brandon",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": "INTN",
+          "room": "3009"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 15,
+          "available": 2
+        }
+      },
+      {
+        "section": "002",
+        "crn": "32265",
+        "instructor": "Williams, Brandon",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1700",
+          "endTime": "1950",
+          "building": "INTN",
+          "room": "3009"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 15,
+          "available": 8
+        }
+      },
+      {
+        "section": "003",
+        "crn": "38622",
+        "instructor": "Hardina, Joshua",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1700",
+          "endTime": "1950",
+          "building": "ARTS",
+          "room": "213"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 15,
+          "available": 12
+        }
+      }
+    ]
+  },
+  "CRWT164A": {
+    "title": "BEGINNING PLAYWRITING",
+    "credits": "4",
+    "prerequisites": "Prerequisites:CRWT164A(\n Course or Test: Theater, Film & Digital Prod 100 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Creative Writing 056 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "12955",
+        "instructor": "Goodwin, Paige",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1300",
+          "endTime": "1420",
+          "building": "ARTS",
+          "room": "214"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 16,
+          "available": 5
+        }
+      },
+      {
+        "section": "021",
+        "crn": "20053",
+        "instructor": "Goodwin, Paige",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1430",
+          "endTime": "1520",
+          "building": "ARTS",
+          "room": "214"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 16,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "CRWT172": {
+    "title": "ADVANCED FICTION WORKSHOP",
+    "credits": "4",
+    "prerequisites": "Prerequisites:CRWT172(\n Course or Test: Creative Writing 056 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Creative Writing 152 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Creative Writing 162 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28651",
+        "instructor": "Straight, Susan",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1300",
+          "endTime": "1550",
+          "building": "INTN",
+          "room": "3009"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 20,
+          "available": 6
+        }
+      }
+    ]
+  },
+  "CRWT173": {
+    "title": "PROSE POEM WORKSHOP",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38506",
+        "instructor": "Charles, Jos",
+        "schedule": {
+          "days": [
+            "W",
+            "F"
+          ],
+          "startTime": "1830",
+          "endTime": "1950",
+          "building": "HMNSS",
+          "room": "1502"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 15,
+          "available": 6
+        }
+      }
+    ]
+  },
+  "CRWT176": {
+    "title": "THE CRAFT OF WRITING",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38623",
+        "instructor": "Ford, Kathrin",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1000",
+          "endTime": "1250",
+          "building": "INTN",
+          "room": "3031"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 15,
+          "available": 1
+        }
+      },
+      {
+        "section": "002",
+        "crn": "38624",
+        "instructor": "Winer, Andrew",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": "INTN",
+          "room": "3043"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 15,
+          "available": 3
+        }
+      }
+    ]
+  },
+  "CRWT190": {
+    "title": "SPECIAL STUDIES",
+    "credits": "1-5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "H08",
+        "crn": "38768",
+        "instructor": "Hedgecoke, Allison",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "CRWT195": {
+    "title": "SENIOR THESIS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "H08",
+        "crn": "36938",
+        "instructor": "Hedgecoke, Allison",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 10,
+          "available": 8
+        }
+      }
+    ]
+  }
+}

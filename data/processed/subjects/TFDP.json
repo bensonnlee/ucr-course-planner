@@ -1,0 +1,1438 @@
+{
+  "TFDP010": {
+    "title": "INTRODUCTION TO ACTING",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "19870",
+        "instructor": "Carazo, Luis",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "1050",
+          "building": "HUMN",
+          "room": "411"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 83,
+          "capacity": 90,
+          "available": 7
+        }
+      },
+      {
+        "section": "002",
+        "crn": "19871",
+        "instructor": "Bucklin, Michael",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "HUMN",
+          "room": "411"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 90,
+          "capacity": 90,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "19872",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "HUMN",
+          "room": "411"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 29,
+          "capacity": 30,
+          "available": 1
+        }
+      },
+      {
+        "section": "022",
+        "crn": "19873",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "HUMN",
+          "room": "411"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 30,
+          "available": 3
+        }
+      },
+      {
+        "section": "023",
+        "crn": "19874",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "HUMN",
+          "room": "411"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 30,
+          "available": 3
+        }
+      },
+      {
+        "section": "024",
+        "crn": "19875",
+        "instructor": "Bucklin, Michael",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "HUMN",
+          "room": "411"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "19876",
+        "instructor": "Bucklin, Michael",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "HUMN",
+          "room": "411"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "026",
+        "crn": "19877",
+        "instructor": "Bucklin, Michael",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "HUMN",
+          "room": "411"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "TFDP020": {
+    "title": "PRODUCTION TECHNIQUES FOR THEATRE, FILM, AND TELEVISION",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34653",
+        "instructor": "Baltierra, Tony",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1500",
+          "endTime": "1750",
+          "building": "HUMN",
+          "room": "411"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 76,
+          "capacity": 75,
+          "available": -1
+        }
+      },
+      {
+        "section": "021",
+        "crn": "34654",
+        "instructor": "Baltierra, Tony",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1500",
+          "endTime": "1750",
+          "building": "HUMN",
+          "room": "411"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 76,
+          "capacity": 75,
+          "available": -1
+        }
+      }
+    ]
+  },
+  "TFDP050S": {
+    "title": "PUBLIC SPEAKING",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "21252",
+        "instructor": "Speer, Annika",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 138,
+          "capacity": 150,
+          "available": 12
+        }
+      },
+      {
+        "section": "021",
+        "crn": "21258",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "DUNDE",
+          "room": "A1107"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 25,
+          "available": 4
+        }
+      },
+      {
+        "section": "022",
+        "crn": "21260",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "SPR",
+          "room": "2364"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "023",
+        "crn": "21261",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "DUNDE",
+          "room": "A1109"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 26,
+          "capacity": 25,
+          "available": -1
+        }
+      },
+      {
+        "section": "024",
+        "crn": "21262",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "DUNDE",
+          "room": "A1109"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "21263",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "SPR",
+          "room": "2364"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 25,
+          "available": 3
+        }
+      },
+      {
+        "section": "026",
+        "crn": "21264",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "SPR",
+          "room": "2364"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 20,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "TFDP066": {
+    "title": "SCREENWRITING: HOW MOVIES WORK",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "21301",
+        "instructor": "Bucklin, Michael",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "ARTS",
+          "room": "335"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 45,
+          "capacity": 45,
+          "available": 0
+        }
+      },
+      {
+        "section": "01A",
+        "crn": "21305",
+        "instructor": "Bucklin, Michael",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "TBA",
+          "room": "TBA"
+        },
+        "type": "Screening",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 45,
+          "capacity": 45,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "26186",
+        "instructor": "Bucklin, Michael",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "ARTS",
+          "room": "214"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "26187",
+        "instructor": "Bucklin, Michael",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "ARTS",
+          "room": "214"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "26188",
+        "instructor": "Bucklin, Michael",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "ARTS",
+          "room": "214"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "TFDP099": {
+    "title": "INTRODUCTION TO THE THEATRE DEPARTMENT",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "19880",
+        "instructor": "Galella, Donatella",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1020",
+          "building": null,
+          "room": null
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 174,
+          "capacity": 250,
+          "available": 76
+        }
+      }
+    ]
+  },
+  "TFDP101": {
+    "title": "INTRODUCTION TO DESIGN",
+    "credits": "4",
+    "prerequisites": "Prerequisites:TFDP101(\n Course or Test: Theater, Film & Digital Prod 020 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37776",
+        "instructor": "Murillo, Christopher",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "INTN",
+          "room": "1006"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38039",
+        "instructor": "Murillo, Christopher",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "ARTS",
+          "room": "214"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "TFDP109": {
+    "title": "ACTING: THE PROCESS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:TFDP109(\n Course or Test: Theater, Film & Digital Prod 099 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Media and Cultural Studies 001 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36346",
+        "instructor": "Anderson, Bella Merlin",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1200",
+          "endTime": "1350",
+          "building": "HUMN",
+          "room": "411"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 26,
+          "capacity": 24,
+          "available": -2
+        }
+      },
+      {
+        "section": "021",
+        "crn": "36347",
+        "instructor": "Anderson, Bella Merlin",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1550",
+          "building": "HUMN",
+          "room": "411"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 26,
+          "capacity": 24,
+          "available": -2
+        }
+      }
+    ]
+  },
+  "TFDP110A": {
+    "title": "ACTING: FUNDAMENTALS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:TFDP110A(\n Course or Test: Theater, Film & Digital Prod 109 \n Minimum Grade of D\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38199",
+        "instructor": "Tabaque, Megan",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1300",
+          "endTime": "1450",
+          "building": "BARN",
+          "room": null
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 16,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38200",
+        "instructor": "Tabaque, Megan",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1500",
+          "endTime": "1650",
+          "building": "BARN",
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 16,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "TFDP110B": {
+    "title": "ACTING: TECHNIQUES",
+    "credits": "4",
+    "prerequisites": "Prerequisites:TFDP110B(\n Course or Test: Theater, Film & Digital Prod 110A \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38194",
+        "instructor": "Carazo, Luis",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1250",
+          "building": "HUMN",
+          "room": "411"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 16,
+          "available": 8
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38195",
+        "instructor": "Carazo, Luis",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1300",
+          "endTime": "1450",
+          "building": "HUMN",
+          "room": "411"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 16,
+          "available": 8
+        }
+      }
+    ]
+  },
+  "TFDP111C": {
+    "title": "ADVANCED ACTING: ACTING FOR THE CAMERA",
+    "credits": "4",
+    "prerequisites": "Prerequisites:TFDP111C(\n Course or Test: Theater, Film & Digital Prod 110B \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38196",
+        "instructor": "Bucklin, Michael",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "SPR",
+          "room": "B0205A"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 16,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38197",
+        "instructor": "Bucklin, Michael",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1700",
+          "endTime": "1850",
+          "building": "SPR",
+          "room": "B0205A"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 16,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "TFDP117": {
+    "title": "DIRECTING FOR THE SCREEN",
+    "credits": "4",
+    "prerequisites": "Prerequisites:TFDP117(\n Course or Test: Theater, Film & Digital Prod 144 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38040",
+        "instructor": "Cardoso, Patricia",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1200",
+          "endTime": "1450",
+          "building": "INTS",
+          "room": "2117C"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 16,
+          "available": -1
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38041",
+        "instructor": "Cardoso, Patricia",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1200",
+          "endTime": "1450",
+          "building": "INTS",
+          "room": "2117C"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 16,
+          "available": -1
+        }
+      }
+    ]
+  },
+  "TFDP122": {
+    "title": "THEATRE FOR SOCIAL CHANGE",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38193",
+        "instructor": "Vermy, Hans",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1350",
+          "building": "ARTS",
+          "room": "335"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 46,
+          "capacity": 75,
+          "available": 29
+        }
+      }
+    ]
+  },
+  "TFDP124B": {
+    "title": "AMERICAN THEATRE, 1945-PRESENT",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38201",
+        "instructor": "Aviles-Rodriguez, Guillermo",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0900",
+          "endTime": "1150",
+          "building": "ARTS",
+          "room": "214"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 29,
+          "capacity": 30,
+          "available": 1
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38202",
+        "instructor": "Aviles-Rodriguez, Guillermo",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "ARTS",
+          "room": "214"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 29,
+          "capacity": 30,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "TFDP125G": {
+    "title": "HISTORY OF THE THEATRE",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38044",
+        "instructor": "Jaffe-Berg, Erith",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1000",
+          "endTime": "1250",
+          "building": "ARTS",
+          "room": "214"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 30,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "TFDP144": {
+    "title": "DIRECTING ACTORS FOR THE SCREEN",
+    "credits": "4",
+    "prerequisites": "Prerequisites:TFDP144(\n Course or Test: Theater, Film & Digital Prod 155 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38042",
+        "instructor": "Cardoso, Patricia",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1530",
+          "endTime": "1820",
+          "building": "INTS",
+          "room": "2117C"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 16,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38043",
+        "instructor": "Cardoso, Patricia",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1530",
+          "endTime": "1820",
+          "building": "INTS",
+          "room": "2117C"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 16,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "TFDP153A": {
+    "title": "INTRODUCTION TO CINEMATOGRAPHY",
+    "credits": "4",
+    "prerequisites": "Prerequisites:TFDP153A)\nand\n(\n Course or Test: Theater, Film & Digital Prod 020 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34647",
+        "instructor": "Wohleb, William",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1100",
+          "endTime": "1350",
+          "building": "HUMN",
+          "room": "411"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 61,
+          "capacity": 75,
+          "available": 14
+        }
+      },
+      {
+        "section": "021",
+        "crn": "34648",
+        "instructor": "Wohleb, William",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "HUMN",
+          "room": "411"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "34649",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "HUMN",
+          "room": "411"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 25,
+          "available": 3
+        }
+      },
+      {
+        "section": "023",
+        "crn": "34650",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "HUMN",
+          "room": "411"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 25,
+          "available": 11
+        }
+      }
+    ]
+  },
+  "TFDP155": {
+    "title": "INTRODUCTION TO DIGITAL FILM PRODUCTION",
+    "credits": "4",
+    "prerequisites": "Prerequisites:TFDP155)\nand\n(\n Course or Test: Creative Writing 066 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Media and Cultural Studies 066 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Theater, Film & Digital Prod 066 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Theater, Film & Digital Prod 020 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "23098",
+        "instructor": "Katrib, Christophe",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0900",
+          "endTime": "1150",
+          "building": "INTS",
+          "room": "2117C"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 16,
+          "available": 1
+        }
+      },
+      {
+        "section": "002",
+        "crn": "34658",
+        "instructor": "Ramirez, Chelsea",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1830",
+          "endTime": "2120",
+          "building": "INTS",
+          "room": "2117C"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 16,
+          "available": 5
+        }
+      },
+      {
+        "section": "021",
+        "crn": "26146",
+        "instructor": "Katrib, Christophe",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1750",
+          "building": "INTS",
+          "room": "2117C"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 16,
+          "available": 1
+        }
+      },
+      {
+        "section": "022",
+        "crn": "34659",
+        "instructor": "Ramirez, Chelsea",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "1150",
+          "building": "INTS",
+          "room": "2117C"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 16,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "TFDP156A": {
+    "title": "DIGITAL FILM PRODUCTION",
+    "credits": "4",
+    "prerequisites": "Prerequisites:TFDP156A)\nand\n(\n Course or Test: Theater, Film & Digital Prod 153A \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Theater, Film & Digital Prod 155 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28689",
+        "instructor": "Park, Keun-Pyo",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1000",
+          "endTime": "1250",
+          "building": "SPR",
+          "room": "B0205A"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 16,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "28734",
+        "instructor": "Park, Keun-Pyo",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1800",
+          "endTime": "2050",
+          "building": "ARTS",
+          "room": "311"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 16,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "TFDP157": {
+    "title": "INTRODUCTION TO FILM EDITING",
+    "credits": "4",
+    "prerequisites": "Prerequisites:TFDP157(\n Course or Test: Theater, Film & Digital Prod 153A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Theater, Film & Digital Prod 154 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Theater, Film & Digital Prod 155 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28745",
+        "instructor": "Katrib, Christophe",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0900",
+          "endTime": "1150",
+          "building": "INTS",
+          "room": "2117C"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 16,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "28746",
+        "instructor": "Katrib, Christophe",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1800",
+          "endTime": "2050",
+          "building": "INTS",
+          "room": "2117C"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 16,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "TFDP164A": {
+    "title": "BEGINNING PLAYWRITING",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "19892",
+        "instructor": "Goodwin, Paige",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1300",
+          "endTime": "1420",
+          "building": "ARTS",
+          "room": "214"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 17,
+          "available": 11
+        }
+      },
+      {
+        "section": "021",
+        "crn": "20386",
+        "instructor": "Goodwin, Paige",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1430",
+          "endTime": "1520",
+          "building": "ARTS",
+          "room": "214"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 17,
+          "available": 11
+        }
+      }
+    ]
+  },
+  "TFDP166A": {
+    "title": "SCREENWRITING: INTRODUCTION",
+    "credits": "4",
+    "prerequisites": "Prerequisites:TFDP166A(\n Course or Test: Creative Writing 066 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Media and Cultural Studies 066 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Theater, Film & Digital Prod 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Theater, Film & Digital Prod 066 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "21524",
+        "instructor": "Malkin, Joshua",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1000",
+          "endTime": "1250",
+          "building": "ARTS",
+          "room": "213"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 16,
+          "available": -2
+        }
+      }
+    ]
+  },
+  "TFDP180F": {
+    "title": "MUSICAL COMEDY",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38254",
+        "instructor": "Buckley, Thomas",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1600",
+          "endTime": "1750",
+          "building": "HUMN",
+          "room": "411"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 30,
+          "available": 9
+        }
+      }
+    ]
+  },
+  "TFDP190": {
+    "title": "MAKER WORKSHOP",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "100",
+        "crn": "38423",
+        "instructor": "Guerrero, Kimberly",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "SPR",
+          "room": "2360"
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 20,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "TFDP191T": {
+    "title": "WOMEN IN THEATRE",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "30799",
+        "instructor": "Wolf, Hannah",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1300",
+          "endTime": "1550",
+          "building": "HUMN",
+          "room": "411"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 30,
+          "available": 9
+        }
+      }
+    ]
+  },
+  "TFDP198I": {
+    "title": "INDIVIDUAL INTERNSHIP IN THEATRE",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "01P",
+        "crn": "31668",
+        "instructor": "Park, Keun-Pyo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      }
+    ]
+  }
+}

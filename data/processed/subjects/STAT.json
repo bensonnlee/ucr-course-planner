@@ -1,0 +1,3876 @@
+{
+  "STAT008": {
+    "title": "STATISTICS FOR BUSINESS",
+    "credits": "5",
+    "prerequisites": "Prerequisites:STAT008(\n Course or Test: Mathematics 004 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 005A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 006B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 022 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32773",
+        "instructor": "Flores, Analisa",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "SSC",
+          "room": "329"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 208,
+          "capacity": 210,
+          "available": 2
+        }
+      },
+      {
+        "section": "021",
+        "crn": "32774",
+        "instructor": "Gao, Xiao",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "OLMH",
+          "room": "1411"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "32775",
+        "instructor": "Lin, Ying",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "OLMH",
+          "room": "1411"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "32776",
+        "instructor": "Zhao, Liming",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "OLMH",
+          "room": "1411"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "32777",
+        "instructor": "Feng, Ji",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "OLMH",
+          "room": "1411"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "32778",
+        "instructor": "Liu, Linlin",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "OLMH",
+          "room": "1411"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "026",
+        "crn": "32780",
+        "instructor": "Lin, Ying",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "OLMH",
+          "room": "1411"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 29,
+          "capacity": 30,
+          "available": 1
+        }
+      },
+      {
+        "section": "027",
+        "crn": "32781",
+        "instructor": "Liu, Linlin",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "OLMH",
+          "room": "1411"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 29,
+          "capacity": 30,
+          "available": 1
+        }
+      },
+      {
+        "section": "031",
+        "crn": "32782",
+        "instructor": "Feng, Ji",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "SPR",
+          "room": "2355"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 35,
+          "capacity": 35,
+          "available": 0
+        }
+      },
+      {
+        "section": "032",
+        "crn": "32783",
+        "instructor": "Feng, Ji",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "SPR",
+          "room": "2351"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 35,
+          "capacity": 35,
+          "available": 0
+        }
+      },
+      {
+        "section": "033",
+        "crn": "32784",
+        "instructor": "Neal, Brian",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "SSC",
+          "room": "125"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 35,
+          "capacity": 35,
+          "available": 0
+        }
+      },
+      {
+        "section": "034",
+        "crn": "32785",
+        "instructor": "Neal, Brian",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "SSC",
+          "room": "125"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 35,
+          "capacity": 35,
+          "available": 0
+        }
+      },
+      {
+        "section": "035",
+        "crn": "32786",
+        "instructor": "Zhao, Liming",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "OLMH",
+          "room": "1127"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 34,
+          "capacity": 35,
+          "available": 1
+        }
+      },
+      {
+        "section": "036",
+        "crn": "32787",
+        "instructor": "Zhao, Liming",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 34,
+          "capacity": 35,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "STAT010": {
+    "title": "INTRODUCTION TO STATISTICS",
+    "credits": "5",
+    "prerequisites": "Prerequisites:STAT010(\n Course or Test: Mathematics 005A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 006B \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32798",
+        "instructor": "Fu, Yingzhuo",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 240,
+          "capacity": 240,
+          "available": 0
+        }
+      },
+      {
+        "section": "002",
+        "crn": "32856",
+        "instructor": "Fu, Yingzhuo",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 237,
+          "capacity": 240,
+          "available": 3
+        }
+      },
+      {
+        "section": "021",
+        "crn": "32799",
+        "instructor": "Ye, Bradley",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Laboratory",
+        "method": "Online",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "32807",
+        "instructor": "Ye, Bradley",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Laboratory",
+        "method": "Online",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "32815",
+        "instructor": "Yang, Chenguang",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Laboratory",
+        "method": "Online",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "32817",
+        "instructor": "Yang, Chenguang",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Laboratory",
+        "method": "Online",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "32818",
+        "instructor": "Cao, Fangyi",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0920",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Laboratory",
+        "method": "Online",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "026",
+        "crn": "32820",
+        "instructor": "Cao, Fangyi",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Laboratory",
+        "method": "Online",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "027",
+        "crn": "33014",
+        "instructor": "Xue, Yijia",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Laboratory",
+        "method": "Online",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "028",
+        "crn": "35170",
+        "instructor": "Xue, Yijia",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Laboratory",
+        "method": "Online",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "041",
+        "crn": "32821",
+        "instructor": "Teng, Chin-Sheng",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "042",
+        "crn": "32822",
+        "instructor": "Teng, Chin-Sheng",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "043",
+        "crn": "32823",
+        "instructor": "Qu, Xinhao",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "044",
+        "crn": "32824",
+        "instructor": "Qu, Xinhao",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "045",
+        "crn": "32825",
+        "instructor": "Teng, Chin-Sheng",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "046",
+        "crn": "33015",
+        "instructor": "Teng, Chin-Sheng",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "047",
+        "crn": "33016",
+        "instructor": "Qu, Xinhao",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "048",
+        "crn": "35171",
+        "instructor": "Qu, Xinhao",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "051",
+        "crn": "32857",
+        "instructor": "Mo, Yun",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "OLMH",
+          "room": "1316"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "052",
+        "crn": "32859",
+        "instructor": "Mao, Shijie",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "OLMH",
+          "room": "1316"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 28,
+          "capacity": 30,
+          "available": 2
+        }
+      },
+      {
+        "section": "053",
+        "crn": "32860",
+        "instructor": "Jiang, Shuang",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "OLMH",
+          "room": "1316"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "054",
+        "crn": "32861",
+        "instructor": "Pleines, John",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "OLMH",
+          "room": "1316"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "055",
+        "crn": "32862",
+        "instructor": "Jiang, Shuang",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "OLMH",
+          "room": "1316"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "056",
+        "crn": "32863",
+        "instructor": "Liu, Yuxin",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "OLMH",
+          "room": "1316"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 29,
+          "capacity": 30,
+          "available": 1
+        }
+      },
+      {
+        "section": "057",
+        "crn": "33017",
+        "instructor": "Liu, Yuxin",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "OLMH",
+          "room": "1316"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "058",
+        "crn": "33919",
+        "instructor": "Mao, Shijie",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "OLMH",
+          "room": "1316"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "061",
+        "crn": "32865",
+        "instructor": "Joshi, Sharvee",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "OLMH",
+          "room": "420"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 29,
+          "capacity": 30,
+          "available": 1
+        }
+      },
+      {
+        "section": "062",
+        "crn": "32866",
+        "instructor": "Joshi, Sharvee",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "WAT",
+          "room": "1111"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 35,
+          "capacity": 35,
+          "available": 0
+        }
+      },
+      {
+        "section": "063",
+        "crn": "32867",
+        "instructor": "Joshi, Sharvee",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "INTN",
+          "room": "1006"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 35,
+          "capacity": 35,
+          "available": 0
+        }
+      },
+      {
+        "section": "064",
+        "crn": "32868",
+        "instructor": "Joshi, Sharvee",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "OLMH",
+          "room": "1136"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 34,
+          "capacity": 35,
+          "available": 1
+        }
+      },
+      {
+        "section": "065",
+        "crn": "32869",
+        "instructor": "Pleines, John",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "SPTH",
+          "room": "1307"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 35,
+          "capacity": 35,
+          "available": 0
+        }
+      },
+      {
+        "section": "066",
+        "crn": "33018",
+        "instructor": "Pleines, John",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "SPR",
+          "room": "2355"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 34,
+          "capacity": 35,
+          "available": 1
+        }
+      },
+      {
+        "section": "067",
+        "crn": "33019",
+        "instructor": "Mo, Yun",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "INTN",
+          "room": "1006"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 35,
+          "capacity": 35,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "STAT011": {
+    "title": "INTRODUCTION TO STATISTICAL MODELING",
+    "credits": "5",
+    "prerequisites": "Prerequisites:STAT011(\n Course or Test: Statistics 008 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 010 \n Minimum Grade of C-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32870",
+        "instructor": "Cao, Xu",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "SPR",
+          "room": "1102"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 31,
+          "capacity": 90,
+          "available": 59
+        }
+      },
+      {
+        "section": "021",
+        "crn": "32871",
+        "instructor": "Liang, Tian",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "OLMH",
+          "room": "1411"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 30,
+          "available": 18
+        }
+      },
+      {
+        "section": "022",
+        "crn": "32872",
+        "instructor": "Eager, John",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0920",
+          "building": "OLMH",
+          "room": "1411"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 30,
+          "available": 25
+        }
+      },
+      {
+        "section": "023",
+        "crn": "32873",
+        "instructor": "Shen, Xin",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "OLMH",
+          "room": "1411"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 30,
+          "available": 16
+        }
+      },
+      {
+        "section": "031",
+        "crn": "32875",
+        "instructor": "Eager, John",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "OLMH",
+          "room": "420"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 30,
+          "available": 16
+        }
+      },
+      {
+        "section": "032",
+        "crn": "32876",
+        "instructor": "Liang, Tian",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "OLMH",
+          "room": "1116"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 30,
+          "available": 20
+        }
+      },
+      {
+        "section": "033",
+        "crn": "32877",
+        "instructor": "Eager, John",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "OLMH",
+          "room": "1122"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 30,
+          "available": 23
+        }
+      }
+    ]
+  },
+  "STAT104": {
+    "title": "DECISION ANALYSIS AND MANAGEMENT SCIENCE",
+    "credits": "4",
+    "prerequisites": "Prerequisites:STAT104(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "19777",
+        "instructor": "El-Hafsi, Mohsen",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "SBB",
+          "room": "165"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 0,
+          "available": 0
+        }
+      },
+      {
+        "section": "002",
+        "crn": "38748",
+        "instructor": "Turcic, Danko",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 0,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "19778",
+        "instructor": "Fu, Yingchao",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "MSE",
+          "room": "003"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 0,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "19779",
+        "instructor": "Fu, Yingchao",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "SSC",
+          "room": "216"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 0,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "19780",
+        "instructor": "Barroso, Jennifer",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "SSC",
+          "room": "216"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 0,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "19781",
+        "instructor": "Barroso, Jennifer",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "SSC",
+          "room": "123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 0,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "19782",
+        "instructor": "Kalra, Hasmeet",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "SSC",
+          "room": "123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 0,
+          "available": 0
+        }
+      },
+      {
+        "section": "026",
+        "crn": "19783",
+        "instructor": "Kalra, Hasmeet",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "SSC",
+          "room": "216"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 0,
+          "available": 0
+        }
+      },
+      {
+        "section": "027",
+        "crn": "38754",
+        "instructor": "Bansal, Vasudev",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 0,
+          "available": 0
+        }
+      },
+      {
+        "section": "028",
+        "crn": "38756",
+        "instructor": "Bansal, Vasudev",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 0,
+          "available": 0
+        }
+      },
+      {
+        "section": "029",
+        "crn": "38758",
+        "instructor": "Raja, Vinoth",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 0,
+          "available": 0
+        }
+      },
+      {
+        "section": "030",
+        "crn": "38760",
+        "instructor": "Raja, Vinoth",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 0,
+          "available": 0
+        }
+      },
+      {
+        "section": "031",
+        "crn": "38762",
+        "instructor": "Chivukula, Hema Sai Gopi",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 0,
+          "available": 0
+        }
+      },
+      {
+        "section": "032",
+        "crn": "38764",
+        "instructor": "Chivukula, Hema Sai Gopi",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 0,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "STAT107": {
+    "title": "INTRODUCTION TO STATISTICAL COMPUTING WITH R",
+    "credits": "4",
+    "prerequisites": "Prerequisites:STAT107)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32878",
+        "instructor": "Landeros, Alfonso",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0920",
+          "building": "HMNSS",
+          "room": "1503"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 60,
+          "capacity": 60,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "32879",
+        "instructor": "Shen, Xin",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "OLMH",
+          "room": "1411"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "32880",
+        "instructor": "Shen, Xin",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "OLMH",
+          "room": "1411"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "STAT130": {
+    "title": "SAMPLING SURVEYS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:STAT130)\nand\n(\n Course or Test: Statistics 011 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 107 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "22064",
+        "instructor": "Lawson, Jericho",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "SKYE",
+          "room": "171"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 45,
+          "capacity": 46,
+          "available": 1
+        }
+      },
+      {
+        "section": "021",
+        "crn": "22065",
+        "instructor": "Mo, Yun",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "SKYE",
+          "room": "172"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 45,
+          "capacity": 46,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "STAT155": {
+    "title": "PROBABILITY AND STATISTICS FOR SCIENCE AND ENGINEERING",
+    "credits": "4",
+    "prerequisites": "Prerequisites:STAT155(\n Course or Test: Mathematics 009C \n Minimum Grade of D-\n May be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HC \n Minimum Grade of D-\n May be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "19788",
+        "instructor": "Flores, Analisa",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 163,
+          "capacity": 240,
+          "available": 77
+        }
+      },
+      {
+        "section": "021",
+        "crn": "19789",
+        "instructor": "Wang, Xun",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 35,
+          "available": 28
+        }
+      },
+      {
+        "section": "022",
+        "crn": "19790",
+        "instructor": "Wang, Xun",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 30,
+          "available": 22
+        }
+      },
+      {
+        "section": "023",
+        "crn": "19791",
+        "instructor": "Mason, Evan",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 35,
+          "capacity": 35,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "31352",
+        "instructor": "Wang, Xun",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 35,
+          "available": 11
+        }
+      },
+      {
+        "section": "025",
+        "crn": "33009",
+        "instructor": "Mason, Evan",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 35,
+          "capacity": 35,
+          "available": 0
+        }
+      },
+      {
+        "section": "026",
+        "crn": "33010",
+        "instructor": "Mason, Evan",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 34,
+          "capacity": 35,
+          "available": 1
+        }
+      },
+      {
+        "section": "027",
+        "crn": "33025",
+        "instructor": "Wang, Xun",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 35,
+          "available": 15
+        }
+      }
+    ]
+  },
+  "STAT156A": {
+    "title": "MATHEMATICAL STATISTICS WITH APPLICATIONS FOR DATA SCIENCE 1",
+    "credits": "4",
+    "prerequisites": "Prerequisites:STAT156A(\n Course or Test: Mathematics 009C \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HC \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34858",
+        "instructor": "Li, Jun",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "WAT",
+          "room": "1000"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 103,
+          "capacity": 102,
+          "available": -1
+        }
+      },
+      {
+        "section": "021",
+        "crn": "34859",
+        "instructor": "Kim, Nahee",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "WAT",
+          "room": "1111"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 35,
+          "capacity": 35,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "34860",
+        "instructor": "Kim, Nahee",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "OLMH",
+          "room": "1136"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 38,
+          "capacity": 37,
+          "available": -1
+        }
+      },
+      {
+        "section": "023",
+        "crn": "36813",
+        "instructor": "Kim, Nahee",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "OLMH",
+          "room": "1116"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "STAT157": {
+    "title": "STATISTICAL COMPUTING WITH SAS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:STAT157(\n Course or Test: Statistics 010 \n Minimum Grade of C-\n May not be taken concurrently.and\n Course or Test: Computer Science 009A \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Computer Science 010A \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 107 \n Minimum Grade of C-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36578",
+        "instructor": "Ouyang, Emily",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "OLMH",
+          "room": "1429"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "36579",
+        "instructor": "Liang, Tian",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "OLMH",
+          "room": "1411"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "STAT160A": {
+    "title": "ELEMENTS OF PROBABILITY AND STATISTICAL THEORY",
+    "credits": "4",
+    "prerequisites": "Prerequisites:STAT160A(\n Course or Test: Mathematics 009C \n Minimum Grade of D-\n May be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HC \n Minimum Grade of D-\n May be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "19792",
+        "instructor": "Liu, Xiaoqian",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "OLMH",
+          "room": "1212"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 68,
+          "capacity": 68,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "20372",
+        "instructor": "Gao, Xiao",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "SKYE",
+          "room": "173"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 33,
+          "capacity": 33,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "23620",
+        "instructor": "Gao, Xiao",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "OLMH",
+          "room": "1136"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 35,
+          "capacity": 35,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "STAT170": {
+    "title": "REGRESSION ANALYSIS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:STAT170(\n Course or Test: Statistics 107 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 156B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 160B \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32770",
+        "instructor": "Cui, Xinping",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "SPR",
+          "room": "1102"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 95,
+          "capacity": 100,
+          "available": 5
+        }
+      },
+      {
+        "section": "021",
+        "crn": "32771",
+        "instructor": "Kim, Nahee",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "SSC",
+          "room": "216"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 31,
+          "capacity": 35,
+          "available": 4
+        }
+      },
+      {
+        "section": "022",
+        "crn": "32772",
+        "instructor": "Lee, Namhwa",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "CHUNG",
+          "room": "141"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 34,
+          "capacity": 35,
+          "available": 1
+        }
+      },
+      {
+        "section": "023",
+        "crn": "33920",
+        "instructor": "Lee, Namhwa",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "OLMH",
+          "room": "1429"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "STAT190": {
+    "title": "SPECIAL STUDIES",
+    "credits": "1-5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "15F",
+        "crn": "19799",
+        "instructor": "Flegal, James",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "22G",
+        "crn": "19801",
+        "instructor": "Ghosh, Subir",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "27Y",
+        "crn": "27734",
+        "instructor": "Yao, Weixin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28J",
+        "crn": "19802",
+        "instructor": "Jeske, Daniel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "33Z",
+        "crn": "27736",
+        "instructor": "Zhou, Shuheng",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "83K",
+        "crn": "27737",
+        "instructor": "Kurum, Esra",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "91L",
+        "crn": "19804",
+        "instructor": "Li, Jun",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "C61",
+        "crn": "19794",
+        "instructor": "Cui, Xinping",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "L61",
+        "crn": "27741",
+        "instructor": "Li, Yehua",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "M28",
+        "crn": "19795",
+        "instructor": "Ma, Shujie",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "M46",
+        "crn": "27738",
+        "instructor": "Ma, Wenxiu",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "STAT197": {
+    "title": "RESEARCH FOR UNDERGRADUATES",
+    "credits": "2-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "15F",
+        "crn": "19808",
+        "instructor": "Flegal, James",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "22G",
+        "crn": "19810",
+        "instructor": "Ghosh, Subir",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "27Y",
+        "crn": "27743",
+        "instructor": "Yao, Weixin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28J",
+        "crn": "19811",
+        "instructor": "Jeske, Daniel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "33Z",
+        "crn": "27745",
+        "instructor": "Zhou, Shuheng",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "83K",
+        "crn": "27746",
+        "instructor": "Kurum, Esra",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "91L",
+        "crn": "19812",
+        "instructor": "Li, Jun",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "C61",
+        "crn": "19806",
+        "instructor": "Cui, Xinping",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "L61",
+        "crn": "27761",
+        "instructor": "Li, Yehua",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "M28",
+        "crn": "27759",
+        "instructor": "Ma, Shujie",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "M46",
+        "crn": "27760",
+        "instructor": "Ma, Wenxiu",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "STAT198I": {
+    "title": "INDIVIDUAL INTERNSHIP IN STATISTICS",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "01X",
+        "crn": "25593",
+        "instructor": "Xu, Shizhong",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28J",
+        "crn": "19815",
+        "instructor": "Jeske, Daniel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "STAT199H": {
+    "title": "SENIOR HONORS RESEARCH",
+    "credits": "1-5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "19816",
+        "instructor": "The Staff, .",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28J",
+        "crn": "19817",
+        "instructor": "Jeske, Daniel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "STAT200": {
+    "title": "FOUNDATIONAL METHODS FOR BUSINESS ANALYTICS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:STAT200(\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38129",
+        "instructor": "Cui, Xinping",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "SPR",
+          "room": "2340"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 53,
+          "capacity": 60,
+          "available": 7
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38131",
+        "instructor": "Lee, Namhwa",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "OLMH",
+          "room": "1429"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 28,
+          "capacity": 30,
+          "available": 2
+        }
+      },
+      {
+        "section": "022",
+        "crn": "38132",
+        "instructor": "Lee, Namhwa",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "OLMH",
+          "room": "1429"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 30,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "STAT201A": {
+    "title": "THEORY OF PROBABILITY AND STATISTICS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:STAT201A(\n Course or Test: Mathematics 010B \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 160C \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "19819",
+        "instructor": "Ma, Shujie",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "OLMH",
+          "room": "1431"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 27,
+          "available": 7
+        }
+      },
+      {
+        "section": "021",
+        "crn": "20375",
+        "instructor": "Ma, Shujie",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "OLMH",
+          "room": "1431"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 27,
+          "available": 7
+        }
+      }
+    ]
+  },
+  "STAT202A": {
+    "title": "REGRESSION, ANOVA, AND DESIGN",
+    "credits": "4",
+    "prerequisites": "Prerequisites:STAT202A(\n Course or Test: Statistics 170 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34363",
+        "instructor": "Chen, Yuzhou",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "SKYE",
+          "room": "171"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 23,
+          "available": 1
+        }
+      },
+      {
+        "section": "021",
+        "crn": "34364",
+        "instructor": "Chen, Yuzhou",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "SKYE",
+          "room": "170"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 23,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "STAT206": {
+    "title": "STATISTICAL COMPUTING",
+    "credits": "4",
+    "prerequisites": "Prerequisites:STAT206(\n Course or Test: Statistics 160C \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34846",
+        "instructor": "Landeros, Alfonso",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "MSE",
+          "room": "003"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 36,
+          "available": 17
+        }
+      },
+      {
+        "section": "010",
+        "crn": "23286",
+        "instructor": "Landeros, Alfonso",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 36,
+          "available": 30
+        }
+      },
+      {
+        "section": "011",
+        "crn": "23292",
+        "instructor": "Mason, Evan",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 36,
+          "available": 30
+        }
+      },
+      {
+        "section": "021",
+        "crn": "21982",
+        "instructor": "Mason, Evan",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "MSE",
+          "room": "003"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 36,
+          "available": 17
+        }
+      }
+    ]
+  },
+  "STAT210A": {
+    "title": "ADVANCED THEORY OF PROBABILITY AND STATISTICS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:STAT210A)\nand\n(\n Course or Test: Statistics 201C \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "19821",
+        "instructor": "Li, Yehua",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1600",
+          "endTime": "1720",
+          "building": "OLMH",
+          "room": "1431"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 25,
+          "available": 17
+        }
+      },
+      {
+        "section": "021",
+        "crn": "20377",
+        "instructor": "Li, Yehua",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "OLMH",
+          "room": "1431"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 25,
+          "available": 17
+        }
+      }
+    ]
+  },
+  "STAT218": {
+    "title": "SURVIVAL ANALYSIS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:STAT218(\n Course or Test: Statistics 170 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34850",
+        "instructor": "Li, Wei Vivian",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "OLMH",
+          "room": "1431"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 25,
+          "available": 16
+        }
+      },
+      {
+        "section": "021",
+        "crn": "34853",
+        "instructor": "Li, Wei Vivian",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "OLMH",
+          "room": "1431"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 25,
+          "available": 16
+        }
+      }
+    ]
+  },
+  "STAT251": {
+    "title": "STATISTICS COLLOQUIUM",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "19822",
+        "instructor": "Sanchez Gomez, Jose",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "OLMH",
+          "room": "420"
+        },
+        "type": "Colloquium",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 34,
+          "capacity": 35,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "STAT290": {
+    "title": "DIRECTED STUDIES",
+    "credits": "1-6",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "15F",
+        "crn": "19829",
+        "instructor": "Flegal, James",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "22G",
+        "crn": "19831",
+        "instructor": "Ghosh, Subir",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "27Y",
+        "crn": "19832",
+        "instructor": "Yao, Weixin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28J",
+        "crn": "19833",
+        "instructor": "Jeske, Daniel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      },
+      {
+        "section": "33Z",
+        "crn": "27817",
+        "instructor": "Zhou, Shuheng",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "71F",
+        "crn": "36752",
+        "instructor": "Fei, Zhe",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "83K",
+        "crn": "27816",
+        "instructor": "Kurum, Esra",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "91L",
+        "crn": "19834",
+        "instructor": "Li, Jun",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      },
+      {
+        "section": "C61",
+        "crn": "19825",
+        "instructor": "Cui, Xinping",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "L61",
+        "crn": "27818",
+        "instructor": "Li, Yehua",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "L65",
+        "crn": "36755",
+        "instructor": "Li, Wei Vivian",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "M28",
+        "crn": "19826",
+        "instructor": "Ma, Shujie",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "M46",
+        "crn": "20643",
+        "instructor": "Ma, Wenxiu",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "STAT291": {
+    "title": "INDIVIDUAL STUDIES IN COORDINATED AREAS",
+    "credits": "1-6",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "27Y",
+        "crn": "27820",
+        "instructor": "Yao, Weixin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 30,
+          "available": 25
+        }
+      }
+    ]
+  },
+  "STAT293": {
+    "title": "METHODS IN APPLIED STATISTICS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:STAT293(\n Course or Test: Statistics 201C \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 202C \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "26610",
+        "instructor": "Sanchez Gomez, Jose",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "OLMH",
+          "room": "1431"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 25,
+          "available": 18
+        }
+      },
+      {
+        "section": "021",
+        "crn": "26613",
+        "instructor": "Sanchez Gomez, Jose",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "OLMH",
+          "room": "1431"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 25,
+          "available": 18
+        }
+      }
+    ]
+  },
+  "STAT297": {
+    "title": "DIRECTED RESEARCH",
+    "credits": "1-6",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "15F",
+        "crn": "19853",
+        "instructor": "Flegal, James",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      },
+      {
+        "section": "22G",
+        "crn": "19855",
+        "instructor": "Ghosh, Subir",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      },
+      {
+        "section": "27Y",
+        "crn": "19856",
+        "instructor": "Yao, Weixin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28J",
+        "crn": "19857",
+        "instructor": "Jeske, Daniel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 2,
+          "available": 1
+        }
+      },
+      {
+        "section": "33Z",
+        "crn": "27822",
+        "instructor": "Zhou, Shuheng",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "71F",
+        "crn": "36753",
+        "instructor": "Fei, Zhe",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "83K",
+        "crn": "24919",
+        "instructor": "Kurum, Esra",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "91L",
+        "crn": "19858",
+        "instructor": "Li, Jun",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      },
+      {
+        "section": "C61",
+        "crn": "19848",
+        "instructor": "Cui, Xinping",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 3,
+          "available": 2
+        }
+      },
+      {
+        "section": "L61",
+        "crn": "26359",
+        "instructor": "Li, Yehua",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "L65",
+        "crn": "36756",
+        "instructor": "Li, Wei Vivian",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "M28",
+        "crn": "19849",
+        "instructor": "Ma, Shujie",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 30,
+          "available": 27
+        }
+      },
+      {
+        "section": "M46",
+        "crn": "22954",
+        "instructor": "Ma, Wenxiu",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 5,
+          "available": 3
+        }
+      }
+    ]
+  },
+  "STAT299": {
+    "title": "RESEARCH FOR THESIS OR DISSERTATION",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "15F",
+        "crn": "22764",
+        "instructor": "Flegal, James",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "22G",
+        "crn": "22382",
+        "instructor": "Ghosh, Subir",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "27Y",
+        "crn": "22721",
+        "instructor": "Yao, Weixin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "28J",
+        "crn": "22172",
+        "instructor": "Jeske, Daniel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "33Z",
+        "crn": "27824",
+        "instructor": "Zhou, Shuheng",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "71F",
+        "crn": "36754",
+        "instructor": "Fei, Zhe",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 30,
+          "available": 27
+        }
+      },
+      {
+        "section": "83K",
+        "crn": "26362",
+        "instructor": "Kurum, Esra",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "91L",
+        "crn": "27823",
+        "instructor": "Li, Jun",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "C61",
+        "crn": "22760",
+        "instructor": "Cui, Xinping",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "L61",
+        "crn": "26360",
+        "instructor": "Li, Yehua",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "L65",
+        "crn": "36757",
+        "instructor": "Li, Wei Vivian",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 30,
+          "available": 27
+        }
+      },
+      {
+        "section": "M28",
+        "crn": "22759",
+        "instructor": "Ma, Shujie",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 30,
+          "available": 26
+        }
+      },
+      {
+        "section": "M46",
+        "crn": "26361",
+        "instructor": "Ma, Wenxiu",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      }
+    ]
+  },
+  "STAT302": {
+    "title": "COLLEGE TEACHING PRACTICUM",
+    "credits": "1-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "19860",
+        "instructor": "Flores, Analisa",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 30,
+          "available": 7
+        }
+      }
+    ]
+  }
+}

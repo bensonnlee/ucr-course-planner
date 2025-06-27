@@ -1,0 +1,287 @@
+{
+  "CHN001": {
+    "title": "FIRST-YEAR CHINESE",
+    "credits": "4",
+    "prerequisites": "Prerequisites:CHN001Language: Chinese Prereq 600 to 601\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34541",
+        "instructor": "Liu, Hsuan-Ying",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "INTS",
+          "room": "2136"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 25,
+          "available": 13
+        }
+      },
+      {
+        "section": "002",
+        "crn": "12441",
+        "instructor": "Liu, Hsuan-Ying",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "INTS",
+          "room": "2136"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 13,
+          "available": -7
+        }
+      }
+    ]
+  },
+  "CHN003": {
+    "title": "FIRST-YEAR CHINESE",
+    "credits": "4",
+    "prerequisites": "Prerequisites:CHN003(\n Course or Test: Chinese 002 \n Minimum Grade of C-\n May not be taken concurrently.Language: Chinese Prereq 604 to 605\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "12445",
+        "instructor": "Hsu, Shu-Liang",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "INTS",
+          "room": "2136"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 13,
+          "available": -10
+        }
+      }
+    ]
+  },
+  "CHN004": {
+    "title": "SECOND-YEAR CHINESE",
+    "credits": "4",
+    "prerequisites": "Prerequisites:CHN004(\n Course or Test: Chinese 003 \n Minimum Grade of C-\n May not be taken concurrently.Language: Chinese Prereq 606 to 607\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "12446",
+        "instructor": "Hsu, Shu-Liang",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "INTS",
+          "room": "2136"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 13,
+          "available": -9
+        }
+      }
+    ]
+  },
+  "CHN020A": {
+    "title": "FIRST-YEAR CHINESE FOR HERITAGE LEARNERS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:CHN020ALanguage: Chinese Prereq 612 to 613\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "12448",
+        "instructor": "Hsu, Shu-Liang",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "INTS",
+          "room": "2136"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 13,
+          "available": -10
+        }
+      }
+    ]
+  },
+  "CHN020B": {
+    "title": "FIRST-YEAR CHINESE FOR HERITAGE LEARNERS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:CHN020B(\n Course or Test: Chinese 002 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chinese 020A \n Minimum Grade of C-\n May not be taken concurrently.Language: Chinese Prereq 614 to 615\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "12449",
+        "instructor": "Liu, Hsuan-Ying",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "INTS",
+          "room": "2136"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 13,
+          "available": -6
+        }
+      }
+    ]
+  },
+  "CHN048": {
+    "title": "CHINESE CINEMA",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37658",
+        "instructor": "Su, Weiqun",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "WAT",
+          "room": "1101"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 50,
+          "capacity": 50,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "37737",
+        "instructor": "Lee, Kenneth",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Screening",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 50,
+          "capacity": 50,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "CHN136": {
+    "title": "FAMILY AND GENDER IN THE CHINESE SHORT STORY",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "35868",
+        "instructor": "Wu, Yenna",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "SPR",
+          "room": "2360"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 10,
+          "available": -3
+        }
+      }
+    ]
+  },
+  "CHN137": {
+    "title": "CONTEMPORARY CHINESE LITERATURE IN TRANSLATION",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38098",
+        "instructor": "Link, Eugene",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1830",
+          "endTime": "1950",
+          "building": "OLMH",
+          "room": "1132"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 23,
+          "available": 16
+        }
+      }
+    ]
+  }
+}

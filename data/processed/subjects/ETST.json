@@ -1,0 +1,3512 @@
+{
+  "ETST001": {
+    "title": "INTRODUCTION TO THE STUDY OF RACE AND ETHNICITY",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "15066",
+        "instructor": "Green, Paul",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0920",
+          "building": "UNLH",
+          "room": "1000"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 524,
+          "capacity": 525,
+          "available": 1
+        }
+      },
+      {
+        "section": "021",
+        "crn": "15067",
+        "instructor": "Shin, Sam",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "DUNDE",
+          "room": "A1105"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "15068",
+        "instructor": "Shin, Sam",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "DUNDE",
+          "room": "A1107"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "15069",
+        "instructor": "Shin, Sam",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "DUNDE",
+          "room": "A1105"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "15070",
+        "instructor": "Chauhan, Aashi",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0700",
+          "endTime": "0750",
+          "building": "SPR",
+          "room": "2351"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "15071",
+        "instructor": "Chauhan, Aashi",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "SPR",
+          "room": "2351"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "026",
+        "crn": "15072",
+        "instructor": "Chauhan, Aashi",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "SPR",
+          "room": "2351"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "027",
+        "crn": "15073",
+        "instructor": "Kyesua, James",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "INTS",
+          "room": "1121"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "028",
+        "crn": "15074",
+        "instructor": "Kyesua, James",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "INTS",
+          "room": "1121"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "029",
+        "crn": "15075",
+        "instructor": "Kyesua, James",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1900",
+          "endTime": "1950",
+          "building": "INTS",
+          "room": "2130"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "030",
+        "crn": "15076",
+        "instructor": "Soto, Amanda",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "WAT",
+          "room": "1117"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "031",
+        "crn": "15077",
+        "instructor": "Soto, Amanda",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "INTS",
+          "room": "1125"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "032",
+        "crn": "15078",
+        "instructor": "Soto, Amanda",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "INTS",
+          "room": "1134"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "033",
+        "crn": "15079",
+        "instructor": "Shanmugavadivel, Vasanthakumar",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0700",
+          "endTime": "0750",
+          "building": "INTS",
+          "room": "2130"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "034",
+        "crn": "15080",
+        "instructor": "Shanmugavadivel, Vasanthakumar",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "INTS",
+          "room": "2130"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 24,
+          "available": 0
+        }
+      },
+      {
+        "section": "035",
+        "crn": "15081",
+        "instructor": "Shanmugavadivel, Vasanthakumar",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "INTS",
+          "room": "2130"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 26,
+          "available": 1
+        }
+      },
+      {
+        "section": "036",
+        "crn": "15082",
+        "instructor": "Buenrostro, Eliana",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "DUNDE",
+          "room": "A1105"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "037",
+        "crn": "15083",
+        "instructor": "Buenrostro, Eliana",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "DUNDE",
+          "room": "A1105"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "038",
+        "crn": "15084",
+        "instructor": "Buenrostro, Eliana",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "DUNDE",
+          "room": "A1105"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "039",
+        "crn": "26912",
+        "instructor": "Shah, Maya",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "DUNDE",
+          "room": "A1105"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "040",
+        "crn": "26913",
+        "instructor": "Shah, Maya",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "DUNDE",
+          "room": "A1105"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "041",
+        "crn": "27015",
+        "instructor": "Shah, Maya",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "DUNDE",
+          "room": "A1105"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "ETST002": {
+    "title": "INTRODUCTION TO CHICANO STUDIES IN COMPARATIVE PERSPECTIVE",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "23718",
+        "instructor": "Gonzalez, Jaime",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "INTN",
+          "room": "1020"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 300,
+          "capacity": 300,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "23723",
+        "instructor": "Minger Urquilla, Hazel",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "OLMH",
+          "room": "1126"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "23726",
+        "instructor": "Minger Urquilla, Hazel",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "OLMH",
+          "room": "1126"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "23729",
+        "instructor": "Minger Urquilla, Hazel",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "WAT",
+          "room": "1117"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "24758",
+        "instructor": "Martinez, Jennifer",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "OLMH",
+          "room": "1122"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "24759",
+        "instructor": "Martinez, Jennifer",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "INTS",
+          "room": "2134"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "026",
+        "crn": "24760",
+        "instructor": "Martinez, Jennifer",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1900",
+          "endTime": "1950",
+          "building": "INTS",
+          "room": "2132"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "027",
+        "crn": "34078",
+        "instructor": "Woolf, Lilly",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "INTS",
+          "room": "1130"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "028",
+        "crn": "34079",
+        "instructor": "Woolf, Lilly",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "INTS",
+          "room": "2134"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "029",
+        "crn": "34083",
+        "instructor": "Woolf, Lilly",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "INTS",
+          "room": "2132"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "030",
+        "crn": "35043",
+        "instructor": "Pineda, Ramon",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "INTS",
+          "room": "1125"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "031",
+        "crn": "35044",
+        "instructor": "Pineda, Ramon",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "INTS",
+          "room": "2130"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "032",
+        "crn": "35045",
+        "instructor": "Pineda, Ramon",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "INTS",
+          "room": "1134"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "ETST003": {
+    "title": "INTRODUCTION TO AFRICAN AMERICAN STUDIES IN COMPARATIVE PERSPECTIVE",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37137",
+        "instructor": "Mahnzili, Amiri",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "MSE",
+          "room": "116"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 140,
+          "capacity": 150,
+          "available": 10
+        }
+      },
+      {
+        "section": "021",
+        "crn": "37138",
+        "instructor": "Alvarez Flores, Kimberly",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "OLMH",
+          "room": "1126"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 25,
+          "available": 5
+        }
+      },
+      {
+        "section": "022",
+        "crn": "37139",
+        "instructor": "Alvarez Flores, Kimberly",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "OLMH",
+          "room": "1126"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 25,
+          "available": 2
+        }
+      },
+      {
+        "section": "023",
+        "crn": "37140",
+        "instructor": "Alvarez Flores, Kimberly",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "OLMH",
+          "room": "1126"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "37141",
+        "instructor": "Kim, Sung",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "HMNSS",
+          "room": "1403"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "37142",
+        "instructor": "Kim, Sung",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "INTS",
+          "room": "2132"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 25,
+          "available": 3
+        }
+      },
+      {
+        "section": "026",
+        "crn": "37469",
+        "instructor": "Kim, Sung",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "INTS",
+          "room": "2132"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "ETST007": {
+    "title": "INTRODUCTION TO NATIVE AMERICAN STUDIES IN COMPARATIVE PERSPECTIVE",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "15104",
+        "instructor": "Clarke, Gerald",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "MSE",
+          "room": "104"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 148,
+          "capacity": 150,
+          "available": 2
+        }
+      },
+      {
+        "section": "021",
+        "crn": "15107",
+        "instructor": "Dighero, Jaqueline",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "INTS",
+          "room": "1130"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "022",
+        "crn": "15105",
+        "instructor": "Dighero, Jaqueline",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "INTS",
+          "room": "2130"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "15106",
+        "instructor": "Dighero, Jaqueline",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "INTS",
+          "room": "2130"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "28855",
+        "instructor": "Smith, Larry",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0700",
+          "endTime": "0750",
+          "building": "INTS",
+          "room": "1125"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "28856",
+        "instructor": "Smith, Larry",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "INTS",
+          "room": "1121"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "026",
+        "crn": "28857",
+        "instructor": "Smith, Larry",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "INTS",
+          "room": "1121"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "ETST012": {
+    "title": "RELIGIOUS MYTHS AND RITUALS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "15108",
+        "instructor": "Lucia, Amanda",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "LFSC",
+          "room": "1500"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 103,
+          "capacity": 174,
+          "available": 71
+        }
+      },
+      {
+        "section": "021",
+        "crn": "15109",
+        "instructor": "Topal, Busra",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1900",
+          "endTime": "1950",
+          "building": "INTS",
+          "room": "2132"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 25,
+          "available": 9
+        }
+      },
+      {
+        "section": "022",
+        "crn": "15110",
+        "instructor": "Ren, Xin",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "DUNDE",
+          "room": "A1109"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 25,
+          "available": 11
+        }
+      },
+      {
+        "section": "023",
+        "crn": "15111",
+        "instructor": "Ren, Xin",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "DUNDE",
+          "room": "A1109"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 0,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "15112",
+        "instructor": "Tai, Chun Chia",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "DUNDE",
+          "room": "A1105"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 0,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "15113",
+        "instructor": "Singh, Kanwarpreet",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "HMNSS",
+          "room": "1400"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 25,
+          "available": 13
+        }
+      },
+      {
+        "section": "026",
+        "crn": "15114",
+        "instructor": "Topal, Busra",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "OLMH",
+          "room": "1132"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 25,
+          "available": 12
+        }
+      },
+      {
+        "section": "027",
+        "crn": "15115",
+        "instructor": "Singh, Kanwarpreet",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "DUNDE",
+          "room": "A1107"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 25,
+          "available": 16
+        }
+      },
+      {
+        "section": "030",
+        "crn": "15118",
+        "instructor": "Ren, Xin",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "OLMH",
+          "room": "1136"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 12,
+          "available": 0
+        }
+      },
+      {
+        "section": "031",
+        "crn": "15119",
+        "instructor": "Topal, Busra",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "SPR",
+          "room": "2364"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 12,
+          "available": 0
+        }
+      },
+      {
+        "section": "032",
+        "crn": "15120",
+        "instructor": "Tai, Chun Chia",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "DUNDE",
+          "room": "A1109"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 25,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "ETST106": {
+    "title": "THEORY IN ASIAN AMERICAN STUDIES",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ETST106(\n Course or Test: Ethnic Studies 001 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Ethnic Studies 001H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Ethnic Studies 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Ethnic Studies 002H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Ethnic Studies 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Ethnic Studies 004 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: History 004 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Ethnic Studies 005 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Ethnic Studies 005H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Ethnic Studies 007 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Ethnic Studies 007H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Ethnic Studies 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Ethnic Studies 011 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Ethnic Studies 012 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Religious Studies 012 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Ethnic Studies 012H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Religious Studies 012H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Ethnic Studies 014 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Music 014 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Urban Studies 014 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Ethnic Studies 098 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Ethnic Studies 102 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37456",
+        "instructor": "Miyake, Keith",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "INTS",
+          "room": "1121"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 45,
+          "available": 20
+        }
+      }
+    ]
+  },
+  "ETST112": {
+    "title": "THE CIVIL RIGHTS MOVEMENT, 1950-1970",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37457",
+        "instructor": "Mahnzili, Amiri",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "OLMH",
+          "room": "1136"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "ETST114": {
+    "title": "CONTEMPORARY LATINA WRITING IN THE UNITED STATES",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37458",
+        "instructor": "Najera, Jennifer",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0920",
+          "building": "INTN",
+          "room": "1002"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 43,
+          "capacity": 45,
+          "available": 2
+        }
+      }
+    ]
+  },
+  "ETST115F": {
+    "title": "EARLY AMERICAN: EMERGING INTERPRETATIONS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37376",
+        "instructor": "Kugel, Rebecca",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "PHY",
+          "room": "2104"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 7,
+          "available": -7
+        }
+      }
+    ]
+  },
+  "ETST124": {
+    "title": "THE CHICANA",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38217",
+        "instructor": "Najera, Jennifer",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "INTN",
+          "room": "1002"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 42,
+          "capacity": 45,
+          "available": 3
+        }
+      }
+    ]
+  },
+  "ETST131": {
+    "title": "RACE, CLASS, AND GENDER",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ETST131)\nand\n(\n Course or Test: Ethnic Studies 001 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Ethnic Studies 001H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Ethnic Studies 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Ethnic Studies 002H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Ethnic Studies 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Ethnic Studies 004 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: History 004 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Ethnic Studies 005 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Ethnic Studies 005H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Ethnic Studies 007 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Ethnic Studies 007H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Ethnic Studies 008 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Ethnic Studies 012 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Ethnic Studies 012H \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Religious Studies 012 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Religious Studies 012H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Ethnic Studies 014 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Ethnic Studies 011 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Ethnic Studies 098 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37459",
+        "instructor": "Miyake, Keith",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1830",
+          "endTime": "1950",
+          "building": "INTN",
+          "room": "1006"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 36,
+          "capacity": 45,
+          "available": 9
+        }
+      },
+      {
+        "section": "021",
+        "crn": "37463",
+        "instructor": "Chacon, Valerie",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "SKYE",
+          "room": "172"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 25,
+          "available": 15
+        }
+      },
+      {
+        "section": "022",
+        "crn": "37464",
+        "instructor": "Chacon, Valerie",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "SKYE",
+          "room": "172"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 25,
+          "available": 19
+        }
+      },
+      {
+        "section": "023",
+        "crn": "37465",
+        "instructor": "Chacon, Valerie",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "SKYE",
+          "room": "172"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 25,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "ETST147": {
+    "title": "HISTORY OF BLACK EDUCATION",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36433",
+        "instructor": "Green, Paul",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "INTS",
+          "room": "1121"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 25,
+          "available": 19
+        }
+      }
+    ]
+  },
+  "ETST153": {
+    "title": "NATIVE AMERICAN LANGUAGE REVITALIZATION",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37466",
+        "instructor": "Leonard, Wesley",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "INTS",
+          "room": "1121"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "ETST179": {
+    "title": "RACE AND ENVIRONMENT: NATURE, COLONIALISM, AND JUSTICE",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38291",
+        "instructor": "Sepulveda, Charles",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "INTN",
+          "room": "4043"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 25,
+          "available": 6
+        }
+      }
+    ]
+  },
+  "ETST180": {
+    "title": "CALIFORNIA INDIAN HISTORY",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37372",
+        "instructor": "Bauer, William",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "DUNDE",
+          "room": "A1003"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 29,
+          "capacity": 15,
+          "available": -14
+        }
+      }
+    ]
+  },
+  "ETST190": {
+    "title": "SPECIAL STUDIES",
+    "credits": "1-5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "31N",
+        "crn": "29760",
+        "instructor": "Najera, Jennifer",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "C91",
+        "crn": "27422",
+        "instructor": "Clarke, Gerald",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "G21",
+        "crn": "25594",
+        "instructor": "Gonzales, Alfonso",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "S41",
+        "crn": "25319",
+        "instructor": "Smith, Andrea",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "ETST198G": {
+    "title": "GROUP INTERNSHIP",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "14R",
+        "crn": "15153",
+        "instructor": "Rodriguez, Dylan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 30,
+          "available": 18
+        }
+      },
+      {
+        "section": "31N",
+        "crn": "34944",
+        "instructor": "Najera, Jennifer",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "37Y",
+        "crn": "35062",
+        "instructor": "Young, Jasmin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 8,
+          "available": 8
+        }
+      },
+      {
+        "section": "55F",
+        "crn": "36975",
+        "instructor": "Felix, Adrian",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "ETST198I": {
+    "title": "INDIVIDUAL INTERNSHIP",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "14R",
+        "crn": "15164",
+        "instructor": "Rodriguez, Dylan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "G21",
+        "crn": "27578",
+        "instructor": "Gonzales, Alfonso",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 3,
+          "available": 3
+        }
+      }
+    ]
+  },
+  "ETST200": {
+    "title": "PARADIGMS AND PRAXIS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "15176",
+        "instructor": "Macias, Anthony",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": "INTN",
+          "room": "4043"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 20,
+          "available": 14
+        }
+      }
+    ]
+  },
+  "ETST230": {
+    "title": "GRAMSCIAN THOUGHT &amp; SUBALTERN STRUGGLES",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37467",
+        "instructor": "Gonzales, Alfonso",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1300",
+          "endTime": "1550",
+          "building": "INTN",
+          "room": "4043"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 20,
+          "available": 8
+        }
+      }
+    ]
+  },
+  "ETST248": {
+    "title": "RACE, POLICY, AND PUB EDU",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37468",
+        "instructor": "Green, Paul",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "INTN",
+          "room": "4043"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 20,
+          "available": 18
+        }
+      }
+    ]
+  },
+  "ETST289": {
+    "title": "COLLOQUIUM IN ETHNIC STUDIES",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "31359",
+        "instructor": "Macias, Anthony",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "INTN",
+          "room": "4043"
+        },
+        "type": "Colloquium",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 15,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "ETST290": {
+    "title": "DIRECTED STUDIES",
+    "credits": "1-6",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "14R",
+        "crn": "27527",
+        "instructor": "Rodriguez, Dylan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      },
+      {
+        "section": "25K",
+        "crn": "31290",
+        "instructor": "Kugel, Rebecca",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "31N",
+        "crn": "15186",
+        "instructor": "Najera, Jennifer",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "40M",
+        "crn": "35253",
+        "instructor": "Miyake, Keith",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "51C",
+        "crn": "15187",
+        "instructor": "Chang, Edward",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "51P",
+        "crn": "15188",
+        "instructor": "Perez, Robert",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "55F",
+        "crn": "35255",
+        "instructor": "Felix, Adrian",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "58K",
+        "crn": "15189",
+        "instructor": "Kim, Jodi",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "61G",
+        "crn": "15190",
+        "instructor": "Green, Paul",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "76W",
+        "crn": "31641",
+        "instructor": "Ward, Elizabeth",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "B03",
+        "crn": "29727",
+        "instructor": "Bierria, Alisa",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "C91",
+        "crn": "29744",
+        "instructor": "Clarke, Gerald",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "G21",
+        "crn": "33456",
+        "instructor": "Gonzales, Alfonso",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "H59",
+        "crn": "38827",
+        "instructor": "Hue, Emily",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 5,
+          "available": 3
+        }
+      },
+      {
+        "section": "L37",
+        "crn": "29822",
+        "instructor": "Leonard, Wesley",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "S41",
+        "crn": "15182",
+        "instructor": "Smith, Andrea",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "ETST291": {
+    "title": "INDIVIDUAL STUDY IN COORDINATED AREAS",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "009",
+        "crn": "34995",
+        "instructor": "Clarke, Gerald",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "14R",
+        "crn": "15194",
+        "instructor": "Rodriguez, Dylan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      },
+      {
+        "section": "31N",
+        "crn": "24969",
+        "instructor": "Najera, Jennifer",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      },
+      {
+        "section": "51P",
+        "crn": "15196",
+        "instructor": "Perez, Robert",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "55F",
+        "crn": "31611",
+        "instructor": "Felix, Adrian",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "58K",
+        "crn": "15197",
+        "instructor": "Kim, Jodi",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "B03",
+        "crn": "31605",
+        "instructor": "Bierria, Alisa",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "C91",
+        "crn": "34994",
+        "instructor": "Clarke, Gerald",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "G21",
+        "crn": "27503",
+        "instructor": "Gonzales, Alfonso",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 3,
+          "available": 2
+        }
+      },
+      {
+        "section": "H59",
+        "crn": "33268",
+        "instructor": "Hue, Emily",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      },
+      {
+        "section": "M23",
+        "crn": "15192",
+        "instructor": "Macias, Anthony",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      },
+      {
+        "section": "S41",
+        "crn": "15193",
+        "instructor": "Smith, Andrea",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      },
+      {
+        "section": "S79",
+        "crn": "33388",
+        "instructor": "See, Maria",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "ETST292": {
+    "title": "CONCURRENT ANALYTICAL STUDIES IN ETHNIC STUDIES",
+    "credits": "1-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "14R",
+        "crn": "15199",
+        "instructor": "Rodriguez, Dylan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "51P",
+        "crn": "15200",
+        "instructor": "Perez, Robert",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "55F",
+        "crn": "33228",
+        "instructor": "Felix, Adrian",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "C91",
+        "crn": "31622",
+        "instructor": "Clarke, Gerald",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "H59",
+        "crn": "31324",
+        "instructor": "Hue, Emily",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "L37",
+        "crn": "24984",
+        "instructor": "Leonard, Wesley",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 8,
+          "available": 8
+        }
+      },
+      {
+        "section": "M23",
+        "crn": "15198",
+        "instructor": "Macias, Anthony",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "ETST297": {
+    "title": "DIRECTED RESEARCH",
+    "credits": "1-2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "14R",
+        "crn": "22603",
+        "instructor": "Rodriguez, Dylan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "31N",
+        "crn": "22605",
+        "instructor": "Najera, Jennifer",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "51C",
+        "crn": "29805",
+        "instructor": "Chang, Edward",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "51P",
+        "crn": "22602",
+        "instructor": "Perez, Robert",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "55F",
+        "crn": "35200",
+        "instructor": "Felix, Adrian",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "68A",
+        "crn": "22606",
+        "instructor": "Arvin, Maile",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "B03",
+        "crn": "29806",
+        "instructor": "Bierria, Alisa",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "B33",
+        "crn": "22604",
+        "instructor": "Baik, Crystal",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "C91",
+        "crn": "35266",
+        "instructor": "Clarke, Gerald",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "H59",
+        "crn": "38692",
+        "instructor": "Hue, Emily",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      },
+      {
+        "section": "L37",
+        "crn": "35265",
+        "instructor": "Leonard, Wesley",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 1,
+          "available": 0
+        }
+      },
+      {
+        "section": "S41",
+        "crn": "15201",
+        "instructor": "Smith, Andrea",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "ETST299": {
+    "title": "RESEARCH FOR THE DISSERTATION",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "14R",
+        "crn": "15209",
+        "instructor": "Rodriguez, Dylan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "31N",
+        "crn": "29518",
+        "instructor": "Najera, Jennifer",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "51C",
+        "crn": "36738",
+        "instructor": "Chang, Edward",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 3,
+          "available": 2
+        }
+      },
+      {
+        "section": "51P",
+        "crn": "15210",
+        "instructor": "Perez, Robert",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 5,
+          "available": 3
+        }
+      },
+      {
+        "section": "58K",
+        "crn": "24889",
+        "instructor": "Kim, Jodi",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "B33",
+        "crn": "24976",
+        "instructor": "Baik, Crystal",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "G21",
+        "crn": "33414",
+        "instructor": "Gonzales, Alfonso",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "M23",
+        "crn": "15207",
+        "instructor": "Macias, Anthony",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "S41",
+        "crn": "15208",
+        "instructor": "Smith, Andrea",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "ETST302": {
+    "title": "TEACHING PRACTICUM",
+    "credits": "1-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "15214",
+        "instructor": "Houston, Elisabeth",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "14R",
+        "crn": "15215",
+        "instructor": "Rodriguez, Dylan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 7,
+          "available": 7
+        }
+      },
+      {
+        "section": "31N",
+        "crn": "31523",
+        "instructor": "Najera, Jennifer",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "40M",
+        "crn": "31522",
+        "instructor": "Miyake, Keith",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "51C",
+        "crn": "15220",
+        "instructor": "Chang, Edward",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      },
+      {
+        "section": "51P",
+        "crn": "15221",
+        "instructor": "Perez, Robert",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 7,
+          "available": 3
+        }
+      },
+      {
+        "section": "55F",
+        "crn": "29592",
+        "instructor": "Felix, Adrian",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "58K",
+        "crn": "15222",
+        "instructor": "Kim, Jodi",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      },
+      {
+        "section": "61G",
+        "crn": "15223",
+        "instructor": "Green, Paul",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 5,
+          "available": 2
+        }
+      },
+      {
+        "section": "68A",
+        "crn": "15224",
+        "instructor": "Arvin, Maile",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "79W",
+        "crn": "15225",
+        "instructor": "Walker, Daniel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      },
+      {
+        "section": "C91",
+        "crn": "27426",
+        "instructor": "Clarke, Gerald",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "G21",
+        "crn": "25025",
+        "instructor": "Gonzales, Alfonso",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 8,
+          "available": 8
+        }
+      },
+      {
+        "section": "H59",
+        "crn": "27431",
+        "instructor": "Hue, Emily",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "L37",
+        "crn": "29573",
+        "instructor": "Leonard, Wesley",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "L51",
+        "crn": "33269",
+        "instructor": "Lopez, Enrique",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "M23",
+        "crn": "15218",
+        "instructor": "Macias, Anthony",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 6,
+          "available": 6
+        }
+      },
+      {
+        "section": "S41",
+        "crn": "15212",
+        "instructor": "Smith, Andrea",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "S79",
+        "crn": "15213",
+        "instructor": "See, Maria",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "ETST405": {
+    "title": "PROSEMINAR ON PROFESSIONALIZATION",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36512",
+        "instructor": "Macias, Anthony",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "INTN",
+          "room": "4043"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 20,
+          "available": 15
+        }
+      },
+      {
+        "section": "021",
+        "crn": "36513",
+        "instructor": "Macias, Anthony",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "TBA",
+          "room": "TBA"
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 20,
+          "available": 15
+        }
+      }
+    ]
+  }
+}

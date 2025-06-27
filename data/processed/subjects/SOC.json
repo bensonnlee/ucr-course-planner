@@ -1,0 +1,3500 @@
+{
+  "SOC001": {
+    "title": "INTRODUCTION TO SOCIOLOGY",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "19389",
+        "instructor": "Schmitt, Christopher",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0800",
+          "endTime": "0920",
+          "building": "UNLH",
+          "room": "1000"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 520,
+          "capacity": 525,
+          "available": 5
+        }
+      },
+      {
+        "section": "021",
+        "crn": "19390",
+        "instructor": "Dube, Sudhita Sudhir Kumar",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "WAT",
+          "room": "2141"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "19391",
+        "instructor": "Dube, Sudhita Sudhir Kumar",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "WAT",
+          "room": "2141"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "19392",
+        "instructor": "Dube, Sudhita Sudhir Kumar",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "HMNSS",
+          "room": "1400"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 25,
+          "available": 2
+        }
+      },
+      {
+        "section": "024",
+        "crn": "19393",
+        "instructor": "Bhatia, Pooja",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "DUNDE",
+          "room": "A1109"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "19394",
+        "instructor": "Bhatia, Pooja",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "OLMH",
+          "room": "1123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "026",
+        "crn": "19395",
+        "instructor": "Bhatia, Pooja",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "WAT",
+          "room": "2141"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "027",
+        "crn": "19396",
+        "instructor": "Hami, Shayda",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "WAT",
+          "room": "2141"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "028",
+        "crn": "19397",
+        "instructor": "Hami, Shayda",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "WAT",
+          "room": "2141"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "029",
+        "crn": "19398",
+        "instructor": "Hami, Shayda",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "OLMH",
+          "room": "1123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "030",
+        "crn": "19399",
+        "instructor": "Singh, Simran",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "WAT",
+          "room": "2141"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "031",
+        "crn": "19400",
+        "instructor": "Singh, Simran",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "WAT",
+          "room": "2141"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "032",
+        "crn": "19401",
+        "instructor": "Singh, Simran",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "WAT",
+          "room": "2141"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "033",
+        "crn": "19402",
+        "instructor": "Naveed, Muhammad Taqi",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "CHUNG",
+          "room": "142"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "034",
+        "crn": "19403",
+        "instructor": "Naveed, Muhammad Taqi",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "WAT",
+          "room": "2141"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "035",
+        "crn": "19404",
+        "instructor": "Naveed, Muhammad Taqi",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "WAT",
+          "room": "2141"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "036",
+        "crn": "19405",
+        "instructor": "Kene, Raj Dilip",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "WAT",
+          "room": "2141"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "037",
+        "crn": "19406",
+        "instructor": "Kene, Raj Dilip",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "WAT",
+          "room": "2141"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "038",
+        "crn": "19407",
+        "instructor": "Kene, Raj Dilip",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "WAT",
+          "room": "2141"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "039",
+        "crn": "19408",
+        "instructor": "Chavez Quispe, Juan",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "WAT",
+          "room": "2141"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "040",
+        "crn": "19409",
+        "instructor": "Chavez Quispe, Juan",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "WAT",
+          "room": "2141"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "041",
+        "crn": "19410",
+        "instructor": "Chavez Quispe, Juan",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1900",
+          "endTime": "1950",
+          "building": "WAT",
+          "room": "2141"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "SOC003": {
+    "title": "THEORETICAL PERSPECTIVES IN SOCIOLOGY",
+    "credits": "4",
+    "prerequisites": "Prerequisites:SOC003(\n Course or Test: Sociology 001 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001H \n Minimum Grade of C-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "19425",
+        "instructor": "Ezzat, Dina",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1700",
+          "endTime": "1950",
+          "building": "INTN",
+          "room": "1020"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 162,
+          "capacity": 225,
+          "available": 63
+        }
+      },
+      {
+        "section": "021",
+        "crn": "19426",
+        "instructor": "Damani, Rohankumar",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 25,
+          "available": 18
+        }
+      },
+      {
+        "section": "022",
+        "crn": "19427",
+        "instructor": "Damani, Rohankumar",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 25,
+          "available": 16
+        }
+      },
+      {
+        "section": "023",
+        "crn": "19428",
+        "instructor": "Damani, Rohankumar",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 30,
+          "available": 12
+        }
+      },
+      {
+        "section": "024",
+        "crn": "19429",
+        "instructor": "Pioquinto, Ralph",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "19430",
+        "instructor": "Pioquinto, Ralph",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 25,
+          "available": 2
+        }
+      },
+      {
+        "section": "026",
+        "crn": "19431",
+        "instructor": "Pioquinto, Ralph",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "027",
+        "crn": "34685",
+        "instructor": "Goel, Vinayak",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 25,
+          "available": 4
+        }
+      },
+      {
+        "section": "028",
+        "crn": "34686",
+        "instructor": "Goel, Vinayak",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 25,
+          "available": 12
+        }
+      },
+      {
+        "section": "029",
+        "crn": "34687",
+        "instructor": "Goel, Vinayak",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 25,
+          "available": 4
+        }
+      }
+    ]
+  },
+  "SOC004": {
+    "title": "METHODS OF SOCIOLOGICAL INQUIRY",
+    "credits": "5",
+    "prerequisites": "Prerequisites:SOC004(\n Course or Test: Sociology 001 \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Sociology 001H \n Minimum Grade of C-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "19432",
+        "instructor": "Kroska, Amy",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1830",
+          "endTime": "1950",
+          "building": "SSC",
+          "room": "235"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 109,
+          "capacity": 150,
+          "available": 41
+        }
+      },
+      {
+        "section": "021",
+        "crn": "19433",
+        "instructor": "Narayanan, Varun",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 25,
+          "available": 17
+        }
+      },
+      {
+        "section": "022",
+        "crn": "19434",
+        "instructor": "Narayanan, Varun",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 25,
+          "available": 13
+        }
+      },
+      {
+        "section": "023",
+        "crn": "19435",
+        "instructor": "Narayanan, Varun",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 25,
+          "available": 3
+        }
+      },
+      {
+        "section": "024",
+        "crn": "19436",
+        "instructor": "De La Torre, Elvira",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "025",
+        "crn": "19437",
+        "instructor": "De La Torre, Elvira",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 25,
+          "available": 5
+        }
+      },
+      {
+        "section": "026",
+        "crn": "19438",
+        "instructor": "De La Torre, Elvira",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 25,
+          "available": 2
+        }
+      }
+    ]
+  },
+  "SOC005": {
+    "title": "STATISTICAL ANALYSIS",
+    "credits": "5",
+    "prerequisites": "Prerequisites:SOC005(\n Course or Test: Sociology 004 \n Minimum Grade of C-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "19439",
+        "instructor": "Lee, Chioun",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 75,
+          "capacity": 75,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "19440",
+        "instructor": "Lee, Juha",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "19441",
+        "instructor": "Lee, Juha",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "19445",
+        "instructor": "Lee, Juha",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "SOC028": {
+    "title": "INTRODUCTION TO THE SOCIOLOGY OF GENDER",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "30584",
+        "instructor": "Simmers, Jennifer",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 74,
+          "capacity": 75,
+          "available": 1
+        }
+      },
+      {
+        "section": "021",
+        "crn": "31030",
+        "instructor": "Kurtulmus, Taha",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "31031",
+        "instructor": "Kurtulmus, Taha",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "31032",
+        "instructor": "Kurtulmus, Taha",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 24,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "SOC122": {
+    "title": "SOCIAL CHANGE",
+    "credits": "5",
+    "prerequisites": "Prerequisites:SOC122)\nand\n(\n Course or Test: Sociology 003 \n Minimum Grade of C-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "30593",
+        "instructor": "Rotondi, Matthew",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "SOMED",
+          "room": "1670"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 67,
+          "capacity": 75,
+          "available": 8
+        }
+      }
+    ]
+  },
+  "SOC127": {
+    "title": "SOCIOLOGICAL DETERMINANTS OF HEALTH",
+    "credits": "4",
+    "prerequisites": "Prerequisites:SOC127(\n Course or Test: Sociology 001 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001H \n Minimum Grade of C-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37794",
+        "instructor": "Link, Bruce",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "WAT",
+          "room": "1101"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 73,
+          "capacity": 75,
+          "available": 2
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38154",
+        "instructor": "Cohen, Tyler",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "022",
+        "crn": "38155",
+        "instructor": "Cohen, Tyler",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 25,
+          "available": 2
+        }
+      },
+      {
+        "section": "023",
+        "crn": "38156",
+        "instructor": "Cohen, Tyler",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 26,
+          "capacity": 25,
+          "available": -1
+        }
+      }
+    ]
+  },
+  "SOC129": {
+    "title": "RACISM IN WESTERN SOCIETY",
+    "credits": "4",
+    "prerequisites": "Prerequisites:SOC129(\n Course or Test: Sociology 005 \n Minimum Grade of C-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38314",
+        "instructor": "Ezzat, Dina",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1350",
+          "building": "SPR",
+          "room": "1340"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 75,
+          "capacity": 75,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38344",
+        "instructor": "Rodriguez, Bernabe",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "38345",
+        "instructor": "Rodriguez, Bernabe",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "38346",
+        "instructor": "Rodriguez, Bernabe",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1900",
+          "endTime": "1950",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "SOC130": {
+    "title": "RACE AND ETHNIC RELATIONS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:SOC130(\n Course or Test: Sociology 005 \n Minimum Grade of C-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32427",
+        "instructor": "Hill, Janet",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": "WAT",
+          "room": "1000"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 53,
+          "capacity": 150,
+          "available": 97
+        }
+      },
+      {
+        "section": "021",
+        "crn": "32428",
+        "instructor": "Williams, Benjamin",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 25,
+          "available": 22
+        }
+      },
+      {
+        "section": "022",
+        "crn": "32429",
+        "instructor": "Williams, Benjamin",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 25,
+          "available": 16
+        }
+      },
+      {
+        "section": "023",
+        "crn": "32430",
+        "instructor": "Williams, Benjamin",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 25,
+          "available": 8
+        }
+      },
+      {
+        "section": "024",
+        "crn": "32431",
+        "instructor": "Desai, Nishi Ashesh",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "HMNSS",
+          "room": "1406"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 25,
+          "available": 10
+        }
+      },
+      {
+        "section": "025",
+        "crn": "32432",
+        "instructor": "Desai, Nishi Ashesh",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 25,
+          "available": 20
+        }
+      },
+      {
+        "section": "026",
+        "crn": "32433",
+        "instructor": "Desai, Nishi Ashesh",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 25,
+          "available": 21
+        }
+      }
+    ]
+  },
+  "SOC133": {
+    "title": "INEQUALITY AND SOCIAL CLASS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:SOC133(\n Course or Test: Sociology 005 \n Minimum Grade of C-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34356",
+        "instructor": "Rotondi, Matthew",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "SSC",
+          "room": "316"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 36,
+          "capacity": 75,
+          "available": 39
+        }
+      }
+    ]
+  },
+  "SOC134": {
+    "title": "LAW, RACE, CLASS, GENDER, AND CULTURE",
+    "credits": "4",
+    "prerequisites": "Prerequisites:SOC134)\nand\n(\n Course or Test: Sociology 001 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001H \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36165",
+        "instructor": "Simmers, Jennifer",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 75,
+          "capacity": 75,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "SOC140": {
+    "title": "THE SOCIOLOGY OF WOMEN",
+    "credits": "4",
+    "prerequisites": "Prerequisites:SOC140(\n Course or Test: Gender and Sexuality Studies 001 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Gender and Sexuality Studies 001H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Gender and Sexuality Studies 001S \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001H \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37795",
+        "instructor": "Simmers, Jennifer",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1700",
+          "endTime": "1820",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 74,
+          "capacity": 75,
+          "available": 1
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38157",
+        "instructor": "Huft, Justin",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "38160",
+        "instructor": "Huft, Justin",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "38162",
+        "instructor": "Huft, Justin",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "SOC151": {
+    "title": "FORMAL ORGANIZATIONS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37796",
+        "instructor": "Rotondi, Matthew",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1700",
+          "endTime": "1820",
+          "building": "INTN",
+          "room": "1002"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 68,
+          "capacity": 75,
+          "available": 7
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38164",
+        "instructor": "Savaliya, Bansari",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 25,
+          "available": 2
+        }
+      },
+      {
+        "section": "022",
+        "crn": "38165",
+        "instructor": "Savaliya, Bansari",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "023",
+        "crn": "38166",
+        "instructor": "Savaliya, Bansari",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 25,
+          "available": 4
+        }
+      }
+    ]
+  },
+  "SOC161": {
+    "title": "IMMIGRATION AND SOCIETY",
+    "credits": "4",
+    "prerequisites": "Prerequisites:SOC161(\n Course or Test: Sociology 001 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001H \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37797",
+        "instructor": "Madanipour, Ali",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "SSC",
+          "room": "316"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 73,
+          "capacity": 75,
+          "available": 2
+        }
+      }
+    ]
+  },
+  "SOC162": {
+    "title": "LINGUISTIC DIVERSITY IN THE UNITED STATES",
+    "credits": "4",
+    "prerequisites": "Prerequisites:SOC162)\nand\n(\n Course or Test: Sociology 001 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001H \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37798",
+        "instructor": "Madanipour, Ali",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1820",
+          "building": "SSC",
+          "room": "316"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 72,
+          "capacity": 75,
+          "available": 3
+        }
+      }
+    ]
+  },
+  "SOC169": {
+    "title": "MODERN SOCIOLOGICAL THEORY",
+    "credits": "4",
+    "prerequisites": "Prerequisites:SOC169(\n Course or Test: Sociology 003 \n Minimum Grade of C-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37799",
+        "instructor": "Schmitt, Christopher",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "SSC",
+          "room": "235"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 121,
+          "capacity": 150,
+          "available": 29
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38167",
+        "instructor": "Ankaram, Prathamesh",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "38168",
+        "instructor": "Ankaram, Prathamesh",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "38169",
+        "instructor": "Ankaram, Prathamesh",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "38170",
+        "instructor": "Mehta, Heli Bhaveshkumar",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 25,
+          "available": 2
+        }
+      },
+      {
+        "section": "025",
+        "crn": "38171",
+        "instructor": "Mehta, Heli Bhaveshkumar",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 25,
+          "available": 13
+        }
+      },
+      {
+        "section": "026",
+        "crn": "38172",
+        "instructor": "Mehta, Heli Bhaveshkumar",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 25,
+          "available": 14
+        }
+      }
+    ]
+  },
+  "SOC173": {
+    "title": "SOCIAL PSYCHOLOGY: SOCIOLOGICAL ORIENTATION",
+    "credits": "5",
+    "prerequisites": "Prerequisites:SOC173(\n Course or Test: Sociology 003 \n Minimum Grade of C-\n May not be taken concurrently.and\n Course or Test: Sociology 005 \n Minimum Grade of C-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36169",
+        "instructor": "Stets, Jan",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "OLMH",
+          "room": "1212"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 70,
+          "capacity": 75,
+          "available": 5
+        }
+      },
+      {
+        "section": "021",
+        "crn": "36417",
+        "instructor": "Angelo, Emily",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "36418",
+        "instructor": "Angelo, Emily",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 25,
+          "available": 2
+        }
+      },
+      {
+        "section": "023",
+        "crn": "36419",
+        "instructor": "Angelo, Emily",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1900",
+          "endTime": "1950",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 25,
+          "available": 3
+        }
+      }
+    ]
+  },
+  "SOC177E": {
+    "title": "TOPICS IN SOCIAL PSYCHOLOGY: SOCIOLOGICAL ORIENTATION",
+    "credits": "4",
+    "prerequisites": "Prerequisites:SOC177E(\n Course or Test: Sociology 001 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Sociology 001H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Sociology 030 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36174",
+        "instructor": "Stets, Jan",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "SPTH",
+          "room": "2200"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 75,
+          "available": 56
+        }
+      }
+    ]
+  },
+  "SOC182": {
+    "title": "URBAN PROBLEMS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37800",
+        "instructor": "Schmitt, Christopher",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "SSC",
+          "room": "316"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 50,
+          "capacity": 55,
+          "available": 5
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38173",
+        "instructor": "Higinio, Luis",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 20,
+          "available": 5
+        }
+      },
+      {
+        "section": "022",
+        "crn": "38174",
+        "instructor": "Higinio, Luis",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 20,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "38175",
+        "instructor": "Higinio, Luis",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "SOC183H": {
+    "title": "AGING IN AMERICA",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36175",
+        "instructor": "Lee, Chioun",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 75,
+          "capacity": 75,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "SOC190": {
+    "title": "SPECIAL STUDIES",
+    "credits": "1-5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "05A",
+        "crn": "19504",
+        "instructor": "Aguirre, Adalberto",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 15,
+          "available": 15
+        }
+      },
+      {
+        "section": "18M",
+        "crn": "19508",
+        "instructor": "Mirande, Alfredo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "53P",
+        "crn": "19513",
+        "instructor": "Pyke, Karen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "55B",
+        "crn": "19514",
+        "instructor": "Brint, Steven",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "M21",
+        "crn": "25278",
+        "instructor": "Mahutga, Matthew",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "S06",
+        "crn": "19502",
+        "instructor": "Stets, Jan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "SOC197": {
+    "title": "RESEARCH FOR UNDERGRADUATES",
+    "credits": "1-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "05A",
+        "crn": "19543",
+        "instructor": "Aguirre, Adalberto",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "18M",
+        "crn": "19546",
+        "instructor": "Mirande, Alfredo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "34N",
+        "crn": "19549",
+        "instructor": "Nieri, Tanya",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "53P",
+        "crn": "19551",
+        "instructor": "Pyke, Karen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "55B",
+        "crn": "19552",
+        "instructor": "Brint, Steven",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "S06",
+        "crn": "19540",
+        "instructor": "Stets, Jan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "SOC198I": {
+    "title": "INDIVIDUAL INTERNSHIP IN SOCIOLOGY",
+    "credits": "1-12",
+    "prerequisites": "Prerequisites:SOC198I(\n Course or Test: Sociology 004 \n Minimum Grade of C-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "34N",
+        "crn": "38572",
+        "instructor": "Nieri, Tanya",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 1,
+          "available": 0
+        }
+      },
+      {
+        "section": "C56",
+        "crn": "31669",
+        "instructor": "Clark, Robert",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "M21",
+        "crn": "38935",
+        "instructor": "Mahutga, Matthew",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      }
+    ]
+  },
+  "SOC290": {
+    "title": "DIRECTED STUDIES",
+    "credits": "1-6",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "05A",
+        "crn": "19570",
+        "instructor": "Aguirre, Adalberto",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "18M",
+        "crn": "19574",
+        "instructor": "Mirande, Alfredo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "36M",
+        "crn": "19577",
+        "instructor": "Maryanski-Turner, Alexandra",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "53P",
+        "crn": "19579",
+        "instructor": "Pyke, Karen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "55B",
+        "crn": "19580",
+        "instructor": "Brint, Steven",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "61R",
+        "crn": "19581",
+        "instructor": "Reese, Ellen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "86G",
+        "crn": "19584",
+        "instructor": "Guenther, Katja",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "M21",
+        "crn": "22823",
+        "instructor": "Mahutga, Matthew",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "S06",
+        "crn": "19569",
+        "instructor": "Stets, Jan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "SOC291": {
+    "title": "INDIVIDUAL STUDY IN COORDINATED AREAS",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "05A",
+        "crn": "19592",
+        "instructor": "Aguirre, Adalberto",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "18M",
+        "crn": "19596",
+        "instructor": "Mirande, Alfredo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "34N",
+        "crn": "19599",
+        "instructor": "Nieri, Tanya",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "36M",
+        "crn": "19600",
+        "instructor": "Maryanski-Turner, Alexandra",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "36O",
+        "crn": "19601",
+        "instructor": "Oselin, Sharon",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "53P",
+        "crn": "19603",
+        "instructor": "Pyke, Karen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "55B",
+        "crn": "19604",
+        "instructor": "Brint, Steven",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "61R",
+        "crn": "19605",
+        "instructor": "Reese, Ellen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "83L",
+        "crn": "29683",
+        "instructor": "Lee, Chioun",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "C56",
+        "crn": "31635",
+        "instructor": "Clark, Robert",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      },
+      {
+        "section": "C75",
+        "crn": "26961",
+        "instructor": "Carpiano, Richard",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 15,
+          "available": 15
+        }
+      },
+      {
+        "section": "K03",
+        "crn": "34887",
+        "instructor": "Kroska, Amy",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "L29",
+        "crn": "27362",
+        "instructor": "Link, Bruce",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 20,
+          "available": 20
+        }
+      },
+      {
+        "section": "M21",
+        "crn": "19587",
+        "instructor": "Mahutga, Matthew",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "S07",
+        "crn": "19588",
+        "instructor": "Stets, Jan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      }
+    ]
+  },
+  "SOC297": {
+    "title": "DIRECTED RESEARCH",
+    "credits": "1-6",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "05A",
+        "crn": "19617",
+        "instructor": "Aguirre, Adalberto",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "18M",
+        "crn": "19621",
+        "instructor": "Mirande, Alfredo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "34N",
+        "crn": "19624",
+        "instructor": "Nieri, Tanya",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "36M",
+        "crn": "19625",
+        "instructor": "Maryanski-Turner, Alexandra",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "36O",
+        "crn": "19626",
+        "instructor": "Oselin, Sharon",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "53P",
+        "crn": "19628",
+        "instructor": "Pyke, Karen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "55B",
+        "crn": "19629",
+        "instructor": "Brint, Steven",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "61R",
+        "crn": "19630",
+        "instructor": "Reese, Ellen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "83L",
+        "crn": "29112",
+        "instructor": "Lee, Chioun",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "C75",
+        "crn": "26962",
+        "instructor": "Carpiano, Richard",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 15,
+          "available": 15
+        }
+      },
+      {
+        "section": "L29",
+        "crn": "25444",
+        "instructor": "Link, Bruce",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "M21",
+        "crn": "19612",
+        "instructor": "Mahutga, Matthew",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "R12",
+        "crn": "27231",
+        "instructor": "Reyes, Victoria",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "S06",
+        "crn": "19613",
+        "instructor": "Stets, Jan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "S07",
+        "crn": "25323",
+        "instructor": "Stets, Jan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      }
+    ]
+  },
+  "SOC299": {
+    "title": "RESEARCH FOR THESIS OR DISSERTATION",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "05A",
+        "crn": "19638",
+        "instructor": "Aguirre, Adalberto",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "18M",
+        "crn": "19643",
+        "instructor": "Mirande, Alfredo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 30,
+          "available": 27
+        }
+      },
+      {
+        "section": "34N",
+        "crn": "19646",
+        "instructor": "Nieri, Tanya",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "36M",
+        "crn": "19647",
+        "instructor": "Maryanski-Turner, Alexandra",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "36O",
+        "crn": "19648",
+        "instructor": "Oselin, Sharon",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "47F",
+        "crn": "33293",
+        "instructor": "Firat, Rengin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "53P",
+        "crn": "19650",
+        "instructor": "Pyke, Karen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "55B",
+        "crn": "19651",
+        "instructor": "Brint, Steven",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "61R",
+        "crn": "19652",
+        "instructor": "Reese, Ellen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "83L",
+        "crn": "33283",
+        "instructor": "Lee, Chioun",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "84C",
+        "crn": "35131",
+        "instructor": "Chase-Dunn, Christopher",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 12,
+          "available": 12
+        }
+      },
+      {
+        "section": "C56",
+        "crn": "33324",
+        "instructor": "Clark, Robert",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "C57",
+        "crn": "35078",
+        "instructor": "Contreras, Randol",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "M21",
+        "crn": "19635",
+        "instructor": "Mahutga, Matthew",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "R12",
+        "crn": "19637",
+        "instructor": "Reyes, Victoria",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "S06",
+        "crn": "19636",
+        "instructor": "Stets, Jan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      }
+    ]
+  },
+  "SOC301": {
+    "title": "DIRECTED STUDIES IN THE TEACHING OF SOCIOLOGY",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "19657",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0900",
+          "endTime": "1150",
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  }
+}

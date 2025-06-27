@@ -1,0 +1,86 @@
+{
+  "PBHL200": {
+    "title": "FOUNDATIONS OF PUBLIC HEALTH",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37946",
+        "instructor": "Wolfson, Mark",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1730",
+          "endTime": "2020",
+          "building": "SOMED",
+          "room": "1670"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 20,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "PBHL201": {
+    "title": "RESEARCH METHODS FOR PUBLIC HEALTH",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37947",
+        "instructor": "Subica, Andrew",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1730",
+          "endTime": "2020",
+          "building": "SOMED",
+          "room": "1670"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 20,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "PBHL202A": {
+    "title": "COMMUNITY HEALTH THEORY AND PRACTICE I",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37948",
+        "instructor": "Woods, Denise",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1730",
+          "endTime": "2020",
+          "building": "SOMED",
+          "room": "1670"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 20,
+          "available": 3
+        }
+      }
+    ]
+  }
+}

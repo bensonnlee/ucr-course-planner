@@ -1,0 +1,185 @@
+{
+  "LBST001": {
+    "title": "INTRODUCTION TO LIBERAL STUDIES",
+    "credits": "5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "35765",
+        "instructor": "James, Stephen",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1820",
+          "building": "WAT",
+          "room": "1000"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 140,
+          "capacity": 150,
+          "available": 10
+        }
+      },
+      {
+        "section": "021",
+        "crn": "35766",
+        "instructor": "Adlagatta, Shiva Shashank",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "INTS",
+          "room": "1125"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "35767",
+        "instructor": "Adlagatta, Shiva Shashank",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0700",
+          "endTime": "0750",
+          "building": "INTS",
+          "room": "1132"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 25,
+          "available": 9
+        }
+      },
+      {
+        "section": "023",
+        "crn": "35768",
+        "instructor": "Adlagatta, Shiva Shashank",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "INTS",
+          "room": "2132"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "35769",
+        "instructor": "Narayanan, Shivani",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "INTS",
+          "room": "1125"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "35770",
+        "instructor": "Narayanan, Shivani",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "DUNDE",
+          "room": "A1107"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "026",
+        "crn": "35771",
+        "instructor": "Narayanan, Shivani",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "INTS",
+          "room": "2138"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "LBST191": {
+    "title": "SEMINAR IN LIBERAL STUDIES",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28838",
+        "instructor": "James, Stephen",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "1050",
+          "building": "INTS",
+          "room": "1130"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "LATN001": {
+    "title": "INTRODUCTION TO LATIN",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "16290",
+        "instructor": "DaVia, Carlo",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "HMNSS",
+          "room": "1401"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 30,
+          "available": 3
+        }
+      }
+    ]
+  },
+  "LATN101N": {
+    "title": "CICERO",
+    "credits": "4",
+    "prerequisites": "Prerequisites:LATN101N(\n Course or Test: Latin 003 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37681",
+        "instructor": "DaVia, Carlo",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "INTS",
+          "room": "1121"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 25,
+          "available": 15
+        }
+      }
+    ]
+  }
+}

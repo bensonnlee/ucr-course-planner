@@ -1,0 +1,217 @@
+{
+  "BLKS001": {
+    "title": "INTRODUCTION TO BLACK STUDY 1: BLACK PEOPLE DOMESTICALLY AND GLOBALLY NOW",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37786",
+        "instructor": "Vargas, Joao",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "SPR",
+          "room": "2355"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 46,
+          "capacity": 50,
+          "available": 4
+        }
+      }
+    ]
+  },
+  "BLKS002": {
+    "title": "INTRODUCTION TO BLACK STUDY 2: IMAGINED AND EMBODIED FUTURES",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37791",
+        "instructor": "Johnson, Imani",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "SSC",
+          "room": "216"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 50,
+          "capacity": 50,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "BLKS101": {
+    "title": "CRITICAL THEORIES OF GENDER, RACE, AND BLACKNESS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37787",
+        "instructor": "Melonas, Desiree",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "ARTS",
+          "room": "335"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 25,
+          "available": 15
+        }
+      }
+    ]
+  },
+  "BLKS142": {
+    "title": "BLACKNESS AND CARCERALITY",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37788",
+        "instructor": "Rodriguez, Dylan",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "WAT",
+          "room": "1111"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 25,
+          "available": 19
+        }
+      }
+    ]
+  },
+  "BLKS144": {
+    "title": "ARTIST HEALERS: TRANS INDIGENOUS MEDICINE AND ART INTERSECTIONS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37785",
+        "instructor": "Whitson, Sage Ni&#39;Ja",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1430",
+          "endTime": "1720",
+          "building": "ARTS",
+          "room": "214"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 15,
+          "available": 13
+        }
+      }
+    ]
+  },
+  "BLKS145": {
+    "title": "BLACK LANGUAGE IN SCHOOLS AND SOCIETY",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36374",
+        "instructor": "Lee, Alice",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "SPR",
+          "room": "1340"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 50,
+          "available": 37
+        }
+      },
+      {
+        "section": "011",
+        "crn": "37927",
+        "instructor": "Rivas, Sofia",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "SPR",
+          "room": "1357"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 25,
+          "available": 16
+        }
+      },
+      {
+        "section": "012",
+        "crn": "36390",
+        "instructor": "Rivas, Sofia",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "SPR",
+          "room": "1357"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 25,
+          "available": 21
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,4040 @@
+{
+  "PHIL002": {
+    "title": "CONTEMPORARY MORAL ISSUES",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34170",
+        "instructor": "Vidueira, Katherine",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "SSC",
+          "room": "229"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 295,
+          "capacity": 150,
+          "available": -145
+        }
+      },
+      {
+        "section": "021",
+        "crn": "34189",
+        "instructor": "Koch, Elliott",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "HMNSS",
+          "room": "1605B"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 13,
+          "available": -12
+        }
+      },
+      {
+        "section": "022",
+        "crn": "34190",
+        "instructor": "Koch, Elliott",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "HMNSS",
+          "room": "1605B"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 13,
+          "available": -12
+        }
+      },
+      {
+        "section": "023",
+        "crn": "34192",
+        "instructor": "Koch, Elliott",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "HMNSS",
+          "room": "1605B"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 13,
+          "available": -12
+        }
+      },
+      {
+        "section": "024",
+        "crn": "34193",
+        "instructor": "Sharma, Bhavya Gopal",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "MSE",
+          "room": "003"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 13,
+          "available": -12
+        }
+      },
+      {
+        "section": "025",
+        "crn": "34195",
+        "instructor": "Sharma, Bhavya Gopal",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "MSE",
+          "room": "003"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 13,
+          "available": -12
+        }
+      },
+      {
+        "section": "026",
+        "crn": "34196",
+        "instructor": "Sharma, Bhavya Gopal",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "MSE",
+          "room": "003"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 13,
+          "available": -12
+        }
+      },
+      {
+        "section": "027",
+        "crn": "34199",
+        "instructor": "Bessho, Keilee",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "HMNSS",
+          "room": "1605B"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 13,
+          "available": -10
+        }
+      },
+      {
+        "section": "028",
+        "crn": "34200",
+        "instructor": "Bessho, Keilee",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "HMNSS",
+          "room": "1605B"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 13,
+          "available": -12
+        }
+      },
+      {
+        "section": "029",
+        "crn": "34202",
+        "instructor": "Bessho, Keilee",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "HMNSS",
+          "room": "1605B"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 13,
+          "available": -12
+        }
+      },
+      {
+        "section": "030",
+        "crn": "34205",
+        "instructor": "Martin, Jordon",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "HMNSS",
+          "room": "1405"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 13,
+          "available": -11
+        }
+      },
+      {
+        "section": "031",
+        "crn": "34206",
+        "instructor": "Martin, Jordon",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "HMNSS",
+          "room": "1403"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 10,
+          "available": -15
+        }
+      },
+      {
+        "section": "032",
+        "crn": "34207",
+        "instructor": "Martin, Jordon",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "HMNSS",
+          "room": "1400"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 10,
+          "available": -13
+        }
+      }
+    ]
+  },
+  "PHIL005": {
+    "title": "EVIL",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37595",
+        "instructor": "Schwitzgebel, Eric",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "UNLH",
+          "room": "1000"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 326,
+          "capacity": 170,
+          "available": -156
+        }
+      },
+      {
+        "section": "021",
+        "crn": "37596",
+        "instructor": "Carnell, Jason",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "MSE",
+          "room": "011"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 10,
+          "available": -9
+        }
+      },
+      {
+        "section": "022",
+        "crn": "37597",
+        "instructor": "Carnell, Jason",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "SPR",
+          "room": "1358"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 10,
+          "available": -8
+        }
+      },
+      {
+        "section": "023",
+        "crn": "37598",
+        "instructor": "Carnell, Jason",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "DUNDE",
+          "room": "A1105"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 10,
+          "available": -9
+        }
+      },
+      {
+        "section": "024",
+        "crn": "37599",
+        "instructor": "Farhana, Lupina",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "HMNSS",
+          "room": "1605B"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 10,
+          "available": -7
+        }
+      },
+      {
+        "section": "025",
+        "crn": "37600",
+        "instructor": "Farhana, Lupina",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "HMNSS",
+          "room": "1605B"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 10,
+          "available": -8
+        }
+      },
+      {
+        "section": "026",
+        "crn": "37601",
+        "instructor": "Farhana, Lupina",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "HMNSS",
+          "room": "1605B"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 10,
+          "available": -6
+        }
+      },
+      {
+        "section": "027",
+        "crn": "37602",
+        "instructor": "Jackson, Jordan",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "OLMH",
+          "room": "1133"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 10,
+          "available": -8
+        }
+      },
+      {
+        "section": "028",
+        "crn": "37603",
+        "instructor": "Jackson, Jordan",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "WAT",
+          "room": "2101"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 10,
+          "available": -7
+        }
+      },
+      {
+        "section": "029",
+        "crn": "37604",
+        "instructor": "Jackson, Jordan",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "SPR",
+          "room": "2364"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 10,
+          "available": -10
+        }
+      },
+      {
+        "section": "030",
+        "crn": "37605",
+        "instructor": "Hubbard, Cam",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "HMNSS",
+          "room": "1605B"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 10,
+          "available": -10
+        }
+      },
+      {
+        "section": "031",
+        "crn": "37606",
+        "instructor": "Hubbard, Cam",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "OLMH",
+          "room": "1127"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 10,
+          "available": -8
+        }
+      },
+      {
+        "section": "032",
+        "crn": "37607",
+        "instructor": "Hubbard, Cam",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "HMNSS",
+          "room": "1406"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 10,
+          "available": -7
+        }
+      },
+      {
+        "section": "033",
+        "crn": "37608",
+        "instructor": "Munn, Annemarie",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "HMNSS",
+          "room": "1403"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 10,
+          "available": -6
+        }
+      },
+      {
+        "section": "034",
+        "crn": "37609",
+        "instructor": "Munn, Annemarie",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "PRCE",
+          "room": "2226"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 10,
+          "available": -9
+        }
+      },
+      {
+        "section": "035",
+        "crn": "37610",
+        "instructor": "Munn, Annemarie",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "INTS",
+          "room": "2130"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 7,
+          "available": -9
+        }
+      },
+      {
+        "section": "036",
+        "crn": "37611",
+        "instructor": "Lateef, Soofia",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "HMNSS",
+          "room": "1605B"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 7,
+          "available": -11
+        }
+      },
+      {
+        "section": "037",
+        "crn": "37612",
+        "instructor": "Lateef, Soofia",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "SPR",
+          "room": "1358"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 7,
+          "available": -13
+        }
+      },
+      {
+        "section": "038",
+        "crn": "37613",
+        "instructor": "Lateef, Soofia",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "SPR",
+          "room": "2364"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 9,
+          "available": -11
+        }
+      }
+    ]
+  },
+  "PHIL007": {
+    "title": "INTRODUCTION TO CRITICAL THINKING",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "23175",
+        "instructor": "MacNamara, Coleen",
+        "schedule": {
+          "days": [
+            "W",
+            "F"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "WAT",
+          "room": "1000"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 144,
+          "capacity": 75,
+          "available": -69
+        }
+      },
+      {
+        "section": "021",
+        "crn": "17633",
+        "instructor": "Wancowicz, Daniel",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "HMNSS",
+          "room": "1404"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 13,
+          "available": -10
+        }
+      },
+      {
+        "section": "022",
+        "crn": "17634",
+        "instructor": "Wancowicz, Daniel",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "OLMH",
+          "room": "1132"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 13,
+          "available": -10
+        }
+      },
+      {
+        "section": "023",
+        "crn": "17635",
+        "instructor": "Kastelec, Matic",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "OLMH",
+          "room": "1126"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 13,
+          "available": -12
+        }
+      },
+      {
+        "section": "024",
+        "crn": "17636",
+        "instructor": "Kastelec, Matic",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "HMNSS",
+          "room": "1403"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 13,
+          "available": -11
+        }
+      },
+      {
+        "section": "025",
+        "crn": "27785",
+        "instructor": "Johnston, Lucas",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "OLMH",
+          "room": "1127"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 13,
+          "available": -12
+        }
+      },
+      {
+        "section": "026",
+        "crn": "27786",
+        "instructor": "Johnston, Lucas",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "HMNSS",
+          "room": "1405"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 10,
+          "available": -14
+        }
+      }
+    ]
+  },
+  "PHIL009": {
+    "title": "BIOMEDICAL ETHICS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "35828",
+        "instructor": "Gomes, Shmuel",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "UNLH",
+          "room": "1000"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 289,
+          "capacity": 150,
+          "available": -139
+        }
+      },
+      {
+        "section": "024",
+        "crn": "35832",
+        "instructor": "Chilson, Kendra",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 13,
+          "available": -12
+        }
+      },
+      {
+        "section": "025",
+        "crn": "35833",
+        "instructor": "Chilson, Kendra",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "MSE",
+          "room": "003"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 13,
+          "available": -11
+        }
+      },
+      {
+        "section": "026",
+        "crn": "35834",
+        "instructor": "Chilson, Kendra",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "HMNSS",
+          "room": "1401"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 13,
+          "available": -10
+        }
+      },
+      {
+        "section": "027",
+        "crn": "35835",
+        "instructor": "Fisher, Jordan",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "OLMH",
+          "room": "1133"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 13,
+          "available": -12
+        }
+      },
+      {
+        "section": "028",
+        "crn": "35836",
+        "instructor": "Fisher, Jordan",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "HMNSS",
+          "room": "1605B"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 13,
+          "available": -12
+        }
+      },
+      {
+        "section": "029",
+        "crn": "35837",
+        "instructor": "Fisher, Jordan",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 13,
+          "available": -10
+        }
+      },
+      {
+        "section": "030",
+        "crn": "35838",
+        "instructor": "Morris, Aaron",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "SPR",
+          "room": "2364"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 13,
+          "available": -12
+        }
+      },
+      {
+        "section": "031",
+        "crn": "35839",
+        "instructor": "Morris, Aaron",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "SPR",
+          "room": "2340"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 13,
+          "available": -11
+        }
+      },
+      {
+        "section": "032",
+        "crn": "35840",
+        "instructor": "Morris, Aaron",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "SPR",
+          "room": "2340"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 13,
+          "available": -10
+        }
+      },
+      {
+        "section": "033",
+        "crn": "37769",
+        "instructor": "Ang, Abel",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "HMNSS",
+          "room": "1605B"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 12,
+          "available": -13
+        }
+      },
+      {
+        "section": "034",
+        "crn": "37770",
+        "instructor": "Ang, Abel",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "HMNSS",
+          "room": "1605B"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 12,
+          "available": -10
+        }
+      },
+      {
+        "section": "035",
+        "crn": "37771",
+        "instructor": "Ang, Abel",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "HMNSS",
+          "room": "1605B"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 9,
+          "available": -16
+        }
+      }
+    ]
+  },
+  "PHIL030E": {
+    "title": "HELLENC PHIL:PRE-SOCRTCS-ARIST",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37614",
+        "instructor": "Muller, Josef",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "SSC",
+          "room": "335"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 137,
+          "capacity": 150,
+          "available": 13
+        }
+      },
+      {
+        "section": "021",
+        "crn": "37615",
+        "instructor": "Mazouji, Rojin",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "CHUNG",
+          "room": "139"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 25,
+          "available": 2
+        }
+      },
+      {
+        "section": "022",
+        "crn": "37616",
+        "instructor": "Mazouji, Rojin",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1900",
+          "endTime": "1950",
+          "building": "CHUNG",
+          "room": "139"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "023",
+        "crn": "37617",
+        "instructor": "Mazouji, Rojin",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "2000",
+          "endTime": "2050",
+          "building": "CHUNG",
+          "room": "139"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 25,
+          "available": 2
+        }
+      },
+      {
+        "section": "024",
+        "crn": "37618",
+        "instructor": "Sachdev, Megha",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "HMNSS",
+          "room": "1605B"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 25,
+          "available": 8
+        }
+      },
+      {
+        "section": "025",
+        "crn": "37619",
+        "instructor": "Sachdev, Megha",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "HMNSS",
+          "room": "1406"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "026",
+        "crn": "37620",
+        "instructor": "Sachdev, Megha",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "HMNSS",
+          "room": "1403"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "PHIL100": {
+    "title": "SOPHOMORE-JUNIOR SEMINAR",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38115",
+        "instructor": "Ganesh, Akshay",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "INTN",
+          "room": "1006"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 20,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "PHIL114": {
+    "title": "SCIENCE AND HUMAN UNDERSTANDING",
+    "credits": "4",
+    "prerequisites": "Prerequisites:PHIL114(\n Course or Test: Philosophy 001 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 001H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 002H \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 003H \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 003W \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 003X \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 004 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 005 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 006 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 007 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 007H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 008H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 009 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 009H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 010 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 010H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 012 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 030E \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030F \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030G \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030I \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030J \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030K \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030M \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030N \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37642",
+        "instructor": "Smith, Andrew",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "INTN",
+          "room": "1006"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "PHIL117": {
+    "title": "ENVIRONMENTAL ETHICS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:PHIL117(\n Course or Test: Philosophy 001 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 001H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 002H \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 003H \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 003W \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 003X \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 004 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 005 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 006 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 007 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 007H \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 008 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 008H \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 009 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 009H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 010 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 010H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 012 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030E \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030F \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030G \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030I \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030J \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030K \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030M \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030N \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "30209",
+        "instructor": "Smith, Andrew",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "WAT",
+          "room": "1111"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 29,
+          "capacity": 30,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "PHIL118": {
+    "title": "PERSONHOOD AND PERSONAL IDENTITY",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "30210",
+        "instructor": "Baker, Jonathan",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "HMNSS",
+          "room": "1406"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 13,
+          "available": -14
+        }
+      }
+    ]
+  },
+  "PHIL120E": {
+    "title": "PLATO",
+    "credits": "4",
+    "prerequisites": "Prerequisites:PHIL120E(\n Course or Test: Philosophy 001 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 001H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 002H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 003H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 003W \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 003X \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 004 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 005 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 006 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 007 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 007H \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 008 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 008H \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 009 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 009H \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 010 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 010H \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 012 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030E \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030F \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030G \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 030I \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 030J \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 030K \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 030M \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 030N \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37644",
+        "instructor": "Muller, Josef",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "OLMH",
+          "room": "1136"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "PHIL124": {
+    "title": "FORMAL LOGIC",
+    "credits": "4",
+    "prerequisites": "Prerequisites:PHIL124)\nand\n(\n Course or Test: Computer Science 011 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 011 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Computer Science 120A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Electrical Engineering 120A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Computer Science 150 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 008 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 008H \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "35852",
+        "instructor": "Nelson, Michael",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "WAT",
+          "room": "1000"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 128,
+          "capacity": 150,
+          "available": 22
+        }
+      },
+      {
+        "section": "021",
+        "crn": "35853",
+        "instructor": "Korczyk, Kevin",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "HMNSS",
+          "room": "1605B"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "022",
+        "crn": "35854",
+        "instructor": "Korczyk, Kevin",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1900",
+          "endTime": "1950",
+          "building": "HMNSS",
+          "room": "1605B"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "35855",
+        "instructor": "Korczyk, Kevin",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "2000",
+          "endTime": "2050",
+          "building": "HMNSS",
+          "room": "1605B"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 25,
+          "available": 2
+        }
+      },
+      {
+        "section": "024",
+        "crn": "35856",
+        "instructor": "Stoner, Anthony",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0700",
+          "endTime": "0750",
+          "building": "HMNSS",
+          "room": "1404"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 25,
+          "available": 18
+        }
+      },
+      {
+        "section": "025",
+        "crn": "35857",
+        "instructor": "Stoner, Anthony",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "CHUNG",
+          "room": "139"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "026",
+        "crn": "35858",
+        "instructor": "Stoner, Anthony",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "INTS",
+          "room": "2136"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "PHIL131": {
+    "title": "TWENTIETH-CENTURY ANALYTIC PHILOSOPHY",
+    "credits": "4",
+    "prerequisites": "Prerequisites:PHIL131(\n Course or Test: Philosophy 001 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 001H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 002H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 003H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 003W \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 003X \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 004 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 005 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 006 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 007 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 007H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 008H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 009 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 009H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 010 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 010H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 012 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 030E \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 030F \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 030G \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 030I \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 030J \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 030K \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 030M \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 030N \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "35859",
+        "instructor": "Lam, Barry",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "HMNSS",
+          "room": "1406"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 29,
+          "capacity": 15,
+          "available": -14
+        }
+      }
+    ]
+  },
+  "PHIL152": {
+    "title": "TWENTIETH-CENTURY CONTINENTAL PHILOSOPHY",
+    "credits": "4",
+    "prerequisites": "Prerequisites:PHIL152)\nand\n(\n Course or Test: Philosophy 001 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 001H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 002H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 003H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 003W \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 003X \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 004 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 005 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 006 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 007 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 007H \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 008 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 008H \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 009 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 009H \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 010 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 010H \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 012 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030E \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030F \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030G \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030I \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030J \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030K \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030M \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030N \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37652",
+        "instructor": "Shaul, Dylan",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "SKYE",
+          "room": "172"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 28,
+          "capacity": 15,
+          "available": -13
+        }
+      }
+    ]
+  },
+  "PHIL159": {
+    "title": "PHILOSOPHY OF RELIGION",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37973",
+        "instructor": "Wettstein, H",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1700",
+          "endTime": "1820",
+          "building": "INTN",
+          "room": "1006"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 30,
+          "available": 3
+        }
+      }
+    ]
+  },
+  "PHIL169E": {
+    "title": "ETHICS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:PHIL169E)\nand\n(\n Course or Test: Philosophy 001 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 001H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 002H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 003H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 003W \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 003X \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 004 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 005 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 006 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 007 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 007H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 008H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 009 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 009H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 010 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 010H \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 012 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 030E \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 030F \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Philosophy 030G \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030I \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030J \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030K \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030M \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Philosophy 030N \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37654",
+        "instructor": "Cherry, Myisha",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "OLMH",
+          "room": "1136"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 15,
+          "available": -6
+        }
+      }
+    ]
+  },
+  "PHIL190": {
+    "title": "SPECIAL STUDIES",
+    "credits": "1-5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "01G",
+        "crn": "17679",
+        "instructor": "Graham, Peter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "17F",
+        "crn": "17683",
+        "instructor": "Fischer, John",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "28N",
+        "crn": "17684",
+        "instructor": "Nelson, Michael",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "28W",
+        "crn": "17685",
+        "instructor": "Wettstein, H",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "36J",
+        "crn": "17686",
+        "instructor": "Jaworska, Agnieszka",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "45C",
+        "crn": "17690",
+        "instructor": "Cranor, Carl",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "51R",
+        "crn": "17691",
+        "instructor": "Reath, Andrews",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "53R",
+        "crn": "17692",
+        "instructor": "Reck, Erich",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "91S",
+        "crn": "17694",
+        "instructor": "Schwitzgebel, Eric",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "H14",
+        "crn": "17677",
+        "instructor": "Harmer, Adam",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "M30",
+        "crn": "36805",
+        "instructor": "Muller, Josef",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "PHIL195": {
+    "title": "SENIOR THESIS",
+    "credits": "1-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "H14",
+        "crn": "35065",
+        "instructor": "Harmer, Adam",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "PHIL270": {
+    "title": "PHILOSOPHY COLLOQUIA",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17711",
+        "instructor": "MacNamara, Coleen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Colloquium",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 20,
+          "available": 8
+        }
+      }
+    ]
+  },
+  "PHIL275A": {
+    "title": "PROSEMINAR FOR FIRST-YEAR GRADUATE STUDENTS: METAPHYSICS AND EPISTEMOLOGY",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "35862",
+        "instructor": "Graham, Peter",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1200",
+          "endTime": "1450",
+          "building": "HMNSS",
+          "room": "1605B"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 15,
+          "available": 11
+        }
+      }
+    ]
+  },
+  "PHIL276": {
+    "title": "THIRD AND FOURTH YEAR RESEARCH SEMINAR",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "35863",
+        "instructor": "Nelson, Michael",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1850",
+          "building": "HMNSS",
+          "room": "1605B"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 15,
+          "available": 11
+        }
+      },
+      {
+        "section": "002",
+        "crn": "35864",
+        "instructor": "Nelson, Michael",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1850",
+          "building": "HMNSS",
+          "room": "1605B"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 15,
+          "available": 13
+        }
+      }
+    ]
+  },
+  "PHIL282": {
+    "title": "SEMINAR IN INDIVIDUAL PHILOSOPHERS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "002",
+        "crn": "37655",
+        "instructor": "Shaul, Dylan",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1500",
+          "endTime": "1750",
+          "building": "HMNSS",
+          "room": "1605B"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 15,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "PHIL283": {
+    "title": "SEMINAR IN CONTEMPORARY PHILOSOPHY",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "25816",
+        "instructor": "Jaworska, Agnieszka",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1350",
+          "building": "HMNSS",
+          "room": "1605B"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 15,
+          "available": 6
+        }
+      },
+      {
+        "section": "002",
+        "crn": "25828",
+        "instructor": "Wettstein, H",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1350",
+          "building": "HMNSS",
+          "room": "1605B"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 15,
+          "available": 11
+        }
+      }
+    ]
+  },
+  "PHIL284A": {
+    "title": "PROBLEMS IN THE HISTORY OF PHILOSOPHY",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38523",
+        "instructor": "Keller, Pierre",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1500",
+          "endTime": "1750",
+          "building": "HMNSS",
+          "room": "1605B"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 20,
+          "available": 11
+        }
+      }
+    ]
+  },
+  "PHIL290": {
+    "title": "DIRECTED STUDIES",
+    "credits": "1-6",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "01G",
+        "crn": "17720",
+        "instructor": "Graham, Peter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Term Paper",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 15,
+          "available": 15
+        }
+      },
+      {
+        "section": "17F",
+        "crn": "17722",
+        "instructor": "Fischer, John",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Term Paper",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "17K",
+        "crn": "17723",
+        "instructor": "Keller, Pierre",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Term Paper",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "28N",
+        "crn": "17724",
+        "instructor": "Nelson, Michael",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Term Paper",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "28W",
+        "crn": "17725",
+        "instructor": "Wettstein, H",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Term Paper",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "36J",
+        "crn": "17726",
+        "instructor": "Jaworska, Agnieszka",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Term Paper",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "45C",
+        "crn": "29629",
+        "instructor": "Cranor, Carl",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Term Paper",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "45M",
+        "crn": "29638",
+        "instructor": "MacNamara, Coleen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Term Paper",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "51R",
+        "crn": "17729",
+        "instructor": "Reath, Andrews",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Term Paper",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 15,
+          "available": 15
+        }
+      },
+      {
+        "section": "53N",
+        "crn": "29714",
+        "instructor": "Newton, Alexandra",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Term Paper",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "53R",
+        "crn": "17730",
+        "instructor": "Reck, Erich",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Term Paper",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "67F",
+        "crn": "26476",
+        "instructor": "Ferrero, Luca",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Term Paper",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "68F",
+        "crn": "29710",
+        "instructor": "Frost, Kim",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Term Paper",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "91S",
+        "crn": "17732",
+        "instructor": "Schwitzgebel, Eric",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Term Paper",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "C12",
+        "crn": "17718",
+        "instructor": "Clark, Maude",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Term Paper",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "C44",
+        "crn": "29624",
+        "instructor": "Cherry, Myisha",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Term Paper",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "H14",
+        "crn": "17719",
+        "instructor": "Harmer, Adam",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Term Paper",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "M30",
+        "crn": "22859",
+        "instructor": "Muller, Josef",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Term Paper",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "PHIL291": {
+    "title": "INDIVIDUAL STUDIES IN COORDINATED AREAS",
+    "credits": "2-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "17F",
+        "crn": "17739",
+        "instructor": "Fischer, John",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "17K",
+        "crn": "17740",
+        "instructor": "Keller, Pierre",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28W",
+        "crn": "17741",
+        "instructor": "Wettstein, H",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "45C",
+        "crn": "17745",
+        "instructor": "Cranor, Carl",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "45M",
+        "crn": "17746",
+        "instructor": "MacNamara, Coleen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "51R",
+        "crn": "17747",
+        "instructor": "Reath, Andrews",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "53R",
+        "crn": "17748",
+        "instructor": "Reck, Erich",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "59R",
+        "crn": "17749",
+        "instructor": "Raphals, Lisa",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "91S",
+        "crn": "17753",
+        "instructor": "Schwitzgebel, Eric",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "C12",
+        "crn": "17733",
+        "instructor": "Clark, Maude",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "H14",
+        "crn": "17734",
+        "instructor": "Harmer, Adam",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "PHIL292": {
+    "title": "CONCURRENT ANALYTICAL STUDIES IN PHILOSOPHY",
+    "credits": "1-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "01G",
+        "crn": "29634",
+        "instructor": "Graham, Peter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "17F",
+        "crn": "29633",
+        "instructor": "Fischer, John",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "17K",
+        "crn": "17759",
+        "instructor": "Keller, Pierre",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28N",
+        "crn": "29641",
+        "instructor": "Nelson, Michael",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28W",
+        "crn": "17760",
+        "instructor": "Wettstein, H",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "36J",
+        "crn": "29637",
+        "instructor": "Jaworska, Agnieszka",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "45C",
+        "crn": "29630",
+        "instructor": "Cranor, Carl",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "45M",
+        "crn": "17763",
+        "instructor": "MacNamara, Coleen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      },
+      {
+        "section": "53N",
+        "crn": "29715",
+        "instructor": "Newton, Alexandra",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "53R",
+        "crn": "17764",
+        "instructor": "Reck, Erich",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "67F",
+        "crn": "29631",
+        "instructor": "Ferrero, Luca",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "68F",
+        "crn": "29711",
+        "instructor": "Frost, Kim",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "73W",
+        "crn": "33394",
+        "instructor": "Winer, Andrew",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "91S",
+        "crn": "29642",
+        "instructor": "Schwitzgebel, Eric",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "94F",
+        "crn": "17766",
+        "instructor": "Reath, Andrews",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "C12",
+        "crn": "29628",
+        "instructor": "Clark, Maude",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "C44",
+        "crn": "29625",
+        "instructor": "Cherry, Myisha",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "H14",
+        "crn": "17754",
+        "instructor": "Harmer, Adam",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "M30",
+        "crn": "29639",
+        "instructor": "Muller, Josef",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "PHIL297": {
+    "title": "DIRECTED RESEARCH",
+    "credits": "1-6",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "01G",
+        "crn": "17771",
+        "instructor": "Graham, Peter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      },
+      {
+        "section": "17F",
+        "crn": "17775",
+        "instructor": "Fischer, John",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "17K",
+        "crn": "17776",
+        "instructor": "Keller, Pierre",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28N",
+        "crn": "17777",
+        "instructor": "Nelson, Michael",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "28W",
+        "crn": "17778",
+        "instructor": "Wettstein, H",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "36J",
+        "crn": "17779",
+        "instructor": "Jaworska, Agnieszka",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "3S2",
+        "crn": "38941",
+        "instructor": "Shaul, Dylan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "45C",
+        "crn": "17782",
+        "instructor": "Cranor, Carl",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "45M",
+        "crn": "17783",
+        "instructor": "MacNamara, Coleen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "51R",
+        "crn": "17784",
+        "instructor": "Reath, Andrews",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "53N",
+        "crn": "29717",
+        "instructor": "Newton, Alexandra",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "53R",
+        "crn": "17785",
+        "instructor": "Reck, Erich",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "67F",
+        "crn": "27533",
+        "instructor": "Ferrero, Luca",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "68F",
+        "crn": "29712",
+        "instructor": "Frost, Kim",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "91S",
+        "crn": "17789",
+        "instructor": "Schwitzgebel, Eric",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      },
+      {
+        "section": "C12",
+        "crn": "17767",
+        "instructor": "Clark, Maude",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "C44",
+        "crn": "29626",
+        "instructor": "Cherry, Myisha",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "H14",
+        "crn": "17768",
+        "instructor": "Harmer, Adam",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "M30",
+        "crn": "17769",
+        "instructor": "Muller, Josef",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "PHIL299": {
+    "title": "RESEARCH FOR THESIS OR DISSERTATION",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "01G",
+        "crn": "17792",
+        "instructor": "Graham, Peter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "17F",
+        "crn": "17796",
+        "instructor": "Fischer, John",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "17K",
+        "crn": "17797",
+        "instructor": "Keller, Pierre",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "28N",
+        "crn": "17798",
+        "instructor": "Nelson, Michael",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "28W",
+        "crn": "17799",
+        "instructor": "Wettstein, H",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "36J",
+        "crn": "17800",
+        "instructor": "Jaworska, Agnieszka",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "45C",
+        "crn": "17803",
+        "instructor": "Cranor, Carl",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "45M",
+        "crn": "17804",
+        "instructor": "MacNamara, Coleen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "51R",
+        "crn": "17805",
+        "instructor": "Reath, Andrews",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "53N",
+        "crn": "29718",
+        "instructor": "Newton, Alexandra",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "53R",
+        "crn": "17806",
+        "instructor": "Reck, Erich",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "67F",
+        "crn": "29632",
+        "instructor": "Ferrero, Luca",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "68F",
+        "crn": "29713",
+        "instructor": "Frost, Kim",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "91S",
+        "crn": "17809",
+        "instructor": "Schwitzgebel, Eric",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "C12",
+        "crn": "25340",
+        "instructor": "Clark, Maude",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      },
+      {
+        "section": "C44",
+        "crn": "29627",
+        "instructor": "Cherry, Myisha",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "H14",
+        "crn": "17790",
+        "instructor": "Harmer, Adam",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "M30",
+        "crn": "29640",
+        "instructor": "Muller, Josef",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "PHIL302": {
+    "title": "TEACHING PRACTICUM",
+    "credits": "1-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17811",
+        "instructor": "Reath, Andrews",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 999,
+          "available": 999
+        }
+      },
+      {
+        "section": "01G",
+        "crn": "17812",
+        "instructor": "Graham, Peter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "17F",
+        "crn": "17820",
+        "instructor": "Fischer, John",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "17K",
+        "crn": "17821",
+        "instructor": "Keller, Pierre",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28N",
+        "crn": "17822",
+        "instructor": "Nelson, Michael",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28W",
+        "crn": "17823",
+        "instructor": "Wettstein, H",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "45C",
+        "crn": "17826",
+        "instructor": "Cranor, Carl",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "45M",
+        "crn": "17827",
+        "instructor": "MacNamara, Coleen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 30,
+          "available": 7
+        }
+      },
+      {
+        "section": "51R",
+        "crn": "17828",
+        "instructor": "Reath, Andrews",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "53R",
+        "crn": "17830",
+        "instructor": "Reck, Erich",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "91S",
+        "crn": "17836",
+        "instructor": "Schwitzgebel, Eric",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Clinic",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "PHIL400": {
+    "title": "RESEARCH AND PROFESSIONAL DEVELOPMENT WORKSHOP",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17837",
+        "instructor": "MacNamara, Coleen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 20,
+          "available": 10
+        }
+      }
+    ]
+  }
+}

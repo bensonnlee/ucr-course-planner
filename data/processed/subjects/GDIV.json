@@ -1,0 +1,85 @@
+{
+  "GDIV301": {
+    "title": "ADVANCED UNIVERSITY LEVEL PEDAGOGY",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28193",
+        "instructor": "Wilson, Emma",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "UOB",
+          "room": "145"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 16,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "GDIV403": {
+    "title": "INTERDISCIPLINARY SEMINAR:  RESEARCH AND SCHOLARSHIP ETHICS",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "25648",
+        "instructor": "Plemmons, Dena",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1500",
+          "endTime": "1650",
+          "building": "INTS",
+          "room": "1125"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 15,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "GDIV498I": {
+    "title": "INDIVIDUAL INTERNSHIP",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "15276",
+        "instructor": "Wilson, Emma",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 30,
+          "available": 25
+        }
+      }
+    ]
+  }
+}

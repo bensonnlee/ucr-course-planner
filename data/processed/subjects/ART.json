@@ -1,0 +1,965 @@
+{
+  "ART001": {
+    "title": "BEGINNING DRAWING AND DESIGN",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28564",
+        "instructor": "Herman, Nicholas",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "ARTS",
+          "room": "407"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 18,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "28565",
+        "instructor": "Herman, Nicholas",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1550",
+          "building": "ARTS",
+          "room": "407"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 18,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "ART002": {
+    "title": "BEGINNING PAINTING AND DESIGN",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28566",
+        "instructor": "Mackay, Amy",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "ARTS",
+          "room": "402"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 20,
+          "available": 1
+        }
+      },
+      {
+        "section": "021",
+        "crn": "28567",
+        "instructor": "Mackay, Amy",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1550",
+          "building": "ARTS",
+          "room": "402"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 20,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "ART003": {
+    "title": "INTRODUCTION TO PHOTOGRAPHIC PROCESSES",
+    "credits": "5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "10401",
+        "instructor": "Conaway, Sarah",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0900",
+          "endTime": "1150",
+          "building": "ARTS",
+          "room": "045"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 16,
+          "available": 0
+        }
+      },
+      {
+        "section": "002",
+        "crn": "20785",
+        "instructor": "Conaway, Sarah",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0900",
+          "endTime": "1150",
+          "building": "ARTS",
+          "room": "045"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 16,
+          "available": 1
+        }
+      },
+      {
+        "section": "021",
+        "crn": "10402",
+        "instructor": "Gowans, Jason",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1300",
+          "endTime": "1650",
+          "building": "ARTS",
+          "room": "311"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 16,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "20788",
+        "instructor": "Gowans, Jason",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1300",
+          "endTime": "1650",
+          "building": "ARTS",
+          "room": "311"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 16,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "ART005": {
+    "title": "BEGINNING SCULPTURE AND THREE-DIMENSIONAL DESIGN",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "20943",
+        "instructor": "Lim, Won Ju",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0900",
+          "endTime": "1150",
+          "building": "ARTS",
+          "room": "150"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 20,
+          "available": 1
+        }
+      },
+      {
+        "section": "002",
+        "crn": "10405",
+        "instructor": "Williamson, Lisa",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1300",
+          "endTime": "1550",
+          "building": "ARTS",
+          "room": "150"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 20,
+          "available": 2
+        }
+      },
+      {
+        "section": "021",
+        "crn": "20944",
+        "instructor": "Rojas, Gabriel",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0900",
+          "endTime": "1150",
+          "building": "ARTS",
+          "room": "150"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 20,
+          "available": 1
+        }
+      },
+      {
+        "section": "022",
+        "crn": "19953",
+        "instructor": "Rojas, Gabriel",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1300",
+          "endTime": "1550",
+          "building": "ARTS",
+          "room": "150"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 20,
+          "available": 2
+        }
+      }
+    ]
+  },
+  "ART006": {
+    "title": "INTRODUCTION TO CONTEMPORARY CRITICAL ISSUES IN ART",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36315",
+        "instructor": "Larios, Wesley",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1600",
+          "endTime": "1850",
+          "building": "ARTS",
+          "room": "335"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 62,
+          "capacity": 65,
+          "available": 3
+        }
+      },
+      {
+        "section": "021",
+        "crn": "36528",
+        "instructor": "Brady, Chris",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "ARTS",
+          "room": "045"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "022",
+        "crn": "36529",
+        "instructor": "Brady, Chris",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "ARTS",
+          "room": "045"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "36530",
+        "instructor": "Brady, Chris",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "ARTS",
+          "room": "045"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 15,
+          "available": 2
+        }
+      }
+    ]
+  },
+  "ART010": {
+    "title": "INTRODUCTION TO VIDEO AND TIME-BASED EXPERIMENTATION",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28570",
+        "instructor": "Savitsky, Matthew",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1300",
+          "endTime": "1550",
+          "building": "ARTS",
+          "room": "045"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 16,
+          "available": 1
+        }
+      },
+      {
+        "section": "021",
+        "crn": "28571",
+        "instructor": "Savitsky, Matthew",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1300",
+          "endTime": "1550",
+          "building": "ARTS",
+          "room": "311"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 16,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "ART032": {
+    "title": "ART STUDIO ONE",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "26956",
+        "instructor": "Mole, Olivia",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1300",
+          "endTime": "1550",
+          "building": "ARTS",
+          "room": "045"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 16,
+          "available": -1
+        }
+      },
+      {
+        "section": "021",
+        "crn": "26958",
+        "instructor": "Gowans, Jason",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1550",
+          "building": "ARTS",
+          "room": "311"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 16,
+          "available": -1
+        }
+      }
+    ]
+  },
+  "ART066": {
+    "title": "INTRODUCTION TO THREE-DIMENSIONAL DIGITAL MODELING",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38024",
+        "instructor": "Miller, Nicolas",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0900",
+          "endTime": "1150",
+          "building": "ARTS",
+          "room": "311"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 16,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38025",
+        "instructor": "Miller, Nicolas",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0900",
+          "endTime": "1150",
+          "building": "ARTS",
+          "room": "311"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 16,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "ART110": {
+    "title": "INTERMEDIATE PAINTING",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ART110(\n Course or Test: Art 001 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Art 002 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36317",
+        "instructor": "Nye, Laurie",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "ARTS",
+          "room": "405"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 16,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "36318",
+        "instructor": "Nye, Laurie",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1000",
+          "endTime": "1150",
+          "building": "ARTS",
+          "room": "405"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 16,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "ART123": {
+    "title": "CHROMALOGUE",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ART123)\nand\n(\n Course or Test: Art 001 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Art 002 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Art 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Art 005 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Art 010 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38021",
+        "instructor": "Min, Yunhee",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0900",
+          "endTime": "1150",
+          "building": "ARTS",
+          "room": "407"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 8,
+          "available": -9
+        }
+      }
+    ]
+  },
+  "ART132": {
+    "title": "ART STUDIO TWO",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ART132(\n Course or Test: Art 006 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Media and Cultural Studies 006 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Art 032 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "26959",
+        "instructor": "Lim, Won Ju",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1300",
+          "endTime": "1550",
+          "building": "ARTS",
+          "room": "045"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 16,
+          "available": -1
+        }
+      },
+      {
+        "section": "021",
+        "crn": "26960",
+        "instructor": "Gowans, Jason",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1550",
+          "building": "ARTS",
+          "room": "311"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 16,
+          "available": -1
+        }
+      }
+    ]
+  },
+  "ART140": {
+    "title": "INTERMEDIATE ANALOG PHOTOGRAPHY",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ART140(\n Course or Test: Art 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Art 071K \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38332",
+        "instructor": "Zaki, Amir",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0900",
+          "endTime": "1150",
+          "building": "ARTS",
+          "room": "045"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 16,
+          "available": 2
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38333",
+        "instructor": "Zaki, Amir",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1300",
+          "endTime": "1650",
+          "building": "ARTS",
+          "room": "015"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 16,
+          "available": 2
+        }
+      }
+    ]
+  },
+  "ART151": {
+    "title": "INTERMEDIATE VIDEO AND TIME-BASED EXPERIMENTATION",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ART151(\n Course or Test: Art 010 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38022",
+        "instructor": "Mole, Olivia",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0900",
+          "endTime": "1150",
+          "building": "ARTS",
+          "room": "045"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 16,
+          "available": 3
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38023",
+        "instructor": "Gowans, Jason",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0900",
+          "endTime": "1150",
+          "building": "ARTS",
+          "room": "311"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 16,
+          "available": 3
+        }
+      }
+    ]
+  },
+  "ART190": {
+    "title": "SPECIAL STUDIES",
+    "credits": "1-5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "16Z",
+        "crn": "10425",
+        "instructor": "Zaki, Amir",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      },
+      {
+        "section": "M55",
+        "crn": "35347",
+        "instructor": "Marsh, Lynne",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      }
+    ]
+  },
+  "ART198I": {
+    "title": "INDIVIDUAL INTERNSHIP",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "M55",
+        "crn": "38826",
+        "instructor": "Marsh, Lynne",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Field",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      }
+    ]
+  },
+  "ART285": {
+    "title": "PEER CRITIQUE",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "10447",
+        "instructor": "Lattu, Brandon",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1700",
+          "endTime": "1950",
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 12,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "ART292": {
+    "title": "CONCURRENT STUDIES IN ART",
+    "credits": "1-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "M55",
+        "crn": "38872",
+        "instructor": "Marsh, Lynne",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 12,
+          "available": 11
+        }
+      }
+    ]
+  },
+  "ART293": {
+    "title": "DIRECTED INDIVIDUAL STUDIO PRODUCTION",
+    "credits": "1-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38821",
+        "instructor": "Williamson, Lisa",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 5,
+          "available": 0
+        }
+      },
+      {
+        "section": "050",
+        "crn": "38851",
+        "instructor": "Savitsky, Matthew",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 5,
+          "available": 2
+        }
+      },
+      {
+        "section": "44D",
+        "crn": "38712",
+        "instructor": "Doyle, Jennifer",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 5,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "ART302": {
+    "title": "TEACHING PRACTICUM",
+    "credits": "1-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "71L",
+        "crn": "33418",
+        "instructor": "Long, Charles",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,4190 @@
+{
+  "MUS001": {
+    "title": "BASIC MUSICAL CONCEPTS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17236",
+        "instructor": "Moore, Frances",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0920",
+          "building": "ARTS",
+          "room": "157"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 73,
+          "capacity": 75,
+          "available": 2
+        }
+      },
+      {
+        "section": "021",
+        "crn": "17237",
+        "instructor": "Macz, Barbara",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "ARTS",
+          "room": "157"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "022",
+        "crn": "17238",
+        "instructor": "Macz, Barbara",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "ARTS",
+          "room": "157"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "023",
+        "crn": "17239",
+        "instructor": "Macz, Barbara",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "ARTS",
+          "room": "157"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "MUS006": {
+    "title": "INTRODUCTION TO WORLD MUSIC",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34149",
+        "instructor": "Ritter, Jonathan",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "LFSC",
+          "room": "1500"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 101,
+          "capacity": 290,
+          "available": 189
+        }
+      },
+      {
+        "section": "021",
+        "crn": "34495",
+        "instructor": "Neira de la Cadena, Eloy",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "ARTS",
+          "room": "136"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 15,
+          "available": 2
+        }
+      },
+      {
+        "section": "022",
+        "crn": "34496",
+        "instructor": "Huynh, Viet-Hai",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "ARTS",
+          "room": "213"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 25,
+          "available": 16
+        }
+      },
+      {
+        "section": "023",
+        "crn": "34497",
+        "instructor": "Huxtable, Nathan",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "ARTS",
+          "room": "214"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 25,
+          "available": 2
+        }
+      },
+      {
+        "section": "024",
+        "crn": "34498",
+        "instructor": "Neira de la Cadena, Eloy",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "ARTS",
+          "room": "214"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 25,
+          "available": 15
+        }
+      },
+      {
+        "section": "025",
+        "crn": "34499",
+        "instructor": "Vidales, Daniel",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "ARTS",
+          "room": "136"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 25,
+          "available": 19
+        }
+      },
+      {
+        "section": "026",
+        "crn": "34500",
+        "instructor": "Neira de la Cadena, Eloy",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "INTS",
+          "room": "2136"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 25,
+          "available": 20
+        }
+      },
+      {
+        "section": "027",
+        "crn": "34501",
+        "instructor": "Huxtable, Nathan",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "INTS",
+          "room": "1134"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 25,
+          "available": 13
+        }
+      },
+      {
+        "section": "028",
+        "crn": "34502",
+        "instructor": "Huxtable, Nathan",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "INTS",
+          "room": "1134"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 25,
+          "available": 21
+        }
+      },
+      {
+        "section": "029",
+        "crn": "34503",
+        "instructor": "Huynh, Viet-Hai",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "INTS",
+          "room": "1125"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 25,
+          "available": 20
+        }
+      },
+      {
+        "section": "030",
+        "crn": "34504",
+        "instructor": "Huynh, Viet-Hai",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "WAT",
+          "room": "1117"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 25,
+          "available": 24
+        }
+      },
+      {
+        "section": "031",
+        "crn": "34505",
+        "instructor": "Vidales, Daniel",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "WAT",
+          "room": "1117"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 25,
+          "available": 18
+        }
+      },
+      {
+        "section": "032",
+        "crn": "34506",
+        "instructor": "Vidales, Daniel",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "WAT",
+          "room": "1117"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 25,
+          "available": 19
+        }
+      }
+    ]
+  },
+  "MUS007": {
+    "title": "MUSIC IN MOVIES AND TV",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "33965",
+        "instructor": "Labor, Timothy",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "1050",
+          "building": "OLMH",
+          "room": "1212"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 36,
+          "capacity": 84,
+          "available": 48
+        }
+      },
+      {
+        "section": "021",
+        "crn": "34068",
+        "instructor": "Romano, Victoria",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "LFSC",
+          "room": "2418"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 14,
+          "available": 2
+        }
+      },
+      {
+        "section": "022",
+        "crn": "36842",
+        "instructor": "Romano, Victoria",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "PRCE",
+          "room": "3374"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 28,
+          "available": 16
+        }
+      },
+      {
+        "section": "023",
+        "crn": "36843",
+        "instructor": "Romano, Victoria",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "HMNSS",
+          "room": "1401"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 28,
+          "available": 16
+        }
+      }
+    ]
+  },
+  "MUS018": {
+    "title": "MUSIC OF SPAIN",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38273",
+        "instructor": "Clark, Walter",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1500",
+          "endTime": "1620",
+          "building": "UNLH",
+          "room": "1000"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 100,
+          "capacity": 300,
+          "available": 200
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38275",
+        "instructor": "Reyes Paz, Ricardo",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "ARTS",
+          "room": "136"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 25,
+          "available": 2
+        }
+      },
+      {
+        "section": "022",
+        "crn": "38276",
+        "instructor": "Reyes Paz, Ricardo",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "ARTS",
+          "room": "136"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 25,
+          "available": 7
+        }
+      },
+      {
+        "section": "023",
+        "crn": "38277",
+        "instructor": "Reyes Paz, Ricardo",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "ARTS",
+          "room": "136"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 25,
+          "available": 6
+        }
+      },
+      {
+        "section": "024",
+        "crn": "38278",
+        "instructor": "Nobre, Mariangela",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "ARTS",
+          "room": "136"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 25,
+          "available": 15
+        }
+      },
+      {
+        "section": "025",
+        "crn": "38279",
+        "instructor": "Nobre, Mariangela",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "ARTS",
+          "room": "136"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 25,
+          "available": 21
+        }
+      },
+      {
+        "section": "026",
+        "crn": "38280",
+        "instructor": "Nobre, Mariangela",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "ARTS",
+          "room": "136"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 25,
+          "available": 15
+        }
+      },
+      {
+        "section": "027",
+        "crn": "38282",
+        "instructor": "Madrid, David",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "ARTS",
+          "room": "157"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 25,
+          "available": 16
+        }
+      },
+      {
+        "section": "028",
+        "crn": "38284",
+        "instructor": "Madrid, David",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "ARTS",
+          "room": "157"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 25,
+          "available": 23
+        }
+      },
+      {
+        "section": "031",
+        "crn": "38287",
+        "instructor": "Madrid, David",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "ARTS",
+          "room": null
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 25,
+          "available": 20
+        }
+      }
+    ]
+  },
+  "MUS023": {
+    "title": "AUDIO RECORDING AND PRODUCTION",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34507",
+        "instructor": "Butterworth, Bradley",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1430",
+          "endTime": "1550",
+          "building": "OFFCM",
+          "room": "SITE"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "34510",
+        "instructor": "Butterworth, Bradley",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "OFFCM",
+          "room": "SITE"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "MUS030A": {
+    "title": "HARMONY",
+    "credits": "4",
+    "prerequisites": "Prerequisites:MUS030A(\n Course or Test: Music 010 \n Minimum Grade of D-\n May not be taken concurrently.Music Theory Score for Prereq 602 to 603\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17263",
+        "instructor": "Barnett, Gary",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "ARTS",
+          "room": "054"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 30,
+          "available": 3
+        }
+      },
+      {
+        "section": "021",
+        "crn": "20239",
+        "instructor": "Barnett, Gary",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 30,
+          "available": 3
+        }
+      }
+    ]
+  },
+  "MUS031A": {
+    "title": "MUSIC THEORY AND MUSICIANSHIP I",
+    "credits": "4",
+    "prerequisites": "Prerequisites:MUS031A)\nand\n(\n Course or Test: Music 010 \n Minimum Grade of D-\n May not be taken concurrently.Music Theory Score for Prereq 602 to 603\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "20423",
+        "instructor": "Barnett, Gary",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "ARTS",
+          "room": "054"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 25,
+          "available": 3
+        }
+      },
+      {
+        "section": "021",
+        "crn": "20424",
+        "instructor": "Plett, Cal",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "ARTS",
+          "room": "054"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 13,
+          "available": 1
+        }
+      },
+      {
+        "section": "022",
+        "crn": "22505",
+        "instructor": "Plett, Cal",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "ARTS",
+          "room": "054"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 12,
+          "available": 2
+        }
+      }
+    ]
+  },
+  "MUS032": {
+    "title": "CLASS PIANO",
+    "credits": "2",
+    "prerequisites": "Prerequisites:MUS032(\n Course or Test: Music 010 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38289",
+        "instructor": "Moellenberg, Todd",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "ARTS",
+          "room": "054"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 24,
+          "available": 16
+        }
+      }
+    ]
+  },
+  "MUS044": {
+    "title": "INTRODUCTION TO SONGWRITING",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34512",
+        "instructor": "Butterworth, Bradley",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "OFFCM",
+          "room": "SITE"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 25,
+          "available": 3
+        }
+      }
+    ]
+  },
+  "MUS080E": {
+    "title": "VOICE",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17268",
+        "instructor": "Cato, Ralph",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "002",
+        "crn": "17269",
+        "instructor": "Wiest, Kirsten",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 20,
+          "available": 12
+        }
+      }
+    ]
+  },
+  "MUS080F": {
+    "title": "CLASSICAL PIANO",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17270",
+        "instructor": "Moellenberg, Todd",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 20,
+          "available": 15
+        }
+      }
+    ]
+  },
+  "MUS080G": {
+    "title": "JAZZ PIANO",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34788",
+        "instructor": "Araoka, Christine",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 10,
+          "available": 7
+        }
+      }
+    ]
+  },
+  "MUS080J": {
+    "title": "CARILLON",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17272",
+        "instructor": "Christensen, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      }
+    ]
+  },
+  "MUS080K": {
+    "title": "JAZZ GUITAR",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17273",
+        "instructor": "Scarano, Robert",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 20,
+          "available": 17
+        }
+      }
+    ]
+  },
+  "MUS080L": {
+    "title": "ELECTRIC BASS GUITAR",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17274",
+        "instructor": "Wyckoff, Matthew",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "MUS080N": {
+    "title": "CLASSICAL GUITAR",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "31221",
+        "instructor": "Hudde, Hermann",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      }
+    ]
+  },
+  "MUS080P": {
+    "title": "PIANO PROFICIENCY",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17276",
+        "instructor": "Moellenberg, Todd",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      }
+    ]
+  },
+  "MUS080Q": {
+    "title": "ORGAN",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17277",
+        "instructor": "Christensen, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      }
+    ]
+  },
+  "MUS080R": {
+    "title": "VIOLIN",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17278",
+        "instructor": "Moore, Frances",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      }
+    ]
+  },
+  "MUS080S": {
+    "title": "VIOLA",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17279",
+        "instructor": "Moore, Frances",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "MUS080T": {
+    "title": "VIOLONCELLO",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17280",
+        "instructor": "Maldonado, Ana",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "MUS080U": {
+    "title": "DOUBLE BASS JAZZ",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28962",
+        "instructor": "Baldwin, Spencer",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "002",
+        "crn": "28965",
+        "instructor": "Torres, Martin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "MUS080V": {
+    "title": "HARP",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "31560",
+        "instructor": "Chan Valerio, Celia",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      }
+    ]
+  },
+  "MUS081E": {
+    "title": "TRUMPET - CLASSICAL",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17282",
+        "instructor": "Welchez, Joshua",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "002",
+        "crn": "33154",
+        "instructor": "Pittel, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "MUS081G": {
+    "title": "TUBA",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17284",
+        "instructor": "Sutherland, Scott",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "MUS081I": {
+    "title": "FRENCH HORN",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17285",
+        "instructor": "Cherry, Lisa",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "MUS081J": {
+    "title": "FLUTE",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36568",
+        "instructor": "Tavolacci, Christine",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "MUS081K": {
+    "title": "OBOE",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34792",
+        "instructor": "Geering, Lisa",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      }
+    ]
+  },
+  "MUS081L": {
+    "title": "CLARINET",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17288",
+        "instructor": "Schroerlucke, Leslie",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "MUS081N": {
+    "title": "SAXOPHONE",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "27342",
+        "instructor": "Ragsdale, Steven",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "MUS081P": {
+    "title": "MARIMBA/SNARE DRUM",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17291",
+        "instructor": "Rodriguez, Henry",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 10,
+          "available": 8
+        }
+      },
+      {
+        "section": "002",
+        "crn": "17292",
+        "instructor": "McNamara, Ray",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      }
+    ]
+  },
+  "MUS112A": {
+    "title": "HISTORY OF WESTERN MUSIC: MIDDLE AGES TO 1700",
+    "credits": "4",
+    "prerequisites": "Prerequisites:MUS112A)\nand\n(\n Course or Test: Music 030A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Music 030B \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Music 030C \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17295",
+        "instructor": "Clark, Walter",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1000",
+          "endTime": "1150",
+          "building": "ARTS",
+          "room": "136"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "20241",
+        "instructor": "Clark, Walter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "TBA",
+          "room": "TBA"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "MUS126": {
+    "title": "GENDER, SEXUALITY, AND MUSIC IN CROSS-CULTURAL PERSPECTIVES",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38338",
+        "instructor": "Skjerseth, Amy",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1330",
+          "endTime": "1450",
+          "building": "ARTS",
+          "room": "136"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 25,
+          "available": -2
+        }
+      }
+    ]
+  },
+  "MUS131A": {
+    "title": "MUSIC THEORY AND MUSICIANSHIP 2",
+    "credits": "4",
+    "prerequisites": "Prerequisites:MUS131A(\n Course or Test: Music 031C \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34864",
+        "instructor": "Barnett, Gary",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "ARTS",
+          "room": "054"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 25,
+          "available": 5
+        }
+      },
+      {
+        "section": "021",
+        "crn": "34865",
+        "instructor": "Lee, Amelia",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "ARTS",
+          "room": "054"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 13,
+          "available": 2
+        }
+      },
+      {
+        "section": "022",
+        "crn": "34866",
+        "instructor": "Lee, Amelia",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "ARTS",
+          "room": "054"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 12,
+          "available": 3
+        }
+      }
+    ]
+  },
+  "MUS136": {
+    "title": "JAZZ THEORY",
+    "credits": "4",
+    "prerequisites": "Prerequisites:MUS136(\n Course or Test: Music 030A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Music 030B \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Music 030C \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38290",
+        "instructor": "Welchez, Joshua",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1630",
+          "endTime": "1750",
+          "building": "ARTS",
+          "room": "136"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 25,
+          "available": 9
+        }
+      }
+    ]
+  },
+  "MUS149": {
+    "title": "COMPOSITION FORUM AND STUDIO",
+    "credits": "4",
+    "prerequisites": "Prerequisites:MUS149(\n Course or Test: Music 037 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38089",
+        "instructor": "Kaufman, Dana",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1130",
+          "endTime": "1250",
+          "building": "ARTS",
+          "room": "136"
+        },
+        "type": "Colloquium",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 25,
+          "available": 15
+        }
+      },
+      {
+        "section": "002",
+        "crn": "38090",
+        "instructor": "Kaufman, Dana",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1130",
+          "endTime": "1250",
+          "building": "ARTS",
+          "room": "136"
+        },
+        "type": "Colloquium",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 25,
+          "available": 25
+        }
+      }
+    ]
+  },
+  "MUS160": {
+    "title": "ORCHESTRA",
+    "credits": "1-2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17297",
+        "instructor": "Charloff, Ruth",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1600",
+          "endTime": "1750",
+          "building": "ARTS",
+          "room": "157"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 29,
+          "capacity": 70,
+          "available": 41
+        }
+      }
+    ]
+  },
+  "MUS162": {
+    "title": "UNIVERSITY OF CALIFORNIA, RIVERSIDE CHORALE",
+    "credits": "1-2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17298",
+        "instructor": "Charloff, Ruth",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "ARTS",
+          "room": "157"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 54,
+          "capacity": 75,
+          "available": 21
+        }
+      }
+    ]
+  },
+  "MUS163": {
+    "title": "CHAMBER SINGERS",
+    "credits": "1-2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17299",
+        "instructor": "Charloff, Ruth",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "ARTS",
+          "room": "157"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 45,
+          "available": 28
+        }
+      }
+    ]
+  },
+  "MUS164": {
+    "title": "JAZZ ENSEMBLE",
+    "credits": "1-2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17300",
+        "instructor": "Welchez, Joshua",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1930",
+          "endTime": "2050",
+          "building": "ARTS",
+          "room": "157"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 45,
+          "available": 27
+        }
+      }
+    ]
+  },
+  "MUS165": {
+    "title": "CONCERT BAND",
+    "credits": "1-2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17301",
+        "instructor": "Duenas, Armando",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1800",
+          "endTime": "1920",
+          "building": "ARTS",
+          "room": "157"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 36,
+          "capacity": 50,
+          "available": 14
+        }
+      }
+    ]
+  },
+  "MUS166F": {
+    "title": "IMPROVISATORY ENSEMBLE",
+    "credits": "1-2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17302",
+        "instructor": "Welchez, Joshua",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1800",
+          "endTime": "1920",
+          "building": "ARTS",
+          "room": "157"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 25,
+          "available": 15
+        }
+      }
+    ]
+  },
+  "MUS166G": {
+    "title": "CHAMBER MUSIC",
+    "credits": "1-2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17303",
+        "instructor": "Moore, Frances",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": "ARTS",
+          "room": "159"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 25,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "MUS167": {
+    "title": "SENIOR RECITAL",
+    "credits": "1-2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "30854",
+        "instructor": "Ritter, Jonathan",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1150",
+          "building": "ARTS",
+          "room": "159"
+        },
+        "type": "Activity",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 12,
+          "available": 12
+        }
+      }
+    ]
+  },
+  "MUS168": {
+    "title": "JAVANESE GAMELAN ENSEMBLE: BEGINNING",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38086",
+        "instructor": "Sutrisno, Joko",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1800",
+          "endTime": "2050",
+          "building": "ATH",
+          "room": "158"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 25,
+          "available": 18
+        }
+      }
+    ]
+  },
+  "MUS169": {
+    "title": "TAIKO ENSEMBLE",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17304",
+        "instructor": "Nguyen, Terry",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1100",
+          "endTime": "1250",
+          "building": "BARN",
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 20,
+          "available": 16
+        }
+      },
+      {
+        "section": "002",
+        "crn": "34931",
+        "instructor": "Nguyen, Terry",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0900",
+          "endTime": "1050",
+          "building": "BARN",
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 20,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "MUS170": {
+    "title": "RONDALLA ENSEMBLE",
+    "credits": "1-2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17305",
+        "instructor": "De Leon, Tagumpay",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1650",
+          "building": "ATH",
+          "room": "158"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 25,
+          "available": 23
+        }
+      }
+    ]
+  },
+  "MUS174": {
+    "title": "LATIN AMERICAN MUSIC ENSEMBLE",
+    "credits": "1-2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38088",
+        "instructor": "Moscoso Borja, Emilia",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1900",
+          "endTime": "2150",
+          "building": "ATH",
+          "room": "158"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 25,
+          "available": 18
+        }
+      }
+    ]
+  },
+  "MUS175A": {
+    "title": "BEGINNING MARIACHI ENSEMBLE",
+    "credits": "1-2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17306",
+        "instructor": "Flores, Cynthia",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1130",
+          "endTime": "1220",
+          "building": "ATH",
+          "room": "158"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 25,
+          "available": 6
+        }
+      }
+    ]
+  },
+  "MUS180E": {
+    "title": "VOICE",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17310",
+        "instructor": "Cato, Ralph",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 30,
+          "available": 23
+        }
+      },
+      {
+        "section": "002",
+        "crn": "17311",
+        "instructor": "Wiest, Kirsten",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 20,
+          "available": 9
+        }
+      }
+    ]
+  },
+  "MUS180F": {
+    "title": "CLASSICAL PIANO",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17312",
+        "instructor": "Moellenberg, Todd",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 20,
+          "available": 13
+        }
+      }
+    ]
+  },
+  "MUS180G": {
+    "title": "JAZZ PIANO",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34789",
+        "instructor": "Araoka, Christine",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 10,
+          "available": 6
+        }
+      }
+    ]
+  },
+  "MUS180J": {
+    "title": "CARILLON",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17314",
+        "instructor": "Christensen, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "MUS180K": {
+    "title": "JAZZ GUITAR",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17315",
+        "instructor": "Scarano, Robert",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      }
+    ]
+  },
+  "MUS180L": {
+    "title": "ELECTRIC BASS GUITAR",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17316",
+        "instructor": "Wyckoff, Matthew",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "MUS180N": {
+    "title": "CLASSICAL GUITAR",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "31222",
+        "instructor": "Hudde, Hermann",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 5,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "MUS180P": {
+    "title": "PIANO PROFICIENCY",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28961",
+        "instructor": "Moellenberg, Todd",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "MUS180Q": {
+    "title": "ORGAN",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17318",
+        "instructor": "Christensen, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "MUS180R": {
+    "title": "VIOLIN",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17319",
+        "instructor": "Moore, Frances",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      }
+    ]
+  },
+  "MUS180S": {
+    "title": "VIOLA",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17320",
+        "instructor": "Moore, Frances",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "MUS180T": {
+    "title": "VIOLONCELLO",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17321",
+        "instructor": "Maldonado, Ana",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 10,
+          "available": 8
+        }
+      }
+    ]
+  },
+  "MUS180U": {
+    "title": "DOUBLE BASS JAZZ",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28963",
+        "instructor": "Baldwin, Spencer",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "002",
+        "crn": "28966",
+        "instructor": "Torres, Martin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 10,
+          "available": 8
+        }
+      }
+    ]
+  },
+  "MUS180V": {
+    "title": "HARP",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "31561",
+        "instructor": "Chan Valerio, Celia",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "MUS181E": {
+    "title": "TRUMPET - CLASSICAL",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17323",
+        "instructor": "Welchez, Joshua",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "002",
+        "crn": "33155",
+        "instructor": "Pittel, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "MUS181G": {
+    "title": "TUBA",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17325",
+        "instructor": "Sutherland, Scott",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "MUS181I": {
+    "title": "FRENCH HORN",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17326",
+        "instructor": "Cherry, Lisa",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "MUS181J": {
+    "title": "FLUTE",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17327",
+        "instructor": "Tavolacci, Christine",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      }
+    ]
+  },
+  "MUS181K": {
+    "title": "OBOE",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34793",
+        "instructor": "Geering, Lisa",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "MUS181L": {
+    "title": "CLARINET",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17329",
+        "instructor": "Schroerlucke, Leslie",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "MUS181N": {
+    "title": "SAXOPHONE",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "27341",
+        "instructor": "Ragsdale, Steven",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 10,
+          "available": 8
+        }
+      }
+    ]
+  },
+  "MUS181P": {
+    "title": "MARIMBA/SNARE DRUM",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17332",
+        "instructor": "Rodriguez, Henry",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 10,
+          "available": 7
+        }
+      },
+      {
+        "section": "002",
+        "crn": "17333",
+        "instructor": "McNamara, Ray",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "MUS190": {
+    "title": "SPECIAL STUDIES",
+    "credits": "1-5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "3S1",
+        "crn": "38918",
+        "instructor": "Skjerseth, Amy",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      }
+    ]
+  },
+  "MUS195": {
+    "title": "SENIOR THESIS",
+    "credits": "1-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "54W",
+        "crn": "17348",
+        "instructor": "Wong, Deborah",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "MUS198I": {
+    "title": "INDIVIDUAL INTERNSHIP",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "71R",
+        "crn": "38883",
+        "instructor": "Ritter, Jonathan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "92K",
+        "crn": "38861",
+        "instructor": "Kaufman, Dana",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 10,
+          "available": 6
+        }
+      },
+      {
+        "section": "C98",
+        "crn": "37089",
+        "instructor": "Chavez, Xochitl",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "MUS201": {
+    "title": "PROSEMINAR IN THE ANALYSIS OF WESTERN MUSIC",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38050",
+        "instructor": "Chagas, Paulo",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0900",
+          "endTime": "1150",
+          "building": "ARTS",
+          "room": "213"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 12,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "MUS256": {
+    "title": "ELECTROACOUSTIC AND COMPUTER MUSIC COMPOSITION",
+    "credits": "4",
+    "prerequisites": "Prerequisites:MUS256(\n Course or Test: Mathematics 004 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38052",
+        "instructor": "Dicke, Ian",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1330",
+          "endTime": "1620",
+          "building": "ARTS",
+          "room": "213"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 12,
+          "available": 4
+        }
+      }
+    ]
+  },
+  "MUS271": {
+    "title": "AREA STUDIES RESEARCH IN MUSIC",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38061",
+        "instructor": "Chavez, Xochitl",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1300",
+          "endTime": "1550",
+          "building": "ARTS",
+          "room": "213"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 12,
+          "available": 3
+        }
+      }
+    ]
+  },
+  "MUS290": {
+    "title": "DIRECTED STUDIES",
+    "credits": "1-6",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "54W",
+        "crn": "17367",
+        "instructor": "Wong, Deborah",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "68D",
+        "crn": "17369",
+        "instructor": "Dicke, Ian",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "71R",
+        "crn": "17370",
+        "instructor": "Ritter, Jonathan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "73P",
+        "crn": "22878",
+        "instructor": "Przybylski, Liz",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "92C",
+        "crn": "17371",
+        "instructor": "Clark, Walter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "92K",
+        "crn": "29836",
+        "instructor": "Kaufman, Dana",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "B15",
+        "crn": "17362",
+        "instructor": "Budasz, Rogerio",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "C66",
+        "crn": "17363",
+        "instructor": "Chagas, Paulo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "C98",
+        "crn": "36572",
+        "instructor": "Chavez, Xochitl",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "S24",
+        "crn": "17364",
+        "instructor": "Saavedra, Leonora",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "MUS291": {
+    "title": "INDIVIDUAL STUDY IN COORDINATED AREAS",
+    "credits": "1-6",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "54W",
+        "crn": "17377",
+        "instructor": "Wong, Deborah",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      },
+      {
+        "section": "68D",
+        "crn": "17379",
+        "instructor": "Dicke, Ian",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "71R",
+        "crn": "17380",
+        "instructor": "Ritter, Jonathan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "73P",
+        "crn": "29611",
+        "instructor": "Przybylski, Liz",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "92C",
+        "crn": "17381",
+        "instructor": "Clark, Walter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "92K",
+        "crn": "33237",
+        "instructor": "Kaufman, Dana",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "B15",
+        "crn": "17372",
+        "instructor": "Budasz, Rogerio",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "C66",
+        "crn": "17373",
+        "instructor": "Chagas, Paulo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "C98",
+        "crn": "36573",
+        "instructor": "Chavez, Xochitl",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "S24",
+        "crn": "17374",
+        "instructor": "Saavedra, Leonora",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "MUS292": {
+    "title": "CONCURRENT ANALYTICAL STUDIES IN MUSIC",
+    "credits": "1-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "54W",
+        "crn": "17387",
+        "instructor": "Wong, Deborah",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "68D",
+        "crn": "22613",
+        "instructor": "Dicke, Ian",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "71R",
+        "crn": "17389",
+        "instructor": "Ritter, Jonathan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "73P",
+        "crn": "22765",
+        "instructor": "Przybylski, Liz",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "92C",
+        "crn": "17390",
+        "instructor": "Clark, Walter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "92K",
+        "crn": "29765",
+        "instructor": "Kaufman, Dana",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "B15",
+        "crn": "17382",
+        "instructor": "Budasz, Rogerio",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "C66",
+        "crn": "17383",
+        "instructor": "Chagas, Paulo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "C98",
+        "crn": "36807",
+        "instructor": "Chavez, Xochitl",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 12,
+          "available": 12
+        }
+      },
+      {
+        "section": "S24",
+        "crn": "17384",
+        "instructor": "Saavedra, Leonora",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "MUS293": {
+    "title": "COMPOSITION PRACTICUM",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "021",
+        "crn": "31436",
+        "instructor": "Dicke, Ian",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "022",
+        "crn": "31438",
+        "instructor": "Chagas, Paulo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      },
+      {
+        "section": "023",
+        "crn": "33236",
+        "instructor": "Kaufman, Dana",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 10,
+          "available": 6
+        }
+      },
+      {
+        "section": "68D",
+        "crn": "31435",
+        "instructor": "Dicke, Ian",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "92K",
+        "crn": "33235",
+        "instructor": "Kaufman, Dana",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 10,
+          "available": 5
+        }
+      },
+      {
+        "section": "C66",
+        "crn": "31437",
+        "instructor": "Chagas, Paulo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "MUS297": {
+    "title": "DIRECTED RESEARCH",
+    "credits": "1-6",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "54W",
+        "crn": "22672",
+        "instructor": "Wong, Deborah",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "68D",
+        "crn": "17395",
+        "instructor": "Dicke, Ian",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 5,
+          "available": 2
+        }
+      },
+      {
+        "section": "73P",
+        "crn": "36576",
+        "instructor": "Przybylski, Liz",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "92C",
+        "crn": "22900",
+        "instructor": "Clark, Walter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "92K",
+        "crn": "33230",
+        "instructor": "Kaufman, Dana",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "B15",
+        "crn": "27522",
+        "instructor": "Budasz, Rogerio",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "C66",
+        "crn": "33315",
+        "instructor": "Chagas, Paulo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "C98",
+        "crn": "36574",
+        "instructor": "Chavez, Xochitl",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "MUS299": {
+    "title": "RESEARCH FOR THESIS OR DISSERTATION",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "54W",
+        "crn": "17401",
+        "instructor": "Wong, Deborah",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      },
+      {
+        "section": "63L",
+        "crn": "29833",
+        "instructor": "Labor, Timothy",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "68D",
+        "crn": "17403",
+        "instructor": "Dicke, Ian",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      },
+      {
+        "section": "71R",
+        "crn": "17404",
+        "instructor": "Ritter, Jonathan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 5,
+          "available": 2
+        }
+      },
+      {
+        "section": "73P",
+        "crn": "31602",
+        "instructor": "Przybylski, Liz",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      },
+      {
+        "section": "92C",
+        "crn": "17405",
+        "instructor": "Clark, Walter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      },
+      {
+        "section": "92K",
+        "crn": "33238",
+        "instructor": "Kaufman, Dana",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "B15",
+        "crn": "17396",
+        "instructor": "Budasz, Rogerio",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "C66",
+        "crn": "17397",
+        "instructor": "Chagas, Paulo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "C98",
+        "crn": "25564",
+        "instructor": "Chavez, Xochitl",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "S24",
+        "crn": "17398",
+        "instructor": "Saavedra, Leonora",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "MUS301": {
+    "title": "DIRECTED STUDIES IN THE TEACHING OF MUSIC",
+    "credits": "3",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38274",
+        "instructor": "Przybylski, Liz",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1000",
+          "endTime": "1150",
+          "building": "ARTS",
+          "room": "213"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 12,
+          "available": 4
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38281",
+        "instructor": "Przybylski, Liz",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 12,
+          "available": 4
+        }
+      }
+    ]
+  },
+  "MUS400": {
+    "title": "RESEARCH AND PROFESSIONAL DEVELOPMENT WORKSHOP",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38283",
+        "instructor": "Przybylski, Liz",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "ARTS",
+          "room": "213"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 12,
+          "available": 5
+        }
+      }
+    ]
+  }
+}

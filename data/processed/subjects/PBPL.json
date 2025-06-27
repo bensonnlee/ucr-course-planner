@@ -1,0 +1,1624 @@
+{
+  "PBPL001": {
+    "title": "INTRODUCTION TO PUBLIC POLICY ANALYSIS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17586",
+        "instructor": "Ahumada, Elaine",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "SSC",
+          "room": "229"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 392,
+          "capacity": 402,
+          "available": 10
+        }
+      },
+      {
+        "section": "023",
+        "crn": "17589",
+        "instructor": "Yared, Hermona",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "SPR",
+          "room": "2351"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "26842",
+        "instructor": "Yared, Hermona",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "26843",
+        "instructor": "Gomez, Brenda",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 29,
+          "capacity": 30,
+          "available": 1
+        }
+      },
+      {
+        "section": "026",
+        "crn": "26844",
+        "instructor": "Gomez, Brenda",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "027",
+        "crn": "30609",
+        "instructor": "Harris, Tyra",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 29,
+          "capacity": 30,
+          "available": 1
+        }
+      },
+      {
+        "section": "028",
+        "crn": "30610",
+        "instructor": "Anguiano, Jazmin",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "029",
+        "crn": "30611",
+        "instructor": "Anguiano, Jazmin",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "INTN",
+          "room": "4023"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 20,
+          "available": 0
+        }
+      },
+      {
+        "section": "030",
+        "crn": "35995",
+        "instructor": "Harris, Tyra",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "031",
+        "crn": "31572",
+        "instructor": "Anguiano, Jazmin",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "INTN",
+          "room": "4023"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 20,
+          "available": 1
+        }
+      },
+      {
+        "section": "032",
+        "crn": "31573",
+        "instructor": "Harris, Tyra",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 29,
+          "capacity": 30,
+          "available": 1
+        }
+      },
+      {
+        "section": "033",
+        "crn": "36930",
+        "instructor": "Gomez, Brenda",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "INTN",
+          "room": "4023"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 23,
+          "available": 2
+        }
+      },
+      {
+        "section": "034",
+        "crn": "36931",
+        "instructor": "Anguiano, Jazmin",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "INTN",
+          "room": "4023"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 20,
+          "available": 0
+        }
+      },
+      {
+        "section": "035",
+        "crn": "38255",
+        "instructor": "Yared, Hermona",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "INTN",
+          "room": "4023"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 20,
+          "available": 0
+        }
+      },
+      {
+        "section": "036",
+        "crn": "38256",
+        "instructor": "Yared, Hermona",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "INTN",
+          "room": "4023"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 20,
+          "available": 0
+        }
+      },
+      {
+        "section": "037",
+        "crn": "38257",
+        "instructor": "Harris, Tyra",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "INTN",
+          "room": "4023"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 20,
+          "available": 4
+        }
+      },
+      {
+        "section": "038",
+        "crn": "38258",
+        "instructor": "Gomez, Brenda",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "INTN",
+          "room": "4023"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 19,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "PBPL002": {
+    "title": "POLITICS AND PUBLIC POLICY",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28401",
+        "instructor": "Brint, Steven",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "BRNHL",
+          "room": "B118"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 270,
+          "capacity": 300,
+          "available": 30
+        }
+      },
+      {
+        "section": "021",
+        "crn": "28403",
+        "instructor": "Dorado, Charles",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "INTN",
+          "room": "4023"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 20,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "28404",
+        "instructor": "Dorado, Charles",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 39,
+          "capacity": 40,
+          "available": 1
+        }
+      },
+      {
+        "section": "023",
+        "crn": "28405",
+        "instructor": "Dorado, Charles",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1530",
+          "endTime": "1620",
+          "building": "SPR",
+          "room": "2360"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 34,
+          "capacity": 40,
+          "available": 6
+        }
+      },
+      {
+        "section": "024",
+        "crn": "37706",
+        "instructor": "Shikunov, Nikolay",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "MSE",
+          "room": "103"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 31,
+          "capacity": 40,
+          "available": 9
+        }
+      },
+      {
+        "section": "025",
+        "crn": "37707",
+        "instructor": "Shikunov, Nikolay",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "SKYE",
+          "room": "170"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 37,
+          "capacity": 40,
+          "available": 3
+        }
+      },
+      {
+        "section": "026",
+        "crn": "37708",
+        "instructor": "Adenmosun, Tk",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1530",
+          "endTime": "1620",
+          "building": "SPR",
+          "room": "2343"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 38,
+          "capacity": 40,
+          "available": 2
+        }
+      },
+      {
+        "section": "027",
+        "crn": "37709",
+        "instructor": "Shikunov, Nikolay",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "INTN",
+          "room": "4023"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 20,
+          "available": 2
+        }
+      },
+      {
+        "section": "028",
+        "crn": "37710",
+        "instructor": "Adenmosun, Tk",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 35,
+          "capacity": 40,
+          "available": 5
+        }
+      },
+      {
+        "section": "029",
+        "crn": "37711",
+        "instructor": "Adenmosun, Tk",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "INTN",
+          "room": "4023"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 20,
+          "available": 2
+        }
+      }
+    ]
+  },
+  "PBPL004": {
+    "title": "ETHICS, PROFESSIONALISM, AND PUBLIC POLICY",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28397",
+        "instructor": "Carpiano, Richard",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "SSC",
+          "room": "329"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 173,
+          "capacity": 180,
+          "available": 7
+        }
+      },
+      {
+        "section": "021",
+        "crn": "28398",
+        "instructor": "Khalid, Munazza",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "INTS",
+          "room": "2132"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 29,
+          "capacity": 30,
+          "available": 1
+        }
+      },
+      {
+        "section": "022",
+        "crn": "28399",
+        "instructor": "Wagner Medina, Javier",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "SPR",
+          "room": "2351"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 29,
+          "capacity": 30,
+          "available": 1
+        }
+      },
+      {
+        "section": "023",
+        "crn": "32591",
+        "instructor": "Wagner Medina, Javier",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "INTS",
+          "room": "2134"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 29,
+          "capacity": 30,
+          "available": 1
+        }
+      },
+      {
+        "section": "024",
+        "crn": "37712",
+        "instructor": "Wagner Medina, Javier",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "WAT",
+          "room": "1117"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 29,
+          "capacity": 30,
+          "available": 1
+        }
+      },
+      {
+        "section": "025",
+        "crn": "37713",
+        "instructor": "Khalid, Munazza",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1530",
+          "endTime": "1620",
+          "building": "WAT",
+          "room": "1117"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 28,
+          "capacity": 30,
+          "available": 2
+        }
+      },
+      {
+        "section": "026",
+        "crn": "37714",
+        "instructor": "Khalid, Munazza",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "SSC",
+          "room": "125"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 29,
+          "capacity": 30,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "PBPL006": {
+    "title": "INTRODUCTION TO PUBLIC HEALTH",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "33902",
+        "instructor": "Carpiano, Richard",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "INTN",
+          "room": "1020"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 258,
+          "capacity": 300,
+          "available": 42
+        }
+      },
+      {
+        "section": "021",
+        "crn": "33903",
+        "instructor": "Chuquipul Calderon, Stephanie",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 33,
+          "capacity": 40,
+          "available": 7
+        }
+      },
+      {
+        "section": "022",
+        "crn": "33904",
+        "instructor": "Tontz, Brenda",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 31,
+          "capacity": 40,
+          "available": 9
+        }
+      },
+      {
+        "section": "023",
+        "crn": "33905",
+        "instructor": "Chuquipul Calderon, Stephanie",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 38,
+          "capacity": 40,
+          "available": 2
+        }
+      },
+      {
+        "section": "024",
+        "crn": "33906",
+        "instructor": "Tontz, Brenda",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "INTN",
+          "room": "4023"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 20,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "33907",
+        "instructor": "Chuquipul Calderon, Stephanie",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "SPR",
+          "room": "2360"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 36,
+          "capacity": 40,
+          "available": 4
+        }
+      },
+      {
+        "section": "026",
+        "crn": "33908",
+        "instructor": "Tontz, Brenda",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 34,
+          "capacity": 40,
+          "available": 6
+        }
+      },
+      {
+        "section": "027",
+        "crn": "33909",
+        "instructor": "Le, Jade",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "INTN",
+          "room": "4023"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 20,
+          "available": 0
+        }
+      },
+      {
+        "section": "028",
+        "crn": "33910",
+        "instructor": "Le, Jade",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "INTN",
+          "room": "4023"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 20,
+          "available": 0
+        }
+      },
+      {
+        "section": "029",
+        "crn": "33911",
+        "instructor": "Le, Jade",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "SPR",
+          "room": "2351"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 26,
+          "capacity": 40,
+          "available": 14
+        }
+      }
+    ]
+  },
+  "PBPL010": {
+    "title": "INTRODUCTION TO GEOGRAPHIC INFORMATION SYSTEMS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "35981",
+        "instructor": "Wei, Ran",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1300",
+          "endTime": "1420",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 76,
+          "capacity": 90,
+          "available": 14
+        }
+      },
+      {
+        "section": "021",
+        "crn": "35982",
+        "instructor": "Bruene, Sara",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 36,
+          "capacity": 45,
+          "available": 9
+        }
+      },
+      {
+        "section": "022",
+        "crn": "38626",
+        "instructor": "Bruene, Sara",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 40,
+          "capacity": 45,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "PBPL050": {
+    "title": "INTRODUCTION TO PUBLIC POLICY MAJOR AND UNIVERSITY",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37699",
+        "instructor": "Crosby, Andrew",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "SSC",
+          "room": "121"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 58,
+          "capacity": 60,
+          "available": 2
+        }
+      }
+    ]
+  },
+  "PBPL127": {
+    "title": "SOCIOLOGICAL DETERMINANTS OF HEALTH",
+    "credits": "4",
+    "prerequisites": "Prerequisites:PBPL127)\nand\n(\n Course or Test: Sociology 001 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Sociology 001H \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38322",
+        "instructor": "Link, Bruce",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "WAT",
+          "room": "1101"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 75,
+          "available": 71
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38323",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 25,
+          "available": 24
+        }
+      },
+      {
+        "section": "022",
+        "crn": "38324",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 25,
+          "available": 22
+        }
+      },
+      {
+        "section": "023",
+        "crn": "38325",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 25,
+          "available": 25
+        }
+      }
+    ]
+  },
+  "PBPL172": {
+    "title": "ENVIRONMENTAL POLICY",
+    "credits": "4",
+    "prerequisites": "Prerequisites:PBPL172)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37702",
+        "instructor": "Schwabe, Kurt",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "HMNSS",
+          "room": "1503"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 45,
+          "capacity": 50,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "PBPL180": {
+    "title": "LAW AND JUSTICE",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "002",
+        "crn": "35987",
+        "instructor": "Ramos, Mike",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "PHY",
+          "room": "2104"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 50,
+          "capacity": 50,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "PBPL182": {
+    "title": "URBAN PROBLEMS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38305",
+        "instructor": "Schmitt, Christopher",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "SSC",
+          "room": "316"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 9,
+          "available": 5
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38306",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      },
+      {
+        "section": "022",
+        "crn": "38309",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 2,
+          "available": 1
+        }
+      },
+      {
+        "section": "023",
+        "crn": "38311",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "WAT",
+          "room": "1147"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 5,
+          "available": 2
+        }
+      }
+    ]
+  },
+  "PBPL186": {
+    "title": "POLICY EVALUATION IN DEVELOPMENT ECONOMICS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:PBPL186(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "35545",
+        "instructor": "Hirshleifer, Sarojini",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "SSC",
+          "room": "121"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 10,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "PBPL191": {
+    "title": "SEMINAR IN PUBLIC POLICY",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17592",
+        "instructor": "Babcock, Bruce",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 51,
+          "capacity": 60,
+          "available": 9
+        }
+      }
+    ]
+  },
+  "PBPL197": {
+    "title": "RESEARCH FOR UNDERGRADUATES",
+    "credits": "4",
+    "prerequisites": "Prerequisites:PBPL197)\nand\n(\n Course or Test: Business 115 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Psychology 011 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Sociology 005 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Statistics 004 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Statistics 155 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "78A",
+        "crn": "38796",
+        "instructor": "Ayon, Cecilia",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 1,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "PBPL198I": {
+    "title": "INDIVIDUAL INTERNSHIP IN PUBLIC POLICY",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "B66",
+        "crn": "17595",
+        "instructor": "Babcock, Bruce",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 35,
+          "capacity": 50,
+          "available": 15
+        }
+      }
+    ]
+  },
+  "PBPL200": {
+    "title": "INTRODUCTION TO POLICY ANALYSIS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17596",
+        "instructor": "Babcock, Bruce",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1700",
+          "endTime": "1950",
+          "building": "INTS",
+          "room": "1121"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 36,
+          "capacity": 39,
+          "available": 3
+        }
+      }
+    ]
+  },
+  "PBPL205": {
+    "title": "RESEARCH DESIGN AND STATISTICS FOR PUBLIC POLICY",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37726",
+        "instructor": "Crosby, Andrew",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1700",
+          "endTime": "1950",
+          "building": "INTS",
+          "room": "1121"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 32,
+          "capacity": 35,
+          "available": 3
+        }
+      }
+    ]
+  },
+  "PBPL216": {
+    "title": "PUBLIC LEADERSHIP AND MANAGEMENT",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "33708",
+        "instructor": "D&#39;Anieri, Paul",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1700",
+          "endTime": "1950",
+          "building": "INTS",
+          "room": "1125"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 30,
+          "available": 9
+        }
+      }
+    ]
+  },
+  "PBPL222": {
+    "title": "ETHICS, PROFESSIONALISM, AND THE NORMATIVE BASES OF PUBLIC POLICIES",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "22410",
+        "instructor": "Link, Bruce",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1950",
+          "building": "INTS",
+          "room": "1121"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 32,
+          "capacity": 34,
+          "available": 2
+        }
+      }
+    ]
+  },
+  "PBPL233": {
+    "title": "ENVIRONMENTAL ECONOMICS AND POLICY",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37727",
+        "instructor": "Nemati, Mehdi",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1700",
+          "endTime": "1950",
+          "building": "INTS",
+          "room": "1125"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 15,
+          "available": 4
+        }
+      },
+      {
+        "section": "021",
+        "crn": "37728",
+        "instructor": "Nemati, Mehdi",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "2000",
+          "endTime": "2050",
+          "building": "INTS",
+          "room": "1125"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 15,
+          "available": 4
+        }
+      }
+    ]
+  },
+  "PBPL270F": {
+    "title": "BORDERLAND POLICIES AND COMMUNITY PROCESSES",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37729",
+        "instructor": "Ayon, Cecilia",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1700",
+          "endTime": "1950",
+          "building": "INTS",
+          "room": "1134"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 15,
+          "available": 2
+        }
+      }
+    ]
+  },
+  "PBPL298I": {
+    "title": "INDIVIDUAL INTERNSHIP",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "B66",
+        "crn": "33709",
+        "instructor": "Crosby, Andrew",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1700",
+          "endTime": "2050",
+          "building": "INTS",
+          "room": "1125"
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 30,
+          "available": 9
+        }
+      }
+    ]
+  }
+}

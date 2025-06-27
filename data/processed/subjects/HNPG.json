@@ -1,0 +1,666 @@
+{
+  "HNPG002W": {
+    "title": "PRINCIPLES OF CIVIC ENGAGEMENT",
+    "credits": "4",
+    "prerequisites": "Prerequisites:HNPG002W(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.and\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28411",
+        "instructor": "Echeverria, Begona",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1700",
+          "endTime": "1820",
+          "building": "LFSC",
+          "room": "1500"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 227,
+          "capacity": 300,
+          "available": 73
+        }
+      },
+      {
+        "section": "021",
+        "crn": "33560",
+        "instructor": "Samji, Ali",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "SKYE",
+          "room": "381M"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "33561",
+        "instructor": "Samji, Ali",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "SKYE",
+          "room": "381M"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "33562",
+        "instructor": "Torres, Julia",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "SKYE",
+          "room": "381M"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "33563",
+        "instructor": "Torres, Julia",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "SKYE",
+          "room": "381M"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "33564",
+        "instructor": "Herbert, Amanda",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "SKYE",
+          "room": "381M"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "026",
+        "crn": "33565",
+        "instructor": "Herbert, Amanda",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "SKYE",
+          "room": "381M"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "027",
+        "crn": "33566",
+        "instructor": "Harmon, Tessa",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "SKYE",
+          "room": "381M"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 25,
+          "available": 2
+        }
+      },
+      {
+        "section": "028",
+        "crn": "33567",
+        "instructor": "Harmon, Tessa",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "SKYE",
+          "room": "381M"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "029",
+        "crn": "36265",
+        "instructor": "Colchete, Nicole",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "SKYE",
+          "room": "381M"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 25,
+          "available": 2
+        }
+      },
+      {
+        "section": "030",
+        "crn": "36266",
+        "instructor": "Colchete, Nicole",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "INTS",
+          "room": "2138"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 25,
+          "available": 18
+        }
+      }
+    ]
+  },
+  "HNPG016": {
+    "title": "LITERATURE AND ANTHROPOCENE",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28362",
+        "instructor": "Beehler, Paul",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "SKYE",
+          "room": "381M"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 13,
+          "available": 1
+        }
+      },
+      {
+        "section": "002",
+        "crn": "32564",
+        "instructor": "Briggs, John",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "SKYE",
+          "room": "381M"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 13,
+          "available": -1
+        }
+      },
+      {
+        "section": "003",
+        "crn": "37627",
+        "instructor": "Rangarajan, Padma",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "SKYE",
+          "room": "381M"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 13,
+          "available": 8
+        }
+      }
+    ]
+  },
+  "HNPG017": {
+    "title": "INSECT CONSERVATION",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "002",
+        "crn": "34632",
+        "instructor": "Allison, Juliann",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "SKYE",
+          "room": "381M"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 13,
+          "available": 1
+        }
+      },
+      {
+        "section": "003",
+        "crn": "35814",
+        "instructor": "Maciejovsky, Boris",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0920",
+          "building": "SKYE",
+          "room": "381M"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 13,
+          "available": 0
+        }
+      },
+      {
+        "section": "004",
+        "crn": "37646",
+        "instructor": "Nelson, Michael",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "SKYE",
+          "room": "381M"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 13,
+          "available": -1
+        }
+      },
+      {
+        "section": "005",
+        "crn": "37647",
+        "instructor": "Ross, Daniel",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "SKYE",
+          "room": "381M"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 13,
+          "available": 0
+        }
+      },
+      {
+        "section": "006",
+        "crn": "37648",
+        "instructor": "Singh, Raj",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0800",
+          "endTime": "0920",
+          "building": "SKYE",
+          "room": "381M"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 13,
+          "available": 0
+        }
+      },
+      {
+        "section": "007",
+        "crn": "37649",
+        "instructor": "Tyrrell, Rosemary",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "HMNSS",
+          "room": "1502"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 13,
+          "available": 0
+        }
+      },
+      {
+        "section": "008",
+        "crn": "37650",
+        "instructor": "Woodard, Sarah",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "SKYE",
+          "room": "381M"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 13,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "HNPG018": {
+    "title": "POETRY FOR PHYSICISTS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "35813",
+        "instructor": "Cocker, David",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "SKYE",
+          "room": "381M"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 13,
+          "available": 1
+        }
+      },
+      {
+        "section": "002",
+        "crn": "35972",
+        "instructor": "Hansen, Allison",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "ENTOM",
+          "room": "161"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 13,
+          "available": 0
+        }
+      },
+      {
+        "section": "003",
+        "crn": "32560",
+        "instructor": "Huffman, Kelly",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "WAT",
+          "room": "2141"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 13,
+          "available": 0
+        }
+      },
+      {
+        "section": "004",
+        "crn": "32561",
+        "instructor": "Kim, Gloria",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1700",
+          "endTime": "1820",
+          "building": "INTS",
+          "room": "3156"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 13,
+          "available": 7
+        }
+      },
+      {
+        "section": "005",
+        "crn": "34947",
+        "instructor": "Reznick, David",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "SPTH",
+          "room": "1239"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 13,
+          "available": 1
+        }
+      },
+      {
+        "section": "006",
+        "crn": "34949",
+        "instructor": "Tanedo, Philip",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "SKYE",
+          "room": "381M"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 13,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "HNPG149": {
+    "title": "INTRODUCTION TO THE HONORS CAPSTONE",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36739",
+        "instructor": "Echeverria, Begona",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 189,
+          "capacity": 250,
+          "available": 61
+        }
+      }
+    ]
+  },
+  "HNPG199H": {
+    "title": "SENIOR HONORS RESEARCH",
+    "credits": "1-5",
+    "prerequisites": "Prerequisites:HNPG199H(\n Course or Test: Honors 198H \n Minimum Grade of B\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28472",
+        "instructor": "Echeverria, Begona",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 136,
+          "capacity": 400,
+          "available": 264
+        }
+      }
+    ]
+  }
+}

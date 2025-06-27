@@ -1,0 +1,95 @@
+{
+  "ARBC001": {
+    "title": "ELEMENTARY ARABIC",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ARBC001Language: Arabic Prereq 600 to 601\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32303",
+        "instructor": "Aljord, Huda",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "INTS",
+          "room": "2136"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 25,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "ARBC003": {
+    "title": "ELEMENTARY ARABIC",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ARBC003)\nand\n(\n Course or Test: Arabic Language 002 \n Minimum Grade of C-\n May not be taken concurrently.Language: Arabic Prereq 604 to 605\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "33036",
+        "instructor": "Aljord, Huda",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "INTS",
+          "room": "2138"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 25,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "ARBC004": {
+    "title": "INTERMEDIATE ARABIC",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ARBC004(\n Course or Test: Arabic Language 003 \n Minimum Grade of C-\n May not be taken concurrently.Language: Arabic Prereq 606 to 607\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32304",
+        "instructor": "Aljord, Huda",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "INTS",
+          "room": "2138"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 25,
+          "available": 14
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "FIL001": {
+    "title": "FIRST-YEAR FILIPINO",
+    "credits": "4",
+    "prerequisites": "Prerequisites:FIL001Language: Filipino Prereq 600 to 601\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "15234",
+        "instructor": "Ruedas, Priscilla",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "HMNSS",
+          "room": "1401"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "002",
+        "crn": "15235",
+        "instructor": "Ruedas, Priscilla",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "HMNSS",
+          "room": "1400"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 25,
+          "available": 8
+        }
+      }
+    ]
+  },
+  "FIL004": {
+    "title": "SECOND-YEAR FILIPINO",
+    "credits": "4",
+    "prerequisites": "Prerequisites:FIL004(\n Course or Test: Filipino 003 \n Minimum Grade of C-\n May not be taken concurrently.Language: Filipino Prereq 606 to 607\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "15236",
+        "instructor": "Ruedas, Priscilla",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "HMNSS",
+          "room": "1401"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 25,
+          "available": 12
+        }
+      }
+    ]
+  }
+}

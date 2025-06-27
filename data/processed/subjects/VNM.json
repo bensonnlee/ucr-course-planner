@@ -1,0 +1,88 @@
+{
+  "VNM001": {
+    "title": "ELEMENTARY VIETNAMESE",
+    "credits": "4",
+    "prerequisites": "Prerequisites:VNM001Language: Vietnamese Prereq 600 to 601\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "19927",
+        "instructor": "Nguyen, Minh",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "OLMH",
+          "room": "1122"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 25,
+          "available": 22
+        }
+      },
+      {
+        "section": "002",
+        "crn": "19928",
+        "instructor": "Nguyen, Minh",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "OLMH",
+          "room": "1122"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 25,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "VNM004": {
+    "title": "INTERMEDIATE VIETNAMESE",
+    "credits": "4",
+    "prerequisites": "Prerequisites:VNM004(\n Course or Test: Vietnamese 003 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Vietnamese 020B \n Minimum Grade of C-\n May not be taken concurrently.Language: Vietnamese Prereq 606 to 607\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32592",
+        "instructor": "Nguyen, Minh",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "INTS",
+          "room": "2136"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 25,
+          "available": 10
+        }
+      }
+    ]
+  }
+}

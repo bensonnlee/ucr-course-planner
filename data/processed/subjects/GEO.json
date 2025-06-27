@@ -1,0 +1,4362 @@
+{
+  "GEO001": {
+    "title": "THE EARTH&#39;S CRUST AND INTERIOR",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "15491",
+        "instructor": "Funning, Gareth",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "SPR",
+          "room": "1102"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 90,
+          "capacity": 95,
+          "available": 5
+        }
+      },
+      {
+        "section": "021",
+        "crn": "15492",
+        "instructor": "Kennedy, Andrew",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1200",
+          "endTime": "1450",
+          "building": "PRCE",
+          "room": "2330"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 23,
+          "available": 1
+        }
+      },
+      {
+        "section": "022",
+        "crn": "15493",
+        "instructor": "Kennedy, Andrew",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1500",
+          "endTime": "1750",
+          "building": "PRCE",
+          "room": "2330"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 24,
+          "available": 3
+        }
+      },
+      {
+        "section": "023",
+        "crn": "15494",
+        "instructor": "Rivera, Karlee",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1200",
+          "endTime": "1450",
+          "building": "PRCE",
+          "room": "2330"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 24,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "15495",
+        "instructor": "Rivera, Karlee",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1500",
+          "endTime": "1750",
+          "building": "PRCE",
+          "room": "2330"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 24,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "GEO008": {
+    "title": "EARTHQUAKE COUNTRY",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "24420",
+        "instructor": "Ghosh, Abhijit",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "LFSC",
+          "room": "1500"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 273,
+          "capacity": 289,
+          "available": 16
+        }
+      },
+      {
+        "section": "021",
+        "crn": "24421",
+        "instructor": "Mere, Andre",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "PHY",
+          "room": "2104"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 34,
+          "capacity": 36,
+          "available": 2
+        }
+      },
+      {
+        "section": "022",
+        "crn": "24422",
+        "instructor": "Mere, Andre",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "CHUNG",
+          "room": "143"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 32,
+          "capacity": 38,
+          "available": 6
+        }
+      },
+      {
+        "section": "023",
+        "crn": "24423",
+        "instructor": "Mere, Andre",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "CHUNG",
+          "room": "141"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 37,
+          "capacity": 38,
+          "available": 1
+        }
+      },
+      {
+        "section": "024",
+        "crn": "24424",
+        "instructor": "Parida, Binayak",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "PHY",
+          "room": "2104"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 19,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "24425",
+        "instructor": "Niyogi, Shankho",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "OLMH",
+          "room": "1136"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 36,
+          "capacity": 37,
+          "available": 1
+        }
+      },
+      {
+        "section": "026",
+        "crn": "24426",
+        "instructor": "Niyogi, Shankho",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "SPTH",
+          "room": "1307"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 35,
+          "capacity": 36,
+          "available": 1
+        }
+      },
+      {
+        "section": "027",
+        "crn": "38825",
+        "instructor": "Niyogi, Shankho",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "SPR",
+          "room": "2364"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 19,
+          "available": 0
+        }
+      },
+      {
+        "section": "028",
+        "crn": "24428",
+        "instructor": "Parida, Binayak",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "SPR",
+          "room": "2356"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 37,
+          "capacity": 36,
+          "available": -1
+        }
+      },
+      {
+        "section": "029",
+        "crn": "24429",
+        "instructor": "Parida, Binayak",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "SPR",
+          "room": "2340"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 30,
+          "available": 6
+        }
+      }
+    ]
+  },
+  "GEO009": {
+    "title": "OCEANOGRAPHY",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "15496",
+        "instructor": "Turner, Sandra",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "UNLH",
+          "room": "1000"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 424,
+          "capacity": 499,
+          "available": 75
+        }
+      },
+      {
+        "section": "021",
+        "crn": "15497",
+        "instructor": "Mishra, Gayatri",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "CHUNG",
+          "room": "142"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 33,
+          "capacity": 33,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "15498",
+        "instructor": "Mishra, Gayatri",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "INTS",
+          "room": "1121"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 33,
+          "capacity": 34,
+          "available": 1
+        }
+      },
+      {
+        "section": "023",
+        "crn": "15499",
+        "instructor": "Mimi, Mohima",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "CHUNG",
+          "room": "139"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 33,
+          "capacity": 33,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "15500",
+        "instructor": "Mimi, Mohima",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "SPTH",
+          "room": "1307"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 33,
+          "capacity": 33,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "15501",
+        "instructor": "Mimi, Mohima",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "SPR",
+          "room": "2355"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 32,
+          "capacity": 34,
+          "available": 2
+        }
+      },
+      {
+        "section": "026",
+        "crn": "15502",
+        "instructor": "Mishra, Gayatri",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0700",
+          "endTime": "0750",
+          "building": "MSE",
+          "room": "113"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 28,
+          "capacity": 33,
+          "available": 5
+        }
+      },
+      {
+        "section": "027",
+        "crn": "15503",
+        "instructor": "Li, Kai-Yuan",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1900",
+          "endTime": "1950",
+          "building": "MSE",
+          "room": "113"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 33,
+          "available": 3
+        }
+      },
+      {
+        "section": "028",
+        "crn": "15504",
+        "instructor": "Li, Kai-Yuan",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "2000",
+          "endTime": "2050",
+          "building": "MSE",
+          "room": "113"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 32,
+          "available": 20
+        }
+      },
+      {
+        "section": "029",
+        "crn": "15505",
+        "instructor": "Li, Kai-Yuan",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "2100",
+          "endTime": "2150",
+          "building": "MSE",
+          "room": "113"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 33,
+          "available": 22
+        }
+      },
+      {
+        "section": "030",
+        "crn": "15506",
+        "instructor": "Herho, Sandy",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "SPTH",
+          "room": "1307"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 33,
+          "capacity": 33,
+          "available": 0
+        }
+      },
+      {
+        "section": "031",
+        "crn": "15507",
+        "instructor": "Herho, Sandy",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "SPTH",
+          "room": "1307"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 28,
+          "capacity": 34,
+          "available": 6
+        }
+      },
+      {
+        "section": "032",
+        "crn": "15508",
+        "instructor": "Ebadirad, Sally",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "CHUNG",
+          "room": "139"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 28,
+          "capacity": 33,
+          "available": 5
+        }
+      },
+      {
+        "section": "033",
+        "crn": "15509",
+        "instructor": "Ebadirad, Sally",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "SPR",
+          "room": "2356"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 26,
+          "capacity": 34,
+          "available": 8
+        }
+      },
+      {
+        "section": "034",
+        "crn": "25126",
+        "instructor": "Ebadirad, Sally",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "PRCE",
+          "room": "3374"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 33,
+          "capacity": 33,
+          "available": 0
+        }
+      },
+      {
+        "section": "035",
+        "crn": "25127",
+        "instructor": "Herho, Sandy",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "INTN",
+          "room": "1006"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 31,
+          "capacity": 34,
+          "available": 3
+        }
+      }
+    ]
+  },
+  "GEO013": {
+    "title": "OUR PLANETARY NEIGHBORS: THE SOLAR SYSTEM AND BEYOND",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36148",
+        "instructor": "Schwieterman, Edward",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "INTN",
+          "room": "1020"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 214,
+          "capacity": 258,
+          "available": 44
+        }
+      },
+      {
+        "section": "021",
+        "crn": "36149",
+        "instructor": "Broussard, Wynter",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "SPTH",
+          "room": "1222"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 30,
+          "available": 12
+        }
+      },
+      {
+        "section": "022",
+        "crn": "36150",
+        "instructor": "Broussard, Wynter",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "LFSC",
+          "room": "2418"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 30,
+          "available": 3
+        }
+      },
+      {
+        "section": "023",
+        "crn": "36151",
+        "instructor": "Shallon, Beth",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "HMNSS",
+          "room": "1404"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 29,
+          "capacity": 30,
+          "available": 1
+        }
+      },
+      {
+        "section": "024",
+        "crn": "36152",
+        "instructor": "Shallon, Beth",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "HMNSS",
+          "room": "1403"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 26,
+          "capacity": 30,
+          "available": 4
+        }
+      },
+      {
+        "section": "025",
+        "crn": "36153",
+        "instructor": "Broussard, Wynter",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "HMNSS",
+          "room": "1405"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 30,
+          "available": 5
+        }
+      },
+      {
+        "section": "026",
+        "crn": "36154",
+        "instructor": "Sneed, Evan",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "INTS",
+          "room": "2130"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 29,
+          "capacity": 30,
+          "available": 1
+        }
+      },
+      {
+        "section": "027",
+        "crn": "36786",
+        "instructor": "Sneed, Evan",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "OLMH",
+          "room": "1133"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 30,
+          "available": 0
+        }
+      },
+      {
+        "section": "028",
+        "crn": "36787",
+        "instructor": "Sneed, Evan",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "SPR",
+          "room": "1358"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 24,
+          "available": 16
+        }
+      },
+      {
+        "section": "029",
+        "crn": "36788",
+        "instructor": "Shallon, Beth",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "SPR",
+          "room": "1358"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 24,
+          "available": 2
+        }
+      }
+    ]
+  },
+  "GEO111": {
+    "title": "NUMERICAL SKILLS IN GEOSCIENCE",
+    "credits": "4",
+    "prerequisites": "Prerequisites:GEO111)\nand\n(\n Course or Test: Mathematics 007B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 009HB \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "21180",
+        "instructor": "Ridgwell, Andrew",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0800",
+          "endTime": "1150",
+          "building": "PRCE",
+          "room": "2343"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 25,
+          "available": 6
+        }
+      },
+      {
+        "section": "021",
+        "crn": "21181",
+        "instructor": "Contreras, Norma",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1550",
+          "building": "PRCE",
+          "room": "2343"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 25,
+          "available": 6
+        }
+      }
+    ]
+  },
+  "GEO115": {
+    "title": "GEOLOGIC MAPS AND LANDFORMS",
+    "credits": "5",
+    "prerequisites": "Prerequisites:GEO115)\nand\n(\n Course or Test: Geosciences 001 \n Minimum Grade of D-\n May be taken concurrently.)\nand\n(\n Course or Test: Mathematics 005A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 006B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 007A \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mathematics 009A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mathematics 09HA \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "15514",
+        "instructor": "Sadler, Peter",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "PRCE",
+          "room": "2330"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 24,
+          "available": 5
+        }
+      },
+      {
+        "section": "021",
+        "crn": "20146",
+        "instructor": "Li, Terry",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": "PRCE",
+          "room": "2330"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 24,
+          "available": 5
+        }
+      },
+      {
+        "section": "022",
+        "crn": "28442",
+        "instructor": "Li, Terry",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Field",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 24,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "GEO122": {
+    "title": "MINERALOGY",
+    "credits": "5",
+    "prerequisites": "Prerequisites:GEO122(\n Course or Test: Chemistry 001B \n Minimum Grade of D-\n May be taken concurrently.)\nor\n(\n Course or Test: Chemistry 01HB \n Minimum Grade of D-\n May be taken concurrently.)\nand\n(\n Course or Test: Chemistry 01LB \n Minimum Grade of D-\n May be taken concurrently.)\nor\n(\n Course or Test: Chemistry 1HLB \n Minimum Grade of D-\n May be taken concurrently.)\nand\n(\n Course or Test: Geosciences 001 \n Minimum Grade of C-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "24626",
+        "instructor": "Brounce, Maryjo",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1300",
+          "endTime": "1420",
+          "building": "PRCE",
+          "room": "2343"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 24,
+          "available": 15
+        }
+      },
+      {
+        "section": "021",
+        "crn": "24627",
+        "instructor": "Stroup, Ashley",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1430",
+          "endTime": "1650",
+          "building": "PRCE",
+          "room": "2343"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 24,
+          "available": 15
+        }
+      },
+      {
+        "section": "022",
+        "crn": "24628",
+        "instructor": "Stroup, Ashley",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Field",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 24,
+          "available": 15
+        }
+      }
+    ]
+  },
+  "GEO144": {
+    "title": "EARTHQUAKE SEISMOLOGY",
+    "credits": "4",
+    "prerequisites": "Prerequisites:GEO144(\n Course or Test: Mathematics 010A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mathematics 010B \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mathematics 046 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Physics 002C \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Physics 02HC \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Physics 040C \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Physics 040HC \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34734",
+        "instructor": "Oglesby, David",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "GEOL",
+          "room": "1444"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 16,
+          "available": 5
+        }
+      },
+      {
+        "section": "021",
+        "crn": "34735",
+        "instructor": "Oglesby, David",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0900",
+          "endTime": "1150",
+          "building": "GEOL",
+          "room": "1444"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 16,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "GEO150": {
+    "title": "YOUR FUTURE IN THE EARTH AND PLANETARY SCIENCES",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32881",
+        "instructor": "Brounce, Maryjo",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "PRCE",
+          "room": "2343"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 20,
+          "available": 15
+        }
+      }
+    ]
+  },
+  "GEO151": {
+    "title": "PRINCIPLES OF PALEONTOLOGY",
+    "credits": "4",
+    "prerequisites": "Prerequisites:GEO151(\n Course or Test: Biology 005C \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Biology 010 \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Geosciences 003 \n Minimum Grade of C-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "30393",
+        "instructor": "Hughes, Nigel",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0900",
+          "endTime": "1020",
+          "building": "PRCE",
+          "room": "2343"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 36,
+          "available": 17
+        }
+      },
+      {
+        "section": "021",
+        "crn": "30394",
+        "instructor": "Boan, Phillip",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1030",
+          "endTime": "1150",
+          "building": "PRCE",
+          "room": "2343"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 36,
+          "available": 17
+        }
+      }
+    ]
+  },
+  "GEO163": {
+    "title": "GLOBAL PHYSICAL CLIMATOLOGY",
+    "credits": "4",
+    "prerequisites": "Prerequisites:GEO163)\nand\n(\n Course or Test: Physics 002B \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Physics 02HB \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Physics 040B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Physics 040HB \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "30743",
+        "instructor": "Liu, Wei",
+        "schedule": {
+          "days": [
+            "W",
+            "F"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "PRCE",
+          "room": "2343"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 30,
+          "available": 24
+        }
+      },
+      {
+        "section": "021",
+        "crn": "30744",
+        "instructor": "Liu, Wei",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "PRCE",
+          "room": "2343"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 30,
+          "available": 24
+        }
+      }
+    ]
+  },
+  "GEO169": {
+    "title": "CALIFORNIA VEGETATION",
+    "credits": "4",
+    "prerequisites": "Prerequisites:GEO169)\nand\n(\n Course or Test: Biology 005C \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Biology 010 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Geosciences 003 \n Minimum Grade of C-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32094",
+        "instructor": "Minnich, Richard",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1300",
+          "endTime": "1420",
+          "building": "GEOL",
+          "room": "1444"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 24,
+          "available": 4
+        }
+      },
+      {
+        "section": "021",
+        "crn": "32095",
+        "instructor": "Minnich, Richard",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1430",
+          "endTime": "1550",
+          "building": "PRCE",
+          "room": "1444"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 24,
+          "available": 4
+        }
+      }
+    ]
+  },
+  "GEO190": {
+    "title": "SPECIAL STUDIES",
+    "credits": "1-5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "25D",
+        "crn": "15528",
+        "instructor": "Droser, Mary",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "26M",
+        "crn": "15529",
+        "instructor": "Minnich, Richard",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "28O",
+        "crn": "15530",
+        "instructor": "Oglesby, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "31S",
+        "crn": "15531",
+        "instructor": "Sadler, Peter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "36D",
+        "crn": "29590",
+        "instructor": "Douilly, Roby",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "54H",
+        "crn": "15537",
+        "instructor": "Hughes, Nigel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "62F",
+        "crn": "29132",
+        "instructor": "Ford, Heather",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "70T",
+        "crn": "29784",
+        "instructor": "Turner, Sandra",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "80L",
+        "crn": "15540",
+        "instructor": "Lyons, Timothy",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "88K",
+        "crn": "38853",
+        "instructor": "Kane, Stephen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "B29",
+        "crn": "15519",
+        "instructor": "Bekker, Andrey",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "B31",
+        "crn": "15520",
+        "instructor": "Barth, Nicolas",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "B63",
+        "crn": "29054",
+        "instructor": "Brounce, Maryjo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "G02",
+        "crn": "15521",
+        "instructor": "Ghosh, Abhijit",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "R08",
+        "crn": "29752",
+        "instructor": "Ridgwell, Andrew",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "GEO191": {
+    "title": "UNDERGRADUATE SEMINAR IN GEOLOGICAL SCIENCES",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "15541",
+        "instructor": "Love, Gordon",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "SOMED",
+          "room": "1670"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 52,
+          "available": 52
+        }
+      },
+      {
+        "section": "25D",
+        "crn": "15548",
+        "instructor": "Droser, Mary",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "26M",
+        "crn": "15549",
+        "instructor": "Minnich, Richard",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28C",
+        "crn": "15550",
+        "instructor": "Chou, Yue-Hong",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28O",
+        "crn": "15551",
+        "instructor": "Oglesby, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "31S",
+        "crn": "15552",
+        "instructor": "Sadler, Peter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "54H",
+        "crn": "15556",
+        "instructor": "Hughes, Nigel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "GEO195A": {
+    "title": "SENIOR THESIS",
+    "credits": "3-5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "1S3",
+        "crn": "35465",
+        "instructor": "Schwieterman, Edward",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "25D",
+        "crn": "15566",
+        "instructor": "Droser, Mary",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "26M",
+        "crn": "15567",
+        "instructor": "Minnich, Richard",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28C",
+        "crn": "15568",
+        "instructor": "Chou, Yue-Hong",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28O",
+        "crn": "15569",
+        "instructor": "Oglesby, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "31S",
+        "crn": "15570",
+        "instructor": "Sadler, Peter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "54H",
+        "crn": "15575",
+        "instructor": "Hughes, Nigel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "62F",
+        "crn": "29772",
+        "instructor": "Ford, Heather",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "70T",
+        "crn": "29123",
+        "instructor": "Turner, Sandra",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "80L",
+        "crn": "15578",
+        "instructor": "Lyons, Timothy",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "B29",
+        "crn": "33302",
+        "instructor": "Bekker, Andrey",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 25,
+          "available": 25
+        }
+      },
+      {
+        "section": "B63",
+        "crn": "29122",
+        "instructor": "Brounce, Maryjo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "G02",
+        "crn": "15559",
+        "instructor": "Ghosh, Abhijit",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "GEO195B": {
+    "title": "SENIOR THESIS",
+    "credits": "3-5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "1S3",
+        "crn": "35466",
+        "instructor": "Schwieterman, Edward",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "25D",
+        "crn": "15585",
+        "instructor": "Droser, Mary",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "26M",
+        "crn": "15586",
+        "instructor": "Minnich, Richard",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28C",
+        "crn": "15587",
+        "instructor": "Chou, Yue-Hong",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28O",
+        "crn": "15588",
+        "instructor": "Oglesby, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "31S",
+        "crn": "15589",
+        "instructor": "Sadler, Peter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "54H",
+        "crn": "15593",
+        "instructor": "Hughes, Nigel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "GEO195C": {
+    "title": "SENIOR THESIS",
+    "credits": "3-5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "25D",
+        "crn": "15601",
+        "instructor": "Droser, Mary",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "26M",
+        "crn": "15602",
+        "instructor": "Minnich, Richard",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28C",
+        "crn": "15603",
+        "instructor": "Chou, Yue-Hong",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28O",
+        "crn": "15604",
+        "instructor": "Oglesby, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "31S",
+        "crn": "15605",
+        "instructor": "Sadler, Peter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "54H",
+        "crn": "15609",
+        "instructor": "Hughes, Nigel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "GEO198I": {
+    "title": "INDEPENDENT INTERNSHIP",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "25D",
+        "crn": "15618",
+        "instructor": "Droser, Mary",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "26M",
+        "crn": "15619",
+        "instructor": "Minnich, Richard",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28C",
+        "crn": "15620",
+        "instructor": "Chou, Yue-Hong",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28O",
+        "crn": "15621",
+        "instructor": "Oglesby, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "31S",
+        "crn": "15622",
+        "instructor": "Sadler, Peter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "54H",
+        "crn": "15626",
+        "instructor": "Hughes, Nigel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "GEO240": {
+    "title": "SEMINAR IN EARTHQUAKE PROCESSES AND GEOPHYSICS",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "15630",
+        "instructor": "Ghosh, Abhijit",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 30,
+          "available": 19
+        }
+      }
+    ]
+  },
+  "GEO250": {
+    "title": "GRADUATE SEMINAR IN GEOLOGICAL SCIENCES",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "15633",
+        "instructor": "Allen, Robert",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "SSC",
+          "room": "308"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 47,
+          "capacity": 53,
+          "available": 6
+        }
+      }
+    ]
+  },
+  "GEO251I": {
+    "title": "ADVANCED TOPICS IN INVERTEBRATE PALEONTOLOGY",
+    "credits": "5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "30599",
+        "instructor": "Droser, Mary",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 24,
+          "available": 24
+        }
+      },
+      {
+        "section": "021",
+        "crn": "30600",
+        "instructor": "Droser, Mary",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 24,
+          "available": 24
+        }
+      }
+    ]
+  },
+  "GEO257I": {
+    "title": "INVERSION THEORIES",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38097",
+        "instructor": "Douilly, Roby",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1550",
+          "building": "GEOL",
+          "room": "1444"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 25,
+          "available": 13
+        }
+      }
+    ]
+  },
+  "GEO266": {
+    "title": "A PRACTICAL INTRODUCTION TO EARTH SYSTEM MODELING AND DYNAMICS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "31456",
+        "instructor": "Ridgwell, Andrew",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "GEOL",
+          "room": "1444"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 25,
+          "available": 19
+        }
+      },
+      {
+        "section": "021",
+        "crn": "31457",
+        "instructor": "Ridgwell, Andrew",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1500",
+          "endTime": "1650",
+          "building": "GEOL",
+          "room": "1444"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 25,
+          "available": 19
+        }
+      },
+      {
+        "section": "022",
+        "crn": "32779",
+        "instructor": "Ridgwell, Andrew",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "1150",
+          "building": "GEOL",
+          "room": "1444"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 25,
+          "available": 19
+        }
+      }
+    ]
+  },
+  "GEO269": {
+    "title": "GEOPHYSICAL FLUID DYNAMICS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38095",
+        "instructor": "Liu, Wei",
+        "schedule": {
+          "days": [
+            "M",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "PRCE",
+          "room": "2330"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 18,
+          "available": 11
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38096",
+        "instructor": "Liu, Wei",
+        "schedule": {
+          "days": [
+            "M",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1120",
+          "building": "PRCE",
+          "room": "2330"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 18,
+          "available": 11
+        }
+      }
+    ]
+  },
+  "GEO283": {
+    "title": "GRADUATE SEMINAR IN ASTROBIOLOGY",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32091",
+        "instructor": "Schwieterman, Edward",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 25,
+          "available": 15
+        }
+      }
+    ]
+  },
+  "GEO290": {
+    "title": "DIRECTED STUDIES",
+    "credits": "1-6",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "25D",
+        "crn": "15644",
+        "instructor": "Droser, Mary",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "26M",
+        "crn": "15645",
+        "instructor": "Minnich, Richard",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28O",
+        "crn": "15647",
+        "instructor": "Oglesby, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 8,
+          "available": 8
+        }
+      },
+      {
+        "section": "31S",
+        "crn": "15648",
+        "instructor": "Sadler, Peter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "54H",
+        "crn": "15653",
+        "instructor": "Hughes, Nigel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "B29",
+        "crn": "25431",
+        "instructor": "Bekker, Andrey",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1500",
+          "endTime": "1620",
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 15,
+          "available": 15
+        }
+      },
+      {
+        "section": "B31",
+        "crn": "22744",
+        "instructor": "Barth, Nicolas",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "B63",
+        "crn": "25516",
+        "instructor": "Brounce, Maryjo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 15,
+          "available": 15
+        }
+      },
+      {
+        "section": "L59",
+        "crn": "30397",
+        "instructor": "Liu, Wei",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1000",
+          "endTime": "1150",
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 24,
+          "available": 24
+        }
+      },
+      {
+        "section": "R08",
+        "crn": "24964",
+        "instructor": "Ridgwell, Andrew",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "GEO297": {
+    "title": "DIRECTED RESEARCH",
+    "credits": "1-6",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "25D",
+        "crn": "15664",
+        "instructor": "Droser, Mary",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "26M",
+        "crn": "15665",
+        "instructor": "Minnich, Richard",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28O",
+        "crn": "15666",
+        "instructor": "Oglesby, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "31S",
+        "crn": "15667",
+        "instructor": "Sadler, Peter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "54H",
+        "crn": "15671",
+        "instructor": "Hughes, Nigel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "80L",
+        "crn": "15674",
+        "instructor": "Lyons, Timothy",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "94L",
+        "crn": "35028",
+        "instructor": "Love, Gordon",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "B63",
+        "crn": "35056",
+        "instructor": "Brounce, Maryjo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "L59",
+        "crn": "27381",
+        "instructor": "Liu, Wei",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "GEO299M": {
+    "title": "RESEARCH FOR MASTER&#39;S THESIS",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "25D",
+        "crn": "15683",
+        "instructor": "Droser, Mary",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "26M",
+        "crn": "15684",
+        "instructor": "Minnich, Richard",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28O",
+        "crn": "15687",
+        "instructor": "Oglesby, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "31S",
+        "crn": "15688",
+        "instructor": "Sadler, Peter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "36D",
+        "crn": "29546",
+        "instructor": "Douilly, Roby",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "48F",
+        "crn": "35108",
+        "instructor": "Funning, Gareth",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 25,
+          "available": 25
+        }
+      },
+      {
+        "section": "54H",
+        "crn": "15693",
+        "instructor": "Hughes, Nigel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "62F",
+        "crn": "31505",
+        "instructor": "Ford, Heather",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 20,
+          "available": 20
+        }
+      },
+      {
+        "section": "63A",
+        "crn": "15697",
+        "instructor": "Allen, Robert",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "70T",
+        "crn": "22632",
+        "instructor": "Turner, Sandra",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "80L",
+        "crn": "15698",
+        "instructor": "Lyons, Timothy",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "88K",
+        "crn": "27331",
+        "instructor": "Kane, Stephen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "94L",
+        "crn": "15699",
+        "instructor": "Love, Gordon",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "B29",
+        "crn": "15675",
+        "instructor": "Bekker, Andrey",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "B31",
+        "crn": "24865",
+        "instructor": "Barth, Nicolas",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      },
+      {
+        "section": "B63",
+        "crn": "25207",
+        "instructor": "Brounce, Maryjo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      },
+      {
+        "section": "G02",
+        "crn": "15677",
+        "instructor": "Ghosh, Abhijit",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "L59",
+        "crn": "27382",
+        "instructor": "Liu, Wei",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "GEO299P": {
+    "title": "RESEARCH FOR DISSERTATION",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "1S3",
+        "crn": "31418",
+        "instructor": "Schwieterman, Edward",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 25,
+          "available": 21
+        }
+      },
+      {
+        "section": "25D",
+        "crn": "15710",
+        "instructor": "Droser, Mary",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "26M",
+        "crn": "15711",
+        "instructor": "Minnich, Richard",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28O",
+        "crn": "15713",
+        "instructor": "Oglesby, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "31S",
+        "crn": "15714",
+        "instructor": "Sadler, Peter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "36D",
+        "crn": "29547",
+        "instructor": "Douilly, Roby",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 30,
+          "available": 27
+        }
+      },
+      {
+        "section": "48F",
+        "crn": "35109",
+        "instructor": "Funning, Gareth",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 30,
+          "available": 26
+        }
+      },
+      {
+        "section": "54H",
+        "crn": "15719",
+        "instructor": "Hughes, Nigel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "62F",
+        "crn": "24771",
+        "instructor": "Ford, Heather",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 5,
+          "available": 3
+        }
+      },
+      {
+        "section": "63A",
+        "crn": "15723",
+        "instructor": "Allen, Robert",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 30,
+          "available": 27
+        }
+      },
+      {
+        "section": "70T",
+        "crn": "15724",
+        "instructor": "Turner, Sandra",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "80L",
+        "crn": "15725",
+        "instructor": "Lyons, Timothy",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 30,
+          "available": 27
+        }
+      },
+      {
+        "section": "88K",
+        "crn": "27332",
+        "instructor": "Kane, Stephen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 30,
+          "available": 26
+        }
+      },
+      {
+        "section": "94L",
+        "crn": "15726",
+        "instructor": "Love, Gordon",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "B29",
+        "crn": "25456",
+        "instructor": "Bekker, Andrey",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      },
+      {
+        "section": "B31",
+        "crn": "15700",
+        "instructor": "Barth, Nicolas",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "B63",
+        "crn": "25208",
+        "instructor": "Brounce, Maryjo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      },
+      {
+        "section": "G02",
+        "crn": "15702",
+        "instructor": "Ghosh, Abhijit",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "L59",
+        "crn": "27383",
+        "instructor": "Liu, Wei",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 30,
+          "available": 23
+        }
+      },
+      {
+        "section": "R08",
+        "crn": "36838",
+        "instructor": "Ridgwell, Andrew",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      }
+    ]
+  },
+  "GEO301": {
+    "title": "TEACHING OF GEOSCIENCES AT THE COLLEGE LEVEL",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "1S3",
+        "crn": "33397",
+        "instructor": "Schwieterman, Edward",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 25,
+          "available": 25
+        }
+      },
+      {
+        "section": "28O",
+        "crn": "15732",
+        "instructor": "Oglesby, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "31S",
+        "crn": "15733",
+        "instructor": "Sadler, Peter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "36D",
+        "crn": "31516",
+        "instructor": "Douilly, Roby",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 25,
+          "available": 25
+        }
+      },
+      {
+        "section": "48F",
+        "crn": "35135",
+        "instructor": "Funning, Gareth",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 25,
+          "available": 25
+        }
+      },
+      {
+        "section": "54H",
+        "crn": "15738",
+        "instructor": "Hughes, Nigel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "62F",
+        "crn": "27447",
+        "instructor": "Ford, Heather",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "70T",
+        "crn": "15740",
+        "instructor": "Turner, Sandra",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "94L",
+        "crn": "15741",
+        "instructor": "Love, Gordon",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "B31",
+        "crn": "22607",
+        "instructor": "Barth, Nicolas",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "B63",
+        "crn": "24866",
+        "instructor": "Brounce, Maryjo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "G02",
+        "crn": "29666",
+        "instructor": "Ghosh, Abhijit",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "R08",
+        "crn": "27456",
+        "instructor": "Ridgwell, Andrew",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "GEO302": {
+    "title": "TEACHING PRACTICUM",
+    "credits": "1-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "1S3",
+        "crn": "33398",
+        "instructor": "Schwieterman, Edward",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 25,
+          "available": 22
+        }
+      },
+      {
+        "section": "25D",
+        "crn": "15749",
+        "instructor": "Droser, Mary",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "26M",
+        "crn": "15750",
+        "instructor": "Minnich, Richard",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "28O",
+        "crn": "15753",
+        "instructor": "Oglesby, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "31S",
+        "crn": "15754",
+        "instructor": "Sadler, Peter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "36D",
+        "crn": "31517",
+        "instructor": "Douilly, Roby",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 25,
+          "available": 25
+        }
+      },
+      {
+        "section": "48F",
+        "crn": "35136",
+        "instructor": "Funning, Gareth",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "49W",
+        "crn": "15760",
+        "instructor": "Wu, Laosheng",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "54H",
+        "crn": "15761",
+        "instructor": "Hughes, Nigel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "62F",
+        "crn": "27448",
+        "instructor": "Ford, Heather",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "70T",
+        "crn": "15764",
+        "instructor": "Turner, Sandra",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "80L",
+        "crn": "31502",
+        "instructor": "Lyons, Timothy",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 20,
+          "available": 20
+        }
+      },
+      {
+        "section": "94L",
+        "crn": "15765",
+        "instructor": "Love, Gordon",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "B31",
+        "crn": "24977",
+        "instructor": "Barth, Nicolas",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "B63",
+        "crn": "29156",
+        "instructor": "Brounce, Maryjo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "G02",
+        "crn": "29667",
+        "instructor": "Ghosh, Abhijit",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "R08",
+        "crn": "27457",
+        "instructor": "Ridgwell, Andrew",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      }
+    ]
+  }
+}

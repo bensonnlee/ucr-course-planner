@@ -1,0 +1,57 @@
+{
+  "LABR001": {
+    "title": "INTRODUCTION TO LABOR STUDIES",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37190",
+        "instructor": "Anderson, James",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "WAT",
+          "room": "1101"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 74,
+          "capacity": 75,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "LABR198I": {
+    "title": "INDIVIDUAL INTERNSHIP IN LABOR STUDIES",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "61R",
+        "crn": "16289",
+        "instructor": "Reese, Ellen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 5,
+          "available": -1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1873 @@
+{
+  "CWLR200": {
+    "title": "PROFESSIONAL FUNDAMENTALS",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "200",
+        "crn": "25241",
+        "instructor": "Goldberg, Tod",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Colloquium",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "201",
+        "crn": "25187",
+        "instructor": "Smith, Mark",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Colloquium",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 15,
+          "available": 14
+        }
+      },
+      {
+        "section": "202",
+        "crn": "25245",
+        "instructor": "Birnbaum, Michael",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Colloquium",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "203",
+        "crn": "25248",
+        "instructor": "Schimmel, John",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Colloquium",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "204",
+        "crn": "25251",
+        "instructor": "Malkin, Joshua",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Colloquium",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "205",
+        "crn": "25254",
+        "instructor": "Ulin, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Colloquium",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "206",
+        "crn": "35047",
+        "instructor": "Rabkin, William",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Colloquium",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 10,
+          "available": 8
+        }
+      },
+      {
+        "section": "207",
+        "crn": "29513",
+        "instructor": "Essbaum, Jill",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Colloquium",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "208",
+        "crn": "35050",
+        "instructor": "Roberge, Robert",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Colloquium",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "209",
+        "crn": "35068",
+        "instructor": "Espinoza, Alex",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Colloquium",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "210",
+        "crn": "35071",
+        "instructor": "Pochoda, Ivy",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Colloquium",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 10,
+          "available": 8
+        }
+      },
+      {
+        "section": "211",
+        "crn": "38660",
+        "instructor": "Iglesias, Gabino",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Colloquium",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "212",
+        "crn": "38661",
+        "instructor": "Iglesias, Gabino",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "213",
+        "crn": "38662",
+        "instructor": "Iglesias, Gabino",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "220",
+        "crn": "25242",
+        "instructor": "Goldberg, Tod",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "221",
+        "crn": "25188",
+        "instructor": "Smith, Mark",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 15,
+          "available": 14
+        }
+      },
+      {
+        "section": "222",
+        "crn": "25246",
+        "instructor": "Birnbaum, Michael",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "223",
+        "crn": "25249",
+        "instructor": "Schimmel, John",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "224",
+        "crn": "25252",
+        "instructor": "Malkin, Joshua",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "225",
+        "crn": "25255",
+        "instructor": "Ulin, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "226",
+        "crn": "35048",
+        "instructor": "Rabkin, William",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 10,
+          "available": 8
+        }
+      },
+      {
+        "section": "227",
+        "crn": "29514",
+        "instructor": "Essbaum, Jill",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "228",
+        "crn": "35051",
+        "instructor": "Roberge, Robert",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "229",
+        "crn": "35069",
+        "instructor": "Espinoza, Alex",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "230",
+        "crn": "25243",
+        "instructor": "Goldberg, Tod",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "231",
+        "crn": "25189",
+        "instructor": "Smith, Mark",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 15,
+          "available": 14
+        }
+      },
+      {
+        "section": "232",
+        "crn": "25247",
+        "instructor": "Birnbaum, Michael",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "233",
+        "crn": "25250",
+        "instructor": "Schimmel, John",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "234",
+        "crn": "25253",
+        "instructor": "Malkin, Joshua",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "235",
+        "crn": "25256",
+        "instructor": "Ulin, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "236",
+        "crn": "35049",
+        "instructor": "Rabkin, William",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 10,
+          "available": 8
+        }
+      },
+      {
+        "section": "237",
+        "crn": "29515",
+        "instructor": "Essbaum, Jill",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "238",
+        "crn": "35052",
+        "instructor": "Roberge, Robert",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "239",
+        "crn": "35070",
+        "instructor": "Espinoza, Alex",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "240",
+        "crn": "35072",
+        "instructor": "Pochoda, Ivy",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 10,
+          "available": 8
+        }
+      },
+      {
+        "section": "250",
+        "crn": "35073",
+        "instructor": "Pochoda, Ivy",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Practicum",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 10,
+          "available": 8
+        }
+      }
+    ]
+  },
+  "CWLR201F": {
+    "title": "LOW RESIDENCY SEMINAR IN LITERATURE, THEATRE, AND FILM",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "200",
+        "crn": "13241",
+        "instructor": "Iglesias, Gabino",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1100",
+          "endTime": "1400",
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 10,
+          "available": 5
+        }
+      },
+      {
+        "section": "201",
+        "crn": "13242",
+        "instructor": "Goldberg, Tod",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1100",
+          "endTime": "1400",
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "202",
+        "crn": "13243",
+        "instructor": "Smith, Mark",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1400",
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 10,
+          "available": 4
+        }
+      },
+      {
+        "section": "203",
+        "crn": "13244",
+        "instructor": "Pochoda, Ivy",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1400",
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 10,
+          "available": 4
+        }
+      },
+      {
+        "section": "204",
+        "crn": "13245",
+        "instructor": "Espinoza, Alex",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1400",
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "205",
+        "crn": "13246",
+        "instructor": "Roberge, Robert",
+        "schedule": {
+          "days": [
+            "S"
+          ],
+          "startTime": "1100",
+          "endTime": "1400",
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 10,
+          "available": 7
+        }
+      },
+      {
+        "section": "206",
+        "crn": "13247",
+        "instructor": "Essbaum, Jill",
+        "schedule": {
+          "days": [
+            "U"
+          ],
+          "startTime": "1400",
+          "endTime": "1700",
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 10,
+          "available": 2
+        }
+      },
+      {
+        "section": "208",
+        "crn": "38656",
+        "instructor": "Brandt, Elizabeth",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 10,
+          "available": 6
+        }
+      }
+    ]
+  },
+  "CWLR201N": {
+    "title": "LOW RESIDENCY SEMINAR IN LITERATURE, THEATRE, AND FILM",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "200",
+        "crn": "13248",
+        "instructor": "Brandt, Elizabeth",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1700",
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "201",
+        "crn": "13249",
+        "instructor": "Ulin, David",
+        "schedule": {
+          "days": [
+            "S"
+          ],
+          "startTime": "1400",
+          "endTime": "1700",
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 10,
+          "available": 5
+        }
+      },
+      {
+        "section": "202",
+        "crn": "13250",
+        "instructor": "Roberge, Robert",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1100",
+          "endTime": "1400",
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "CWLR201P": {
+    "title": "LOW RESIDENCY SEMINAR IN LITERATURE, THEATRE, AND FILM",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "200",
+        "crn": "13251",
+        "instructor": "McCann, Anthony",
+        "schedule": {
+          "days": [
+            "U"
+          ],
+          "startTime": "1100",
+          "endTime": "1400",
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "201",
+        "crn": "13252",
+        "instructor": "Essbaum, Jill",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1400",
+          "endTime": "1700",
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "CWLR201S": {
+    "title": "LOW RESIDENCY SEMINAR IN LITERATURE,THEATRE, AND FILM",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "200",
+        "crn": "13253",
+        "instructor": "Rabkin, William",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1400",
+          "endTime": "1700",
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 10,
+          "available": 6
+        }
+      },
+      {
+        "section": "201",
+        "crn": "13254",
+        "instructor": "Malkin, Joshua",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1700",
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 10,
+          "available": 2
+        }
+      },
+      {
+        "section": "202",
+        "crn": "13255",
+        "instructor": "Schimmel, John",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1700",
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 10,
+          "available": 6
+        }
+      },
+      {
+        "section": "203",
+        "crn": "33270",
+        "instructor": "Brandt, Elizabeth",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "CWLR201T": {
+    "title": "LOW RESIDENCY SEMINAR IN LITERATURE,THEATRE, AND FILM",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "200",
+        "crn": "24375",
+        "instructor": "Birnbaum, Michael",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "Online",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 10,
+          "available": 7
+        }
+      }
+    ]
+  },
+  "CWLR211F": {
+    "title": "LOW RESIDENCY GENRE WORKSHOP",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "200",
+        "crn": "25181",
+        "instructor": "Iglesias, Gabino",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 10,
+          "available": 5
+        }
+      },
+      {
+        "section": "201",
+        "crn": "25182",
+        "instructor": "Goldberg, Tod",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 15,
+          "available": 15
+        }
+      },
+      {
+        "section": "202",
+        "crn": "25205",
+        "instructor": "Smith, Mark",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 10,
+          "available": 4
+        }
+      },
+      {
+        "section": "203",
+        "crn": "25211",
+        "instructor": "Espinoza, Alex",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "204",
+        "crn": "25213",
+        "instructor": "Roberge, Robert",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 10,
+          "available": 7
+        }
+      },
+      {
+        "section": "205",
+        "crn": "25215",
+        "instructor": "Pochoda, Ivy",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 10,
+          "available": 4
+        }
+      },
+      {
+        "section": "206",
+        "crn": "25209",
+        "instructor": "Essbaum, Jill",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 10,
+          "available": 2
+        }
+      },
+      {
+        "section": "207",
+        "crn": "38654",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "208",
+        "crn": "38655",
+        "instructor": "Brandt, Elizabeth",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 10,
+          "available": 6
+        }
+      }
+    ]
+  },
+  "CWLR211N": {
+    "title": "LOW RESIDENCY GENRE WORKSHOP",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "200",
+        "crn": "25226",
+        "instructor": "Roberge, Robert",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "201",
+        "crn": "25228",
+        "instructor": "Ulin, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 10,
+          "available": 5
+        }
+      },
+      {
+        "section": "202",
+        "crn": "31501",
+        "instructor": "Brandt, Elizabeth",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "CWLR211P": {
+    "title": "LOW RESIDENCY GENRE WORKSHOP",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "200",
+        "crn": "25232",
+        "instructor": "McCann, Anthony",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "201",
+        "crn": "25230",
+        "instructor": "Essbaum, Jill",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "CWLR211S": {
+    "title": "LOW RESIDENCY GENRE WORKSHOP",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "200",
+        "crn": "25236",
+        "instructor": "Rabkin, William",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 10,
+          "available": 6
+        }
+      },
+      {
+        "section": "201",
+        "crn": "25234",
+        "instructor": "Malkin, Joshua",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 10,
+          "available": 2
+        }
+      },
+      {
+        "section": "202",
+        "crn": "25238",
+        "instructor": "Schimmel, John",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 10,
+          "available": 6
+        }
+      },
+      {
+        "section": "203",
+        "crn": "33271",
+        "instructor": "Pochoda, Ivy",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "CWLR211T": {
+    "title": "LOW RESIDENCY GENRE WORKSHOP",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "200",
+        "crn": "33266",
+        "instructor": "Birnbaum, Michael",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "Online",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 10,
+          "available": 7
+        }
+      }
+    ]
+  },
+  "CWLR221F": {
+    "title": "LOW RESIDENCY CROSS-GENRE WORKSHOP",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "200",
+        "crn": "25204",
+        "instructor": "Roberge, Robert",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "Online",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 10,
+          "available": 5
+        }
+      },
+      {
+        "section": "201",
+        "crn": "25206",
+        "instructor": "Smith, Mark",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "Online",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 10,
+          "available": 7
+        }
+      },
+      {
+        "section": "202",
+        "crn": "25212",
+        "instructor": "Essbaum, Jill",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "203",
+        "crn": "25214",
+        "instructor": "Otis, Mary",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "204",
+        "crn": "25216",
+        "instructor": "Waters, Mary",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "205",
+        "crn": "25210",
+        "instructor": "Iglesias, Gabino",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "Online",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 10,
+          "available": 7
+        }
+      },
+      {
+        "section": "206",
+        "crn": "25257",
+        "instructor": "Goldberg, Tod",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "207",
+        "crn": "38658",
+        "instructor": "Pochoda, Ivy",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "Online",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 10,
+          "available": 7
+        }
+      }
+    ]
+  },
+  "CWLR221N": {
+    "title": "LOW RESIDENCY CROSS-GENRE WORKSHOP",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "200",
+        "crn": "25227",
+        "instructor": "Brandt, Elizabeth",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "Online",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 10,
+          "available": 7
+        }
+      },
+      {
+        "section": "201",
+        "crn": "25229",
+        "instructor": "Ulin, David",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "Online",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 10,
+          "available": 5
+        }
+      },
+      {
+        "section": "202",
+        "crn": "29507",
+        "instructor": "Goldberg, Tod",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "CWLR221P": {
+    "title": "LOW RESIDENCY CROSS-GENRE WORKSHOP",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "200",
+        "crn": "25233",
+        "instructor": "Borjas, Sara",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "201",
+        "crn": "25231",
+        "instructor": "Essbaum, Jill",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "Online",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 10,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "CWLR221S": {
+    "title": "LOW RESIDENCY CROSS-GENRE WORKSHOP",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "200",
+        "crn": "25237",
+        "instructor": "Rabkin, William",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "Online",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 10,
+          "available": 3
+        }
+      },
+      {
+        "section": "201",
+        "crn": "25235",
+        "instructor": "Malkin, Joshua",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "Online",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 10,
+          "available": 3
+        }
+      },
+      {
+        "section": "202",
+        "crn": "25239",
+        "instructor": "Schimmel, John",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "Online",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 10,
+          "available": 2
+        }
+      },
+      {
+        "section": "203",
+        "crn": "29504",
+        "instructor": "Pochoda, Ivy",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "Online",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "CWLR221T": {
+    "title": "LOW RESIDENCY CROSS-GENRE WORKSHOP",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "200",
+        "crn": "25240",
+        "instructor": "Birnbaum, Michael",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Workshop",
+        "method": "Online",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 15,
+          "available": 12
+        }
+      }
+    ]
+  }
+}

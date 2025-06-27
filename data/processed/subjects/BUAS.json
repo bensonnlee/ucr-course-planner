@@ -1,0 +1,31 @@
+{
+  "BUAS101": {
+    "title": "FUNDAMENTALS OF INSURANCE",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUAS101(\n Course or Test: Business 106 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 134 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Business 133 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36208",
+        "instructor": "Li, Xuan",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1830",
+          "endTime": "1950",
+          "building": "SPR",
+          "room": "2339"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 26,
+          "available": 15
+        }
+      }
+    ]
+  }
+}

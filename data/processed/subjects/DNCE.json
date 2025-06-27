@@ -1,0 +1,1867 @@
+{
+  "DNCE005": {
+    "title": "INTRODUCTION TO DANCE",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "13366",
+        "instructor": "Torralba, Fabiola",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0830",
+          "endTime": "0950",
+          "building": "BARN",
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 15,
+          "available": 1
+        }
+      },
+      {
+        "section": "002",
+        "crn": "13367",
+        "instructor": "Duran Larrea, Cinthia",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1030",
+          "endTime": "1150",
+          "building": "BARN",
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "003",
+        "crn": "13368",
+        "instructor": "Torralba, Fabiola",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "BARN",
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "004",
+        "crn": "13369",
+        "instructor": "Duran Larrea, Cinthia",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1430",
+          "endTime": "1720",
+          "building": "BARN",
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 15,
+          "available": 1
+        }
+      },
+      {
+        "section": "005",
+        "crn": "13370",
+        "instructor": "Jois, Pannaga",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1300",
+          "endTime": "1550",
+          "building": "ARTS",
+          "room": "100"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 15,
+          "available": 1
+        }
+      },
+      {
+        "section": "006",
+        "crn": "13371",
+        "instructor": "McClean, Hannah",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0830",
+          "endTime": "1120",
+          "building": "BARN",
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 15,
+          "available": 3
+        }
+      },
+      {
+        "section": "007",
+        "crn": "13372",
+        "instructor": "Sreevathsa, Sammitha",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0930",
+          "endTime": "1220",
+          "building": "BARN",
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 15,
+          "available": 3
+        }
+      },
+      {
+        "section": "008",
+        "crn": "13373",
+        "instructor": "Sreevathsa, Sammitha",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1550",
+          "building": "BARN",
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "009",
+        "crn": "13374",
+        "instructor": "Ssebulime, Andrew",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0830",
+          "endTime": "0950",
+          "building": "ATH",
+          "room": "102"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 20,
+          "available": 3
+        }
+      },
+      {
+        "section": "010",
+        "crn": "13375",
+        "instructor": "Peterson, Mallory",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0830",
+          "endTime": "0950",
+          "building": "ARTS",
+          "room": "300"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 20,
+          "available": 0
+        }
+      },
+      {
+        "section": "011",
+        "crn": "13376",
+        "instructor": "An, Na",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0900",
+          "endTime": "1020",
+          "building": "ARTS",
+          "room": "300"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 20,
+          "available": 1
+        }
+      },
+      {
+        "section": "012",
+        "crn": "13377",
+        "instructor": "Hernandez, Dava",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0900",
+          "endTime": "1020",
+          "building": "ATH",
+          "room": "102"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 25,
+          "available": 5
+        }
+      },
+      {
+        "section": "013",
+        "crn": "13378",
+        "instructor": "An, Na",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1030",
+          "endTime": "1150",
+          "building": "ARTS",
+          "room": "300"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 20,
+          "available": 1
+        }
+      },
+      {
+        "section": "014",
+        "crn": "13379",
+        "instructor": "Hernandez, Dava",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1030",
+          "endTime": "1150",
+          "building": "ATH",
+          "room": "102"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 20,
+          "available": 0
+        }
+      },
+      {
+        "section": "015",
+        "crn": "20996",
+        "instructor": "Burgos Melendez, Marielys",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1200",
+          "endTime": "1450",
+          "building": "ARTS",
+          "room": "300"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 20,
+          "available": 0
+        }
+      },
+      {
+        "section": "016",
+        "crn": "20998",
+        "instructor": "Haji Kamali, Negar",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0830",
+          "endTime": "0950",
+          "building": "ARTS",
+          "room": "100"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 20,
+          "available": 3
+        }
+      },
+      {
+        "section": "017",
+        "crn": "23072",
+        "instructor": "Haji Kamali, Negar",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1000",
+          "endTime": "1120",
+          "building": "ARTS",
+          "room": "100"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 20,
+          "available": 3
+        }
+      },
+      {
+        "section": "018",
+        "crn": "23073",
+        "instructor": "Moon, Yeji",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "1150",
+          "building": "ARTS",
+          "room": "300"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 20,
+          "available": 0
+        }
+      },
+      {
+        "section": "019",
+        "crn": "29182",
+        "instructor": "Moon, Yeji",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1450",
+          "building": "ARTS",
+          "room": "300"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 20,
+          "available": 0
+        }
+      },
+      {
+        "section": "020",
+        "crn": "29185",
+        "instructor": "Jois, Pannaga",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1750",
+          "building": "ARTS",
+          "room": "300"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 20,
+          "available": 2
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38297",
+        "instructor": "Ssebulime, Andrew",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "ATH",
+          "room": "102"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 20,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "38298",
+        "instructor": "Arenas Ibacache, Rodrigo",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": "ATH",
+          "room": "102"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 20,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "38299",
+        "instructor": "Arenas Ibacache, Rodrigo",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1700",
+          "endTime": "1950",
+          "building": "ARTS",
+          "room": "300"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 20,
+          "available": 3
+        }
+      },
+      {
+        "section": "024",
+        "crn": "38300",
+        "instructor": "Peterson, Mallory",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1700",
+          "endTime": "1820",
+          "building": "ATH",
+          "room": "102"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 20,
+          "available": 4
+        }
+      },
+      {
+        "section": "025",
+        "crn": "38301",
+        "instructor": "McClean, Hannah",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1450",
+          "building": "ARTS",
+          "room": "100"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 20,
+          "available": 0
+        }
+      },
+      {
+        "section": "026",
+        "crn": "38302",
+        "instructor": "Burgos Melendez, Marielys",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1530",
+          "endTime": "1820",
+          "building": "ARTS",
+          "room": "300"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 20,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "DNCE007": {
+    "title": "DANCE: CULTURES AND CONTEXTS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28388",
+        "instructor": "Shea Murphy, Jacqueline",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 209,
+          "capacity": 225,
+          "available": 16
+        }
+      },
+      {
+        "section": "021",
+        "crn": "28674",
+        "instructor": "Yang Sao Yia, Magnolia",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 25,
+          "available": 2
+        }
+      },
+      {
+        "section": "022",
+        "crn": "28675",
+        "instructor": "Yang Sao Yia, Magnolia",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 25,
+          "available": 7
+        }
+      },
+      {
+        "section": "023",
+        "crn": "28676",
+        "instructor": "Yang Sao Yia, Magnolia",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 25,
+          "available": 2
+        }
+      },
+      {
+        "section": "024",
+        "crn": "28677",
+        "instructor": "Poveda Yanez, Jorge",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "025",
+        "crn": "28678",
+        "instructor": "Poveda Yanez, Jorge",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 25,
+          "available": 4
+        }
+      },
+      {
+        "section": "026",
+        "crn": "28679",
+        "instructor": "Poveda Yanez, Jorge",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "027",
+        "crn": "28680",
+        "instructor": "Castro, Johnny",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0930",
+          "endTime": "1020",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "028",
+        "crn": "28681",
+        "instructor": "Castro, Johnny",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1030",
+          "endTime": "1120",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "029",
+        "crn": "28682",
+        "instructor": "Castro, Johnny",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1130",
+          "endTime": "1220",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "DNCE012": {
+    "title": "DANCE AND POPULAR CULTURE",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34259",
+        "instructor": "Barasch, Emily",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "SPR",
+          "room": "1340"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 58,
+          "capacity": 75,
+          "available": 17
+        }
+      },
+      {
+        "section": "021",
+        "crn": "34262",
+        "instructor": "Villeroy Da Costa, Erika",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "INTS",
+          "room": "2136"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "34268",
+        "instructor": "Villeroy Da Costa, Erika",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "INTS",
+          "room": "1134"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 25,
+          "available": 6
+        }
+      },
+      {
+        "section": "023",
+        "crn": "34269",
+        "instructor": "Villeroy Da Costa, Erika",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "INTS",
+          "room": "1134"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 25,
+          "available": 11
+        }
+      }
+    ]
+  },
+  "DNCE014": {
+    "title": "INTRODUCTION TO CHOREOGRAPHY",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "30970",
+        "instructor": "Jung, Daeun",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1300",
+          "endTime": "1450",
+          "building": "ARTS",
+          "room": "100"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 20,
+          "available": 9
+        }
+      }
+    ]
+  },
+  "DNCE019": {
+    "title": "INTRODUCTION TO DANCE STUDIES",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "13391",
+        "instructor": "Akbarzadeh, Heather",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "SPTH",
+          "room": "1307"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 25,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "DNCE065A": {
+    "title": "BEGINNING LATIN AMERICAN SOCIAL DANCES",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34728",
+        "instructor": "Huerta, Patricia",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1000",
+          "endTime": "1120",
+          "building": "ATH",
+          "room": "102"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 25,
+          "available": 2
+        }
+      }
+    ]
+  },
+  "DNCE065B": {
+    "title": "INTERMEDIATE LATIN AMERICAN SOCIAL DANCES",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38176",
+        "instructor": "Huerta, Patricia",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1130",
+          "endTime": "1250",
+          "building": "ATH",
+          "room": "102"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 25,
+          "available": 15
+        }
+      }
+    ]
+  },
+  "DNCE066A": {
+    "title": "BEGINNING WEST AFRICAN DANCE",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "13392",
+        "instructor": "Parker, Clydean",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1500",
+          "endTime": "1620",
+          "building": "ARTS",
+          "room": "100"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 25,
+          "available": 17
+        }
+      }
+    ]
+  },
+  "DNCE066B": {
+    "title": "INTERMEDIATE WEST AFRICAN DANCE",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "13393",
+        "instructor": "Parker, Clydean",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1630",
+          "endTime": "1750",
+          "building": "ARTS",
+          "room": "100"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 25,
+          "available": 23
+        }
+      }
+    ]
+  },
+  "DNCE067B": {
+    "title": "INTERMEDIATE MODERN DANCE TECHNIQUE",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38177",
+        "instructor": "Jung, Daeun",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "ARTS",
+          "room": "100"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 20,
+          "available": 14
+        }
+      }
+    ]
+  },
+  "DNCE070A": {
+    "title": "BEGINNING HIP HOP DANCE",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "13397",
+        "instructor": "Aiken, Brandon",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1200",
+          "endTime": "1320",
+          "building": "ATH",
+          "room": "102"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 36,
+          "capacity": 40,
+          "available": 4
+        }
+      }
+    ]
+  },
+  "DNCE070B": {
+    "title": "INTERMEDIATE HIP HOP DANCE",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38178",
+        "instructor": "Aiken, Brandon",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1330",
+          "endTime": "1450",
+          "building": "ATH",
+          "room": "102"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 35,
+          "available": 12
+        }
+      }
+    ]
+  },
+  "DNCE071B": {
+    "title": "INTERMEDIATE BALLET TECHNIQUE",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36336",
+        "instructor": "Aiken, Brandon",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1500",
+          "endTime": "1620",
+          "building": "ATH",
+          "room": "102"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 35,
+          "available": 25
+        }
+      }
+    ]
+  },
+  "DNCE075A": {
+    "title": "KOREAN DNCE DRUMMING GROOVING",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32549",
+        "instructor": "Pasion, Toni",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1000",
+          "endTime": "1120",
+          "building": "ARTS",
+          "room": "300"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 25,
+          "available": 17
+        }
+      },
+      {
+        "section": "002",
+        "crn": "34920",
+        "instructor": "Jung, Daeun",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "ARTS",
+          "room": "100"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 20,
+          "available": 17
+        }
+      }
+    ]
+  },
+  "DNCE075B": {
+    "title": "INTRMDTE OCEANIA DNCE",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38180",
+        "instructor": "Pasion, Toni",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "ARTS",
+          "room": "300"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 25,
+          "available": 24
+        }
+      }
+    ]
+  },
+  "DNCE115G": {
+    "title": "DANCE MAKING: DANCE AS RITUAL",
+    "credits": "4",
+    "prerequisites": "Prerequisites:DNCE115G(\n Course or Test: Dance 014 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38182",
+        "instructor": "Huerta, Patricia",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1330",
+          "endTime": "1520",
+          "building": "ATH",
+          "room": "102"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 20,
+          "available": 15
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38183",
+        "instructor": "Huerta, Patricia",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1350",
+          "building": "ATH",
+          "room": "102"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 20,
+          "available": 15
+        }
+      }
+    ]
+  },
+  "DNCE135": {
+    "title": "DANCE, RACE, PROPERTY",
+    "credits": "4",
+    "prerequisites": "Prerequisites:DNCE135(\n Course or Test: Dance 019 \n Minimum Grade of D-\n May be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38184",
+        "instructor": "Kraut, Anthea",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1000",
+          "endTime": "1120",
+          "building": "SSC",
+          "room": "216"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 35,
+          "available": 25
+        }
+      }
+    ]
+  },
+  "DNCE168": {
+    "title": "DANCE TOURING ENSEMBLE",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "29226",
+        "instructor": "Aiken, Brandon",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1850",
+          "building": "ATH",
+          "room": "102"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 15,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "DNCE180R": {
+    "title": "PEDAGOGY",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "13405",
+        "instructor": "Pasion, Toni",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1130",
+          "endTime": "1320",
+          "building": "ARTS",
+          "room": "300"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 20,
+          "available": 13
+        }
+      }
+    ]
+  },
+  "DNCE188": {
+    "title": "INDIVIDUAL PROJECTS IN CREATIVE ACTIVITY",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "24750",
+        "instructor": "Paggett, Taisha",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1500",
+          "endTime": "1620",
+          "building": "ARTS",
+          "room": "300"
+        },
+        "type": "Studio",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 15,
+          "available": 8
+        }
+      }
+    ]
+  },
+  "DNCE190": {
+    "title": "SPECIAL STUDIES",
+    "credits": "1-5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "62K",
+        "crn": "37041",
+        "instructor": "Kedhar, Anusha",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "66F",
+        "crn": "38139",
+        "instructor": "Firmino-Castillo, Maria",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "70P",
+        "crn": "37114",
+        "instructor": "Paggett, Taisha",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "DNCE239": {
+    "title": "INTRODUCTION TO GRADUATE STUDY OF DANCE",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "13410",
+        "instructor": "Shea Murphy, Jacqueline",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1300",
+          "endTime": "1550",
+          "building": "ARTS",
+          "room": "202"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 15,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "DNCE241": {
+    "title": "CREATING THE EXPERIMENT: IDENTIFYING THE NEW",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38185",
+        "instructor": "Smith, Joel",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1430",
+          "endTime": "1720",
+          "building": "ARTS",
+          "room": "202"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 10,
+          "available": 4
+        }
+      }
+    ]
+  },
+  "DNCE264": {
+    "title": "ORAL HISTORY AND ETHNOGRAPHIC METHODS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38186",
+        "instructor": "Kedhar, Anusha",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": "INTS",
+          "room": "2134"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 11,
+          "available": 2
+        }
+      }
+    ]
+  },
+  "DNCE290": {
+    "title": "DIRECTED STUDIES",
+    "credits": "1-6",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "41J",
+        "crn": "38846",
+        "instructor": "Johnson, Imani",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "DNCE291": {
+    "title": "INDIVIDUAL STUDY IN COORDINATED AREAS",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "66F",
+        "crn": "29394",
+        "instructor": "Firmino-Castillo, Maria",
+        "schedule": {
+          "days": [],
+          "startTime": "0700",
+          "endTime": "0750",
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "S79",
+        "crn": "29151",
+        "instructor": "See, Maria",
+        "schedule": {
+          "days": [],
+          "startTime": "0700",
+          "endTime": "0750",
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "DNCE292": {
+    "title": "CONCURRENT ANALYTICAL STUDIES IN DANCE",
+    "credits": "1-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "050",
+        "crn": "36891",
+        "instructor": "Pasion, Toni",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 5,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "DNCE297": {
+    "title": "DIRECTED RESEARCH",
+    "credits": "1-6",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "099",
+        "crn": "37116",
+        "instructor": "Huerta, Patricia",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "62K",
+        "crn": "35218",
+        "instructor": "Kedhar, Anusha",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "66F",
+        "crn": "29838",
+        "instructor": "Firmino-Castillo, Maria",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "92R",
+        "crn": "35282",
+        "instructor": "Reynoso, Jose",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 12,
+          "available": 12
+        }
+      },
+      {
+        "section": "R28",
+        "crn": "38912",
+        "instructor": "Akbarzadeh, Heather",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 12,
+          "available": 11
+        }
+      },
+      {
+        "section": "S59",
+        "crn": "13429",
+        "instructor": "Smith, Joel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 5,
+          "available": 3
+        }
+      },
+      {
+        "section": "W21",
+        "crn": "29782",
+        "instructor": "Whitson, Sage Ni&#39;Ja",
+        "schedule": {
+          "days": [],
+          "startTime": "0700",
+          "endTime": "0750",
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "DNCE299": {
+    "title": "RESEARCH FOR THE THESIS OR DISSERTATION",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "R28",
+        "crn": "38862",
+        "instructor": "Akbarzadeh, Heather",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 12,
+          "available": 12
+        }
+      }
+    ]
+  },
+  "DNCE302": {
+    "title": "TEACHING PRACTICUM",
+    "credits": "1-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "050",
+        "crn": "36958",
+        "instructor": "Barasch, Emily",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 12,
+          "available": 11
+        }
+      },
+      {
+        "section": "70P",
+        "crn": "38819",
+        "instructor": "Paggett, Taisha",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 13,
+          "available": 4
+        }
+      }
+    ]
+  }
+}

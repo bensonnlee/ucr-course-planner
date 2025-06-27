@@ -1,0 +1,1437 @@
+{
+  "NASC091": {
+    "title": "FRESHMAN ADVISING SEMINAR IN THE NATURAL AND AGRICULTURAL SCIENCES",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37026",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "002",
+        "crn": "37027",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 26,
+          "capacity": 26,
+          "available": 0
+        }
+      },
+      {
+        "section": "003",
+        "crn": "37028",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "CAMP",
+          "room": "104"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "004",
+        "crn": "38358",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "CAMP",
+          "room": "104"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 20,
+          "available": 0
+        }
+      },
+      {
+        "section": "005",
+        "crn": "38359",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "CAMP",
+          "room": "104"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 24,
+          "available": 0
+        }
+      },
+      {
+        "section": "006",
+        "crn": "38360",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "007",
+        "crn": "38361",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 24,
+          "available": 5
+        }
+      },
+      {
+        "section": "008",
+        "crn": "38362",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "009",
+        "crn": "38363",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 20,
+          "available": 0
+        }
+      },
+      {
+        "section": "014",
+        "crn": "38368",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 18,
+          "available": 0
+        }
+      },
+      {
+        "section": "015",
+        "crn": "38369",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 23,
+          "available": 0
+        }
+      },
+      {
+        "section": "018",
+        "crn": "38374",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 24,
+          "available": 0
+        }
+      },
+      {
+        "section": "019",
+        "crn": "38375",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "CAMP",
+          "room": "104"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 24,
+          "available": 0
+        }
+      },
+      {
+        "section": "020",
+        "crn": "38376",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "CAMP",
+          "room": "104"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 22,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38377",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 23,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "38378",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 22,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "38379",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "CAMP",
+          "room": "104"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 24,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "38382",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "CAMP",
+          "room": "104"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 21,
+          "available": 0
+        }
+      },
+      {
+        "section": "030",
+        "crn": "38387",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 23,
+          "available": 0
+        }
+      },
+      {
+        "section": "031",
+        "crn": "38388",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "CAMP",
+          "room": "104"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 23,
+          "available": 0
+        }
+      },
+      {
+        "section": "032",
+        "crn": "38389",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "CAMP",
+          "room": "104"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 24,
+          "available": 0
+        }
+      },
+      {
+        "section": "033",
+        "crn": "38390",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 24,
+          "available": 0
+        }
+      },
+      {
+        "section": "034",
+        "crn": "38391",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 22,
+          "available": 0
+        }
+      },
+      {
+        "section": "035",
+        "crn": "38392",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "CAMP",
+          "room": "104"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 22,
+          "available": 0
+        }
+      },
+      {
+        "section": "036",
+        "crn": "38393",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 24,
+          "available": 2
+        }
+      },
+      {
+        "section": "040",
+        "crn": "38424",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 24,
+          "available": 0
+        }
+      },
+      {
+        "section": "041",
+        "crn": "38425",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 24,
+          "available": 0
+        }
+      },
+      {
+        "section": "042",
+        "crn": "38426",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 24,
+          "available": 0
+        }
+      },
+      {
+        "section": "043",
+        "crn": "38427",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 24,
+          "available": 0
+        }
+      },
+      {
+        "section": "045",
+        "crn": "38429",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "CAMP",
+          "room": "104"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 21,
+          "available": 0
+        }
+      },
+      {
+        "section": "046",
+        "crn": "38431",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "CAMP",
+          "room": "104"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 23,
+          "available": 0
+        }
+      },
+      {
+        "section": "047",
+        "crn": "38432",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 22,
+          "available": 0
+        }
+      },
+      {
+        "section": "050",
+        "crn": "38433",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 24,
+          "available": 0
+        }
+      },
+      {
+        "section": "051",
+        "crn": "38434",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "CAMP",
+          "room": "104"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 24,
+          "available": 0
+        }
+      },
+      {
+        "section": "052",
+        "crn": "38435",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 23,
+          "available": 0
+        }
+      },
+      {
+        "section": "053",
+        "crn": "38436",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "CAMP",
+          "room": "104"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 23,
+          "available": 0
+        }
+      },
+      {
+        "section": "054",
+        "crn": "38437",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "CAMP",
+          "room": "101"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 20,
+          "available": 0
+        }
+      },
+      {
+        "section": "055",
+        "crn": "38438",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 21,
+          "available": 2
+        }
+      },
+      {
+        "section": "056",
+        "crn": "38664",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 14,
+          "available": 0
+        }
+      },
+      {
+        "section": "057",
+        "crn": "38665",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "CAMP",
+          "room": "104"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 13,
+          "available": 0
+        }
+      },
+      {
+        "section": "060",
+        "crn": "38439",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "CAMP",
+          "room": "104"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 24,
+          "available": 0
+        }
+      },
+      {
+        "section": "061",
+        "crn": "38440",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 23,
+          "available": 0
+        }
+      },
+      {
+        "section": "062",
+        "crn": "38441",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 24,
+          "available": 0
+        }
+      },
+      {
+        "section": "063",
+        "crn": "38442",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "CAMP",
+          "room": "104"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 21,
+          "available": 0
+        }
+      },
+      {
+        "section": "064",
+        "crn": "38666",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 12,
+          "available": 0
+        }
+      },
+      {
+        "section": "073",
+        "crn": "38443",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 19,
+          "available": 0
+        }
+      },
+      {
+        "section": "076",
+        "crn": "38445",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 11,
+          "available": 0
+        }
+      },
+      {
+        "section": "090",
+        "crn": "38446",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "CAMP",
+          "room": "104"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 22,
+          "available": 0
+        }
+      },
+      {
+        "section": "092",
+        "crn": "38448",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 21,
+          "available": 0
+        }
+      },
+      {
+        "section": "093",
+        "crn": "38449",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "095",
+        "crn": "38451",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "CAMP",
+          "room": "104"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 18,
+          "available": 0
+        }
+      },
+      {
+        "section": "097",
+        "crn": "38453",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "CAMP",
+          "room": "104"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 16,
+          "available": 0
+        }
+      },
+      {
+        "section": "098",
+        "crn": "38454",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 23,
+          "available": 0
+        }
+      },
+      {
+        "section": "099",
+        "crn": "38455",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "CAMP",
+          "room": "104"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 11,
+          "available": 1
+        }
+      },
+      {
+        "section": "171",
+        "crn": "38370",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 23,
+          "available": 0
+        }
+      },
+      {
+        "section": "172",
+        "crn": "38371",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 22,
+          "available": 0
+        }
+      },
+      {
+        "section": "173",
+        "crn": "38372",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 24,
+          "available": 1
+        }
+      },
+      {
+        "section": "741",
+        "crn": "38444",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "CAMP",
+          "room": "104"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 24,
+          "available": 4
+        }
+      },
+      {
+        "section": "742",
+        "crn": "38580",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "CAMP",
+          "room": "104"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 19,
+          "available": 0
+        }
+      },
+      {
+        "section": "743",
+        "crn": "38581",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "PRCE",
+          "room": "2301"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 14,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "NASC092": {
+    "title": "CNAS TRANSFER TRANSITION SEM",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "26858",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "CAMP",
+          "room": "104"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 24,
+          "available": 5
+        }
+      },
+      {
+        "section": "002",
+        "crn": "27480",
+        "instructor": "Dingwall, Stephanie",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "CAMP",
+          "room": "104"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 24,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "NASC094": {
+    "title": "ADVENTURES IN SCIENCE: BIOLOGY",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38464",
+        "instructor": "Saltzman, Wendy",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "SPTH",
+          "room": "2200"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 75,
+          "capacity": 80,
+          "available": 5
+        }
+      },
+      {
+        "section": "002",
+        "crn": "38515",
+        "instructor": "Armstrong, Ellie",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "UNLH",
+          "room": "1000"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 325,
+          "capacity": 570,
+          "available": 245
+        }
+      }
+    ]
+  },
+  "NASC198": {
+    "title": "RCRS: THE SCIENCE OF STUDYING",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "36E",
+        "crn": "38356",
+        "instructor": "Eichler, Jack",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "ORBLI",
+          "room": null
+        },
+        "type": "Activity",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 20,
+          "available": 1
+        }
+      },
+      {
+        "section": "B21",
+        "crn": "38458",
+        "instructor": "Burnette, James",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "CAMP",
+          "room": "104"
+        },
+        "type": "Activity",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 20,
+          "available": 0
+        }
+      },
+      {
+        "section": "C38",
+        "crn": "38357",
+        "instructor": "Casselman, Matthew",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "WAT",
+          "room": "2101"
+        },
+        "type": "Activity",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 20,
+          "available": 6
+        }
+      }
+    ]
+  }
+}

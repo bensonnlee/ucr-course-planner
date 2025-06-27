@@ -1,0 +1,157 @@
+{
+  "LWSO100": {
+    "title": "INTRODUCTION TO THE STUDY OF LAW AND SOCIETY",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "33844",
+        "instructor": "Cranor, Carl",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "SSC",
+          "room": "329"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 142,
+          "capacity": 75,
+          "available": -67
+        }
+      },
+      {
+        "section": "021",
+        "crn": "16329",
+        "instructor": "Luo, Qinyi",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "CHUNG",
+          "room": "142"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 13,
+          "available": -12
+        }
+      },
+      {
+        "section": "022",
+        "crn": "16330",
+        "instructor": "Luo, Qinyi",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "CHUNG",
+          "room": "142"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 13,
+          "available": -9
+        }
+      },
+      {
+        "section": "023",
+        "crn": "16331",
+        "instructor": "Luo, Qinyi",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "SKYE",
+          "room": "173"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 13,
+          "available": -12
+        }
+      },
+      {
+        "section": "024",
+        "crn": "16332",
+        "instructor": "Garcia, Gustavo",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "HMNSS",
+          "room": "1406"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 13,
+          "available": -8
+        }
+      },
+      {
+        "section": "025",
+        "crn": "16333",
+        "instructor": "Garcia, Gustavo",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "HMNSS",
+          "room": "1405"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 12,
+          "available": -12
+        }
+      },
+      {
+        "section": "026",
+        "crn": "16334",
+        "instructor": "Garcia, Gustavo",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "HMNSS",
+          "room": "1406"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 11,
+          "available": -14
+        }
+      }
+    ]
+  }
+}

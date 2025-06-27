@@ -1,0 +1,79 @@
+{
+  "EUR042": {
+    "title": "ITALIAN AMERICANS: VOICES AND VISIONS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37676",
+        "instructor": "Hatzopoulos, Irene",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "SPR",
+          "room": "2339"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 10,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "EUR111C": {
+    "title": "SURVEY OF RUSSIAN CIVILIZATION",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37666",
+        "instructor": "Yudina, Ekaterina",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "SPR",
+          "room": "2339"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 15,
+          "available": -4
+        }
+      },
+      {
+        "section": "021",
+        "crn": "37667",
+        "instructor": "Yudina, Ekaterina",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 15,
+          "available": -4
+        }
+      }
+    ]
+  }
+}

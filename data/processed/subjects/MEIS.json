@@ -1,0 +1,31 @@
+{
+  "MEIS110": {
+    "title": "GENDER, SEXUALITY, AND ISLAM",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37265",
+        "instructor": "Acikgoz, Sahin",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1830",
+          "endTime": "1950",
+          "building": "INTS",
+          "room": "1132"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 10,
+          "available": 7
+        }
+      }
+    ]
+  }
+}

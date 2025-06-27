@@ -1,0 +1,3860 @@
+{
+  "BUS001": {
+    "title": "PERSONAL FINANCE",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "23721",
+        "instructor": "Paik, Hoyul",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1830",
+          "endTime": "1950",
+          "building": "SSC",
+          "room": "308"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 57,
+          "capacity": 80,
+          "available": 23
+        }
+      },
+      {
+        "section": "021",
+        "crn": "23730",
+        "instructor": "Paik, Hoyul",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1900",
+          "endTime": "1950",
+          "building": "SSC",
+          "room": "308"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 57,
+          "capacity": 80,
+          "available": 23
+        }
+      }
+    ]
+  },
+  "BUS010": {
+    "title": "INTRODUCTION TO BUSINESS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "11562",
+        "instructor": "Singh, Raj",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "SSC",
+          "room": "229"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 287,
+          "capacity": 292,
+          "available": 5
+        }
+      },
+      {
+        "section": "002",
+        "crn": "11563",
+        "instructor": "Singh, Raj",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "SSC",
+          "room": "229"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 295,
+          "capacity": 295,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "11564",
+        "instructor": "Ruiz, Samantha",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 45,
+          "capacity": 45,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "11565",
+        "instructor": "Wilson, Kalayah",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 49,
+          "capacity": 50,
+          "available": 1
+        }
+      },
+      {
+        "section": "023",
+        "crn": "11566",
+        "instructor": "Wilson, Kalayah",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "SPR",
+          "room": "2355"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 47,
+          "capacity": 47,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "11567",
+        "instructor": "Fadal, Isi",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "SPR",
+          "room": "2355"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 49,
+          "capacity": 49,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "11568",
+        "instructor": "Ruiz, Samantha",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "OLMH",
+          "room": "421"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 49,
+          "capacity": 49,
+          "available": 0
+        }
+      },
+      {
+        "section": "026",
+        "crn": "11569",
+        "instructor": "Fadal, Isi",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "SPR",
+          "room": "2355"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 48,
+          "capacity": 49,
+          "available": 1
+        }
+      },
+      {
+        "section": "028",
+        "crn": "11571",
+        "instructor": "Malik, Nashwa",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 50,
+          "capacity": 50,
+          "available": 0
+        }
+      },
+      {
+        "section": "029",
+        "crn": "11572",
+        "instructor": "Shastri, Priyanka",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "BOYHL",
+          "room": "1471"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 50,
+          "capacity": 50,
+          "available": 0
+        }
+      },
+      {
+        "section": "030",
+        "crn": "11573",
+        "instructor": "Malik, Nashwa",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 50,
+          "capacity": 50,
+          "available": 0
+        }
+      },
+      {
+        "section": "031",
+        "crn": "11574",
+        "instructor": "Shastri, Priyanka",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 50,
+          "capacity": 50,
+          "available": 0
+        }
+      },
+      {
+        "section": "032",
+        "crn": "11575",
+        "instructor": "do Nascimento Vieira, Luiz Fernando",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 47,
+          "capacity": 47,
+          "available": 0
+        }
+      },
+      {
+        "section": "033",
+        "crn": "11576",
+        "instructor": "do Nascimento Vieira, Luiz Fernando",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "CHUNG",
+          "room": "142"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 48,
+          "capacity": 48,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "BUS020": {
+    "title": "FINANCIAL ACCOUNTING AND REPORTING",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "11578",
+        "instructor": "Zhang, Ivy",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "LFSC",
+          "room": "1500"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 301,
+          "capacity": 300,
+          "available": -1
+        }
+      },
+      {
+        "section": "021",
+        "crn": "11579",
+        "instructor": "Pham, Truong",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "MSE",
+          "room": "003"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 50,
+          "capacity": 50,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "11580",
+        "instructor": "Bapanapalli, Tejaswani",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "MSE",
+          "room": "103"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 50,
+          "capacity": 50,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "11581",
+        "instructor": "Bapanapalli, Tejaswani",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "OLMH",
+          "room": "421"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 50,
+          "capacity": 50,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "11582",
+        "instructor": "Lu, Wangda",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "OLMH",
+          "room": "421"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 50,
+          "capacity": 50,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "11583",
+        "instructor": "Pham, Truong",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 50,
+          "capacity": 50,
+          "available": 0
+        }
+      },
+      {
+        "section": "026",
+        "crn": "11584",
+        "instructor": "Lu, Wangda",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "SSC",
+          "room": "216"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 51,
+          "capacity": 50,
+          "available": -1
+        }
+      }
+    ]
+  },
+  "BUS098": {
+    "title": "PERSONAL BRANDING AND PROFESSIONAL DEVELOPMENT",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37893",
+        "instructor": "Luth, Heather",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0900",
+          "endTime": "1020",
+          "building": "SPTH",
+          "room": "2200"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 80,
+          "available": 55
+        }
+      }
+    ]
+  },
+  "BUS100W": {
+    "title": "MANAGEMENT WRITING AND COMMUNICATION",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS100W(\n Course or Test: English 001B \n Minimum Grade of C\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: English 007 \n Minimum Grade of D-\n May be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "11588",
+        "instructor": "Acker, John",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0920",
+          "building": "SBB",
+          "room": "165"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 259,
+          "capacity": 299,
+          "available": 40
+        }
+      },
+      {
+        "section": "021",
+        "crn": "11589",
+        "instructor": "Garewal, Lauryn",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "SPR",
+          "room": "2364"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 16,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "11590",
+        "instructor": "Garewal, Lauryn",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "PRCE",
+          "room": "2226"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 17,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "11591",
+        "instructor": "Garewal, Lauryn",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "SPR",
+          "room": "1358"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 16,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "11592",
+        "instructor": "Dulipala, Sowjanya",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "WAT",
+          "room": "1117"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 17,
+          "available": 3
+        }
+      },
+      {
+        "section": "025",
+        "crn": "11593",
+        "instructor": "Reyes, Bryan",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "WAT",
+          "room": "2101"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 17,
+          "available": 0
+        }
+      },
+      {
+        "section": "026",
+        "crn": "11594",
+        "instructor": "Ramos, Moises",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "SPR",
+          "room": "2212"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 16,
+          "available": 0
+        }
+      },
+      {
+        "section": "027",
+        "crn": "11595",
+        "instructor": "Vu, Hoang An",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "SPR",
+          "room": "2212"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 17,
+          "available": 6
+        }
+      },
+      {
+        "section": "028",
+        "crn": "11596",
+        "instructor": "Dulipala, Sowjanya",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "SPR",
+          "room": "2212"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 17,
+          "available": 0
+        }
+      },
+      {
+        "section": "029",
+        "crn": "11597",
+        "instructor": "Dulipala, Sowjanya",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "OLMH",
+          "room": "1126"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 16,
+          "available": 5
+        }
+      },
+      {
+        "section": "030",
+        "crn": "11598",
+        "instructor": "Reyes, Bryan",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "SPR",
+          "room": "2364"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 17,
+          "available": 4
+        }
+      },
+      {
+        "section": "031",
+        "crn": "11599",
+        "instructor": "Ramos, Moises",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "INTS",
+          "room": "2132"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 17,
+          "available": 3
+        }
+      },
+      {
+        "section": "032",
+        "crn": "11600",
+        "instructor": "Vu, Hoang An",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "PRCE",
+          "room": "2226"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 16,
+          "available": 1
+        }
+      },
+      {
+        "section": "033",
+        "crn": "11601",
+        "instructor": "Vu, Hoang An",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "PRCE",
+          "room": "2226"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 17,
+          "available": 1
+        }
+      },
+      {
+        "section": "034",
+        "crn": "11602",
+        "instructor": "Reyes, Bryan",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "OLMH",
+          "room": "1122"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 17,
+          "available": 3
+        }
+      },
+      {
+        "section": "035",
+        "crn": "11603",
+        "instructor": "Navarro, Pete",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "SPR",
+          "room": "1358"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 16,
+          "available": 1
+        }
+      },
+      {
+        "section": "036",
+        "crn": "11604",
+        "instructor": "Navarro, Pete",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "SPR",
+          "room": "1358"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 17,
+          "available": 5
+        }
+      },
+      {
+        "section": "037",
+        "crn": "11605",
+        "instructor": "Ramos, Moises",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "WAT",
+          "room": "2101"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 17,
+          "available": 5
+        }
+      },
+      {
+        "section": "038",
+        "crn": "11606",
+        "instructor": "Navarro, Pete",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "SPR",
+          "room": "2212"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 16,
+          "available": 3
+        }
+      }
+    ]
+  },
+  "BUS101": {
+    "title": "INFORMATION TECHNOLOGY MANAGEMENT",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS101)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "11607",
+        "instructor": "Yueh, Rich",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1820",
+          "building": "SBB",
+          "room": "165"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 274,
+          "capacity": 276,
+          "available": 2
+        }
+      },
+      {
+        "section": "002",
+        "crn": "37887",
+        "instructor": "Yueh, Rich",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1830",
+          "endTime": "1950",
+          "building": "SBB",
+          "room": "165"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 201,
+          "capacity": 300,
+          "available": 99
+        }
+      },
+      {
+        "section": "021",
+        "crn": "11608",
+        "instructor": "Donohoe, Clarissa",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "CHUNG",
+          "room": "142"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 46,
+          "capacity": 46,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "11609",
+        "instructor": "Ramasubramanian, Shanmugasundaram",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "SSC",
+          "room": "121"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 46,
+          "capacity": 46,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "11610",
+        "instructor": "Shirokikh, Emil",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "MSE",
+          "room": "003"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 45,
+          "capacity": 46,
+          "available": 1
+        }
+      },
+      {
+        "section": "024",
+        "crn": "11611",
+        "instructor": "Ramasubramanian, Shanmugasundaram",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 46,
+          "capacity": 46,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "11612",
+        "instructor": "Shirokikh, Emil",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "PHY",
+          "room": "2104"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 45,
+          "capacity": 46,
+          "available": 1
+        }
+      },
+      {
+        "section": "026",
+        "crn": "11613",
+        "instructor": "Donohoe, Clarissa",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "HMNSS",
+          "room": "1503"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 46,
+          "capacity": 46,
+          "available": 0
+        }
+      },
+      {
+        "section": "027",
+        "crn": "38531",
+        "instructor": "Pineda, Melanie",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "ANDHL",
+          "room": "118"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 50,
+          "available": 20
+        }
+      },
+      {
+        "section": "028",
+        "crn": "38532",
+        "instructor": "Pineda, Melanie",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "ANDHL",
+          "room": "118"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 34,
+          "capacity": 50,
+          "available": 16
+        }
+      },
+      {
+        "section": "029",
+        "crn": "38533",
+        "instructor": "Komatineni, Samhitha",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "SSC",
+          "room": "308"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 39,
+          "capacity": 50,
+          "available": 11
+        }
+      },
+      {
+        "section": "030",
+        "crn": "38640",
+        "instructor": "Komatineni, Samhitha",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "SPTH",
+          "room": "2200"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 39,
+          "capacity": 50,
+          "available": 11
+        }
+      },
+      {
+        "section": "031",
+        "crn": "38641",
+        "instructor": "Kadam, Omkar",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "SPTH",
+          "room": "2200"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 33,
+          "capacity": 50,
+          "available": 17
+        }
+      },
+      {
+        "section": "032",
+        "crn": "38642",
+        "instructor": "Kadam, Omkar",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "INTN",
+          "room": "1002"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 26,
+          "capacity": 50,
+          "available": 24
+        }
+      }
+    ]
+  },
+  "BUS102": {
+    "title": "ETHICS AND LAW IN BUSINESS AND SOCIETY",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS102)\nand\n(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "11614",
+        "instructor": "Haselhuhn, Michael",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 290,
+          "capacity": 290,
+          "available": 0
+        }
+      },
+      {
+        "section": "002",
+        "crn": "37888",
+        "instructor": "Attaway, Austin",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1700",
+          "endTime": "1820",
+          "building": "SBB",
+          "room": "165"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 229,
+          "capacity": 288,
+          "available": 59
+        }
+      },
+      {
+        "section": "021",
+        "crn": "11615",
+        "instructor": "Shwetanjli, Shwetanjli",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 49,
+          "capacity": 50,
+          "available": 1
+        }
+      },
+      {
+        "section": "022",
+        "crn": "11616",
+        "instructor": "Shwetanjli, Shwetanjli",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 49,
+          "capacity": 49,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "11617",
+        "instructor": "Singhal, Ishita",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 48,
+          "capacity": 48,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "11618",
+        "instructor": "Singhal, Ishita",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 48,
+          "capacity": 48,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "11619",
+        "instructor": "Zhang, Yiyuan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 48,
+          "capacity": 48,
+          "available": 0
+        }
+      },
+      {
+        "section": "026",
+        "crn": "11620",
+        "instructor": "Zhang, Yiyuan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 48,
+          "capacity": 48,
+          "available": 0
+        }
+      },
+      {
+        "section": "027",
+        "crn": "38634",
+        "instructor": "Rawat, Divanshi",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "SSC",
+          "room": "216"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 43,
+          "capacity": 48,
+          "available": 5
+        }
+      },
+      {
+        "section": "028",
+        "crn": "38635",
+        "instructor": "Jagati, Sneha",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "INTN",
+          "room": "1002"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 46,
+          "capacity": 48,
+          "available": 2
+        }
+      },
+      {
+        "section": "029",
+        "crn": "38636",
+        "instructor": "Rawat, Divanshi",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "SPR",
+          "room": "2343"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 34,
+          "capacity": 45,
+          "available": 11
+        }
+      },
+      {
+        "section": "030",
+        "crn": "38637",
+        "instructor": "Nayyar, Rahul",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "SSC",
+          "room": "308"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 46,
+          "capacity": 48,
+          "available": 2
+        }
+      },
+      {
+        "section": "031",
+        "crn": "38638",
+        "instructor": "Nayyar, Rahul",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "INTN",
+          "room": "1002"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 29,
+          "capacity": 48,
+          "available": 19
+        }
+      },
+      {
+        "section": "032",
+        "crn": "38639",
+        "instructor": "Jagati, Sneha",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "OLMH",
+          "room": "421"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 31,
+          "capacity": 48,
+          "available": 17
+        }
+      }
+    ]
+  },
+  "BUS103": {
+    "title": "MARKETING AND DISTRIBUTION MANAGEMENT",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS103(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "11621",
+        "instructor": "Jasso, Sean",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "SBB",
+          "room": "165"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 275,
+          "capacity": 296,
+          "available": 21
+        }
+      },
+      {
+        "section": "021",
+        "crn": "11622",
+        "instructor": "Berkmor, Justin",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "SPR",
+          "room": "2340"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 38,
+          "capacity": 50,
+          "available": 12
+        }
+      },
+      {
+        "section": "022",
+        "crn": "11623",
+        "instructor": "Rockholt, Bailey",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 50,
+          "capacity": 50,
+          "available": 0
+        }
+      },
+      {
+        "section": "029",
+        "crn": "33083",
+        "instructor": "Do, Tuyen",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "BOYHL",
+          "room": "1471"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 42,
+          "capacity": 50,
+          "available": 8
+        }
+      },
+      {
+        "section": "030",
+        "crn": "33084",
+        "instructor": "Rockholt, Bailey",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "MSE",
+          "room": "103"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 45,
+          "capacity": 46,
+          "available": 1
+        }
+      },
+      {
+        "section": "031",
+        "crn": "33085",
+        "instructor": "Do, Tuyen",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "HMNSS",
+          "room": "1503"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 50,
+          "capacity": 50,
+          "available": 0
+        }
+      },
+      {
+        "section": "032",
+        "crn": "33086",
+        "instructor": "Berkmor, Justin",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "CHUNG",
+          "room": "143"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 50,
+          "capacity": 50,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "BUS104": {
+    "title": "DECISION ANALYSIS AND MANAGEMENT SCIENCE",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS104(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "11628",
+        "instructor": "El-Hafsi, Mohsen",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "SBB",
+          "room": "165"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 259,
+          "capacity": 282,
+          "available": 23
+        }
+      },
+      {
+        "section": "002",
+        "crn": "37889",
+        "instructor": "Turcic, Danko",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 288,
+          "capacity": 288,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "11629",
+        "instructor": "Fu, Yingchao",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "MSE",
+          "room": "003"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 42,
+          "capacity": 46,
+          "available": 4
+        }
+      },
+      {
+        "section": "022",
+        "crn": "11630",
+        "instructor": "Fu, Yingchao",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "SSC",
+          "room": "216"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 46,
+          "capacity": 46,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "11631",
+        "instructor": "Barroso, Jennifer",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "SSC",
+          "room": "216"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 35,
+          "capacity": 46,
+          "available": 11
+        }
+      },
+      {
+        "section": "024",
+        "crn": "11632",
+        "instructor": "Barroso, Jennifer",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "SSC",
+          "room": "123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 43,
+          "capacity": 46,
+          "available": 3
+        }
+      },
+      {
+        "section": "025",
+        "crn": "11633",
+        "instructor": "Kalra, Hasmeet",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "SSC",
+          "room": "123"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 44,
+          "capacity": 48,
+          "available": 4
+        }
+      },
+      {
+        "section": "026",
+        "crn": "11634",
+        "instructor": "Kalra, Hasmeet",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "SSC",
+          "room": "216"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 49,
+          "capacity": 50,
+          "available": 1
+        }
+      },
+      {
+        "section": "027",
+        "crn": "38753",
+        "instructor": "Bansal, Vasudev",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 48,
+          "capacity": 48,
+          "available": 0
+        }
+      },
+      {
+        "section": "028",
+        "crn": "38755",
+        "instructor": "Bansal, Vasudev",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 48,
+          "capacity": 48,
+          "available": 0
+        }
+      },
+      {
+        "section": "029",
+        "crn": "38757",
+        "instructor": "Raja, Vinoth",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 48,
+          "capacity": 48,
+          "available": 0
+        }
+      },
+      {
+        "section": "030",
+        "crn": "38759",
+        "instructor": "Raja, Vinoth",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 48,
+          "capacity": 48,
+          "available": 0
+        }
+      },
+      {
+        "section": "031",
+        "crn": "38761",
+        "instructor": "Chivukula, Hema Sai Gopi",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 48,
+          "capacity": 48,
+          "available": 0
+        }
+      },
+      {
+        "section": "032",
+        "crn": "38763",
+        "instructor": "Chivukula, Hema Sai Gopi",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 48,
+          "capacity": 48,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "BUS105": {
+    "title": "PRODUCTION AND OPERATIONS MANAGEMENT",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS105)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "30663",
+        "instructor": "Orsdemir, Adem",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "SBB",
+          "room": "165"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 268,
+          "capacity": 276,
+          "available": 8
+        }
+      },
+      {
+        "section": "021",
+        "crn": "31163",
+        "instructor": "Sakkara Rangaiah, Chethan",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "CHUNG",
+          "room": "142"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 41,
+          "capacity": 46,
+          "available": 5
+        }
+      },
+      {
+        "section": "022",
+        "crn": "31164",
+        "instructor": "Sakkara Rangaiah, Chethan",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 44,
+          "capacity": 46,
+          "available": 2
+        }
+      },
+      {
+        "section": "023",
+        "crn": "31165",
+        "instructor": "Alkan Kocturk, Feyza",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "SPR",
+          "room": "2355"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 46,
+          "capacity": 46,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "31166",
+        "instructor": "Alkan Kocturk, Feyza",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "SPR",
+          "room": "2355"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 45,
+          "capacity": 46,
+          "available": 1
+        }
+      },
+      {
+        "section": "025",
+        "crn": "31167",
+        "instructor": "Su, Zoe",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "PHY",
+          "room": "2104"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 46,
+          "capacity": 46,
+          "available": 0
+        }
+      },
+      {
+        "section": "026",
+        "crn": "31168",
+        "instructor": "Su, Zoe",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "BOYHL",
+          "room": "1471"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 46,
+          "capacity": 46,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "BUS106": {
+    "title": "INTRODUCTION TO FINANCIAL MANAGEMENT",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS106(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "002",
+        "crn": "31289",
+        "instructor": "Chung, Y.",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 378,
+          "capacity": 379,
+          "available": 1
+        }
+      },
+      {
+        "section": "027",
+        "crn": "31313",
+        "instructor": "Park, Kay",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 50,
+          "capacity": 50,
+          "available": 0
+        }
+      },
+      {
+        "section": "028",
+        "crn": "31314",
+        "instructor": "Park, Kay",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 47,
+          "capacity": 47,
+          "available": 0
+        }
+      },
+      {
+        "section": "029",
+        "crn": "31315",
+        "instructor": "Bommakanti, Manideep",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 48,
+          "capacity": 48,
+          "available": 0
+        }
+      },
+      {
+        "section": "030",
+        "crn": "31316",
+        "instructor": "Bommakanti, Manideep",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 48,
+          "capacity": 48,
+          "available": 0
+        }
+      },
+      {
+        "section": "031",
+        "crn": "31317",
+        "instructor": "Chen, Yingwen",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 48,
+          "capacity": 48,
+          "available": 0
+        }
+      },
+      {
+        "section": "032",
+        "crn": "31318",
+        "instructor": "Ramirez Heredia, Ricardo",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 45,
+          "capacity": 46,
+          "available": 1
+        }
+      },
+      {
+        "section": "033",
+        "crn": "38743",
+        "instructor": "Chen, Yingwen",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 46,
+          "capacity": 46,
+          "available": 0
+        }
+      },
+      {
+        "section": "034",
+        "crn": "38746",
+        "instructor": "Ramirez Heredia, Ricardo",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Discussion",
+        "method": "Online",
+        "availability": {
+          "enrolled": 46,
+          "capacity": 46,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "BUS107": {
+    "title": "ORGANIZATIONAL BEHAVIOR",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS107(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "11642",
+        "instructor": "Ingram, Kyle",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "SBB",
+          "room": "165"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 279,
+          "capacity": 288,
+          "available": 9
+        }
+      },
+      {
+        "section": "021",
+        "crn": "11643",
+        "instructor": "Burk, Marissa",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "SPR",
+          "room": "2340"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 48,
+          "capacity": 48,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "11644",
+        "instructor": "Ruiz Perez, Luisa",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "PHY",
+          "room": "2104"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 45,
+          "capacity": 48,
+          "available": 3
+        }
+      },
+      {
+        "section": "023",
+        "crn": "11645",
+        "instructor": "Nguyen, Tini",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "BOYHL",
+          "room": "1471"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 43,
+          "capacity": 47,
+          "available": 4
+        }
+      },
+      {
+        "section": "024",
+        "crn": "11646",
+        "instructor": "Ruiz Perez, Luisa",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "MSE",
+          "room": "003"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 48,
+          "capacity": 48,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "11647",
+        "instructor": "Nguyen, Tini",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "SPR",
+          "room": "2340"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 47,
+          "capacity": 48,
+          "available": 1
+        }
+      },
+      {
+        "section": "026",
+        "crn": "11648",
+        "instructor": "Burk, Marissa",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "SSC",
+          "room": "125"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 48,
+          "capacity": 48,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "BUS108": {
+    "title": "FINANCIAL EVALUATION AND MANAGERIAL ANALYSIS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS108(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "20976",
+        "instructor": "Carrizosa, Richard",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1820",
+          "building": "SSC",
+          "room": "329"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 200,
+          "capacity": 200,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "20977",
+        "instructor": "Smolin, Aleksandr",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "SPR",
+          "room": "2355"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 50,
+          "capacity": 50,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "20978",
+        "instructor": "Muthavarapu, Rahul",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 50,
+          "capacity": 50,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "20979",
+        "instructor": "Muthavarapu, Rahul",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "BOYHL",
+          "room": "1471"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 50,
+          "capacity": 50,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "20980",
+        "instructor": "Smolin, Aleksandr",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "CHUNG",
+          "room": "142"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 50,
+          "capacity": 50,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "BUS109": {
+    "title": "COMPETITIVE AND STRATEGIC ANALYSIS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS109(\n Course or Test: Business 100W \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 103 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 108 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 106 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 134 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Business 133 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "11649",
+        "instructor": "Raveendran, Marlo",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "OLMH",
+          "room": "1208"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 95,
+          "capacity": 95,
+          "available": 0
+        }
+      },
+      {
+        "section": "002",
+        "crn": "36201",
+        "instructor": "Raveendran, Marlo",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "SPR",
+          "room": "1340"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 77,
+          "capacity": 80,
+          "available": 3
+        }
+      },
+      {
+        "section": "021",
+        "crn": "11650",
+        "instructor": "Parker, Katelyn",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "SPR",
+          "room": "2355"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 47,
+          "capacity": 47,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "11651",
+        "instructor": "Parker, Katelyn",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "SSC",
+          "room": "216"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 48,
+          "capacity": 48,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "36436",
+        "instructor": "Mishra, Devyani",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "PHY",
+          "room": "2104"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 29,
+          "capacity": 32,
+          "available": 3
+        }
+      },
+      {
+        "section": "024",
+        "crn": "36437",
+        "instructor": "Mishra, Devyani",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "SPR",
+          "room": "2355"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 48,
+          "capacity": 48,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "BUS111": {
+    "title": "SERVICES MARKETING",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS111)\nand\n(\n Course or Test: Business 103 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36203",
+        "instructor": "Lockett, Asia",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1830",
+          "endTime": "1950",
+          "building": "INTN",
+          "room": "1002"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 59,
+          "capacity": 77,
+          "available": 18
+        }
+      }
+    ]
+  },
+  "BUS112": {
+    "title": "CONSUMER BEHAVIOR",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS112(\n Course or Test: Business 103 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32593",
+        "instructor": "Virgen Jr, Roy",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "SBB",
+          "room": "280"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 75,
+          "capacity": 76,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "BUS114": {
+    "title": "MARKETING IN A GLOBAL ENVIRONMENT",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS114(\n Course or Test: Business 103 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34305",
+        "instructor": "Virgen Jr, Roy",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "INTN",
+          "room": "1002"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 64,
+          "capacity": 77,
+          "available": 13
+        }
+      }
+    ]
+  },
+  "BUS116": {
+    "title": "PRICING STRATEGY AND MANAGEMENT",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS116(\n Course or Test: Business 103 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28354",
+        "instructor": "Gouveia, Nolan",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "OLMH",
+          "room": "1212"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 72,
+          "capacity": 78,
+          "available": 6
+        }
+      }
+    ]
+  },
+  "BUS117": {
+    "title": "ADVERTISING AND INTEGRATED MARKETING COMMUNICATIONS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS117(\n Course or Test: Business 103 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36204",
+        "instructor": "Lim, Jonathan",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "SBB",
+          "room": "280"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 75,
+          "capacity": 75,
+          "available": 0
+        }
+      },
+      {
+        "section": "002",
+        "crn": "36205",
+        "instructor": "Lim, Jonathan",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1700",
+          "endTime": "1820",
+          "building": "SBB",
+          "room": "280"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 76,
+          "capacity": 77,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "BUS118": {
+    "title": "DIGITAL MARKETING",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS118(\n Course or Test: Business 103 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "21705",
+        "instructor": "Lockett, Asia",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1820",
+          "building": "OLMH",
+          "room": "421"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 74,
+          "capacity": 80,
+          "available": 6
+        }
+      }
+    ]
+  },
+  "BUS119": {
+    "title": "DATA-DRIVEN MARKETING",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS119)\nand\n(\n Course or Test: Business 103 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36206",
+        "instructor": "Zhang, Wenshu",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "OLMH",
+          "room": "1212"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 66,
+          "capacity": 75,
+          "available": 9
+        }
+      }
+    ]
+  },
+  "BUS123": {
+    "title": "SPREADSHEET MODELING FOR DECISION-MAKING",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS123(\n Course or Test: Business 104 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Statistics 104 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32595",
+        "instructor": "Gurumurthi, Suryanarayanan",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0920",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 69,
+          "capacity": 80,
+          "available": 11
+        }
+      }
+    ]
+  },
+  "BUS124A": {
+    "title": "BUSINESS ANALYTICS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS124A(\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32596",
+        "instructor": "Rustamov, Galib",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1830",
+          "endTime": "2120",
+          "building": "OLMH",
+          "room": "1208"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 68,
+          "capacity": 78,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "BUS126": {
+    "title": "PRACTICAL BUSINESS FORECASTING",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS126(\n Course or Test: Business 105 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36209",
+        "instructor": "Gurumurthi, Suryanarayanan",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 65,
+          "capacity": 79,
+          "available": 14
+        }
+      }
+    ]
+  },
+  "BUS128": {
+    "title": "PROJECT PLANNING AND CONTROL",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS128(\n Course or Test: Business 104 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 104 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34307",
+        "instructor": "Sohail, Christine",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "OLMH",
+          "room": "421"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 69,
+          "capacity": 77,
+          "available": 8
+        }
+      }
+    ]
+  },
+  "BUS132": {
+    "title": "FOUNDATIONS OF FINANCE",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS132(\n Course or Test: Business 020 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Statistics 008 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Statistics 010 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 101 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Economics 102 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 103 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Economics 104A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 105A \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "33057",
+        "instructor": "Richey, Greg",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "OLMH",
+          "room": "421"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 74,
+          "capacity": 74,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "33058",
+        "instructor": "Richey, Greg",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Written Work",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 74,
+          "capacity": 74,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "BUS133": {
+    "title": "ACCELERATED FOUNDATIONS OF FINANCE",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS133(\n Course or Test: Business 020 \n Minimum Grade of B\n May not be taken concurrently.and\n Course or Test: Statistics 004 \n Minimum Grade of B\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 008 \n Minimum Grade of B\n May not be taken concurrently.)\nor\n(\n Course or Test: Statistics 010 \n Minimum Grade of B\n May not be taken concurrently.or\n Course or Test: Economics 101 \n Minimum Grade of B\n May not be taken concurrently.and\n Course or Test: Economics 003 \n Minimum Grade of B\n May not be taken concurrently.or\n Course or Test: Economics 003H \n Minimum Grade of B\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32598",
+        "instructor": "Chung, Y.",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "SBB",
+          "room": "280"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 38,
+          "capacity": 63,
+          "available": 25
+        }
+      }
+    ]
+  },
+  "BUS134": {
+    "title": "CORPORATE FINANCE",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS134(Rule: PICK2: PICK 2 of 3  for a total of 2 conditions )Business 106  Minimum Grade of C-\n May not be taken concurrently. )Business 132  Minimum Grade of C-\n May not be taken concurrently. Economics 134  Minimum Grade of C-\n May not be taken concurrently. End of Rule PICK2or\n Course or Test: Business 133 \n Minimum Grade of C-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "26388",
+        "instructor": "Dong, M Mike",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "SSC",
+          "room": "121"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 52,
+          "capacity": 60,
+          "available": 8
+        }
+      }
+    ]
+  },
+  "BUS137": {
+    "title": "INVESTMENTS: DERIVATIVES MARKETS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS137(Rule: PICK2: PICK 2 of 3  for a total of 2 conditions Business 106  Minimum Grade of C-\n May not be taken concurrently. Business 132  Minimum Grade of C-\n May not be taken concurrently. )Economics 134  Minimum Grade of C-\n May not be taken concurrently. End of Rule PICK2or\n Course or Test: Business 133 \n Minimum Grade of C-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "30710",
+        "instructor": "Vu, Leo",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1830",
+          "endTime": "2120",
+          "building": "OLMH",
+          "room": "1212"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 49,
+          "capacity": 76,
+          "available": 27
+        }
+      }
+    ]
+  },
+  "BUS138": {
+    "title": "INTERNATIONAL FINANCE",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS138)\nand\n(\n Course or Test: Business 133 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Business 106 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Business 132 \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Economics 134 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "30711",
+        "instructor": "Talebi, Ali",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1830",
+          "endTime": "2120",
+          "building": "OLMH",
+          "room": "1212"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 51,
+          "capacity": 73,
+          "available": 22
+        }
+      }
+    ]
+  },
+  "BUS144": {
+    "title": "NEGOTIATION FUNDAMENTALS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS144(\n Course or Test: Business 107 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28358",
+        "instructor": "Kincaid, Rob",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "OLMH",
+          "room": "421"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 71,
+          "capacity": 79,
+          "available": 8
+        }
+      }
+    ]
+  },
+  "BUS145": {
+    "title": "DESIGNING AND LEADING TEAMS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS145)\nand\n(\n Course or Test: Business 107 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36202",
+        "instructor": "Ingram, Kyle",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "SSC",
+          "room": "308"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 66,
+          "capacity": 79,
+          "available": 13
+        }
+      }
+    ]
+  },
+  "BUS149": {
+    "title": "ADVANCED TOPICS IN MANAGEMENT AND DECISION-MAKING",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS149(\n Course or Test: Business 107 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37890",
+        "instructor": "Maciejovsky, Boris",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "OLMH",
+          "room": "421"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 47,
+          "capacity": 75,
+          "available": 28
+        }
+      },
+      {
+        "section": "002",
+        "crn": "37891",
+        "instructor": "Maciejovsky, Boris",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "OLMH",
+          "room": "1212"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 69,
+          "capacity": 80,
+          "available": 11
+        }
+      }
+    ]
+  },
+  "BUS152": {
+    "title": "SALES MANAGEMENT",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS152(\n Course or Test: Business 103 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32600",
+        "instructor": "Virgen Jr, Roy",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "SSC",
+          "room": "316"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 60,
+          "capacity": 78,
+          "available": 18
+        }
+      }
+    ]
+  },
+  "BUS153": {
+    "title": "LABOR ECONOMICS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS153(\n Course or Test: Economics 102 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 104A \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34772",
+        "instructor": "Bates, Michael",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "WAT",
+          "room": "1101"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 31,
+          "capacity": 80,
+          "available": 49
+        }
+      }
+    ]
+  },
+  "BUS154": {
+    "title": "BUSINESS LAW",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "11675",
+        "instructor": "Jasso, Sean",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0800",
+          "endTime": "0920",
+          "building": "SBB",
+          "room": "280"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 77,
+          "capacity": 78,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "BUS155": {
+    "title": "MANAGING HUMAN RESOURCES",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS155(\n Course or Test: Business 107 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "11676",
+        "instructor": "Alcaraz, Arturo",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "INTN",
+          "room": "1002"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 61,
+          "capacity": 76,
+          "available": 15
+        }
+      }
+    ]
+  },
+  "BUS165A": {
+    "title": "INTERMEDIATE FINANCIAL ACCOUNTING",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS165A(\n Course or Test: Business 021 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "11681",
+        "instructor": "Carrizosa, Richard",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "OLMH",
+          "room": "1212"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 76,
+          "capacity": 75,
+          "available": -1
+        }
+      }
+    ]
+  },
+  "BUS166": {
+    "title": "ACCOUNTING INFORMATION SYSTEMS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS166(\n Course or Test: Business 101 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Business 108 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "21739",
+        "instructor": "Mock, Theodore",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "SPR",
+          "room": "1340"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 59,
+          "capacity": 76,
+          "available": 17
+        }
+      }
+    ]
+  },
+  "BUS168A": {
+    "title": "INDIVIDUAL TAXATION",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS168A(\n Course or Test: Business 108 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "11685",
+        "instructor": "Allen, Eric",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "INTN",
+          "room": "1002"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 78,
+          "capacity": 80,
+          "available": 2
+        }
+      },
+      {
+        "section": "002",
+        "crn": "11686",
+        "instructor": "Allen, Eric",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "INTN",
+          "room": "1002"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 53,
+          "capacity": 68,
+          "available": 15
+        }
+      }
+    ]
+  },
+  "BUS172": {
+    "title": "INFORMATION ECONOMICS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS172(\n Course or Test: Business 103 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Economics 003 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 003H \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "11689",
+        "instructor": "Velovici, Silviu",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "SPTH",
+          "room": "2200"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 67,
+          "capacity": 76,
+          "available": 9
+        }
+      }
+    ]
+  },
+  "BUS173": {
+    "title": "INTRODUCTION TO DATABASES FOR MANAGEMENT",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS173(\n Course or Test: Business 101 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34308",
+        "instructor": "Moulik, Sanjoy",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1830",
+          "endTime": "2120",
+          "building": "OLMH",
+          "room": "421"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 78,
+          "capacity": 79,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "BUS174": {
+    "title": "ELECTRONIC COMMERCE",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS174(\n Course or Test: Business 101 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28360",
+        "instructor": "Madzarevic, Vinko",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1830",
+          "endTime": "2120",
+          "building": "OLMH",
+          "room": "421"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 67,
+          "capacity": 79,
+          "available": 12
+        }
+      }
+    ]
+  },
+  "BUS175": {
+    "title": "BUSINESS DATA COMMUNICATIONS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS175(\n Course or Test: Business 101 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37892",
+        "instructor": "Madzarevic, Vinko",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1830",
+          "endTime": "1950",
+          "building": "OLMH",
+          "room": "421"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 79,
+          "capacity": 80,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "BUS177": {
+    "title": "LABOR RELATIONS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS177(\n Course or Test: Business 010 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32602",
+        "instructor": "Attaway, Austin",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "OLMH",
+          "room": "1212"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 71,
+          "capacity": 78,
+          "available": 7
+        }
+      }
+    ]
+  },
+  "BUS178": {
+    "title": "INTERNATIONAL TRADE",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BUS178(\n Course or Test: Economics 102 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Economics 104A \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "31808",
+        "instructor": "Abubaker, Riyad",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "1050",
+          "building": "OLMH",
+          "room": "1208"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 90,
+          "available": 67
+        }
+      }
+    ]
+  },
+  "BUS190": {
+    "title": "SPECIAL STUDIES",
+    "credits": "1-5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "54J",
+        "crn": "35214",
+        "instructor": "Jiao, Yawen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 0,
+          "available": 0
+        }
+      },
+      {
+        "section": "L16",
+        "crn": "37112",
+        "instructor": "Li, Ye",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 21,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "BUS198": {
+    "title": "NLP FOR EVERYDAY USE",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38460",
+        "instructor": "Yueh, Rich",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "INTS",
+          "room": "2130"
+        },
+        "type": "Activity",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 20,
+          "available": 17
+        }
+      }
+    ]
+  },
+  "BUS198I": {
+    "title": "INDIVIDUAL INTERNSHIP IN BUSINESS ADMINISTRATION",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "11696",
+        "instructor": "Singh, Raj",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "SPR",
+          "room": "2340"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 27,
+          "capacity": 50,
+          "available": 23
+        }
+      }
+    ]
+  }
+}

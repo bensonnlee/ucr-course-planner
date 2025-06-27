@@ -1,0 +1,956 @@
+{
+  "CWPA230": {
+    "title": "CREATIVE NONFICTION",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "26725",
+        "instructor": "Aslan, Reza",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1000",
+          "endTime": "1250",
+          "building": "INTN",
+          "room": "3031"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 12,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "CWPA246": {
+    "title": "SPECIAL TOPICS IN FICTION",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "30794",
+        "instructor": "Emmons, Joshua",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1000",
+          "endTime": "1250",
+          "building": "INTN",
+          "room": "3031"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 12,
+          "available": 2
+        }
+      },
+      {
+        "section": "002",
+        "crn": "38625",
+        "instructor": "Winer, Andrew",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1250",
+          "building": "INTN",
+          "room": "3009"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 15,
+          "available": 8
+        }
+      }
+    ]
+  },
+  "CWPA252E": {
+    "title": "THEORY AND CRAFT OF WRITING",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38030",
+        "instructor": "White, Allison",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": "INTN",
+          "room": "3031"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 12,
+          "available": 3
+        }
+      },
+      {
+        "section": "002",
+        "crn": "38031",
+        "instructor": "Long, Goldberry",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1000",
+          "endTime": "1250",
+          "building": "INTN",
+          "room": "3009"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 8,
+          "capacity": 12,
+          "available": 4
+        }
+      }
+    ]
+  },
+  "CWPA262": {
+    "title": "FICTION",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "26457",
+        "instructor": "Erickson, Stephen",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1750",
+          "building": "INTN",
+          "room": "3031"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 12,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "CWPA264": {
+    "title": "PLAYWRITING",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28754",
+        "instructor": "Hinds, Rickerby",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1000",
+          "endTime": "1250",
+          "building": "INTS",
+          "room": "2124"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 12,
+          "available": 5
+        }
+      },
+      {
+        "section": "021",
+        "crn": "28672",
+        "instructor": "Hinds, Rickerby",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 12,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "CWPA266": {
+    "title": "SCREENWRITING",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28755",
+        "instructor": "Krieger, Stuart",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": "INTS",
+          "room": "2124"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 12,
+          "available": 2
+        }
+      },
+      {
+        "section": "021",
+        "crn": "28673",
+        "instructor": "Krieger, Stuart",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 12,
+          "available": 2
+        }
+      }
+    ]
+  },
+  "CWPA270": {
+    "title": "POETRY WORKSHOP",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "20446",
+        "instructor": "Hedgecoke, Allison",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": "INTN",
+          "room": "3009"
+        },
+        "type": "Workshop",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 12,
+          "available": 2
+        }
+      }
+    ]
+  },
+  "CWPA282": {
+    "title": "FILM NOIR: STORIES AND CINEMA FROM THE SHADOWS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38045",
+        "instructor": "Russin, Robin",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": "ARTS",
+          "room": "213"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 12,
+          "available": 3
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38046",
+        "instructor": "Russin, Robin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "TBA",
+          "room": "TBA"
+        },
+        "type": "Screening",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 9,
+          "capacity": 12,
+          "available": 3
+        }
+      }
+    ]
+  },
+  "CWPA290": {
+    "title": "DIRECTED STUDIES",
+    "credits": "1-6",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "200",
+        "crn": "13296",
+        "instructor": "Otis, Mary",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "203",
+        "crn": "13297",
+        "instructor": "Otis, Mary",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "24J",
+        "crn": "38911",
+        "instructor": "Jaffe-Berg, Erith",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 12,
+          "available": 11
+        }
+      },
+      {
+        "section": "G16",
+        "crn": "37055",
+        "instructor": "Galella, Donatella",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 12,
+          "available": 12
+        }
+      },
+      {
+        "section": "M48",
+        "crn": "38884",
+        "instructor": "Malkin, Joshua",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 12,
+          "available": 11
+        }
+      }
+    ]
+  },
+  "CWPA292": {
+    "title": "CONCURRENT ANALYTICAL STUDIES IN CREATIVE WRITING AND WRITING FOR THE PERFORMING ARTS",
+    "credits": "1-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "002",
+        "crn": "36979",
+        "instructor": "Wohleb, William",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 12,
+          "available": 12
+        }
+      },
+      {
+        "section": "050",
+        "crn": "36908",
+        "instructor": "Katrib, Christophe",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "69T",
+        "crn": "36770",
+        "instructor": "Anderson, Bella Merlin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 12,
+          "available": 12
+        }
+      },
+      {
+        "section": "82T",
+        "crn": "38860",
+        "instructor": "Tabaque, Megan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 12,
+          "available": 12
+        }
+      }
+    ]
+  },
+  "CWPA297": {
+    "title": "DIRECTED RESEARCH",
+    "credits": "1-6",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "G34",
+        "crn": "36976",
+        "instructor": "Guerrero, Kimberly",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 12,
+          "available": 11
+        }
+      }
+    ]
+  },
+  "CWPA299": {
+    "title": "RESEARCH FOR THE THESIS OR MANUSCRIPT",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "200",
+        "crn": "13330",
+        "instructor": "Goldberg, Tod",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "2000",
+          "endTime": "2250",
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 10,
+          "available": 8
+        }
+      },
+      {
+        "section": "201",
+        "crn": "13331",
+        "instructor": "Birnbaum, Michael",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 2,
+          "available": 1
+        }
+      },
+      {
+        "section": "202",
+        "crn": "13332",
+        "instructor": "Smith, Mark",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "2000",
+          "endTime": "2250",
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "203",
+        "crn": "13333",
+        "instructor": "Otis, Mary",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "2000",
+          "endTime": "2250",
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "204",
+        "crn": "13334",
+        "instructor": "Pochoda, Ivy",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "2000",
+          "endTime": "2250",
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 10,
+          "available": 8
+        }
+      },
+      {
+        "section": "205",
+        "crn": "13335",
+        "instructor": "Jones, Stephen",
+        "schedule": {
+          "days": [
+            "S"
+          ],
+          "startTime": "2000",
+          "endTime": "2250",
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "206",
+        "crn": "13336",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [
+            "U"
+          ],
+          "startTime": "2000",
+          "endTime": "2250",
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "207",
+        "crn": "13337",
+        "instructor": "Roberge, Robert",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "2000",
+          "endTime": "2250",
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "208",
+        "crn": "13338",
+        "instructor": "Essbaum, Jill",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "2000",
+          "endTime": "2250",
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "209",
+        "crn": "13339",
+        "instructor": "Rabkin, William",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "2000",
+          "endTime": "2250",
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 10,
+          "available": 8
+        }
+      },
+      {
+        "section": "210",
+        "crn": "13340",
+        "instructor": "Malkin, Joshua",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "2000",
+          "endTime": "2250",
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 10,
+          "available": 6
+        }
+      },
+      {
+        "section": "211",
+        "crn": "13341",
+        "instructor": "Ulin, David",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "2000",
+          "endTime": "2250",
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "212",
+        "crn": "13342",
+        "instructor": "Schimmel, John",
+        "schedule": {
+          "days": [
+            "S"
+          ],
+          "startTime": "2000",
+          "endTime": "2250",
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "213",
+        "crn": "13343",
+        "instructor": "Espinoza, Alex",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "214",
+        "crn": "13344",
+        "instructor": "McCann, Anthony",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "215",
+        "crn": "38659",
+        "instructor": "Iglesias, Gabino",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "69T",
+        "crn": "38820",
+        "instructor": "Anderson, Bella Merlin",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      },
+      {
+        "section": "82T",
+        "crn": "38304",
+        "instructor": "Tabaque, Megan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Thesis",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 12,
+          "available": 9
+        }
+      }
+    ]
+  },
+  "CWPA302": {
+    "title": "TEACHING PRACTICUM",
+    "credits": "1-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "73W",
+        "crn": "37053",
+        "instructor": "Winer, Andrew",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "W36",
+        "crn": "37049",
+        "instructor": "Wohleb, William",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      }
+    ]
+  }
+}

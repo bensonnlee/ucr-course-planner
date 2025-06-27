@@ -1,0 +1,4165 @@
+{
+  "ME009": {
+    "title": "ENGINEERING GRAPHICS AND DESIGN",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "26381",
+        "instructor": "Sawyer, James",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "SSC",
+          "room": "329"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 178,
+          "capacity": 180,
+          "available": 2
+        }
+      },
+      {
+        "section": "021",
+        "crn": "26385",
+        "instructor": "Sawyer, James",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "BOYHL",
+          "room": "1471"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 58,
+          "capacity": 60,
+          "available": 2
+        }
+      },
+      {
+        "section": "022",
+        "crn": "26383",
+        "instructor": "Sawyer, James",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "BOYHL",
+          "room": "1471"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 60,
+          "capacity": 60,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "26384",
+        "instructor": "Sawyer, James",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "MSE",
+          "room": "103"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 60,
+          "capacity": 60,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "ME018A": {
+    "title": "INTRODUCTION TO ENGINEERING COMPUTATION",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ME018A(\n Course or Test: Mathematics 009A \n Minimum Grade of C-\n May not be taken concurrently.or\n Course or Test: Mathematics 09HA \n Minimum Grade of C-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32145",
+        "instructor": "Vuong, Luat",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "CHUNG",
+          "room": "138"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 95,
+          "capacity": 100,
+          "available": 5
+        }
+      },
+      {
+        "section": "021",
+        "crn": "32146",
+        "instructor": "Vuong, Luat",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1950",
+          "building": "SSC",
+          "room": "216"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 49,
+          "capacity": 50,
+          "available": 1
+        }
+      },
+      {
+        "section": "022",
+        "crn": "32472",
+        "instructor": "Vuong, Luat",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1700",
+          "endTime": "1950",
+          "building": "SSC",
+          "room": "216"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 46,
+          "capacity": 50,
+          "available": 4
+        }
+      }
+    ]
+  },
+  "ME018B": {
+    "title": "INTRODUCTION TO COMPUTATIONAL MODELING IN MECHANICAL ENGINEERING",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ME018B(\n Course or Test: Mechanical Engineering 018A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Physics 040A \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Physics 041A \n Minimum Grade of C-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37961",
+        "instructor": "Khoshnoud, Farbod",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1900",
+          "endTime": "1950",
+          "building": "BRNHL",
+          "room": "A125"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 101,
+          "capacity": 120,
+          "available": 19
+        }
+      },
+      {
+        "section": "021",
+        "crn": "37962",
+        "instructor": "Mendoza, Jude",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "CHUNG",
+          "room": "143"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 45,
+          "capacity": 60,
+          "available": 15
+        }
+      },
+      {
+        "section": "022",
+        "crn": "37963",
+        "instructor": "Renck, Evan",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "CHUNG",
+          "room": "143"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 56,
+          "capacity": 60,
+          "available": 4
+        }
+      }
+    ]
+  },
+  "ME100A": {
+    "title": "THERMODYNAMICS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ME100A(\n Course or Test: Mathematics 010A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 018B \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Mechanical Engineering 018 \n Minimum Grade of C-\n May not be taken concurrently.)\nand\n(\n Course or Test: Physics 040B \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Physics 040HB \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "16957",
+        "instructor": "Coh, Sinisa",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "CHUNG",
+          "room": "138"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 98,
+          "capacity": 98,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "16958",
+        "instructor": "Coh, Sinisa",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 49,
+          "capacity": 50,
+          "available": 1
+        }
+      },
+      {
+        "section": "022",
+        "crn": "16959",
+        "instructor": "Coh, Sinisa",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "MSE",
+          "room": "103"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 49,
+          "capacity": 50,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "ME110": {
+    "title": "MECHANICS OF MATERIALS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ME110(\n Course or Test: Mathematics 046 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mechanical Engineering 010 \n Minimum Grade of C-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "26363",
+        "instructor": "Laksari, Kaveh",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "OLMH",
+          "room": "1208"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 111,
+          "capacity": 111,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "26364",
+        "instructor": "Laksari, Kaveh",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "WAT",
+          "room": "2240"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 56,
+          "capacity": 56,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "26365",
+        "instructor": "Laksari, Kaveh",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "HMNSS",
+          "room": "1503"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 55,
+          "capacity": 55,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "ME114": {
+    "title": "INTRODUCTION TO MATERIALS SCIENCE AND ENGINEERING",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ME114(\n Course or Test: Chemistry 001B \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Physics 040C \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Physics 040HC \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "16963",
+        "instructor": "Greaney, Peter",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0920",
+          "building": "SPR",
+          "room": "1102"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 100,
+          "capacity": 100,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "16964",
+        "instructor": "Greaney, Peter",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "CHUNG",
+          "room": "143"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 50,
+          "capacity": 50,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "16965",
+        "instructor": "Greaney, Peter",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "CHUNG",
+          "room": "143"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 50,
+          "capacity": 50,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "ME120": {
+    "title": "LINEAR SYSTEMS AND CONTROLS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ME120(\n Course or Test: Electrical Engineering 005 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Electrical Engineering 030A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Electrical Engineering 030LA \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Computer Science 010B \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mathematics 031 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Mechanical Engineering 018B \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28021",
+        "instructor": "Nozari, Erfan",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "2000",
+          "endTime": "2120",
+          "building": "SSC",
+          "room": "235"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 139,
+          "capacity": 140,
+          "available": 1
+        }
+      },
+      {
+        "section": "021",
+        "crn": "28022",
+        "instructor": "Nozari, Erfan",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "SOMED",
+          "room": "1670"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 69,
+          "capacity": 70,
+          "available": 1
+        }
+      },
+      {
+        "section": "022",
+        "crn": "28023",
+        "instructor": "Nozari, Erfan",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "INTN",
+          "room": "1002"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 70,
+          "capacity": 70,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "ME130": {
+    "title": "KINEMATIC AND DYNAMIC ANALYSIS OF MECHANISMS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ME130)\nand\n(\n Course or Test: Mechanical Engineering 009 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 103 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37733",
+        "instructor": "Cai, Mingyu",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "SSC",
+          "room": "125"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 35,
+          "capacity": 50,
+          "available": 15
+        }
+      },
+      {
+        "section": "021",
+        "crn": "37734",
+        "instructor": "Cai, Mingyu",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "MSE",
+          "room": "003"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 35,
+          "capacity": 50,
+          "available": 15
+        }
+      }
+    ]
+  },
+  "ME133": {
+    "title": "INTRODUCTION TO MECHATRONICS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ME133(\n Course or Test: Electrical Engineering 005 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Electrical Engineering 030A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Electrical Engineering 030LA \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37735",
+        "instructor": "Realmuto, Jonathan",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1820",
+          "building": "MSE",
+          "room": "103"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 50,
+          "capacity": 50,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "37736",
+        "instructor": "Realmuto, Jonathan",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "1050",
+          "building": null,
+          "room": null
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 50,
+          "capacity": 50,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "ME135": {
+    "title": "TRANSPORT PHENOMENA",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ME135)\nand\n(\n Course or Test: Mechanical Engineering 100A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 113 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 116A \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "16973",
+        "instructor": "Venkatadriagaram, Sundararajan",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1800",
+          "endTime": "1850",
+          "building": "SSC",
+          "room": "308"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 80,
+          "capacity": 80,
+          "available": 0
+        }
+      },
+      {
+        "section": "021",
+        "crn": "16974",
+        "instructor": "Venkatram, Akula",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "BOYHL",
+          "room": "1471"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 40,
+          "capacity": 40,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "32471",
+        "instructor": "Venkatram, Akula",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "SKYE",
+          "room": "171"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 40,
+          "capacity": 40,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "ME136": {
+    "title": "ENVIRONMENTAL IMPACTS OF ENERGY PRODUCTION AND CONVERSION",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ME136(\n Course or Test: Mechanical Engineering 100A \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mechanical Engineering 113 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mechanical Engineering 116A \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34596",
+        "instructor": "Jung, Heejung",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "SSC",
+          "room": "123"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 40,
+          "available": 22
+        }
+      },
+      {
+        "section": "021",
+        "crn": "34597",
+        "instructor": "Jung, Heejung",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "CHUNG",
+          "room": "143"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 40,
+          "available": 22
+        }
+      }
+    ]
+  },
+  "ME156": {
+    "title": "MECHANICAL BEHAVIOR OF MATERIALS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ME156(\n Course or Test: Mechanical Engineering 110 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 114 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "16976",
+        "instructor": "Rao, Masaru",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "SPR",
+          "room": "2340"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 47,
+          "capacity": 50,
+          "available": 3
+        }
+      },
+      {
+        "section": "021",
+        "crn": "16977",
+        "instructor": "Rao, Masaru",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1350",
+          "building": "BRNHL",
+          "room": "A0108"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "022",
+        "crn": "32473",
+        "instructor": "Rao, Masaru",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1350",
+          "building": "BRNHL",
+          "room": "A0108"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 25,
+          "available": 2
+        }
+      }
+    ]
+  },
+  "ME170B": {
+    "title": "EXPERIMENTAL TECHNIQUES",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ME170B(\n Course or Test: Mechanical Engineering 103 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 110 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 113 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 116A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 170A \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "002",
+        "crn": "16980",
+        "instructor": "Yin, Xiangxi",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": null,
+          "room": null
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 24,
+          "available": 0
+        }
+      },
+      {
+        "section": "003",
+        "crn": "16981",
+        "instructor": "Yin, Xiangxi",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "1050",
+          "building": null,
+          "room": null
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 24,
+          "available": 0
+        }
+      },
+      {
+        "section": "004",
+        "crn": "32493",
+        "instructor": "Yin, Xiangxi",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0800",
+          "endTime": "1050",
+          "building": null,
+          "room": null
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 24,
+          "available": 6
+        }
+      },
+      {
+        "section": "021",
+        "crn": "16984",
+        "instructor": "Li, Yaofa",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1900",
+          "endTime": "2050",
+          "building": "SPR",
+          "room": "1340"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 66,
+          "capacity": 72,
+          "available": 6
+        }
+      }
+    ]
+  },
+  "ME175A": {
+    "title": "PROFESSIONAL TOPICS IN ENGINEERING",
+    "credits": "2",
+    "prerequisites": "Prerequisites:ME175A(\n Course or Test: Mechanical Engineering 009 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "16985",
+        "instructor": "Stahovich, Thomas",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1830",
+          "endTime": "2020",
+          "building": "SSC",
+          "room": "329"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 113,
+          "capacity": 120,
+          "available": 7
+        }
+      }
+    ]
+  },
+  "ME175B": {
+    "title": "MECHANICAL ENGINEERING DESIGN",
+    "credits": "3",
+    "prerequisites": "Prerequisites:ME175B(\n Course or Test: Mechanical Engineering 175A \n Minimum Grade of D-\n May be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 113 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 116A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 170A \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 174 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "16986",
+        "instructor": "Sawyer, James",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1830",
+          "endTime": "2020",
+          "building": "WAT",
+          "room": "1101"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 79,
+          "capacity": 80,
+          "available": 1
+        }
+      },
+      {
+        "section": "021",
+        "crn": "16987",
+        "instructor": "Sawyer, James",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 16,
+          "available": -2
+        }
+      },
+      {
+        "section": "022",
+        "crn": "16988",
+        "instructor": "Sawyer, James",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 16,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "24601",
+        "instructor": "Khoshnoud, Farbod",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 16,
+          "available": 1
+        }
+      },
+      {
+        "section": "025",
+        "crn": "24653",
+        "instructor": "Khoshnoud, Farbod",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 16,
+          "capacity": 16,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "ME176": {
+    "title": "SUSTAINABLE PRODUCT DESIGN",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ME176)\nand\n(\n Course or Test: Mechanical Engineering 103 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 110 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 113 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 116A \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32160",
+        "instructor": "Venkatadriagaram, Sundararajan",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "MSE",
+          "room": "003"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 40,
+          "available": 19
+        }
+      },
+      {
+        "section": "021",
+        "crn": "32170",
+        "instructor": "Joshi, Akhil",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "INTN",
+          "room": "1002"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 40,
+          "available": 19
+        }
+      }
+    ]
+  },
+  "ME190": {
+    "title": "SPECIAL STUDIES",
+    "credits": "1-5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "54F",
+        "crn": "22851",
+        "instructor": "Franco, Elisa",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "61P",
+        "crn": "27315",
+        "instructor": "Princevac, Marko",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      },
+      {
+        "section": "68P",
+        "crn": "27462",
+        "instructor": "Pasqualetti, Fabio",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "80R",
+        "crn": "16990",
+        "instructor": "Rao, Masaru",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "ME197": {
+    "title": "RESEARCH FOR UNDERGRADUATES",
+    "credits": "1-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "0S8",
+        "crn": "37105",
+        "instructor": "Sheng, Jun",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "32O",
+        "crn": "33420",
+        "instructor": "Ozkan, Cengiz",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 4,
+          "available": 4
+        }
+      },
+      {
+        "section": "32V",
+        "crn": "38856",
+        "instructor": "Vuong, Luat",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 4,
+          "available": 0
+        }
+      },
+      {
+        "section": "37A",
+        "crn": "22816",
+        "instructor": "Aguilar, Guillermo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "54F",
+        "crn": "22909",
+        "instructor": "Franco, Elisa",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "62B",
+        "crn": "22830",
+        "instructor": "Barth, Matthew",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "80R",
+        "crn": "16992",
+        "instructor": "Rao, Masaru",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 1,
+          "available": 0
+        }
+      },
+      {
+        "section": "82B",
+        "crn": "22730",
+        "instructor": "Balandin, Alexander",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "92V",
+        "crn": "27419",
+        "instructor": "Venkatadriagaram, Sundararajan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 1,
+          "available": 0
+        }
+      },
+      {
+        "section": "G09",
+        "crn": "37102",
+        "instructor": "Greaney, Peter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "M25",
+        "crn": "25598",
+        "instructor": "Mangolini, Lorenzo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "M43",
+        "crn": "27345",
+        "instructor": "Mathaudhu, Suveen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      },
+      {
+        "section": "M49",
+        "crn": "27528",
+        "instructor": "Martinez Wilhelmus, Monica",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "R15",
+        "crn": "29133",
+        "instructor": "Rallabandi, Bhargav",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "R22",
+        "crn": "38892",
+        "instructor": "Realmuto, Jonathan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 1,
+          "available": 0
+        }
+      },
+      {
+        "section": "S12",
+        "crn": "38847",
+        "instructor": "Stahovich, Thomas",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 1,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "ME200": {
+    "title": "METHODS OF ENGINEERING ANALYSIS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32382",
+        "instructor": "Cai, Mingyu",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1250",
+          "building": "NORD",
+          "room": "A1002"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 19,
+          "capacity": 22,
+          "available": 3
+        }
+      }
+    ]
+  },
+  "ME210": {
+    "title": "SUSTAINABLE PRODUCT DESIGN",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37738",
+        "instructor": "Venkatadriagaram, Sundararajan",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "MSE",
+          "room": "003"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      },
+      {
+        "section": "010",
+        "crn": "38413",
+        "instructor": "Venkatadriagaram, Sundararajan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Lecture",
+        "method": "Online",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 20,
+          "available": 7
+        }
+      },
+      {
+        "section": "011",
+        "crn": "38414",
+        "instructor": "Venkatadriagaram, Sundararajan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Consultation",
+        "method": "Online",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 20,
+          "available": 7
+        }
+      },
+      {
+        "section": "021",
+        "crn": "37739",
+        "instructor": "Venkatadriagaram, Sundararajan",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "SKYE",
+          "room": "170"
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 10,
+          "available": 9
+        }
+      }
+    ]
+  },
+  "ME220": {
+    "title": "OPTIMAL CONTROL AND ESTIMATION",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ME220(\n Course or Test: Mechanical Engineering 120 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 121 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38394",
+        "instructor": "Sheng, Jun",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1830",
+          "endTime": "1950",
+          "building": "OLMH",
+          "room": "1133"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 20,
+          "available": 7
+        }
+      },
+      {
+        "section": "021",
+        "crn": "38395",
+        "instructor": "Sheng, Jun",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Term Paper",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 20,
+          "available": 7
+        }
+      }
+    ]
+  },
+  "ME223": {
+    "title": "SECURE AND RELIABLE CONTROL SYSTEMS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "36580",
+        "instructor": "Pasqualetti, Fabio",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1250",
+          "building": "MSE",
+          "room": "003"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 25,
+          "available": 15
+        }
+      }
+    ]
+  },
+  "ME224": {
+    "title": "COMPUTATIONAL METHODS FOR ROBOTICS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34958",
+        "instructor": "Nozari, Erfan",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "CHUNG",
+          "room": "141"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 30,
+          "available": 8
+        }
+      },
+      {
+        "section": "021",
+        "crn": "34959",
+        "instructor": "Nozari, Erfan",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1830",
+          "endTime": "1950",
+          "building": "CHUNG",
+          "room": "139"
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 30,
+          "available": 8
+        }
+      }
+    ]
+  },
+  "ME240A": {
+    "title": "FUNDAMENTALS OF FLUID MECHANICS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34449",
+        "instructor": "Rallabandi, Bhargav",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1850",
+          "building": "MSE",
+          "room": "011"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 10,
+          "capacity": 25,
+          "available": 15
+        }
+      }
+    ]
+  },
+  "ME250": {
+    "title": "SEMINAR IN MECHANICAL ENGINEERING",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17001",
+        "instructor": "Vuong, Luat",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": null,
+          "room": null
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 38,
+          "capacity": 45,
+          "available": 7
+        }
+      }
+    ]
+  },
+  "ME255": {
+    "title": "TRANSPORT PROCESSES IN THE ATMOSPHERIC BOUNDARY LAYER",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ME255(\n Course or Test: Mechanical Engineering 100A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemical Engineering 100 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 113 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemical Engineering 114 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Mechanical Engineering 116A \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Chemical Engineering 116 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38563",
+        "instructor": "Venkatram, Akula",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1850",
+          "building": "SPR",
+          "room": "2344"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 10,
+          "available": 4
+        }
+      }
+    ]
+  },
+  "ME261": {
+    "title": "THEORY OF ELASTICITY",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "34450",
+        "instructor": "Xu, Guanshui",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1300",
+          "endTime": "1450",
+          "building": "NORD",
+          "room": "A1002"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 20,
+          "available": 3
+        }
+      }
+    ]
+  },
+  "ME266": {
+    "title": "MECHANICS AND PHYSICS OF MATERIALS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38405",
+        "instructor": "Mangolini, Lorenzo",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1830",
+          "endTime": "1950",
+          "building": "INTS",
+          "room": "1134"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 25,
+          "available": 14
+        }
+      }
+    ]
+  },
+  "ME270": {
+    "title": "INTRODUCTION TO MICROELECTROMECHANICAL SYSTEMS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ME270(\n Course or Test: Mechanical Engineering 110 \n Minimum Grade of D-\n May not be taken concurrently.and\n Course or Test: Mechanical Engineering 114 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37740",
+        "instructor": "Ozkan, Cengiz",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1830",
+          "endTime": "2020",
+          "building": "MSE",
+          "room": "011"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 20,
+          "available": 16
+        }
+      }
+    ]
+  },
+  "ME290": {
+    "title": "DIRECTED STUDIES",
+    "credits": "1-6",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "01A",
+        "crn": "17005",
+        "instructor": "Abbaschian, Reza",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "03X",
+        "crn": "17006",
+        "instructor": "Xu, Guanshui",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "0S8",
+        "crn": "31664",
+        "instructor": "Sheng, Jun",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 25,
+          "available": 25
+        }
+      },
+      {
+        "section": "12J",
+        "crn": "17007",
+        "instructor": "Jung, Heejung",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 12,
+          "available": 12
+        }
+      },
+      {
+        "section": "13V",
+        "crn": "17008",
+        "instructor": "Venkatram, Akula",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "17J",
+        "crn": "17009",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "21E",
+        "crn": "38509",
+        "instructor": "Eskandari, Mona",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0900",
+          "endTime": "1020",
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 5,
+          "available": 1
+        }
+      },
+      {
+        "section": "28D",
+        "crn": "17010",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "30F",
+        "crn": "17011",
+        "instructor": "Farrell, Jay",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "32O",
+        "crn": "17012",
+        "instructor": "Ozkan, Cengiz",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "37A",
+        "crn": "17013",
+        "instructor": "Aguilar, Guillermo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "61P",
+        "crn": "17014",
+        "instructor": "Princevac, Marko",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "62T",
+        "crn": "17015",
+        "instructor": "Tsutsui, Hideaki",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "65K",
+        "crn": "17016",
+        "instructor": "Kumar, Sandeep",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 6,
+          "available": 6
+        }
+      },
+      {
+        "section": "69G",
+        "crn": "17017",
+        "instructor": "Garay, Javier",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "71W",
+        "crn": "17018",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "80R",
+        "crn": "17019",
+        "instructor": "Rao, Masaru",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "90M",
+        "crn": "17020",
+        "instructor": "Mahalingam, Shankar",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "90V",
+        "crn": "17021",
+        "instructor": "Vafai, Kambiz",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "92V",
+        "crn": "17022",
+        "instructor": "Venkatadriagaram, Sundararajan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "C33",
+        "crn": "27446",
+        "instructor": "Cybart, Shane",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 1,
+          "available": 0
+        }
+      },
+      {
+        "section": "M25",
+        "crn": "17003",
+        "instructor": "Mangolini, Lorenzo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 15,
+          "available": 15
+        }
+      },
+      {
+        "section": "S12",
+        "crn": "17004",
+        "instructor": "Stahovich, Thomas",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "W13",
+        "crn": "31521",
+        "instructor": "Wilson, Richard",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Individual Study",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 15,
+          "available": 15
+        }
+      }
+    ]
+  },
+  "ME297": {
+    "title": "DIRECTED RESEARCH",
+    "credits": "1-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "01A",
+        "crn": "17026",
+        "instructor": "Abbaschian, Reza",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "03X",
+        "crn": "17027",
+        "instructor": "Xu, Guanshui",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "06L",
+        "crn": "37031",
+        "instructor": "Laksari, Kaveh",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 10,
+          "available": 7
+        }
+      },
+      {
+        "section": "0C6",
+        "crn": "38835",
+        "instructor": "Cai, Mingyu",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 3,
+          "available": 1
+        }
+      },
+      {
+        "section": "0CH",
+        "crn": "37052",
+        "instructor": "Li, Chen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "0S8",
+        "crn": "29724",
+        "instructor": "Sheng, Jun",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 10,
+          "available": 8
+        }
+      },
+      {
+        "section": "12J",
+        "crn": "17028",
+        "instructor": "Jung, Heejung",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "13V",
+        "crn": "17029",
+        "instructor": "Venkatram, Akula",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "17J",
+        "crn": "17030",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "21E",
+        "crn": "27399",
+        "instructor": "Eskandari, Mona",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "28D",
+        "crn": "17031",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "31O",
+        "crn": "22653",
+        "instructor": "Ozkan, Mihrimah",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "32O",
+        "crn": "17032",
+        "instructor": "Ozkan, Cengiz",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "32V",
+        "crn": "31598",
+        "instructor": "Vuong, Luat",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "37A",
+        "crn": "17033",
+        "instructor": "Aguilar, Guillermo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "49B",
+        "crn": "17034",
+        "instructor": "Bhanu, Bir",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "54F",
+        "crn": "17035",
+        "instructor": "Franco, Elisa",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "54N",
+        "crn": "35096",
+        "instructor": "Nozari, Erfan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 3,
+          "available": 3
+        }
+      },
+      {
+        "section": "61P",
+        "crn": "17036",
+        "instructor": "Princevac, Marko",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "62B",
+        "crn": "17037",
+        "instructor": "Barth, Matthew",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "62T",
+        "crn": "17038",
+        "instructor": "Tsutsui, Hideaki",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "65K",
+        "crn": "17039",
+        "instructor": "Kumar, Sandeep",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 4,
+          "available": 4
+        }
+      },
+      {
+        "section": "68P",
+        "crn": "22707",
+        "instructor": "Pasqualetti, Fabio",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "69G",
+        "crn": "17040",
+        "instructor": "Garay, Javier",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "71W",
+        "crn": "17041",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "80R",
+        "crn": "17042",
+        "instructor": "Rao, Masaru",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "90M",
+        "crn": "17043",
+        "instructor": "Mahalingam, Shankar",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "90V",
+        "crn": "17044",
+        "instructor": "Vafai, Kambiz",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 30,
+          "available": 27
+        }
+      },
+      {
+        "section": "92V",
+        "crn": "17045",
+        "instructor": "Venkatadriagaram, Sundararajan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "C33",
+        "crn": "25352",
+        "instructor": "Cybart, Shane",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "L75",
+        "crn": "38854",
+        "instructor": "Li, Yaofa",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 4,
+          "available": 2
+        }
+      },
+      {
+        "section": "M25",
+        "crn": "17023",
+        "instructor": "Mangolini, Lorenzo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "M43",
+        "crn": "17024",
+        "instructor": "Mathaudhu, Suveen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      },
+      {
+        "section": "M49",
+        "crn": "22676",
+        "instructor": "Martinez Wilhelmus, Monica",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "M66",
+        "crn": "33314",
+        "instructor": "Mentzel, Tamar",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 3,
+          "available": 3
+        }
+      },
+      {
+        "section": "R15",
+        "crn": "29803",
+        "instructor": "Rallabandi, Bhargav",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 3,
+          "available": 3
+        }
+      },
+      {
+        "section": "S12",
+        "crn": "17025",
+        "instructor": "Stahovich, Thomas",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "W13",
+        "crn": "22936",
+        "instructor": "Wilson, Richard",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "ME298I": {
+    "title": "INDIVIDUAL INTERNSHIP",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37111",
+        "instructor": "Rallabandi, Bhargav",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "01A",
+        "crn": "17046",
+        "instructor": "Abbaschian, Reza",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      },
+      {
+        "section": "32O",
+        "crn": "17047",
+        "instructor": "Ozkan, Cengiz",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      },
+      {
+        "section": "37A",
+        "crn": "31515",
+        "instructor": "Aguilar, Guillermo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 2,
+          "available": 2
+        }
+      },
+      {
+        "section": "61P",
+        "crn": "36789",
+        "instructor": "Princevac, Marko",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "62T",
+        "crn": "33223",
+        "instructor": "Tsutsui, Hideaki",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "68P",
+        "crn": "38716",
+        "instructor": "Pasqualetti, Fabio",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 1,
+          "available": 0
+        }
+      },
+      {
+        "section": "90V",
+        "crn": "17048",
+        "instructor": "Vafai, Kambiz",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 2,
+          "available": 1
+        }
+      },
+      {
+        "section": "L30",
+        "crn": "38900",
+        "instructor": "Li, Chen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 1,
+          "available": 0
+        }
+      },
+      {
+        "section": "M43",
+        "crn": "33241",
+        "instructor": "Mathaudhu, Suveen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Internship",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "ME299": {
+    "title": "RESEARCH FOR THE THESIS OR DISSERTATION",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17052",
+        "instructor": "Rallabandi, Bhargav",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "002",
+        "crn": "17053",
+        "instructor": "Mahalingam, Shankar",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "01A",
+        "crn": "17054",
+        "instructor": "Abbaschian, Reza",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "03X",
+        "crn": "17055",
+        "instructor": "Xu, Guanshui",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "0S8",
+        "crn": "33229",
+        "instructor": "Sheng, Jun",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 6,
+          "capacity": 10,
+          "available": 4
+        }
+      },
+      {
+        "section": "12J",
+        "crn": "17056",
+        "instructor": "Jung, Heejung",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "13V",
+        "crn": "17057",
+        "instructor": "Venkatram, Akula",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "17J",
+        "crn": "17058",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "20K",
+        "crn": "17059",
+        "instructor": "Khizroev, Sakhrat",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "21E",
+        "crn": "29664",
+        "instructor": "Eskandari, Mona",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 4,
+          "capacity": 5,
+          "available": 1
+        }
+      },
+      {
+        "section": "28D",
+        "crn": "17060",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "31O",
+        "crn": "17061",
+        "instructor": "Ozkan, Mihrimah",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "32O",
+        "crn": "17062",
+        "instructor": "Ozkan, Cengiz",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "32V",
+        "crn": "29668",
+        "instructor": "Vuong, Luat",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 4,
+          "available": 3
+        }
+      },
+      {
+        "section": "37A",
+        "crn": "17063",
+        "instructor": "Aguilar, Guillermo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "47L",
+        "crn": "35084",
+        "instructor": "Lynch, Christopher",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 3,
+          "available": 2
+        }
+      },
+      {
+        "section": "49B",
+        "crn": "17064",
+        "instructor": "Bhanu, Bir",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "50A",
+        "crn": "17065",
+        "instructor": "Anvari, Bahman",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "54F",
+        "crn": "17066",
+        "instructor": "Franco, Elisa",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "54N",
+        "crn": "35097",
+        "instructor": "Nozari, Erfan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 3,
+          "available": 0
+        }
+      },
+      {
+        "section": "61P",
+        "crn": "17067",
+        "instructor": "Princevac, Marko",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "62B",
+        "crn": "17068",
+        "instructor": "Barth, Matthew",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 4,
+          "available": 4
+        }
+      },
+      {
+        "section": "62T",
+        "crn": "17069",
+        "instructor": "Tsutsui, Hideaki",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "65K",
+        "crn": "22775",
+        "instructor": "Kumar, Sandeep",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "68P",
+        "crn": "17070",
+        "instructor": "Pasqualetti, Fabio",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      },
+      {
+        "section": "69G",
+        "crn": "17071",
+        "instructor": "Garay, Javier",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 8,
+          "available": 8
+        }
+      },
+      {
+        "section": "71W",
+        "crn": "17072",
+        "instructor": "TBD",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "80R",
+        "crn": "17073",
+        "instructor": "Rao, Masaru",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      },
+      {
+        "section": "90M",
+        "crn": "17074",
+        "instructor": "Mahalingam, Shankar",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "90V",
+        "crn": "17075",
+        "instructor": "Vafai, Kambiz",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "92V",
+        "crn": "17076",
+        "instructor": "Venkatadriagaram, Sundararajan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "C33",
+        "crn": "25354",
+        "instructor": "Cybart, Shane",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "G09",
+        "crn": "22652",
+        "instructor": "Greaney, Peter",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "L30",
+        "crn": "27400",
+        "instructor": "Li, Chen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 3,
+          "available": 0
+        }
+      },
+      {
+        "section": "L75",
+        "crn": "38919",
+        "instructor": "Li, Yaofa",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 3,
+          "available": 2
+        }
+      },
+      {
+        "section": "L76",
+        "crn": "38881",
+        "instructor": "Laksari, Kaveh",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 3,
+          "available": 1
+        }
+      },
+      {
+        "section": "M25",
+        "crn": "17049",
+        "instructor": "Mangolini, Lorenzo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 30,
+          "available": 28
+        }
+      },
+      {
+        "section": "M43",
+        "crn": "17050",
+        "instructor": "Mathaudhu, Suveen",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "M49",
+        "crn": "25336",
+        "instructor": "Martinez Wilhelmus, Monica",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "M66",
+        "crn": "33325",
+        "instructor": "Mentzel, Tamar",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 2,
+          "capacity": 3,
+          "available": 1
+        }
+      },
+      {
+        "section": "R15",
+        "crn": "31513",
+        "instructor": "Rallabandi, Bhargav",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 5,
+          "available": 2
+        }
+      },
+      {
+        "section": "R22",
+        "crn": "33205",
+        "instructor": "Realmuto, Jonathan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 5,
+          "available": 0
+        }
+      },
+      {
+        "section": "S12",
+        "crn": "17051",
+        "instructor": "Stahovich, Thomas",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      },
+      {
+        "section": "W13",
+        "crn": "22774",
+        "instructor": "Wilson, Richard",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 30,
+          "available": 29
+        }
+      }
+    ]
+  },
+  "ME302": {
+    "title": "APPRENTICE TEACHING",
+    "credits": "1-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17077",
+        "instructor": "Li, Chen",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "LFSC",
+          "room": "2418"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 18,
+          "capacity": 30,
+          "available": 12
+        }
+      }
+    ]
+  }
+}

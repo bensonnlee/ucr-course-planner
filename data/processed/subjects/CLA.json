@@ -1,0 +1,501 @@
+{
+  "CLA010B": {
+    "title": "ANCIENT CIVILIZATION: CLASSICAL GREECE",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32127",
+        "instructor": "DaVia, Carlo",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1830",
+          "endTime": "1950",
+          "building": "LFSC",
+          "room": "1500"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 285,
+          "capacity": 300,
+          "available": 15
+        }
+      },
+      {
+        "section": "021",
+        "crn": "32128",
+        "instructor": "Rodgers, Shelby",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "MSE",
+          "room": "003"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 21,
+          "capacity": 25,
+          "available": 4
+        }
+      },
+      {
+        "section": "022",
+        "crn": "32129",
+        "instructor": "Rodgers, Shelby",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "LFSC",
+          "room": "2418"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "023",
+        "crn": "32130",
+        "instructor": "Fatima, Syeda Maryam",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "SPR",
+          "room": "2343"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "32131",
+        "instructor": "Li, Kejian",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1900",
+          "endTime": "1950",
+          "building": "INTS",
+          "room": "2136"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "025",
+        "crn": "32132",
+        "instructor": "Li, Kejian",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "2000",
+          "endTime": "2050",
+          "building": "INTS",
+          "room": "2136"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "026",
+        "crn": "32133",
+        "instructor": "Li, Kejian",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "2100",
+          "endTime": "2150",
+          "building": "INTS",
+          "room": "2136"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "027",
+        "crn": "32134",
+        "instructor": "Fatima, Syeda Maryam",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "SPR",
+          "room": "2343"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 25,
+          "available": 2
+        }
+      },
+      {
+        "section": "028",
+        "crn": "32135",
+        "instructor": "Rodgers, Shelby",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0700",
+          "endTime": "0750",
+          "building": "WAT",
+          "room": "2141"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 25,
+          "available": 3
+        }
+      },
+      {
+        "section": "029",
+        "crn": "32136",
+        "instructor": "Fatima, Syeda Maryam",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "SPR",
+          "room": "2343"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 25,
+          "available": 2
+        }
+      },
+      {
+        "section": "030",
+        "crn": "36246",
+        "instructor": "Okorafor, Emmanuelle",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "INTS",
+          "room": "2134"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "031",
+        "crn": "36247",
+        "instructor": "Okorafor, Emmanuelle",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "INTS",
+          "room": "1130"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "032",
+        "crn": "36248",
+        "instructor": "Okorafor, Emmanuelle",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "INTS",
+          "room": "1130"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "CLA040": {
+    "title": "CLASSICAL MYTHOLOGY",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "12458",
+        "instructor": "King, Benjamin",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "BRNHL",
+          "room": "B118"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 216,
+          "capacity": 150,
+          "available": -66
+        }
+      },
+      {
+        "section": "021",
+        "crn": "12459",
+        "instructor": "Duong, Minh",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "SPR",
+          "room": "2351"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 13,
+          "available": -12
+        }
+      },
+      {
+        "section": "022",
+        "crn": "12460",
+        "instructor": "Achierno, Jeffrey",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "SPR",
+          "room": "2351"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 13,
+          "available": -10
+        }
+      },
+      {
+        "section": "023",
+        "crn": "12461",
+        "instructor": "Achierno, Jeffrey",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "CHUNG",
+          "room": "139"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 13,
+          "available": -11
+        }
+      },
+      {
+        "section": "024",
+        "crn": "12462",
+        "instructor": "Duong, Minh",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "INTS",
+          "room": "1132"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 14,
+          "available": -10
+        }
+      },
+      {
+        "section": "025",
+        "crn": "12463",
+        "instructor": "Duong, Minh",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "INTS",
+          "room": "1132"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 13,
+          "available": -12
+        }
+      },
+      {
+        "section": "026",
+        "crn": "12464",
+        "instructor": "Ali, Maisam",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1700",
+          "endTime": "1750",
+          "building": "INTS",
+          "room": "1125"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 15,
+          "available": -10
+        }
+      },
+      {
+        "section": "027",
+        "crn": "32297",
+        "instructor": "Ali, Maisam",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "PRCE",
+          "room": "3374"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 13,
+          "available": -11
+        }
+      },
+      {
+        "section": "028",
+        "crn": "32298",
+        "instructor": "Ali, Maisam",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0700",
+          "endTime": "0750",
+          "building": "INTS",
+          "room": "2138"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 13,
+          "available": -10
+        }
+      },
+      {
+        "section": "029",
+        "crn": "32299",
+        "instructor": "Achierno, Jeffrey",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "0700",
+          "endTime": "0750",
+          "building": "INTS",
+          "room": "1125"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 23,
+          "capacity": 13,
+          "available": -10
+        }
+      }
+    ]
+  }
+}

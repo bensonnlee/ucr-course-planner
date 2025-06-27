@@ -1,0 +1,1196 @@
+{
+  "MGT201": {
+    "title": "QUANTITATIVE ANALYSIS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28341",
+        "instructor": "Xu, Xun",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": "SBB",
+          "room": "260"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 76,
+          "capacity": 77,
+          "available": 1
+        }
+      },
+      {
+        "section": "002",
+        "crn": "28343",
+        "instructor": "Xu, Xun",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1830",
+          "endTime": "2120",
+          "building": "SBB",
+          "room": "260"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 40,
+          "capacity": 77,
+          "available": 37
+        }
+      }
+    ]
+  },
+  "MGT202": {
+    "title": "FINANCIAL MANAGEMENT",
+    "credits": "4",
+    "prerequisites": "Prerequisites:MGT202(\n Course or Test: Management 201 \n Minimum Grade of D-\n May be taken concurrently.)\nand\n(\n Course or Test: Management 211 \n Minimum Grade of D-\n May be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17081",
+        "instructor": "Dong, M Mike",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1830",
+          "endTime": "2120",
+          "building": "ANDHL",
+          "room": "118"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 68,
+          "capacity": 77,
+          "available": 9
+        }
+      }
+    ]
+  },
+  "MGT204": {
+    "title": "COST AND MANAGEMENT ACCOUNTING",
+    "credits": "4",
+    "prerequisites": "Prerequisites:MGT204(\n Course or Test: Management 211 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17082",
+        "instructor": "Almendarez Jr., Daniel",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": "SBB",
+          "room": "260"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 71,
+          "capacity": 70,
+          "available": -1
+        }
+      }
+    ]
+  },
+  "MGT205": {
+    "title": "INFORMATION SYSTEMS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17083",
+        "instructor": "Yueh, Rich",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": "CHUNG",
+          "room": "138"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 73,
+          "capacity": 77,
+          "available": 4
+        }
+      },
+      {
+        "section": "002",
+        "crn": "17084",
+        "instructor": "Yueh, Rich",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1830",
+          "endTime": "2120",
+          "building": "SBB",
+          "room": "260"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 63,
+          "capacity": 77,
+          "available": 14
+        }
+      },
+      {
+        "section": "021",
+        "crn": "20190",
+        "instructor": "Yueh, Rich",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 73,
+          "capacity": 77,
+          "available": 4
+        }
+      },
+      {
+        "section": "022",
+        "crn": "20191",
+        "instructor": "Yueh, Rich",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Laboratory",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 63,
+          "capacity": 77,
+          "available": 14
+        }
+      }
+    ]
+  },
+  "MGT207": {
+    "title": "OPERATIONS MANAGEMENT FOR COMPETITIVE ADVANTAGE",
+    "credits": "4",
+    "prerequisites": "Prerequisites:MGT207(\n Course or Test: Management 201 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "33710",
+        "instructor": "Turcic, Danko",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1830",
+          "endTime": "2130",
+          "building": "MSE",
+          "room": "003"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 40,
+          "capacity": 50,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "MGT209": {
+    "title": "MARKETING MANAGEMENT",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32475",
+        "instructor": "Sood, Ashish",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": "SBB",
+          "room": "260"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 66,
+          "capacity": 70,
+          "available": 4
+        }
+      }
+    ]
+  },
+  "MGT211": {
+    "title": "FINANCIAL ACCOUNTING",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17085",
+        "instructor": "Zhang, Ivy",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1100",
+          "endTime": "1350",
+          "building": "SPTH",
+          "room": "2200"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 80,
+          "capacity": 80,
+          "available": 0
+        }
+      },
+      {
+        "section": "002",
+        "crn": "17086",
+        "instructor": "Zhang, Ivy",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1830",
+          "endTime": "2120",
+          "building": "ANDHL",
+          "room": "118"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 67,
+          "capacity": 77,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "MGT218": {
+    "title": "ETHICS IN MANAGEMENT",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "33957",
+        "instructor": "Jasso, Sean",
+        "schedule": {
+          "days": [
+            "S"
+          ],
+          "startTime": "1300",
+          "endTime": "1550",
+          "building": "ANDHL",
+          "room": "118"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 53,
+          "capacity": 63,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "MGT219": {
+    "title": "SPREADSHEET MODELING FOR DECISION-MAKING",
+    "credits": "4",
+    "prerequisites": "Prerequisites:MGT219(\n Course or Test: Management 207 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "33712",
+        "instructor": "Xu, Xun",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1350",
+          "building": "SBB",
+          "room": "260"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 76,
+          "capacity": 70,
+          "available": -6
+        }
+      }
+    ]
+  },
+  "MGT220": {
+    "title": "NEGOTIATIONS FOR MANAGERS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28349",
+        "instructor": "Zwick, Rami",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1830",
+          "endTime": "2120",
+          "building": "SBB",
+          "room": "280"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 71,
+          "capacity": 70,
+          "available": -1
+        }
+      }
+    ]
+  },
+  "MGT227": {
+    "title": "FIXED-INCOME SECURITIES AND MARKETS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:MGT227(\n Course or Test: Management 201 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "32481",
+        "instructor": "De La Torre, Antonio",
+        "schedule": {
+          "days": [
+            "S"
+          ],
+          "startTime": "0900",
+          "endTime": "1150",
+          "building": "OLMH",
+          "room": "421"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 31,
+          "capacity": 63,
+          "available": 32
+        }
+      }
+    ]
+  },
+  "MGT228": {
+    "title": "CONSUMER BEHAVIOR",
+    "credits": "4",
+    "prerequisites": "Prerequisites:MGT228)\nand\n(\n Course or Test: Management 209 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "30891",
+        "instructor": "Zwick, Rami",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1830",
+          "endTime": "2120",
+          "building": "ANDHL",
+          "room": "118"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 60,
+          "capacity": 63,
+          "available": 3
+        }
+      }
+    ]
+  },
+  "MGT229": {
+    "title": "ACCOUNTING ETHICS AND PROFESSIONAL RESPONSIBILITIES",
+    "credits": "4",
+    "prerequisites": "Prerequisites:MGT229)\nand\n(\n Course or Test: Management 204 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "24124",
+        "instructor": "Pittard, Jonathan",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1100",
+          "endTime": "1350",
+          "building": "SBB",
+          "room": "260"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 45,
+          "capacity": 70,
+          "available": 25
+        }
+      }
+    ]
+  },
+  "MGT237": {
+    "title": "INTERNATIONAL FINANCIAL MANAGEMENT",
+    "credits": "4",
+    "prerequisites": "Prerequisites:MGT237(\n Course or Test: Management 202 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "26775",
+        "instructor": "Richey, Greg",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1350",
+          "building": "SBB",
+          "room": "260"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 76,
+          "capacity": 76,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "MGT240A": {
+    "title": "TAXATION",
+    "credits": "4",
+    "prerequisites": "Prerequisites:MGT240A(\n Course or Test: Management 211 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "17093",
+        "instructor": "Almendarez Jr., Daniel",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1830",
+          "endTime": "2120",
+          "building": "SBB",
+          "room": "280"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 62,
+          "capacity": 62,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "MGT241": {
+    "title": "ACCOUNTING SYSTEMS AND CONTROL",
+    "credits": "4",
+    "prerequisites": "Prerequisites:MGT241)\nand\n(\n Course or Test: Management 204 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "24125",
+        "instructor": "Ellis, Aaron",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1830",
+          "endTime": "2120",
+          "building": "SBB",
+          "room": "280"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 45,
+          "capacity": 70,
+          "available": 25
+        }
+      }
+    ]
+  },
+  "MGT249": {
+    "title": "PRICING STRATEGY",
+    "credits": "4",
+    "prerequisites": "Prerequisites:MGT249(\n Course or Test: Management 209 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28356",
+        "instructor": "Sood, Ashish",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1830",
+          "endTime": "2120",
+          "building": "SBB",
+          "room": "280"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 48,
+          "capacity": 63,
+          "available": 15
+        }
+      }
+    ]
+  },
+  "MGT256": {
+    "title": "BUSINESS ANALYTICS FOR MANAGEMENT",
+    "credits": "4",
+    "prerequisites": "Prerequisites:MGT256(\n Course or Test: Management 201 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "33713",
+        "instructor": "Orsdemir, Adem",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1830",
+          "endTime": "2120",
+          "building": "SBB",
+          "room": "260"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 70,
+          "capacity": 70,
+          "available": 0
+        }
+      },
+      {
+        "section": "002",
+        "crn": "33714",
+        "instructor": "Elnoshokaty, Ahmed",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1830",
+          "endTime": "2120",
+          "building": "SSC",
+          "room": "316"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 43,
+          "capacity": 70,
+          "available": 27
+        }
+      }
+    ]
+  },
+  "MGT257": {
+    "title": "MARKETING STRATEGY",
+    "credits": "4",
+    "prerequisites": "Prerequisites:MGT257(\n Course or Test: Management 209 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "35597",
+        "instructor": "Balachander, Subramanian",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1100",
+          "endTime": "1350",
+          "building": "SBB",
+          "room": "260"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 38,
+          "capacity": 63,
+          "available": 25
+        }
+      }
+    ]
+  },
+  "MGT285": {
+    "title": "FIELD COLLOQUIUM",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "33156",
+        "instructor": "Joo, Mingyu",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1030",
+          "endTime": "1200",
+          "building": "ANDHL",
+          "room": "021"
+        },
+        "type": "Colloquium",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 5,
+          "capacity": 10,
+          "available": 5
+        }
+      }
+    ]
+  },
+  "MGT288B": {
+    "title": "QUANTITATIVE RESEARCH IN MARKETING",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "38292",
+        "instructor": "Balachander, Subramanian",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": "ANDHL",
+          "room": "021"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 5,
+          "available": 2
+        }
+      }
+    ]
+  },
+  "MGT290": {
+    "title": "DIRECTED STUDIES",
+    "credits": "1-6",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "B45",
+        "crn": "36894",
+        "instructor": "Barinov, Alexander",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      },
+      {
+        "section": "C79",
+        "crn": "38891",
+        "instructor": "Campbell, Margaret",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 1,
+          "available": 0
+        }
+      },
+      {
+        "section": "H58",
+        "crn": "35143",
+        "instructor": "Helwege, Jean",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "MGT292": {
+    "title": "CONCURRENT STUDIES IN MANAGEMENT",
+    "credits": "1-4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "002",
+        "crn": "33429",
+        "instructor": "Wu, John",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Research",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 1,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "MGT298I": {
+    "title": "FIELDWORK IN MANAGEMENT",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28502",
+        "instructor": "Alcaraz, Arturo",
+        "schedule": {
+          "days": [
+            "S"
+          ],
+          "startTime": "0900",
+          "endTime": "1150",
+          "building": "OLMH",
+          "room": "1208"
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 89,
+          "capacity": 82,
+          "available": -7
+        }
+      },
+      {
+        "section": "002",
+        "crn": "38407",
+        "instructor": "Alcaraz, Arturo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 10,
+          "available": 7
+        }
+      }
+    ]
+  },
+  "MGT299": {
+    "title": "RESEARCH FOR THESIS OR DISSERTATION",
+    "credits": "1-12",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "03A",
+        "crn": "33308",
+        "instructor": "Haselhuhn, Michael",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 1,
+          "capacity": 5,
+          "available": 4
+        }
+      },
+      {
+        "section": "066",
+        "crn": "31604",
+        "instructor": "Gao, Long",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "0AP",
+        "crn": "36974",
+        "instructor": "Prasad, Ashutosh",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "0YL",
+        "crn": "36943",
+        "instructor": "Li, Ye",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "1MR",
+        "crn": "35276",
+        "instructor": "Raveendran, Marlo",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 5,
+          "available": 5
+        }
+      },
+      {
+        "section": "51H",
+        "crn": "22910",
+        "instructor": "Haleblian, John",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "74K",
+        "crn": "27263",
+        "instructor": "Kramer, Thomas",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "H58",
+        "crn": "27337",
+        "instructor": "Helwege, Jean",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 10,
+          "available": 10
+        }
+      },
+      {
+        "section": "M38",
+        "crn": "17154",
+        "instructor": "Maciejovsky, Boris",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "MGT400A": {
+    "title": "FINANCIAL ACCOUNTING PRINCIPLES AND PRACTICES 1",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "24127",
+        "instructor": "Pittard, Jonathan",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0800",
+          "endTime": "1050",
+          "building": "SBB",
+          "room": "260"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 36,
+          "available": 19
+        }
+      },
+      {
+        "section": "021",
+        "crn": "24128",
+        "instructor": "Pittard, Jonathan",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 36,
+          "available": 19
+        }
+      }
+    ]
+  },
+  "MGT400E": {
+    "title": "AUDITING AND ASSURANCE",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "24131",
+        "instructor": "Almendarez Jr., Daniel",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1650",
+          "building": "SBB",
+          "room": "280"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 36,
+          "available": 19
+        }
+      },
+      {
+        "section": "021",
+        "crn": "24132",
+        "instructor": "Almendarez Jr., Daniel",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 17,
+          "capacity": 36,
+          "available": 19
+        }
+      }
+    ]
+  },
+  "MGT402": {
+    "title": "BUSINESS CAREER PROFESSIONAL DEVELOPMENT WORKSHOP",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "28501",
+        "instructor": "Luth, Heather",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1100",
+          "endTime": "1350",
+          "building": "SBB",
+          "room": "280"
+        },
+        "type": "Seminar  ",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 37,
+          "capacity": 50,
+          "available": 13
+        }
+      },
+      {
+        "section": "021",
+        "crn": "28985",
+        "instructor": "Luth, Heather",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Consultation",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 37,
+          "capacity": 50,
+          "available": 13
+        }
+      }
+    ]
+  },
+  "MGT403": {
+    "title": "REVIEW OF QUANTITATIVE METHODS FOR MANAGEMENT",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "29208",
+        "instructor": "El-Hafsi, Mohsen",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1830",
+          "endTime": "2120",
+          "building": "SBB",
+          "room": "260"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 46,
+          "available": 16
+        }
+      }
+    ]
+  }
+}

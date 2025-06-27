@@ -1,0 +1,155 @@
+{
+  "ITAL001": {
+    "title": "ELEMENTARY ITALIAN",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "16252",
+        "instructor": "Da Ros, Nicoletta",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "INTS",
+          "room": "2138"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 25,
+          "available": 3
+        }
+      }
+    ]
+  },
+  "ITAL002": {
+    "title": "ELEMENTARY ITALIAN",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ITAL002(\n Course or Test: Italian 001 \n Minimum Grade of C-\n May not be taken concurrently.Language: Italian Prereq 602 to 603\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "25915",
+        "instructor": "Da Ros, Nicoletta",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "INTS",
+          "room": "2138"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 25,
+          "available": 13
+        }
+      }
+    ]
+  },
+  "ITAL004": {
+    "title": "INTERMEDIATE ITALIAN",
+    "credits": "4",
+    "prerequisites": "Prerequisites:ITAL004(\n Course or Test: Italian 003 \n Minimum Grade of C-\n May not be taken concurrently.)\nor\n(\n Course or Test: Italian 020B \n Minimum Grade of C-\n May not be taken concurrently.Language: Italian Prereq 606 to 607\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "23153",
+        "instructor": "Hatzopoulos, Irene",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "OLMH",
+          "room": "1122"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 25,
+          "available": 12
+        }
+      }
+    ]
+  },
+  "ITAL020A": {
+    "title": "ELEMENTARY ITALIAN FOR SPANISH SPEAKERS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "16257",
+        "instructor": "Da Ros, Nicoletta",
+        "schedule": {
+          "days": [
+            "M",
+            "T",
+            "W",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "INTS",
+          "room": "2138"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 25,
+          "available": 10
+        }
+      }
+    ]
+  },
+  "ITAL042": {
+    "title": "ITALIAN AMERICANS: VOICES AND VISIONS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37675",
+        "instructor": "Hatzopoulos, Irene",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "SPR",
+          "room": "2339"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 30,
+          "capacity": 10,
+          "available": -20
+        }
+      }
+    ]
+  }
+}

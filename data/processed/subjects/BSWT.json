@@ -1,0 +1,895 @@
+{
+  "BSWT001": {
+    "title": "IMMERSIVE ENGLISH",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BSWT001AWPE: Score for Prereq 600 to 601\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "002",
+        "crn": "38252",
+        "instructor": "Greenwell, Jeffrey",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "PRCE",
+          "room": "2226"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "006",
+        "crn": "36505",
+        "instructor": "Kahn, Rita",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0800",
+          "endTime": "0920",
+          "building": "HMNSS",
+          "room": "1407"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 15,
+          "available": 8
+        }
+      },
+      {
+        "section": "007",
+        "crn": "36506",
+        "instructor": "Kahn, Rita",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "HMNSS",
+          "room": "1407"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 15,
+          "available": 3
+        }
+      },
+      {
+        "section": "008",
+        "crn": "38545",
+        "instructor": "Kahn, Rita",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "SPR",
+          "room": "2339"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 15,
+          "available": 1
+        }
+      },
+      {
+        "section": "009",
+        "crn": "38546",
+        "instructor": "Greenwell, Jeffrey",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "PRCE",
+          "room": "2226"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 15,
+          "available": 3
+        }
+      },
+      {
+        "section": "010",
+        "crn": "38547",
+        "instructor": "Greenwell, Jeffrey",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "PRCE",
+          "room": "2226"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 15,
+          "available": 2
+        }
+      }
+    ]
+  },
+  "BSWT002": {
+    "title": "ORAL COMMUNICATION",
+    "credits": "2",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "005",
+        "crn": "36507",
+        "instructor": "Turner, Kimberly",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "SPR",
+          "room": "2212"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "006",
+        "crn": "36508",
+        "instructor": "Turner, Kimberly",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "SPR",
+          "room": "2212"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "007",
+        "crn": "38549",
+        "instructor": "Turner, Kimberly",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0800",
+          "endTime": "0920",
+          "building": "WAT",
+          "room": "1111"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 15,
+          "available": 3
+        }
+      },
+      {
+        "section": "008",
+        "crn": "38550",
+        "instructor": "Turner, Kimberly",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "WAT",
+          "room": "1111"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "009",
+        "crn": "38551",
+        "instructor": "Turner, Kimberly",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0920",
+          "building": "WAT",
+          "room": "1111"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 3,
+          "capacity": 15,
+          "available": 12
+        }
+      },
+      {
+        "section": "010",
+        "crn": "38552",
+        "instructor": "Turner, Kimberly",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "WAT",
+          "room": "1111"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 15,
+          "available": 2
+        }
+      }
+    ]
+  },
+  "BSWT003": {
+    "title": "BASIC WRITING FOR SECOND-LANGUAGE STUDENTS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:BSWT003AWPE: Score for Prereq 602 to 603\n May not be taken concurrently.)\nor\n(\n Course or Test: Basic Writing 001 \n Minimum Grade of S\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "004",
+        "crn": "33615",
+        "instructor": "Shukis, Shane",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "HMNSS",
+          "room": "1502"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "005",
+        "crn": "25942",
+        "instructor": "Shukis, Shane",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "HMNSS",
+          "room": "1502"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "006",
+        "crn": "31761",
+        "instructor": "Shukis, Shane",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "HMNSS",
+          "room": "1502"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "007",
+        "crn": "23377",
+        "instructor": "Hepler, Daniel",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "SPR",
+          "room": "2212"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "009",
+        "crn": "35618",
+        "instructor": "Hepler, Daniel",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "SPR",
+          "room": "2212"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "013",
+        "crn": "35620",
+        "instructor": "Hepler, Daniel",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "SPR",
+          "room": "2212"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "017",
+        "crn": "35651",
+        "instructor": "Marteinsdottir, Erla",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "HMNSS",
+          "room": "1407"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "018",
+        "crn": "35652",
+        "instructor": "d&#39;Annibale, Rob",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "SPR",
+          "room": "2212"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "019",
+        "crn": "35657",
+        "instructor": "Marteinsdottir, Erla",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1200",
+          "endTime": "1250",
+          "building": "HMNSS",
+          "room": "1407"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "020",
+        "crn": "27588",
+        "instructor": "Papadomichelaki, Roumpini",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "HMNSS",
+          "room": "1403"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "022",
+        "crn": "23396",
+        "instructor": "Cummins, Mary",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "HMNSS",
+          "room": "1407"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "024",
+        "crn": "33628",
+        "instructor": "Bradfield, Joanna",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "SPR",
+          "room": "2212"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "025",
+        "crn": "33627",
+        "instructor": "Bradfield, Joanna",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "SPR",
+          "room": "2212"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "026",
+        "crn": "23400",
+        "instructor": "Harder, Benjamin",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "OLMH",
+          "room": "1116"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "028",
+        "crn": "35660",
+        "instructor": "d&#39;Annibale, Rob",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "SPR",
+          "room": "2212"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "029",
+        "crn": "31774",
+        "instructor": "Cummins, Mary",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "HMNSS",
+          "room": "1407"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "032",
+        "crn": "29923",
+        "instructor": "Vance, Lash",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "HMNSS",
+          "room": "1407"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 14,
+          "available": 1
+        }
+      },
+      {
+        "section": "033",
+        "crn": "31776",
+        "instructor": "d&#39;Annibale, Rob",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1300",
+          "endTime": "1350",
+          "building": "HMNSS",
+          "room": "1407"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "035",
+        "crn": "35665",
+        "instructor": "Vance, Lash",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0800",
+          "endTime": "0920",
+          "building": "HMNSS",
+          "room": "1403"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 15,
+          "available": 8
+        }
+      },
+      {
+        "section": "038",
+        "crn": "35669",
+        "instructor": "Cummins, Mary",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "HMNSS",
+          "room": "1407"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 14,
+          "capacity": 14,
+          "available": 0
+        }
+      },
+      {
+        "section": "039",
+        "crn": "34642",
+        "instructor": "Marteinsdottir, Erla",
+        "schedule": {
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "startTime": "1100",
+          "endTime": "1150",
+          "building": "HMNSS",
+          "room": "1407"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "040",
+        "crn": "35159",
+        "instructor": "Bradfield, Joanna",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "0930",
+          "endTime": "1050",
+          "building": "SPR",
+          "room": "2212"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "041",
+        "crn": "35670",
+        "instructor": "Harder, Benjamin",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1820",
+          "building": "OLMH",
+          "room": "1126"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 14,
+          "available": 1
+        }
+      },
+      {
+        "section": "043",
+        "crn": "35161",
+        "instructor": "Harder, Benjamin",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1230",
+          "endTime": "1350",
+          "building": "LFSC",
+          "room": "2418"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 15,
+          "capacity": 15,
+          "available": 0
+        }
+      },
+      {
+        "section": "048",
+        "crn": "36905",
+        "instructor": "Papadomichelaki, Roumpini",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "WAT",
+          "room": "2101"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 13,
+          "capacity": 14,
+          "available": 1
+        }
+      }
+    ]
+  },
+  "BSWT003L": {
+    "title": "BASIC WRITING FOR SECOND-LANGUAGE STUDENTS",
+    "credits": "1",
+    "prerequisites": "Prerequisites:BSWT003LAWPE: Score for Prereq 602 to 603\n May not be taken concurrently.)\nor\n(\n Course or Test: Basic Writing 001 \n Minimum Grade of S\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "23459",
+        "instructor": "Vance, Lash",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Laboratory",
+        "method": "Online",
+        "availability": {
+          "enrolled": 360,
+          "capacity": 390,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "BSWT004": {
+    "title": "BASIC WRITING JOURNAL WORKSHOP",
+    "credits": "1",
+    "prerequisites": "Prerequisites:BSWT004AWPE: Score for Prereq 602 to 603\n May not be taken concurrently.)\nor\n(\n Course or Test: Basic Writing 001 \n Minimum Grade of S\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "23406",
+        "instructor": "Turner, Kimberly",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "ONLINE",
+          "room": "ONLINE"
+        },
+        "type": "Activity",
+        "method": "Online",
+        "availability": {
+          "enrolled": 360,
+          "capacity": 390,
+          "available": 30
+        }
+      }
+    ]
+  }
+}

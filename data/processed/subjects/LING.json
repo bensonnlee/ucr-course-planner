@@ -1,0 +1,428 @@
+{
+  "LING020": {
+    "title": "LANGUAGE AND LINGUISTICS",
+    "credits": "4",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "16302",
+        "instructor": "Waltz, Heidi",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1100",
+          "endTime": "1220",
+          "building": "INTN",
+          "room": "1020"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 202,
+          "capacity": 225,
+          "available": 23
+        }
+      },
+      {
+        "section": "021",
+        "crn": "28446",
+        "instructor": "Huang, Kate Wanchi",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1400",
+          "endTime": "1450",
+          "building": "DUNDE",
+          "room": "A1105"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "022",
+        "crn": "28447",
+        "instructor": "Huang, Kate Wanchi",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "DUNDE",
+          "room": "A1105"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "023",
+        "crn": "28448",
+        "instructor": "Huang, Kate Wanchi",
+        "schedule": {
+          "days": [
+            "T"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "CHUNG",
+          "room": "139"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 11,
+          "capacity": 25,
+          "available": 14
+        }
+      },
+      {
+        "section": "024",
+        "crn": "28449",
+        "instructor": "Siler, Kamryn",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0800",
+          "endTime": "0850",
+          "building": "DUNDE",
+          "room": "A1107"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 25,
+          "available": 1
+        }
+      },
+      {
+        "section": "025",
+        "crn": "28450",
+        "instructor": "Siler, Kamryn",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "DUNDE",
+          "room": "A1105"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "026",
+        "crn": "28451",
+        "instructor": "Siler, Kamryn",
+        "schedule": {
+          "days": [
+            "W"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "OLMH",
+          "room": "1126"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      },
+      {
+        "section": "027",
+        "crn": "28452",
+        "instructor": "Pothula, Nithya  Thushara Krishna",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1500",
+          "endTime": "1550",
+          "building": "OLMH",
+          "room": "1132"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 25,
+          "available": 3
+        }
+      },
+      {
+        "section": "028",
+        "crn": "28453",
+        "instructor": "Pothula, Nithya  Thushara Krishna",
+        "schedule": {
+          "days": [
+            "R"
+          ],
+          "startTime": "1600",
+          "endTime": "1650",
+          "building": "LFSC",
+          "room": "2418"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 25,
+          "available": 3
+        }
+      },
+      {
+        "section": "032",
+        "crn": "28457",
+        "instructor": "Pothula, Nithya  Thushara Krishna",
+        "schedule": {
+          "days": [
+            "F"
+          ],
+          "startTime": "1000",
+          "endTime": "1050",
+          "building": "DUNDE",
+          "room": "A1107"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 25,
+          "capacity": 25,
+          "available": 0
+        }
+      }
+    ]
+  },
+  "LING121": {
+    "title": "SYNTAX",
+    "credits": "4",
+    "prerequisites": "Prerequisites:LING121(\n Course or Test: Linguistics 020 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "35918",
+        "instructor": "Ross, Daniel",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1700",
+          "endTime": "1820",
+          "building": "SPR",
+          "room": "2339"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 24,
+          "capacity": 15,
+          "available": -9
+        }
+      }
+    ]
+  },
+  "LING131": {
+    "title": "MORPHOLOGY",
+    "credits": "4",
+    "prerequisites": "Prerequisites:LING131(\n Course or Test: Linguistics 020 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Linguistics 111 \n Minimum Grade of D-\n May not be taken concurrently.)\nor\n(\n Course or Test: Linguistics 121 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37682",
+        "instructor": "Ross, Daniel",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1400",
+          "endTime": "1520",
+          "building": "INTS",
+          "room": "1121"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 22,
+          "capacity": 15,
+          "available": -7
+        }
+      }
+    ]
+  },
+  "LING141": {
+    "title": "PHONOLOGY",
+    "credits": "4",
+    "prerequisites": "Prerequisites:LING141(\n Course or Test: Linguistics 111 \n Minimum Grade of D-\n May not be taken concurrently.)",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "35919",
+        "instructor": "Graham, Emily",
+        "schedule": {
+          "days": [
+            "M",
+            "W"
+          ],
+          "startTime": "1530",
+          "endTime": "1650",
+          "building": "SPR",
+          "room": "2339"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 10,
+          "available": -2
+        }
+      },
+      {
+        "section": "021",
+        "crn": "35920",
+        "instructor": "Graham, Emily",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "TBA",
+          "room": "TBA"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 12,
+          "capacity": 8,
+          "available": -4
+        }
+      }
+    ]
+  },
+  "LING160E": {
+    "title": "HISTORICAL LINGUISITCS",
+    "credits": "4",
+    "prerequisites": "Prerequisites:LING160E)\nand\n(\n Course or Test: Linguistics 111 \n Minimum Grade of D-\n May not be taken concurrently.)\nand\n(\n Course or Test: Linguistics 121 \n Minimum Grade of D-\n May not be taken concurrently.or\n Course or Test: Linguistics 141 \n Minimum Grade of D-\n May not be taken concurrently.",
+    "sections": [
+      {
+        "section": "001",
+        "crn": "37683",
+        "instructor": "Waltz, Heidi",
+        "schedule": {
+          "days": [
+            "T",
+            "R"
+          ],
+          "startTime": "1700",
+          "endTime": "1820",
+          "building": "SPR",
+          "room": "2360"
+        },
+        "type": "Lecture",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 40,
+          "available": 33
+        }
+      },
+      {
+        "section": "021",
+        "crn": "37765",
+        "instructor": "Waltz, Heidi",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": "TBA",
+          "room": "TBA"
+        },
+        "type": "Discussion",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 7,
+          "capacity": 40,
+          "available": 33
+        }
+      }
+    ]
+  },
+  "LING190": {
+    "title": "SPECIAL STUDIES",
+    "credits": "1-5",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "35S",
+        "crn": "16306",
+        "instructor": "Chidambaram, Vrinda",
+        "schedule": {
+          "days": [],
+          "startTime": null,
+          "endTime": null,
+          "building": null,
+          "room": null
+        },
+        "type": "Tutorial",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 0,
+          "capacity": 30,
+          "available": 30
+        }
+      }
+    ]
+  },
+  "LING198": {
+    "title": "LOVE IN GREEK MYTHOLOGY",
+    "credits": "1",
+    "prerequisites": "",
+    "sections": [
+      {
+        "section": "98K",
+        "crn": "38422",
+        "instructor": "Khellaf, Kyle",
+        "schedule": {
+          "days": [
+            "M"
+          ],
+          "startTime": "0900",
+          "endTime": "0950",
+          "building": "WAT",
+          "room": "1117"
+        },
+        "type": "Activity",
+        "method": "In-Person",
+        "availability": {
+          "enrolled": 20,
+          "capacity": 20,
+          "available": 0
+        }
+      }
+    ]
+  }
+}

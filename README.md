@@ -1,137 +1,118 @@
-# 🧠 AI Course Planner
+# 🧠 UCR Course Planner Chatbot
 
-This project is a smart course recommendation system for university students. It pulls real-time course registration data, analyzes it with logic and AI, and generates optimized course schedules based on each student’s history and preferences.
+An AI-powered course scheduling assistant that helps UCR students build optimal class schedules. Students can share their degree progress and preferences, and the chatbot generates valid course schedules for the quarter.
 
-The goal is to reduce the stress and guesswork of class planning, helping students build effective schedules, whether they’re trying to graduate early, avoid 8AMs, or fulfill GE and major requirements efficiently.
+**⚡ 1-Week MVP Timeline**: Command-line chatbot with core scheduling logic and OpenAI integration.
 
 ---
 
 ## 📌 Project Goals
 
-- ✅ Automatically ingest and store course catalog and enrollment data  
-- ✅ Filter courses based on prerequisites and student preferences  
-- ✅ Recommend valid and optimal class schedules  
-- ✅ Allow students to describe preferences in plain language via a chatbot  
-- 🚧 Eventually display and edit schedules through a web interface  
+- ✅ **Data Collection**: Scrape and process UCR course catalog data from Banner API
+- 🚧 **Smart Filtering**: Match courses against student prerequisites and preferences  
+- 🚧 **Schedule Generation**: Create conflict-free course combinations  
+- 🚧 **Chatbot Interface**: Natural language interaction for gathering student needs
 
 ---
 
-## 🔧 Stack Overview
+## 🔧 Current Stack
 
 **Language**: Python  
-**Data Collection**: `requests`, `json`  
-**Database**: MongoDB with `pymongo`  
-**Data Handling**: `pandas`, `jupyter` (optional)  
-**AI / Chatbot**: OpenAI API (`openai` Python SDK)  
-**Backend API**: FastAPI (starting Phase 4)  
-**Frontend**: Simple HTML or React (starting Phase 4)
+**Data Storage**: JSON files (97 subject-specific files)  
+**Data Collection**: `requests` + UCR Banner API scraping  
+**AI / Chatbot**: Groq API (free tier - 30 requests/minute)  
+**Interface**: Command-line (1-week MVP)
+
+**Current Data**: ~11K courses for Fall 2024 (term 202440) split by subject
 
 ---
 
-## ✅ Phase 1: Data Pipeline & Exploration
+## 🚀 1-Week Development Plan
 
-**Goal**: Collect, clean, and explore course data from the registration system.
+### **Days 1-2: Core Data Processing**
+- [x] Course data scraping and processing (COMPLETE)
+- [ ] Prerequisites parser - extract course codes from prerequisite text
+- [ ] Mock student profiles - create sample students with different majors/progress
+- [ ] Basic eligibility filter - match completed courses against prerequisites
 
-### Milestones
+### **Days 3-4: Schedule Logic**
+- [ ] Time conflict detection - parse meeting times, detect overlaps
+- [ ] Simple recommendation engine - score courses by eligibility → major requirements → availability
+- [ ] Hard-coded major requirements - CS/Engineering degree plans (skip web scraping)
 
-1. **Scraper**  
-   - Use `requests` to download course data.  
-   - Store raw JSON files locally under `/data/raw/`.
+### **Days 5-6: Chatbot Interface**
+- [ ] Command-line chatbot - Q&A flow to gather student information
+- [ ] Groq API integration - extract preferences from natural language
+- [ ] Schedule output - present recommendations in readable format
 
-2. **MongoDB Integration**  
-   - Store course documents using `pymongo`.  
-   - Flexible schema supports variations in class formats.
-
-3. **Data Cleaning**  
-   - Normalize fields (e.g., course codes, names, times).  
-   - Deduplicate courses and handle cross-listed sections.
-
-4. **Exploration**  
-   - Use `pandas` or Jupyter notebooks to explore:  
-     - Common prerequisites  
-     - Time conflicts  
-     - Waitlist trends (if available)
-
-**Success criteria**: A clean, queryable MongoDB collection of classes.
+### **Day 7: Polish & Demo**
+- [ ] Testing with sample students
+- [ ] Demo preparation and documentation
 
 ---
 
-## ⚙️ Phase 2: Basic Course Planning Backend
+## 📁 Project Structure
 
-**Goal**: Recommend courses that a student is eligible for and interested in.
-
-### Milestones
-
-1. **Define Student Profile Format**  
-Example:
 ```
-{
-  "taken_courses": ["CS 10", "MATH 2"],
-  "preferences": {
-    "preferred_subjects": ["CS", "STAT"],
-    "ge_requirements": ["Area C"],
-    "max_units": 16,
-    "no_early_classes": true
-  }
-}
+ucr-course-planner/
+├── data/
+│   ├── raw/course_data.json           # ~35MB raw course data
+│   └── processed/                     # 97 subject-specific JSON files
+│       ├── cs_courses.json
+│       ├── math_courses.json
+│       └── ...
+├── src/
+│   ├── scraper.py                     # UCR Banner API scraper
+│   ├── clean.py                       # Data processing pipeline
+│   ├── write_local_data.py            # Data persistence
+│   └── analyze_json_entries.py        # Data structure analysis
+└── requirements.txt
 ```
 
-2. **Eligibility Filtering**  
-   - Check prerequisites based on taken courses.  
-   - Discard ineligible options.
+---
 
-3. **Time and Preference Filtering**  
-   - Remove classes that violate preferences (e.g., early classes, wrong subject).
+## 🏃 Quick Start
 
-4. **Ranking System**  
-   - Prioritize major requirements, then GE, then electives.  
-   - Basic scoring algorithm for initial MVP.
+### Setup
+```bash
+# Install dependencies
+pip install -r requirements.txt
 
-**Success criteria**: A function that takes a profile and returns ranked course suggestions.
+# Verify data (should show 97 subject files)
+ls data/processed/
+```
+
+### Data Pipeline
+```bash
+# Fetch fresh course data (optional - data already exists)
+python src/scraper.py
+
+# Process and split by subject
+python src/clean.py
+
+# Analyze data structure
+python src/analyze_json_entries.py
+```
 
 ---
 
-## 🧠 Phase 3: Local AI Chatbot Interface
+## 💡 MVP Shortcuts for 1-Week Timeline
 
-**Goal**: Interact with users through natural language and generate structured preferences.
-
-### Milestones
-
-1. **Simple Chat Interface**  
-   - Example prompt:  
-     _“I need 4 classes, no 8AMs, and one Area D course.”_
-
-2. **Preference Extraction**  
-   - Use OpenAI API (with function calling or prompt parsing) to convert natural language → student profile JSON.
-
-3. **Recommendation Call**  
-   - Pass structured profile to planner logic.  
-   - Return recommended courses to user via terminal or local script.
-
-**Success criteria**: Users describe goals in natural language and receive a list of recommended classes.
+- **No web interface** - Command-line only
+- **Hard-coded major requirements** - Skip web scraping, manually define CS/Engineering plans
+- **Simple prerequisite parsing** - Basic regex pattern matching
+- **Single term focus** - Fall 2024 data only
+- **Manual testing** - No automated test suite
 
 ---
 
-## 🌐 Phase 4: Web API and UI (MVP)
+## 🎯 Success Criteria
 
-**Goal**: Make the planner accessible through a simple web interface.
-
-### Milestones
-
-1. **Backend API (FastAPI)**  
-   - `POST /recommend`: Accepts student profile, returns course list.  
-   - `GET /courses`: Optional, lists or searches all classes.
-
-2. **Minimal Frontend (Optional)**  
-   - Input form or chatbot-style UI (HTML or React).  
-   - Display ranked course results with course name, time, units, and availability.
-
-3. **Deploy the MVP**  
-   - Backend: Render, Railway, or Fly.io  
-   - Frontend: Vercel or Netlify  
-   - MongoDB: MongoDB Atlas (cloud)
-
-**Success criteria**: A user can go to a webpage, input their course preferences, and get an intelligently suggested list of classes.
+A working command-line chatbot where students can:
+1. Describe their major and completed courses in natural language
+2. State their preferences (units, time constraints, etc.)
+3. Receive a list of recommended courses for Fall 2024
+4. See course details including times, availability, and prerequisites
 
 ---
 

@@ -2,8 +2,10 @@ from google import genai
 from google.genai import types
 from PIL import Image
 import json
+import os
 
-client = genai.Client(api_key="AIzaSyBr6ygL75JGfowAsVrT5QaCBlwBkQ_tjhg")
+API_KEY = os.getenv("GEMINI_API_KEY")
+client = genai.Client(api_key=API_KEY)
 
 # reference data
 student_major_plan = client.files.upload(file="../ucr-course-planner/data/student_ce_plan.png")
@@ -31,6 +33,7 @@ response = client.models.generate_content(
   model="gemini-2.5-flash", 
   config=types.GenerateContentConfig(
     system_instruction="""Your goal is to help students create a course schedule for the current quarter. 
+                        A student should take at least 13 units in one quarter.
                         Give a short answer, giving only the list of specific classes suggesed based on the course catalog that should be taken and relevant information regarding times, sections, CRNs, and instructors.
                         The classes you choose needs to be based on the classes the student has already taken and can only include classes in the suggested course plan picture. 
                         No substitutes of other classes that technically meet prerequisite requirements but are not on the suggested course plan can be given.

@@ -1,0 +1,868 @@
+{
+  "degree": "Bachelor of Science (B.S.) in Computer Science",
+  "level": "Undergraduate",
+  "course_list": [
+    {
+      "course_code": "CS010A",
+      "course_name": "Introduction to CSfor Science, Mathematics, and Engineering I (C++)",
+      "units": 4
+    },
+    {
+      "course_code": "CS010B",
+      "course_name": "Introduction to CSfor Science, Mathematics, and Engineering II (C++)",
+      "units": 4
+    },
+    {
+      "course_code": "CS010C",
+      "course_name": "Introduction to Data Structures & Algorithms",
+      "units": 4
+    },
+    {
+      "course_code": "CS011",
+      "course_name": "Introduction to Discrete Structures",
+      "units": 4
+    },
+    {
+      "course_code": "CS061",
+      "course_name": "Machine Organization & Assembly Language Programming",
+      "units": 4
+    },
+    {
+      "course_code": "CS100",
+      "course_name": "Data Structures & Algorithms (Advanced)",
+      "units": 5
+    },
+    {
+      "course_code": "CS105",
+      "course_name": "Data Analysis Methods",
+      "units": 4
+    },
+    {
+      "course_code": "CS108",
+      "course_name": "Data Science Ethics",
+      "units": 4
+    },
+    {
+      "course_code": "CS110",
+      "course_name": "Principles of Web Development",
+      "units": 4
+    },
+    {
+      "course_code": "CS111",
+      "course_name": "Discrete Structures",
+      "units": 4
+    },
+    {
+      "course_code": "CS122A",
+      "course_name": "Intermediate Embedded & Real-Time Systems",
+      "units": 5
+    },
+    {
+      "course_code": "CS122B",
+      "course_name": "Advanced Embedded & Real-Time Systems",
+      "units": 5
+    },
+    {
+      "course_code": "CS130",
+      "course_name": "Computer Graphics",
+      "units": 4
+    },
+    {
+      "course_code": "CS131",
+      "course_name": "Edge Computing",
+      "units": 4
+    },
+    {
+      "course_code": "CS133",
+      "course_name": "Computational Geometry",
+      "units": 4
+    },
+    {
+      "course_code": "CS135",
+      "course_name": "Virtual Reality",
+      "units": 4
+    },
+    {
+      "course_code": "CS141",
+      "course_name": "Intermediate Data Structures & Algorithms",
+      "units": 4
+    },
+    {
+      "course_code": "CS142",
+      "course_name": "Algorithm Engineering",
+      "units": 4
+    },
+    {
+      "course_code": "CS144",
+      "course_name": "Algorithms for BioInformatics",
+      "units": 4
+    },
+    {
+      "course_code": "CS145",
+      "course_name": "Combinatorial Optimization Algorithms",
+      "units": 4
+    },
+    {
+      "course_code": "CS150",
+      "course_name": "Theory of Automata & Formal Language",
+      "units": 4
+    },
+    {
+      "course_code": "CS152",
+      "course_name": "Compiler Design",
+      "units": 4
+    },
+    {
+      "course_code": "CS153",
+      "course_name": "Design of Operating Systems",
+      "units": 4
+    },
+    {
+      "course_code": "CS160",
+      "course_name": "Concurrent Programming & Parallel Systems",
+      "units": 4
+    },
+    {
+      "course_code": "CS161",
+      "course_name": "Design & Architecture of Computer Systems",
+      "units": 4
+    },
+    {
+      "course_code": "CS161L",
+      "course_name": "Laboratory in Design & Architecture of Computer Systems",
+      "units": 1
+    },
+    {
+      "course_code": "CS162",
+      "course_name": "Computer Architecture",
+      "units": 4
+    },
+    {
+      "course_code": "CS164",
+      "course_name": "Computer Networks",
+      "units": 4
+    },
+    {
+      "course_code": "CS165",
+      "course_name": "Computer Security",
+      "units": 4
+    },
+    {
+      "course_code": "CS166",
+      "course_name": "Database Management Systems",
+      "units": 4
+    },
+    {
+      "course_code": "CS167",
+      "course_name": "Introduction to BIG-DATA Management",
+      "units": 4
+    },
+    {
+      "course_code": "CS169",
+      "course_name": "Mobile Wireless Networks",
+      "units": 4
+    },
+    {
+      "course_code": "CS170",
+      "course_name": "Introduction to Artificial Intelligence",
+      "units": 4
+    },
+    {
+      "course_code": "CS172",
+      "course_name": "Introduction to Information Retrieval",
+      "units": 4
+    },
+    {
+      "course_code": "CS173",
+      "course_name": "Introduction to Natural Language Processing (NLP)",
+      "units": 4
+    },
+    {
+      "course_code": "CS175",
+      "course_name": "Entrepreneurship in Computing",
+      "units": 4
+    },
+    {
+      "course_code": "CS177",
+      "course_name": "Modeling & Simulation",
+      "units": 4
+    },
+    {
+      "course_code": "CS178A",
+      "course_name": "Project Sequence in CSE",
+      "units": 4
+    },
+    {
+      "course_code": "CS178B",
+      "course_name": "Project Sequence in CSE",
+      "units": 4
+    },
+    {
+      "course_code": "CS180",
+      "course_name": "Introduction to Software Engineering",
+      "units": 4
+    },
+    {
+      "course_code": "CS181",
+      "course_name": "Principles of Programming Languages",
+      "units": 4
+    },
+    {
+      "course_code": "CS182",
+      "course_name": "Software Testing and Verification",
+      "units": 4
+    },
+    {
+      "course_code": "CS183",
+      "course_name": "UNIX System Administration",
+      "units": 4
+    },
+    {
+      "course_code": "CS193",
+      "course_name": "Design Project",
+      "units": 4
+    },
+    {
+      "course_code": "CS120A",
+      "course_name": "Logic Design",
+      "units": 5
+    },
+    {
+      "course_code": "CS120B",
+      "course_name": "Introduction to Embedded Systems",
+      "units": 4
+    },
+    {
+      "course_code": "CS147",
+      "course_name": "GPU Programming",
+      "units": 4
+    },
+    {
+      "course_code": "CS168",
+      "course_name": "Introduction to Very Large Scale Integration (VLSI) Design",
+      "units": 4
+    },
+    {
+      "course_code": "CS171",
+      "course_name": "Introduction to Machine Learning and Data Mining",
+      "units": 4
+    },
+    {
+      "course_code": "MATH 009A",
+      "course_name": "First Year Calculus I",
+      "units": 4
+    },
+    {
+      "course_code": "MATH 009B",
+      "course_name": "First Year Calculus II",
+      "units": 4
+    },
+    {
+      "course_code": "MATH 009C",
+      "course_name": "First Year Calculus III",
+      "units": 4
+    },
+    {
+      "course_code": "MATH 010A",
+      "course_name": "Multivariable Calculus",
+      "units": 4
+    },
+    {
+      "course_code": "MATH 031",
+      "course_name": "Applied Linear Algebra",
+      "units": 5
+    },
+    {
+      "course_code": "EE 020B",
+      "course_name": "Linear Algebra for Electrical Engineering",
+      "units": 5
+    },
+    {
+      "course_code": "STAT 155",
+      "course_name": "Probability & StatistiCSfor Engineering",
+      "units": 4
+    },
+    {
+      "course_code": "MATH 120",
+      "course_name": "Optimization",
+      "units": 4
+    },
+    {
+      "course_code": "MATH 126",
+      "course_name": "Combinatorics",
+      "units": 4
+    },
+    {
+      "course_code": "MATH 135A",
+      "course_name": "Numerical Analysis",
+      "units": 4
+    },
+    {
+      "course_code": "MATH 135B",
+      "course_name": "Numerical Analysis",
+      "units": 4
+    },
+    {
+      "course_code": "PHYS 040A",
+      "course_name": "General PhysiCS(Mechanics)",
+      "units": 5
+    },
+    {
+      "course_code": "PHYS 040B",
+      "course_name": "General PhysiCS(Electricity and Magnetism)",
+      "units": 5
+    },
+    {
+      "course_code": "PHYS 040C",
+      "course_name": "General PhysiCS(Waves, Optics, and Modern Physics)",
+      "units": 5
+    },
+    {
+      "course_code": "BIOL 002",
+      "course_name": "General Biology",
+      "units": 4
+    },
+    {
+      "course_code": "BIOL 003",
+      "course_name": "Ecology & Environmental Science",
+      "units": 4
+    },
+    {
+      "course_code": "BIOL 005A",
+      "course_name": "Introduction to Cell & Molecular Biology",
+      "units": 4
+    },
+    {
+      "course_code": "BIOL 005LA",
+      "course_name": "Introduction to Cell & Molecular Biology Laboratory",
+      "units": 1
+    },
+    {
+      "course_code": "ENGR 001I",
+      "course_name": "Professional Development & Mentoring",
+      "units": 1
+    },
+    {
+      "course_code": "ENGR 101I",
+      "course_name": "Professional Development & Mentoring",
+      "units": 1
+    },
+    {
+      "course_code": "ENGR 180W",
+      "course_name": "Technical Communications",
+      "units": 4
+    },
+    {
+      "course_code": "PHIL 124",
+      "course_name": "Formal Logic",
+      "units": 4
+    },
+    {
+      "course_code": "EE 005",
+      "course_name": "Circuits & Electronics",
+      "units": 4
+    },
+    {
+      "course_code": "EE 016",
+      "course_name": "Data Analysis in Engineering Applications",
+      "units": 4
+    },
+    {
+      "course_code": "EE 020A",
+      "course_name": "Fundamentals of Mathematical Methods in ECE",
+      "units": 4
+    },
+    {
+      "course_code": "EE 030A",
+      "course_name": "Fundamentals of Electric Circuits I",
+      "units": 4
+    },
+    {
+      "course_code": "EE 030LA",
+      "course_name": "Fundamentals of Electric Circuits I Laboratory",
+      "units": 1
+    },
+    {
+      "course_code": "ME 002",
+      "course_name": "Intro Mechanical Engineering",
+      "units": 4
+    },
+    {
+      "course_code": "ME 005",
+      "course_name": "The Science of Mythbusting",
+      "units": 4
+    },
+    {
+      "course_code": "ME 009",
+      "course_name": "Engineering GraphiCSand Design",
+      "units": 4
+    },
+    {
+      "course_code": "ME 010",
+      "course_name": "Statics",
+      "units": 4
+    },
+    {
+      "course_code": "ME 018A",
+      "course_name": "Intro to Engineering Computation",
+      "units": 4
+    },
+    {
+      "course_code": "ME 018B",
+      "course_name": "Intro to Engineering",
+      "units": 4
+    },
+    {
+      "course_code": "ENGL 001A",
+      "course_name": "Beginning Composition",
+      "units": 4
+    },
+    {
+      "course_code": "ENGL 001B",
+      "course_name": "Intermediate Composition",
+      "units": 4
+    },
+    {
+      "course_code": "Humanities Breadth (approved GE list)",
+      "course_name": "General Education - Humanities",
+      "units": "Variable"
+    },
+    {
+      "course_code": "Social Science Breadth (approved GE list)",
+      "course_name": "General Education - Social Science",
+      "units": "Variable"
+    },
+    {
+      "course_code": "Ethnicity Breadth (approved GE list)",
+      "course_name": "General Education - Ethnicity",
+      "units": "Variable"
+    },
+    {
+      "course_code": "Upper Division Elective (any 100-199 level course)",
+      "course_name": "General Elective - Upper Division",
+      "units": "Variable"
+    }
+  ],
+  "Humanities": [
+      { "course_code": "HIST010", "course_name": "World History: Prehistory to 1500", "units": 4 },
+      { "course_code": "HIST010W", "course_name": "World History: Prehistory to 1500 (W version)", "units": 4 },
+      { "course_code": "HIST015", "course_name": "World History: 1500 to 1900", "units": 4 },
+      { "course_code": "HIST020", "course_name": "World History: Twentieth Century", "units": 4 },
+      { "course_code": "HIST020W", "course_name": "World History: Twentieth Century (W version)", "units": 4 },
+      { "course_code": "AHS007", "course_name": "World Art: Images, Issues and Ideas", "units": 4 },
+      { "course_code": "AHS008", "course_name": "Modern Western Visual Culture", "units": 4 },
+      { "course_code": "AHS010", "course_name": "Topics in Art and Architectural History", "units": 4 },
+      { "course_code": "AHS010S", "course_name": "Topics in Art and Architectural History", "units": 4 },
+      { "course_code": "AHS013", "course_name": "Topics in Art and Architecture of the Islamic World", "units": 4 },
+      { "course_code": "AHS015", "course_name": "Arts of Asia", "units": 4 },
+      { "course_code": "AHS017A", "course_name": "History of Western Art: Prehistoric to Byzantine", "units": 4 },
+      { "course_code": "AHS017B", "course_name": "History of Western Art: Medieval to Renaissance", "units": 4 },
+      { "course_code": "AHS017C", "course_name": "History of Western Art: Baroque to Modern", "units": 4 },
+      { "course_code": "AHS020", "course_name": "Introduction to Media Art", "units": 4 },
+      { "course_code": "MCS023", "course_name": "Introduction to Media Art", "units": 4 },
+      { "course_code": "AHS021", "course_name": "Introduction to Architecture and Urbanism", "units": 4 },
+      { "course_code": "URST021", "course_name": "Introduction to Architecture and Urbanism", "units": 4 },
+      { "course_code": "AHS027", "course_name": "Art of Pre-Columbian America", "units": 4 },
+      { "course_code": "ANTH027", "course_name": "Art of Pre-Columbian America", "units": 4 },
+      { "course_code": "LNST027", "course_name": "Art of Pre-Columbian America", "units": 4 },
+      { "course_code": "AHS028", "course_name": "Art and Architecture of Latin America", "units": 4 },
+      { "course_code": "LNST028", "course_name": "Art and Architecture of Latin America", "units": 4 },
+      { "course_code": "AHS120", "course_name": "Berlin Metropolis in Literature, Film, Music, and Art", "units": 4 },
+      { "course_code": "CPLT111", "course_name": "Berlin Metropolis in Literature, Film, Music, and Art", "units": 4 },
+      { "course_code": "EUR120", "course_name": "Berlin Metropolis in Literature, Film, Music, and Art", "units": 4 },
+      { "course_code": "GER111", "course_name": "Berlin Metropolis in Literature, Film, Music, and Art", "units": 4 },
+      { "course_code": "MCS178", "course_name": "Berlin Metropolis in Literature, Film, Music, and Art", "units": 4 },
+      { "course_code": "AHS175", "course_name": "Industry and Alienation: Late Nineteenth Century American Art", "units": 4 },
+      { "course_code": "AHS178", "course_name": "The Modern City", "units": 4 },
+      { "course_code": "URST178", "course_name": "The Modern City", "units": 4 },
+      { "course_code": "ART135", "course_name": "Intermedia: Art, Media, and Culture", "units": 4 },
+      { "course_code": "MCS135", "course_name": "Intermedia: Art, Media, and Culture", "units": 4 },
+      { "course_code": "ART180", "course_name": "Contemporary Issues and Practice", "units": 4 },
+      { "course_code": "CLA010A", "course_name": "Ancient Civilization: Early Greece and the Mediterranean", "units": 4 },
+      { "course_code": "CLA010B", "course_name": "Ancient Civilization: Classical Greece", "units": 4 },
+      { "course_code": "CLA010C", "course_name": "Ancient Civilization: Rome", "units": 4 },
+      { "course_code": "CLA040", "course_name": "Classical Mythology", "units": 4 },
+      { "course_code": "CLA100", "course_name": "Ancient Historians", "units": 4 },
+      { "course_code": "HISE110", "course_name": "Ancient Historians", "units": 4 },
+      { "course_code": "CLA102", "course_name": "Ancient Civilizations and Later Identities", "units": 4 },
+      { "course_code": "CPAC102", "course_name": "Ancient Civilizations and Later Identities", "units": 4 },
+      { "course_code": "CLA112", "course_name": "Mythology", "units": 4 },
+      { "course_code": "CPLT112", "course_name": "Mythology", "units": 4 },
+      { "course_code": "RLST117", "course_name": "Mythology", "units": 4 },
+      { "course_code": "CLA114", "course_name": "The Classical Tradition", "units": 4 },
+      { "course_code": "CPLT114", "course_name": "The Classical Tradition", "units": 4 },
+      { "course_code": "CLA120", "course_name": "Themes and Issues of the Classical World", "units": 4 },
+      { "course_code": "CLA121", "course_name": "Monarchy", "units": 4 },
+      { "course_code": "CPAC121", "course_name": "Monarchy", "units": 4 },
+      { "course_code": "POSC121", "course_name": "Monarchy", "units": 4 },
+      { "course_code": "CLA165", "course_name": "Greco-Roman Cults and Credence", "units": 4 },
+      { "course_code": "CPAC133", "course_name": "Ancient Writing and Literacy", "units": 4 },
+      { "course_code": "HISE114", "course_name": "Ancient Writing and Literacy", "units": 4 },
+      { "course_code": "CPAC134", "course_name": "History of Ancient Astronomy", "units": 4 },
+      { "course_code": "HIST110", "course_name": "History of Ancient Astronomy", "units": 4 },
+      { "course_code": "CPLT002", "course_name": "Reading World Literature", "units": 4 },
+      { "course_code": "CPLT015", "course_name": "Language, Literature, and Culture", "units": 4 },
+      { "course_code": "CPLT017A", "course_name": "Masterworks of World Literature", "units": 5 },
+      { "course_code": "CPLT017B", "course_name": "Masterworks of World Literature", "units": 5 },
+      { "course_code": "CPLT017C", "course_name": "Masterworks of World Literature", "units": 5 },
+      { "course_code": "CPLT025", "course_name": "Introduction to Science Fiction", "units": 4 },
+      { "course_code": "CPLT040", "course_name": "Literary Response to Disaster and Repression", "units": 4 },
+      { "course_code": "Hist040", "course_name": "Literary Response to Disaster and Repression", "units": 4 },
+      { "course_code": "CPLT040W", "course_name": "Literary Response to Disaster and Repression (W version)", "units": 4 },
+      { "course_code": "HIST40W", "course_name": "Literary Response to Disaster and Repression (W version)", "units": 4 },
+      { "course_code": "CPLT110", "course_name": "Literary Analysis and Criticism", "units": 4 },
+      { "course_code": "CPLT121", "course_name": "Crossing Borders: Immigration, Migration, and Exile in Cinema", "units": 4 },
+      { "course_code": "CPLT123", "course_name": "Transnational Feminist Film and Media", "units": 4 },
+      { "course_code": "GSST123", "course_name": "Transnational Feminist Film and Media", "units": 4 },
+      { "course_code": "CPLT131", "course_name": "Marx, Nietzsche, Freud", "units": 4 },
+      { "course_code": "GER131", "course_name": "Marx, Nietzsche, Freud", "units": 4 },
+      { "course_code": "CPLT163", "course_name": "Nationalism and the Novel", "units": 4 },
+      { "course_code": "AST163", "course_name": "Nationalism and the Novel", "units": 4 },
+      { "course_code": "SEAS163", "course_name": "Nationalism and the Novel", "units": 4 },
+      { "course_code": "CPLT181", "course_name": "Existentialism in Literature, Film, and Culture", "units": 4 },
+      { "course_code": "FREN181", "course_name": "Existentialism in Literature, Film, and Culture", "units": 4 },
+      { "course_code": "MCS181", "course_name": "Existentialism in Literature, Film, and Culture", "units": 4 },
+      { "course_code": "CRWT056", "course_name": "Introduction to Creative Writing", "units": 4 },
+      { "course_code": "CRWT176", "course_name": "The Craft of Writing", "units": 4 },
+      { "course_code": "DNCE171", "course_name": "Filmic Bodies", "units": 4 },
+      { "course_code": "MCS151", "course_name": "Filmic Bodies", "units": 4 },
+      { "course_code": "DNCE173", "course_name": "Digitized Bodies", "units": 4 },
+      { "course_code": "MCS153", "course_name": "Digitized Bodies", "units": 4 },
+      { "course_code": "ENGL008", "course_name": "Oral Communication", "units": 4 },
+      { "course_code": "ENGL012A", "course_name": "Introduction to Poetry", "units": 4 },
+      { "course_code": "ENGL012B", "course_name": "Introduction to Fiction", "units": 4 },
+      { "course_code": "ENGL012C", "course_name": "Introduction to Drama", "units": 4 },
+      { "course_code": "ENGL014", "course_name": "Major American Writers", "units": 4 },
+      { "course_code": "ENGL017", "course_name": "Shakespeare", "units": 4 },
+      { "course_code": "ENGL020A", "course_name": "Introduction to British Literary Tradition", "units": 5 },
+      { "course_code": "ENGL020B", "course_name": "Introduction to American Literary Traditions", "units": 5 },
+      { "course_code": "ENGL101", "course_name": "Critical Theory", "units": 4 },
+      { "course_code": "ENGL104", "course_name": "Film and Media Theory", "units": 4 },
+      { "course_code": "MCS104", "course_name": "Film and Media Theory", "units": 4 },
+      { "course_code": "ENGL112", "course_name": "History of the English Language", "units": 4 },
+      { "course_code": "EUR111A", "course_name": "Survey of Russian Civilization", "units": 4 },
+      { "course_code": "EUR111C", "course_name": "Survey of Russian Civilization", "units": 4 },
+      { "course_code": "MCS010", "course_name": "Cultural Studies: Historical and Contemporary Perspectives", "units": 4 },
+      { "course_code": "MCS020", "course_name": "Introduction to Film Studies", "units": 4 },
+      { "course_code": "MSC024", "course_name": "World Cinema", "units": 4 },
+      { "course_code": "CPLT024", "course_name": "World Cinema", "units": 4 },
+      { "course_code": "MCS120", "course_name": "Major Figures in Film and Media", "units": 4 },
+      { "course_code": "MCS154", "course_name": "Media, Gender, and Violence", "units": 4 },
+      { "course_code": "MUS002", "course_name": "Introduction to Western Music", "units": 4 },
+      { "course_code": "MUS006", "course_name": "Introduction to World Music", "units": 4 },
+      { "course_code": "ANTH006", "course_name": "Introduction to World Music", "units": 4 },
+      { "course_code": "MUS008", "course_name": "Popular Music Cultures of the United States", "units": 4 },
+      { "course_code": "MUS014", "course_name": "Popular Musics of the World", "units": 4 },
+      { "course_code": "ETST014", "course_name": "Popular Musics of the World", "units": 4 },
+      { "course_code": "URST014", "course_name": "Popular Musics of the World", "units": 4 },
+      { "course_code": "MUS126", "course_name": "Gender, Sexuality, and Music in Cross Cultural Perspectives", "units": 4 },
+      { "course_code": "ANTH177", "course_name": "Gender, Sexuality, and Music in Cross Cultural Perspectives", "units": 4 },
+      { "course_code": "GSST126", "course_name": "Gender, Sexuality, and Music in Cross Cultural Perspectives", "units": 4 },
+      { "course_code": "MUS127", "course_name": "Music Cultures of South Asia", "units": 4 },
+      { "course_code": "ANTH176", "course_name": "Music Cultures of South Asia", "units": 4 },
+      { "course_code": "AST127", "course_name": "Music Cultures of South Asia", "units": 4 },
+      { "course_code": "DNCE127", "course_name": "Music Cultures of South Asia", "units": 4 },
+      { "course_code": "ETST172", "course_name": "Music Cultures of South Asia", "units": 4 },
+      { "course_code": "SEAS127", "course_name": "Music Cultures of South Asia", "units": 4 },
+      { "course_code": "PHIL001", "course_name": "Introduction to Philosophy", "units": 4 },
+      { "course_code": "PHIL002", "course_name": "Contemporary Moral Issues", "units": 4 },
+      { "course_code": "PHIL003", "course_name": "Ethics and the Meaning of Life", "units": 4 },
+      { "course_code": "PHIL003W", "course_name": "Ethics and the Meaning of Life (W version)", "units": 4 },
+      { "course_code": "PHIL005", "course_name": "Evil", "units": 4 },
+      { "course_code": "PHIL006", "course_name": "Reason, Belief, and Truth", "units": 5 },
+      { "course_code": "PHIL007", "course_name": "Introduction to Critical Thinking", "units": 5 },
+      { "course_code": "PHIL008", "course_name": "Introduction to Logic", "units": 5 },
+      { "course_code": "PHIL009", "course_name": "Biomedical Ethics", "units": 4 },
+      { "course_code": "PHIL030", "course_name": "Introduction to the History of Philosophy", "units": 5 },
+      { "course_code": "PHIL109", "course_name": "Philosophy of Technology", "units": 4 },
+      { "course_code": "PHIL124", "course_name": "Formal Logic", "units": 4 },
+      { "course_code": "PHIL130", "course_name": "Theory of Knowledge", "units": 4 },
+      { "course_code": "PHIL131", "course_name": "Twentieth-Century Analytical Philosophy", "units": 4 },
+      { "course_code": "PHIL132", "course_name": "Philosophy of Language", "units": 4 },
+      { "course_code": "PHIL137", "course_name": "Philosophy of Science", "units": 4 },
+      { "course_code": "PHIL151", "course_name": "Existentialism", "units": 4 },
+      { "course_code": "PHIL153", "course_name": "Marxist Critique", "units": 4 },
+      { "course_code": "PHIL159", "course_name": "Philosophy of Religion", "units": 4 },
+      { "course_code": "PHIL161", "course_name": "Ethics", "units": 4 },
+      { "course_code": "PHIL163", "course_name": "Political Philosophy", "units": 4 },
+      { "course_code": "PHIL164", "course_name": "Justice", "units": 4 },
+      { "course_code": "PHIL165", "course_name": "Philosophy of Law", "units": 4 },
+      { "course_code": "PHIL166", "course_name": "Philosophy of Feminism", "units": 4 },
+      { "course_code": "PHIL167", "course_name": "Biomedical Ethics", "units": 4 },
+      { "course_code": "RLST002", "course_name": "Introduction to Comparative Scripture", "units": 4 },
+      { "course_code": "RLST005", "course_name": "Introduction to Asian Religions", "units": 4 },
+      { "course_code": "RLST007", "course_name": "Jews, Christians, and Muslims", "units": 5 },
+      { "course_code": "RLST012", "course_name": "Religious Myths and Rituals", "units": 4 },
+      { "course_code": "ETST012", "course_name": "Religious Myths and Rituals", "units": 4 },
+      { "course_code": "RLST012W", "course_name": "Religious Myths and Rituals (W version)", "units": 4 },
+      { "course_code": "ETST012W", "course_name": "Religious Myths and Rituals (W version)", "units": 4 },
+      { "course_code": "RLST014", "course_name": "Religion and Science", "units": 5 },
+      { "course_code": "RLST015", "course_name": "Death", "units": 5 },
+      { "course_code": "RLST100", "course_name": "The Problem of Religion", "units": 4 },
+      { "course_code": "RLST113", "course_name": "Topics in Modern Islam", "units": 4 },
+      { "course_code": "RLST116", "course_name": "Religion and Violence", "units": 4 },
+      { "course_code": "RLST160", "course_name": "Religion, Gender and Sexuality", "units": 4 },
+      { "course_code": "GSST160", "course_name": "Religion, Gender and Sexuality", "units": 4 },
+      { "course_code": "RLST176", "course_name": "Peace and War", "units": 4 },
+      { "course_code": "TFDP050S", "course_name": "Public Speaking", "units": 4 },
+      { "course_code": "TFDP066", "course_name": "Screenwriting: How Movies Work", "units": 4 },
+      { "course_code": "CRWT066", "course_name": "Screenwriting: How Movies Work", "units": 4 },
+      { "course_code": "MCS 66", "course_name": "Screenwriting: How Movies Work", "units": 4 },
+      { "course_code": "TFDP100", "course_name": "Play Analysis", "units": 4 },
+      { "course_code": "TFDP101", "course_name": "Introduction to Design", "units": 4 },
+      { "course_code": "TFDP131", "course_name": "Sound Design for the Theatre, Film, and Television", "units": 4 },
+      { "course_code": "TFDP132", "course_name": "Lighting Design for Theatre, Film, and Television", "units": 4 },
+      { "course_code": "TFDP133", "course_name": "Scene Design for Theatre, Film, and Television", "units": 4 },
+      { "course_code": "TFDP155", "course_name": "Introduction to Digital Film Production", "units": 5 },
+      { "course_code": "TFDP156A", "course_name": "Digital Film Production", "units": 5 },
+      { "course_code": "TFD 156B", "course_name": "Digital Film Production", "units": 5 },
+      { "course_code": "TFD157", "course_name": "Introduction to Film Editing", "units": 5 },
+      { "course_code": "WRLT170", "course_name": "Third World Literature", "units": 4 },
+      { "course_code": "ETST170", "course_name": "Third World Literature", "units": 4 },
+      { "course_code": "GBST001", "course_name": "Global History, Culture, and Ideas", "units": 5 },
+      { "course_code": "HIST104", "course_name": "The Scientific Revolution", "units": 4 },
+      { "course_code": "HIST106", "course_name": "Science in Triumph and Crisis", "units": 4 },
+      { "course_code": "HIST107", "course_name": "Disease and Society", "units": 4 },
+      { "course_code": "HIST108", "course_name": "Technology in Premodern Civilization", "units": 4 },
+      { "course_code": "ENGR108", "course_name": "Technology in Premodern Civilization", "units": 4 },
+      { "course_code": "HIST109", "course_name": "Technology in Modern Europe and America, 1700 to Present", "units": 4 },
+      { "course_code": "ENGR 109", "course_name": "Technology in Modern Europe and America, 1700 to Present", "units": 4 },
+      { "course_code": "HIST110", "course_name": "History of Ancient Astronomy", "units": 4 },
+      { "course_code": "CPAC134", "course_name": "History of Ancient Astronomy", "units": 4 },
+      { "course_code": "PHIL139", "course_name": "Philosophy of Mathematics", "units": 4 }
+    ],
+    "Social Sciences": [
+      { "course_code": "ECON002", "course_name": "Introduction to Macroeconomics", "units": 5 },
+      { "course_code": "ECON003", "course_name": "Introduction to Microeconomics", "units": 5 },
+      { "course_code": "ECON006", "course_name": "Introduction to Environmental Economics", "units": 4 },
+      { "course_code": "ENSC006", "course_name": "Introduction to Environmental Economics", "units": 4 },
+      { "course_code": "ECON102", "course_name": "Intermediate Microeconomics", "units": 5 },
+      { "course_code": "ECON103", "course_name": "Intermediate Macroeconomics", "units": 5 },
+      { "course_code": "ECON119", "course_name": "Law and Economics", "units": 4 },
+      { "course_code": "ECON124", "course_name": "World Economic History", "units": 4 },
+      { "course_code": "ECON129", "course_name": "Health Economics", "units": 4 },
+      { "course_code": "ECON143", "course_name": "Environmental Economics", "units": 4 },
+      { "course_code": "ECON155", "course_name": "Women’s Labor and The Economy", "units": 4 },
+      { "course_code": "GSST155", "course_name": "Women’s Labor and The Economy", "units": 4 },
+      { "course_code": "PBPL155", "course_name": "Women’s Labor and The Economy", "units": 4 },
+      { "course_code": "ECON175", "course_name": "Comparative Economics", "units": 4 },
+      { "course_code": "ECON178", "course_name": "International Trade", "units": 4 },
+      { "course_code": "BUS178", "course_name": "International Trade", "units": 4 },
+      { "course_code": "ECON181", "course_name": "Economic Development: Theory and Policy", "units": 4 },
+      { "course_code": "POSC005", "course_name": "Political Ideologies", "units": 4 },
+      { "course_code": "POSC005W", "course_name": "Political Ideologies (W version)", "units": 4 },
+      { "course_code": "POSC010", "course_name": "American Politics", "units": 5 },
+      { "course_code": "POSC015", "course_name": "Comparative Politics", "units": 5 },
+      { "course_code": "POSC017", "course_name": "Politics of the Underdeveloped World", "units": 4 },
+      { "course_code": "POSC020", "course_name": "World Politics", "units": 5 },
+      { "course_code": "POSC111", "course_name": "Democracy and the Social Contract", "units": 4 },
+      { "course_code": "POSC119", "course_name": "Political Thinkers in Depth", "units": 4 },
+      { "course_code": "POSC124", "course_name": "International Relations", "units": 4 },
+      { "course_code": "POSC124S", "course_name": "International Relations", "units": 5 },
+      { "course_code": "POSC126", "course_name": "The Politics of International Trade, Finance and Development", "units": 4 },
+      { "course_code": "POSC127", "course_name": "Global Environmental Politics", "units": 4 },
+      { "course_code": "PBPL127", "course_name": "Global Environmental Politics", "units": 4 },
+      { "course_code": "POSC135", "course_name": "Ethics and International Politics", "units": 4 },
+      { "course_code": "POSC154", "course_name": "The Government and Politics of the European Community", "units": 4 },
+      { "course_code": "POSC182", "course_name": "Politics and Economic Policy", "units": 5 },
+      { "course_code": "POSC186", "course_name": "Regulation: A Political Perspective", "units": 5 },
+      { "course_code": "ANTH001", "course_name": "Cultural Anthropology", "units": 4 },
+      { "course_code": "ANTH002", "course_name": "Biological Anthropology", "units": 5 },
+      { "course_code": "ANTH003", "course_name": "World Prehistory", "units": 5 },
+      { "course_code": "ANTH005", "course_name": "Introduction to Archaeology", "units": 5 },
+      { "course_code": "ANTH020", "course_name": "Culture, Health and Healing", "units": 4 },
+      { "course_code": "ANTH107", "course_name": "Evolution of the Capacity for Culture", "units": 4 },
+      { "course_code": "ANTH112", "course_name": "Settlement Patterns and Locational Analysis", "units": 4 },
+      { "course_code": "ANTH113", "course_name": "Ancient Households and Communities", "units": 4 },
+      { "course_code": "ANTH118", "course_name": "Origins of Cities", "units": 4 },
+      { "course_code": "ANTH120", "course_name": "Language and Culture", "units": 4 },
+      { "course_code": "ANTH122", "course_name": "Economic Anthropology", "units": 4 },
+      { "course_code": "ANTH123", "course_name": "Linguistic Anthropology", "units": 4 },
+      { "course_code": "ANTH124", "course_name": "Ritual and Religion", "units": 4 },
+      { "course_code": "ANTH127", "course_name": "Political Anthropology", "units": 4 },
+      { "course_code": "ANTH132", "course_name": "Cultural Ecology", "units": 4 },
+      { "course_code": "ANTH133", "course_name": "Anthropology and International Development", "units": 4 },
+      { "course_code": "ANTH139", "course_name": "Change and Development", "units": 4 },
+      { "course_code": "ANTH140E", "course_name": "Ethnology of the Greater Southwest", "units": 4 },
+      { "course_code": "ANTH140G", "course_name": "Anthropological Perspectives in Africa", "units": 4 },
+      { "course_code": "ANTH152", "course_name": "Evolution of the First Hominids", "units": 4 },
+      { "course_code": "ANTH153", "course_name": "Evolution of the Genus Homo", "units": 4 },
+      { "course_code": "ANTH155", "course_name": "Human Osteology", "units": 4 },
+      { "course_code": "ANTH161", "course_name": "The Body in Western Art: Antiquity to Present", "units": 4 },
+      { "course_code": "AHS133", "course_name": "The Body in Western Art: Antiquity to Present", "units": 4 },
+      { "course_code": "DNCE129", "course_name": "The Body in Western Art: Antiquity to Present", "units": 4 },
+      { "course_code": "GSST130", "course_name": "The Body in Western Art: Antiquity to Present", "units": 4 },
+      { "course_code": "HISE149", "course_name": "The Body in Western Art: Antiquity to Present", "units": 4 },
+      { "course_code": "ANTH163", "course_name": "Transnational and Global Communities", "units": 4 },
+      { "course_code": "ANTH179", "course_name": "Gender, War, and Militarism", "units": 4 },
+      { "course_code": "PSYC001", "course_name": "Introductory Psychology", "units": 4 },
+      { "course_code": "PSYC002", "course_name": "Introductory Psychology", "units": 4 },
+      { "course_code": "PSYC013", "course_name": "Skepticism and Pseudoscience in Psychology", "units": 4 },
+      { "course_code": "PSYC110", "course_name": "The Brain and Behavior", "units": 4 },
+      { "course_code": "PSYC112", "course_name": "Neural Mechanisms of Animal Behavior", "units": 4 },
+      { "course_code": "PSYC115", "course_name": "Drugs and Behavior", "units": 4 },
+      { "course_code": "PSYC117", "course_name": "Cognitive Neuroscience of Memory and Consciousness", "units": 4 },
+      { "course_code": "PSYC120", "course_name": "Cellular Neuroscience: Membrane and Synaptic Phenomena", "units": 4 },
+      { "course_code": "CBNS120", "course_name": "Cellular Neuroscience: Membrane and Synaptic Phenomena", "units": 4 },
+      { "course_code": "PSYC121", "course_name": "Developmental Neuroscience", "units": 4 },
+      { "course_code": "CBNS121", "course_name": "Developmental Neuroscience", "units": 4 },
+      { "course_code": "PSYC124", "course_name": "Systems Neuroscience", "units": 4 },
+      { "course_code": "CBNS124", "course_name": "Systems Neuroscience", "units": 4 },
+      { "course_code": "PSYC125", "course_name": "Neuropharmacology", "units": 4 },
+      { "course_code": "CBNS125", "course_name": "Neuropharmacology", "units": 4 },
+      { "course_code": "PSYC126", "course_name": "Neuroscience of Learning and Memory", "units": 4 },
+      { "course_code": "CBNS126", "course_name": "Neuroscience of Learning and Memory", "units": 4 },
+      { "course_code": "PSYC127", "course_name": "Behavioral Control Systems", "units": 4 },
+      { "course_code": "CBNS127", "course_name": "Behavioral Control Systems", "units": 4 },
+      { "course_code": "PSYC129", "course_name": "Human Neuropsychology", "units": 4 },
+      { "course_code": "PSYC130", "course_name": "Fundamentals of Learning and Conditioning", "units": 4 },
+      { "course_code": "PSYC132", "course_name": "Perception", "units": 4 },
+      { "course_code": "PSYC134", "course_name": "Cognitive Processes", "units": 4 },
+      { "course_code": "PSYC135", "course_name": "Psycholinguistics", "units": 4 },
+      { "course_code": "PSYC140", "course_name": "Social Psychology", "units": 4 },
+      { "course_code": "PSYC142", "course_name": "Industrial/Organizational Psychology", "units": 4 },
+      { "course_code": "PSYC148", "course_name": "Topics in Social Psychology", "units": 4 },
+      { "course_code": "PSYC149", "course_name": "The Science of Well-Being", "units": 4 },
+      { "course_code": "PSYC150", "course_name": "Personality", "units": 4 },
+      { "course_code": "PSYC152", "course_name": "Abnormal Psychology", "units": 4 },
+      { "course_code": "PSYC153", "course_name": "Introduction to Clinical Psychology", "units": 4 },
+      { "course_code": "PSYC155", "course_name": "Personality Assessment", "units": 4 },
+      { "course_code": "PSYC160", "course_name": "Life Span Development", "units": 5 },
+      { "course_code": "PSYC161", "course_name": "Socioemotional and Personality Development", "units": 5 },
+      { "course_code": "PSYC162", "course_name": "Biological Issues in Development", "units": 5 },
+      { "course_code": "PSYC163", "course_name": "Cognitive Development", "units": 5 },
+      { "course_code": "PSYC165A", "course_name": "The Cultural Bases of Human Development", "units": 4 },
+      { "course_code": "PSYC165B", "course_name": "The Development of Immigrant and Ethnic Minority Youth", "units": 4 },
+      { "course_code": "PSYC166", "course_name": "Adolescence and Emerging Adulthood", "units": 4 },
+      { "course_code": "PSYC167", "course_name": "Psychological Development of Black Children", "units": 4 },
+      { "course_code": "ETST167", "course_name": "Psychological Development of Black Children", "units": 4 },
+      { "course_code": "PSYC168", "course_name": "Psychological Aspects of the Black Experience", "units": 4 },
+      { "course_code": "ETST168", "course_name": "Psychological Aspects of the Black Experience", "units": 4 },
+      { "course_code": "PSYC169", "course_name": "Topics in Developmental Psychology", "units": 4 },
+      { "course_code": "PSYC175", "course_name": "Psychology and Law", "units": 4 },
+      { "course_code": "PSYC178", "course_name": "Health Psychology", "units": 4 },
+      { "course_code": "PSYC179", "course_name": "Health and Behavior Change", "units": 4 },
+      { "course_code": "SOC001", "course_name": "Introduction to Sociology", "units": 4 },
+      { "course_code": "SOC002J", "course_name": "Juvenile Delinquency", "units": 4 },
+      { "course_code": "SOC002M", "course_name": "Introduction to Criminology", "units": 4 },
+      { "course_code": "SOC002S", "course_name": "Social Problems", "units": 4 },
+      { "course_code": "SOC004", "course_name": "Methods of Sociological Inquiry", "units": 5 },
+      { "course_code": "SOC010", "course_name": "The Sociological Imagination", "units": 4 },
+      { "course_code": "SOC020", "course_name": "American Society", "units": 5 },
+      { "course_code": "SOC028", "course_name": "Introduction to the Sociology of Gender", "units": 4 },
+      { "course_code": "SOC030", "course_name": "Identity and Society", "units": 4 },
+      { "course_code": "SOC031", "course_name": "Couples and Families", "units": 4 },
+      { "course_code": "SOC122", "course_name": "Social Change", "units": 5 },
+      { "course_code": "SOC125", "course_name": "Evolutionary Sociology", "units": 4 },
+      { "course_code": "SOC127", "course_name": "Sociological Determinants of Health", "units": 5 },
+      { "course_code": "SOC128", "course_name": "Chicano Sociology", "units": 4 },
+      { "course_code": "ETST128", "course_name": "Chicano Sociology", "units": 4 },
+      { "course_code": "SOC133", "course_name": "Inequality and Social Class", "units": 4 },
+      { "course_code": "SOC134", "course_name": "Law, Race, Class, Gender, and Culture", "units": 4 },
+      { "course_code": "SOC137", "course_name": "Population", "units": 4 },
+      { "course_code": "SOC139", "course_name": "Mass Media & Popular Culture", "units": 4 },
+      { "course_code": "MCS139", "course_name": "Mass Media & Popular Culture", "units": 4 },
+      { "course_code": "SOC140", "course_name": "The Sociology of Women", "units": 4 },
+      { "course_code": "GSST143", "course_name": "The Sociology of Women", "units": 4 },
+      { "course_code": "SOC142", "course_name": "Sociology of the Family", "units": 5 },
+      { "course_code": "SOC143", "course_name": "Urban Sociology", "units": 5 },
+      { "course_code": "URST143", "course_name": "Urban Sociology", "units": 5 },
+      { "course_code": "SOC144", "course_name": "Family Violence", "units": 4 },
+      { "course_code": "SOC145", "course_name": "Law and Subordination", "units": 5 },
+      { "course_code": "ETST145", "course_name": "Law and Subordination", "units": 5 },
+      { "course_code": "SOC146", "course_name": "Gender in Global Perspective", "units": 4 },
+      { "course_code": "SOC149", "course_name": "Organized Crime", "units": 4 },
+      { "course_code": "SOC150", "course_name": "The Sociology of Economic Organizations", "units": 4 },
+      { "course_code": "SOC151", "course_name": "Formal Organizations", "units": 4 },
+      { "course_code": "SOC159", "course_name": "Sociology of Law", "units": 5 },
+      { "course_code": "SOC161", "course_name": "Immigration and Society", "units": 4 },
+      { "course_code": "SOC163", "course_name": "Social Forces and the Educational Condition of Chicanas/os", "units": 4 },
+      { "course_code": "SOC164", "course_name": "Racial and Ethnic Diversity Issues in Higher Education", "units": 4 },
+      { "course_code": "SOC165", "course_name": "Sociolinguistics and the Chicana/o Community", "units": 4 },
+      { "course_code": "SOC168", "course_name": "Development of Sociological Theory", "units": 5 },
+      { "course_code": "SOC169", "course_name": "Modern Sociological Theory", "units": 4 },
+      { "course_code": "SOC173", "course_name": "Social Psychology: Sociological Orientation", "units": 5 },
+      { "course_code": "SOC174", "course_name": "Socialization and Personality", "units": 4 },
+      { "course_code": "SOC175", "course_name": "Social Roles and Interaction", "units": 4 },
+      { "course_code": "SOC176", "course_name": "The Sociology of Work in Organizations", "units": 4 },
+      { "course_code": "BUS176", "course_name": "The Sociology of Work in Organizations", "units": 4 },
+      { "course_code": "SOC178", "course_name": "Sociology of Emotions", "units": 4 },
+      { "course_code": "SOC179", "course_name": "Social Movements and Collective Action", "units": 4 },
+      { "course_code": "SOC180", "course_name": "Deviance and Control", "units": 4 },
+      { "course_code": "SOC181", "course_name": "World-Systems and Globalizations", "units": 4 },
+      { "course_code": "SOC182", "course_name": "Urban Problems", "units": 4 },
+      { "course_code": "URST182", "course_name": "Urban Problems", "units": 4 },
+      { "course_code": "SOC184", "course_name": "Environmental Sociology", "units": 4 },
+      { "course_code": "ETST001", "course_name": "Introduction to the Study of Race and Ethnicity", "units": 4 },
+      { "course_code": "ETST002", "course_name": "Introduction to Chicano Studies in Comparative", "units": 4 },
+      { "course_code": "ETST003", "course_name": "Introduction to African American Studies in Comparative Perspective", "units": 4 },
+      { "course_code": "ETST005", "course_name": "Introduction to Asian American Studies in Comparative Perspective", "units": 4 },
+      { "course_code": "ETST007", "course_name": "Introduction to Native American Studies in Comparative Perspective", "units": 4 },
+      { "course_code": "ETST102", "course_name": "The Political Economy of Race and Class", "units": 4 },
+      { "course_code": "ETST106", "course_name": "Theory in Asian American Studies", "units": 4 },
+      { "course_code": "ETST109I", "course_name": "Special Topics in African American Studies", "units": 4 },
+      { "course_code": "ETST131", "course_name": "Race, Class, and Gender", "units": 4 },
+      { "course_code": "CPAC102", "course_name": "Ancient Civilizations and Later Identities", "units": 4 },
+      { "course_code": "CLA102", "course_name": "Ancient Civilizations and Later Identities", "units": 4 },
+      { "course_code": "CPAC121", "course_name": "Monarchy", "units": 4 },
+      { "course_code": "CLA121", "course_name": "Monarchy", "units": 4 },
+      { "course_code": "POSC121", "course_name": "Monarchy", "units": 4 },
+      { "course_code": "GBST002", "course_name": "Global Socioeconomic and Political Processes", "units": 4 },
+      { "course_code": "GSST001", "course_name": "Gender and Sexuality", "units": 4 },
+      { "course_code": "GSST001S", "course_name": "Gender and Sexuality", "units": 4 },
+      { "course_code": "GSST010", "course_name": "Women and Culture", "units": 4 },
+      { "course_code": "GSST020", "course_name": "Women, Feminism, and Society in a Global Perspective", "units": 4 },
+      { "course_code": "GSST021", "course_name": "Gender and Sustainability", "units": 4 },
+      { "course_code": "GSST030", "course_name": "Violence Against Women", "units": 4 },
+      { "course_code": "GSST030S", "course_name": "Violence Against Women", "units": 4 },
+      { "course_code": "PBPL001", "course_name": "Introduction to Public Policy Analysis", "units": 4 },
+      { "course_code": "PBPL004", "course_name": "Ethics, Professionalism, and Public Policy", "units": 4 },
+      { "course_code": "PBPL130", "course_name": "Management of International Water", "units": 4 },
+      { "course_code": "GBST130", "course_name": "Management of International Water", "units": 4 },
+      { "course_code": "CPAC132", "course_name": "Medical Traditions in China and Greece", "units": 4 },
+      { "course_code": "AST132", "course_name": "Medical Traditions in China and Greece", "units": 4 },
+      { "course_code": "CHN132", "course_name": "Medical Traditions in China and Greece", "units": 4 },
+      { "course_code": "CLA132", "course_name": "Medical Traditions in China and Greece", "units": 4 },
+      { "course_code": "GBST110", "course_name": "Global Migrations and Movements", "units": 4 },
+      { "course_code": "PBPL171", "course_name": "Globalization", "units": 4 },
+      { "course_code": "ENGR171", "course_name": "Globalization", "units": 4 },
+      { "course_code": "GSST100", "course_name": "Gender Theory", "units": 5 },
+      { "course_code": "GSST109", "course_name": "Women, Politics and Social Movements: Global Perspectives", "units": 5 }
+    ],
+    "Ethnicity": [
+      { "course_code": "RLST012", "course_name": "Religious Myths and Rituals", "units": 4 },
+      { "course_code": "ETST012", "course_name": "Religious Myths and Rituals", "units": 4 },
+      { "course_code": "RLST012W", "course_name": "Religious Myths and Rituals (W version)", "units": 4 },
+      { "course_code": "ETST012W", "course_name": "Religious Myths and Rituals (W version)", "units": 4 },
+      { "course_code": "MUS014", "course_name": "Popular Music of the World", "units": 4 },
+      { "course_code": "ETST014", "course_name": "Popular Music of the World", "units": 4 },
+      { "course_code": "URST014", "course_name": "Popular Music of the World", "units": 4 },
+      { "course_code": "ETST180", "course_name": "California Indian History", "units": 4 },
+      { "course_code": "ETST001", "course_name": "Introduction to the Study of Race and Ethnicity", "units": 4 },
+      { "course_code": "ETST002", "course_name": "Introduction to Chicano Studies in Comparative", "units": 4 },
+      { "course_code": "ETST003", "course_name": "Introduction to African American Studies in Comparative Perspective", "units": 4 },
+      { "course_code": "ETST005", "course_name": "Introduction to Asian American Studies in Comparative Perspective", "units": 4 },
+      { "course_code": "ETST007", "course_name": "Introduction to Native American Studies in Comparative Perspective", "units": 4 },
+      { "course_code": "ETST102", "course_name": "The Political Economy of Race and Class", "units": 4 },
+      { "course_code": "ETST106", "course_name": "Theory in Asian American Studies", "units": 4 },
+      { "course_code": "ETST109I", "course_name": "Special Topics in African American Studies", "units": 4 },
+      { "course_code": "ETST113", "course_name": "Black Feminist Theory and Activism", "units": 4 },
+      { "course_code": "ETST131", "course_name": "Race, Class, and Gender", "units": 4 },
+      { "course_code": "ETST161", "course_name": "U.S. Latinos: Crossing Borders, Crossing Cultures", "units": 4 },
+      { "course_code": "ANTH142G", "course_name": "Caribbean Culture and Society", "units": 4 },
+      { "course_code": "ETST148", "course_name": "Caribbean Culture and Society", "units": 4 },
+      { "course_code": "LNST168", "course_name": "Caribbean Culture and Society", "units": 4 },
+      { "course_code": "ANTH176", "course_name": "Music Cultures of Southeast Asia", "units": 4 },
+      { "course_code": "AST127", "course_name": "Music Cultures of Southeast Asia", "units": 4 },
+      { "course_code": "DNCE127", "course_name": "Music Cultures of Southeast Asia", "units": 4 },
+      { "course_code": "ETST172", "course_name": "Music Cultures of Southeast Asia", "units": 4 },
+      { "course_code": "MUS127", "course_name": "Music Cultures of Southeast Asia", "units": 4 },
+      { "course_code": "SEAS127", "course_name": "Music Cultures of Southeast Asia", "units": 4 },
+      { "course_code": "PSYC167", "course_name": "Psychological Development of Black Children", "units": 4 },
+      { "course_code": "ETST167", "course_name": "Psychological Development of Black Children", "units": 4 },
+      { "course_code": "SOC128", "course_name": "Chicano Sociology", "units": 4 },
+      { "course_code": "ETST128", "course_name": "Chicano Sociology", "units": 4 },
+      { "course_code": "SOC145", "course_name": "Law and Subordination", "units": 5 },
+      { "course_code": "ETST145", "course_name": "Law and Subordination", "units": 5 }
+    ]
+}

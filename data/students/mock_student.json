@@ -1,0 +1,429 @@
+{
+  "student_id": "861234567",
+  "name": "Roxy Chaffee",
+  "major": "Computer Science",
+  "year": "2nd Year (Winter Quarter)",
+  "completed_courses": [
+    {
+      "course_code": "ENGR 001I",
+      "course_name": "Professional Development & Mentoring",
+      "units": 1
+    },
+    {
+      "course_code": "CS010A",
+      "course_name": "Introduction to CSfor Science, Mathematics, and Engineering I (C++)",
+      "units": 4
+    },
+    {
+      "course_code": "CS010B",
+      "course_name": "Introduction to CSfor Science, Mathematics, and Engineering II (C++)",
+      "units": 4
+    },
+    {
+      "course_code": "CS010C",
+      "course_name": "Introduction to Data Structures & Algorithms",
+      "units": 4
+    },
+    {
+      "course_code": "ENGL001A",
+      "course_name": "Beginning Composition",
+      "units": 4
+    },
+    {
+      "course_code": "ENGL001B",
+      "course_name": "Intermediate Composition",
+      "units": 4
+    },
+    {
+      "course_code": "MATH009A",
+      "course_name": "First Year Calculus I",
+      "units": 4
+    },
+    {
+      "course_code": "MATH009B",
+      "course_name": "First Year Calculus II",
+      "units": 4
+    },
+    {
+      "course_code": "MATH009C",
+      "course_name": "First Year Calculus III",
+      "units": 4
+    },
+    {
+      "course_code": "EE020B",
+      "course_name": "Linear Algebra for Electrical Engineering",
+      "units": 5
+    },
+    {
+      "course_code": "CS011",
+      "course_name": "Introduction to Discrete Structures",
+      "units": 4
+    },
+    {
+      "course_code": "CS061",
+      "course_name": "Machine Organization & Assembly Language Programming",
+      "units": 4
+    },
+    {
+      "course_code": "CS100",
+      "course_name": "Data Structures & Algorithms (Advanced)",
+      "units": 5
+    },
+    {
+      "course_code": "PHYS040A",
+      "course_name": "General PhysiCS(Mechanics)",
+      "units": 5
+    }
+  ],
+  "courses_to_complete": [
+    {
+      "course_code": "CS141",
+      "course_name": "Intermediate Data Structures & Algorithms",
+      "units": 4
+    },
+    {
+      "course_code": "CS105",
+      "course_name": "Data Analysis Methods",
+      "units": 4
+    },
+    {
+      "course_code": "CS108",
+      "course_name": "Data Science Ethics",
+      "units": 4
+    },
+    {
+      "course_code": "CS110",
+      "course_name": "Principles of Web Development",
+      "units": 4
+    },
+    {
+      "course_code": "CS111",
+      "course_name": "Discrete Structures",
+      "units": 4
+    },
+    {
+      "course_code": "CS122A",
+      "course_name": "Intermediate Embedded & Real-Time Systems",
+      "units": 5
+    },
+    {
+      "course_code": "CS122B",
+      "course_name": "Advanced Embedded & Real-Time Systems",
+      "units": 5
+    },
+    {
+      "course_code": "CS130",
+      "course_name": "Computer Graphics",
+      "units": 4
+    },
+    {
+      "course_code": "CS131",
+      "course_name": "Edge Computing",
+      "units": 4
+    },
+    {
+      "course_code": "CS133",
+      "course_name": "Computational Geometry",
+      "units": 4
+    },
+    {
+      "course_code": "CS135",
+      "course_name": "Virtual Reality",
+      "units": 4
+    },
+    {
+      "course_code": "CS142",
+      "course_name": "Algorithm Engineering",
+      "units": 4
+    },
+    {
+      "course_code": "CS144",
+      "course_name": "Algorithms for BioInformatics",
+      "units": 4
+    },
+    {
+      "course_code": "CS145",
+      "course_name": "Combinatorial Optimization Algorithms",
+      "units": 4
+    },
+    {
+      "course_code": "CS150",
+      "course_name": "Theory of Automata & Formal Language",
+      "units": 4
+    },
+    {
+      "course_code": "CS152",
+      "course_name": "Compiler Design",
+      "units": 4
+    },
+    {
+      "course_code": "CS153",
+      "course_name": "Design of Operating Systems",
+      "units": 4
+    },
+    {
+      "course_code": "CS160",
+      "course_name": "Concurrent Programming & Parallel Systems",
+      "units": 4
+    },
+    {
+      "course_code": "CS161",
+      "course_name": "Design & Architecture of Computer Systems",
+      "units": 4
+    },
+    {
+      "course_code": "CS161L",
+      "course_name": "Laboratory in Design & Architecture of Computer Systems",
+      "units": 1
+    },
+    {
+      "course_code": "CS162",
+      "course_name": "Computer Architecture",
+      "units": 4
+    },
+    {
+      "course_code": "CS164",
+      "course_name": "Computer Networks",
+      "units": 4
+    },
+    {
+      "course_code": "CS165",
+      "course_name": "Computer Security",
+      "units": 4
+    },
+    {
+      "course_code": "CS166",
+      "course_name": "Database Management Systems",
+      "units": 4
+    },
+    {
+      "course_code": "CS167",
+      "course_name": "Introduction to BIG-DATA Management",
+      "units": 4
+    },
+    {
+      "course_code": "CS169",
+      "course_name": "Mobile Wireless Networks",
+      "units": 4
+    },
+    {
+      "course_code": "CS170",
+      "course_name": "Introduction to Artificial Intelligence",
+      "units": 4
+    },
+    {
+      "course_code": "CS172",
+      "course_name": "Introduction to Information Retrieval",
+      "units": 4
+    },
+    {
+      "course_code": "CS173",
+      "course_name": "Introduction to Natural Language Processing (NLP)",
+      "units": 4
+    },
+    {
+      "course_code": "CS175",
+      "course_name": "Entrepreneurship in Computing",
+      "units": 4
+    },
+    {
+      "course_code": "CS177",
+      "course_name": "Modeling & Simulation",
+      "units": 4
+    },
+    {
+      "course_code": "CS178A",
+      "course_name": "Project Sequence in CSE",
+      "units": 4
+    },
+    {
+      "course_code": "CS178B",
+      "course_name": "Project Sequence in CSE",
+      "units": 4
+    },
+    {
+      "course_code": "CS180",
+      "course_name": "Introduction to Software Engineering",
+      "units": 4
+    },
+    {
+      "course_code": "CS181",
+      "course_name": "Principles of Programming Languages",
+      "units": 4
+    },
+    {
+      "course_code": "CS182",
+      "course_name": "Software Testing and Verification",
+      "units": 4
+    },
+    {
+      "course_code": "CS183",
+      "course_name": "UNIX System Administration",
+      "units": 4
+    },
+    {
+      "course_code": "CS193",
+      "course_name": "Design Project",
+      "units": 4
+    },
+    {
+      "course_code": "CS120A",
+      "course_name": "Logic Design",
+      "units": 5
+    },
+    {
+      "course_code": "CS120B",
+      "course_name": "Introduction to Embedded Systems",
+      "units": 4
+    },
+    {
+      "course_code": "CS147",
+      "course_name": "GPU Programming",
+      "units": 4
+    },
+    {
+      "course_code": "CS168",
+      "course_name": "Introduction to Very Large Scale Integration (VLSI) Design",
+      "units": 4
+    },
+    {
+      "course_code": "CS171",
+      "course_name": "Introduction to Machine Learning and Data Mining",
+      "units": 4
+    },
+    {
+      "course_code": "MATH010A",
+      "course_name": "Multivariable Calculus",
+      "units": 4
+    },
+    {
+      "course_code": "STAT155",
+      "course_name": "Probability & StatistiCSfor Engineering",
+      "units": 4
+    },
+    {
+      "course_code": "MATH120",
+      "course_name": "Optimization",
+      "units": 4
+    },
+    {
+      "course_code": "MATH126",
+      "course_name": "Combinatorics",
+      "units": 4
+    },
+    {
+      "course_code": "MATH135A",
+      "course_name": "Numerical Analysis",
+      "units": 4
+    },
+    {
+      "course_code": "MATH135B",
+      "course_name": "Numerical Analysis",
+      "units": 4
+    },
+    {
+      "course_code": "PHYS040B",
+      "course_name": "General PhysiCS(Electricity and Magnetism)",
+      "units": 5
+    },
+    {
+      "course_code": "PHYS040C",
+      "course_name": "General PhysiCS(Waves, Optics, and Modern Physics)",
+      "units": 5
+    },
+    {
+      "course_code": "BIOL002",
+      "course_name": "General Biology",
+      "units": 4
+    },
+    {
+      "course_code": "BIOL003",
+      "course_name": "Ecology & Environmental Science",
+      "units": 4
+    },
+    {
+      "course_code": "BIOL005A",
+      "course_name": "Introduction to Cell & Molecular Biology",
+      "units": 4
+    },
+    {
+      "course_code": "BIOL005LA",
+      "course_name": "Introduction to Cell & Molecular Biology Laboratory",
+      "units": 1
+    },
+    {
+      "course_code": "ENGR101I",
+      "course_name": "Professional Development & Mentoring",
+      "units": 1
+    },
+    {
+      "course_code": "ENGR180W",
+      "course_name": "Technical Communications",
+      "units": 4
+    },
+    {
+      "course_code": "PHIL124",
+      "course_name": "Formal Logic",
+      "units": 4
+    },
+    {
+        "choose_one": [
+            {
+            "course_code": "EE005",
+            "course_name": "Circuits & Electronics",
+            "units": 4
+            },
+            {
+            "course_code": "EE016",
+            "course_name": "Data Analysis in Engineering Applications",
+            "units": 4
+            },
+            {
+            "course_code": "EE020A",
+            "course_name": "Fundamentals of Mathematical Methods in ECE",
+            "units": 4
+            },
+            {
+            "course_code": "EE030A",
+            "course_name": "Fundamentals of Electric Circuits I",
+            "units": 4
+            },
+            {
+            "course_code": "EE030LA",
+            "course_name": "Fundamentals of Electric Circuits I Laboratory",
+            "units": 1
+            },
+            {
+            "course_code": "ME002",
+            "course_name": "Intro Mechanical Engineering",
+            "units": 4
+            },
+            {
+            "course_code": "ME005",
+            "course_name": "The Science of Mythbusting",
+            "units": 4
+            },
+            {
+            "course_code": "ME009",
+            "course_name": "Engineering GraphiCSand Design",
+            "units": 4
+            },
+            {
+            "course_code": "ME010",
+            "course_name": "Statics",
+            "units": 4
+            },
+            {
+            "course_code": "ME018A",
+            "course_name": "Intro to Engineering Computation",
+            "units": 4
+            },
+            {
+            "course_code": "ME018B",
+            "course_name": "Intro to Engineering",
+            "units": 4
+            }
+        ]
+    }
+  ]
+}
